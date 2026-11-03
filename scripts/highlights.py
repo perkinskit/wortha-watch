@@ -13,7 +13,7 @@ from datetime import datetime, timedelta, timezone
 from common import DATA, ET, get_json, load_json, log, save_json
 
 API = "https://www.googleapis.com/youtube/v3/playlistItems"
-MAX_PAGES = 8
+MAX_PAGES = 20
 MAX_ATTEMPTS = 40          # hourly runs; stop looking after ~2 days
 
 # Anything that reveals how the game went. Case-insensitive except the OT token.
@@ -102,7 +102,7 @@ def assign_videos(league, api_key: str | None) -> int:
         if n:
             save_json(league.games_path, games)
         return n
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=12)).isoformat()
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
     todo = [g for g in games.values() if g["status"] == "final" and not g.get("video")
             and g["start_utc"] >= cutoff and g.get("video_attempts", 0) < MAX_ATTEMPTS]
     if not todo:
