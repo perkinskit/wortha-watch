@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}{{ league.name }} archive · wortha.watch{% endblock %}
+{% block content %}
+<header>
+  <h1>{{ league.name }}: every {% if league.cadence == 'weekly' %}week{% else %}night{% endif %}</h1>
+  <p>Each page ranks that {% if league.cadence == 'weekly' %}week's{% else %}night's{% endif %} games. The number is the top excitement index that {% if league.cadence == 'weekly' %}week{% else %}night{% endif %}.</p>
+  <div class="sub"><a href="/{{ league.slug }}/">Latest →</a><a href="/{{ league.slug }}/season/">Season top 25</a></div>
+</header>
+<div class="table" role="list">
+  {% for p in periods %}
+  <a class="row" role="listitem" href="/{{ league.slug }}/{{ p.key }}/" style="{% if p.top %}--a:{{ p.top.away.color }};--a2:{{ p.top.away.alt }};--b:{{ p.top.home.color }};--b2:{{ p.top.home.alt }};--w:{{ p.top.index }}%{% endif %}">
+    <span class="chip"{% if not p.top %} style="opacity:.3"{% endif %}></span>
+    <span class="rank"></span>
+    <span class="matchup">{{ p.label }}<small>{{ p.scored }} scored{% if p.pending %} · {{ p.pending }} to play{% endif %}{% if p.top %} · best: {{ p.top.matchup }}{% endif %}</small></span>
+    <span class="n index">{{ p.top.index if p.top else '–' }}</span><span class="n"></span><span class="n"></span><span class="n"></span><span></span>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

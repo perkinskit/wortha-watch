@@ -2,7 +2,27 @@
   publish = "site"
   command = ""
 
+# Clean URLs: /nfl -> /nfl/
 [[redirects]]
   from = "/nfl"
   to = "/nfl/"
   status = 301
+[[redirects]]
+  from = "/cfb"
+  to = "/cfb/"
+  status = 301
+[[redirects]]
+  from = "/nba"
+  to = "/nba/"
+  status = 301
+[[redirects]]
+  from = "/nhl"
+  to = "/nhl/"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

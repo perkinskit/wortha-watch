@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Not found · wortha.watch{% endblock %}
+{% block content %}
+<header>
+  <h1>Nothing here</h1>
+  <p>That page doesn't exist, or that week hasn't been scored yet.</p>
+  <div class="sub">{% for lg in leagues %}<a href="/{{ lg.slug }}/">{{ lg.short }} →</a>{% endfor %}</div>
+</header>
+{% endblock %}

@@ -1,0 +1,29 @@
+{% macro table(rows, league, show_period=False) %}
+<div class="table" role="list">
+  <div class="head" aria-hidden="true">
+    <span></span><span></span><span class="l">Matchup</span><span><span class="long">Excitement </span>Index</span><span>Game</span><span>Stakes</span><span>Season<span class="long"> rank</span></span><span>Watch</span>
+  </div>
+  {% for r in rows %}
+  {% set tag = 'a' if r.video else 'div' %}
+  <{{ tag }} class="row {{ r.status }}" role="listitem"{% if r.video %} href="https://www.youtube.com/watch?v={{ r.video }}" target="_blank" rel="noopener" aria-label="Watch {{ r.matchup }} highlights on YouTube"{% endif %}
+     style="--a:{{ r.away.color }};--a2:{{ r.away.alt }};--b:{{ r.home.color }};--b2:{{ r.home.alt }};{% if r.index is not none %}--w:{{ r.index }}%{% endif %}">
+    <span class="chip"></span>
+    <span class="rank">{{ r.rank if r.rank else '–' }}</span>
+    <span class="matchup">{{ r.matchup }}<small>
+      {% if show_period %}{{ r.period_label }} · {% endif %}{{ r.when }}
+      {% if r.status == 'pending' %} · not played yet
+      {% elif r.status == 'live' %} · in progress
+      {% elif r.status == 'unscored' %} · final, scoring soon
+      {% endif %}
+      {% if r.recs and r.status == 'scored' %}<span class="rec"> · {{ r.recs }}{% for f in r.flags %} · {{ f }}{% endfor %}</span>{% endif %}
+    </small></span>
+    {% if r.status == 'scored' %}
+    <span class="n index">{{ r.index }}</span><span class="n factor">{{ r.game }}</span><span class="n factor">{{ r.stakes }}</span><span class="n season">#{{ r.season_rank }}</span>
+    {% else %}
+    <span class="n">–</span><span class="n">–</span><span class="n">{{ r.stakes if r.stakes is not none else '–' }}</span><span class="n">–</span>
+    {% endif %}
+    <span class="go {% if not r.video %}none{% endif %}" title="{% if r.video %}Watch highlights{% else %}No highlight link yet{% endif %}"></span>
+  </{{ tag }}>
+  {% endfor %}
+</div>
+{% endmacro %}

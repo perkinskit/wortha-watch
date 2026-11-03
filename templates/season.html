@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% from "_rows.html" import table %}
+{% block title %}{{ league.name }} {{ league.season }}: best games so far · wortha.watch{% endblock %}
+{% block description %}The {{ league.name }} games most worth watching this season, ranked by excitement index.{% endblock %}
+{% block content %}
+<header>
+  <h1>{{ league.name }} {{ league.season }}: top 25 so far</h1>
+  <p>The most exciting games of the season out of {{ scored_total }} scored, by excitement index. No results, just the ranking.</p>
+  <div class="sub"><a href="/{{ league.slug }}/">Latest {% if league.cadence == 'weekly' %}week{% else %}night{% endif %} →</a><a href="/{{ league.slug }}/archive/">All {% if league.cadence == 'weekly' %}weeks{% else %}nights{% endif %}</a></div>
+</header>
+{{ table(rows, league, show_period=True) }}
+{% endblock %}

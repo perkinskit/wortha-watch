@@ -1,0 +1,8272 @@
+{
+ "401872656": {
+  "away": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "date_et": "2026-09-09",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "id": "401872656",
+  "labels": {
+   "day": "Wed",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.963855421686747,
+   "drama": 1.2983826922169797,
+   "finish": 0.6247349494979496,
+   "max_swing": 0.560999691486358,
+   "n_plays": 166,
+   "ot": false,
+   "volatility": 9.063215634168836
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-03T06:19:46.655922+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_NE_SEA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-10T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872657": {
+  "away": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "date_et": "2026-09-10",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-1",
+   "neutral": true
+  },
+  "home": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "id": "401872657",
+  "labels": {
+   "day": "Thu",
+   "time": "8:35 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6942675159235668,
+   "drama": 0.17283370081923694,
+   "finish": 0.0017101942716786223,
+   "max_swing": 0.12380515975748096,
+   "n_plays": 157,
+   "ot": false,
+   "volatility": 4.028139224010511
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 27,
+   "detail": "Final",
+   "home": 7
+  },
+  "scored_at": "2026-11-03T06:19:46.657645+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_SF_LA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": true,
+   "home_rec": "0-0",
+   "rivalry": 5,
+   "score": 65.0
+  },
+  "start_utc": "2026-09-11T00:35:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872658": {
+  "away": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "id": "401872658",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5485714285714286,
+   "drama": 0.29323217761990167,
+   "finish": 0.09295417368412015,
+   "max_swing": 0.17666612913911495,
+   "n_plays": 175,
+   "ot": false,
+   "volatility": 5.298230597660348
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 13,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.665220+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_ATL_PIT",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872659": {
+  "away": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "id": "401872659",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.16766467065868262,
+   "drama": 0.07712265279278925,
+   "finish": 0.0013071628947120808,
+   "max_swing": 0.12433755397796598,
+   "n_plays": 167,
+   "ot": false,
+   "volatility": 2.1604242625106242
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 41,
+   "detail": "Final",
+   "home": 23
+  },
+  "scored_at": "2026-11-03T06:19:46.663676+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_BAL_IND",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872660": {
+  "away": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "id": "401872660",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9222222222222223,
+   "drama": 0.9233548439306707,
+   "finish": 0.6018646001212042,
+   "max_swing": 0.276936379950494,
+   "n_plays": 180,
+   "ot": false,
+   "volatility": 10.293029763521083
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 36,
+   "detail": "Final",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.669649+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_BUF_HOU",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872661": {
+  "away": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "id": "401872661",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6275510204081632,
+   "drama": 0.29702229194876745,
+   "finish": 0.0014346401659775564,
+   "max_swing": 0.16338169574737604,
+   "n_plays": 196,
+   "ot": false,
+   "volatility": 5.314966919023984
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 59,
+   "detail": "Final",
+   "home": 37
+  },
+  "scored_at": "2026-11-03T06:19:46.666860+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_CHI_CAR",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872922": {
+  "away": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "id": "401872922",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.05405405405405406,
+   "drama": 0.017147079246098686,
+   "finish": 3.158423621938069e-05,
+   "max_swing": 0.096388339996338,
+   "n_plays": 148,
+   "ot": false,
+   "volatility": 0.5903453005814342
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 34
+  },
+  "scored_at": "2026-11-03T06:19:46.668248+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_CLE_JAX",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872923": {
+  "away": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "id": "401872923",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.28440366972477066,
+   "drama": 1.9154284322974726,
+   "finish": 0.4942749426822168,
+   "max_swing": 0.552253984025679,
+   "n_plays": 218,
+   "ot": true,
+   "volatility": 11.411661231192213
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 30,
+   "detail": "Final/OT",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.660580+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_NO_DET",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872924": {
+  "away": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "id": "401872924",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5493827160493827,
+   "drama": 0.13506763672508346,
+   "finish": 0.0019794085589971947,
+   "max_swing": 0.11279484629630998,
+   "n_plays": 162,
+   "ot": false,
+   "volatility": 3.2955208819089816
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 23,
+   "detail": "Final",
+   "home": 10
+  },
+  "scored_at": "2026-11-03T06:19:46.662307+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_NYJ_TEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872925": {
+  "away": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "id": "401872925",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.17751479289940827,
+   "drama": 0.14441799985179468,
+   "finish": 0.08703774877993373,
+   "max_swing": 0.168023494017581,
+   "n_plays": 169,
+   "ot": false,
+   "volatility": 3.279288982760101
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 27,
+   "detail": "Final",
+   "home": 33
+  },
+  "scored_at": "2026-11-03T06:19:46.659221+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_TB_CIN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872926": {
+  "away": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "id": "401872926",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.791907514450867,
+   "drama": 0.2827678715332846,
+   "finish": 0.08918939001858232,
+   "max_swing": 0.174552351236343,
+   "n_plays": 173,
+   "ot": false,
+   "volatility": 5.7194281325028715
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 26,
+   "detail": "Final",
+   "home": 14
+  },
+  "scored_at": "2026-11-03T06:19:46.674885+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_ARI_LAC",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872927": {
+  "away": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "id": "401872927",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7166666666666667,
+   "drama": 0.390480496949479,
+   "finish": 0.033096237653022303,
+   "max_swing": 0.17637798141869598,
+   "n_plays": 180,
+   "ot": false,
+   "volatility": 6.115401637334849
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 22,
+   "detail": "Final",
+   "home": 39
+  },
+  "scored_at": "2026-11-03T06:19:46.672305+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_GB_MIN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": true,
+   "home_rec": "0-0",
+   "rivalry": 10,
+   "score": 70.0
+  },
+  "start_utc": "2026-09-13T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872928": {
+  "away": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "id": "401872928",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.2485207100591716,
+   "drama": 0.1125765514123683,
+   "finish": 0.013225445589658073,
+   "max_swing": 0.10569931418961698,
+   "n_plays": 169,
+   "ot": false,
+   "volatility": 3.1779752830247876
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 13,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.671020+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_MIA_LV",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": false,
+   "home_rec": "0-0",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-13T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872929": {
+  "away": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "id": "401872929",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.4502923976608187,
+   "drama": 0.34016295175738404,
+   "finish": 0.21420941637894697,
+   "max_swing": 0.16708391243769893,
+   "n_plays": 171,
+   "ot": false,
+   "volatility": 5.869190892369076
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 22,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.673529+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_WAS_PHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": true,
+   "home_rec": "0-0",
+   "rivalry": 10,
+   "score": 70.0
+  },
+  "start_utc": "2026-09-13T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872930": {
+  "away": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "date_et": "2026-09-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "id": "401872930",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6666666666666666,
+   "drama": 0.24802089741696917,
+   "finish": 0.06296981970469148,
+   "max_swing": 0.12992657051274803,
+   "n_plays": 165,
+   "ot": false,
+   "volatility": 5.142567021544011
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 20,
+   "detail": "Final",
+   "home": 28
+  },
+  "scored_at": "2026-11-03T06:19:46.676151+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_DAL_NYG",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": true,
+   "home_rec": "0-0",
+   "rivalry": 5,
+   "score": 65.0
+  },
+  "start_utc": "2026-09-14T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872931": {
+  "away": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "date_et": "2026-09-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "id": "401872931",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.55,
+   "drama": 0.1473933870311975,
+   "finish": 0.00029852377536565555,
+   "max_swing": 0.14922889683724194,
+   "n_plays": 160,
+   "ot": false,
+   "volatility": 3.4411762332025866
+  },
+  "period": "week-01",
+  "period_label": "Week 1",
+  "period_sort": 1,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.677394+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_01_DEN_KC",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-0",
+   "division": true,
+   "home_rec": "0-0",
+   "rivalry": 10,
+   "score": 70.0
+  },
+  "start_utc": "2026-09-15T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872932": {
+  "away": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "date_et": "2026-09-17",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "id": "401872932",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.08695652173913043,
+   "drama": 0.03796148680957934,
+   "finish": 0.005163197908731992,
+   "max_swing": 0.05775722680316897,
+   "n_plays": 184,
+   "ot": false,
+   "volatility": 1.8854246378381292
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 31,
+   "detail": "Final",
+   "home": 41
+  },
+  "scored_at": "2026-11-03T06:19:46.679403+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_DET_BUF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": false,
+   "home_rec": "1-0",
+   "rivalry": 0,
+   "score": 75.0
+  },
+  "start_utc": "2026-09-18T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872933": {
+  "away": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "id": "401872933",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.15204678362573099,
+   "drama": 0.07182338950935312,
+   "finish": 4.723309648397844e-05,
+   "max_swing": 0.14493986964225802,
+   "n_plays": 171,
+   "ot": false,
+   "volatility": 1.9808342827089098
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 34,
+   "detail": "Final",
+   "home": 3
+  },
+  "scored_at": "2026-11-03T06:19:46.680782+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_CAR_ATL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": true,
+   "home_rec": "0-1",
+   "rivalry": 5,
+   "score": 20.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872934": {
+  "away": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "id": "401872934",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6113989637305699,
+   "drama": 0.2321813570089047,
+   "finish": 0.012787182493151904,
+   "max_swing": 0.15974719252949598,
+   "n_plays": 193,
+   "ot": false,
+   "volatility": 5.078517024158067
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 20,
+   "detail": "Final",
+   "home": 6
+  },
+  "scored_at": "2026-11-03T06:19:46.690520+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_CIN_HOU",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": false,
+   "home_rec": "0-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872935": {
+  "away": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "id": "401872935",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5930232558139535,
+   "drama": 0.7265123639552341,
+   "finish": 0.7540478198924546,
+   "max_swing": 0.38619601726532016,
+   "n_plays": 172,
+   "ot": false,
+   "volatility": 6.837893879163181
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 23,
+   "detail": "Final",
+   "home": 19
+  },
+  "scored_at": "2026-11-03T06:19:46.687690+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_CLE_TB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": false,
+   "home_rec": "0-1",
+   "rivalry": 0,
+   "score": 0.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872936": {
+  "away": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "id": "401872936",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8858695652173914,
+   "drama": 1.1557501485843322,
+   "finish": 0.6880978877314706,
+   "max_swing": 0.30197754828259304,
+   "n_plays": 184,
+   "ot": true,
+   "volatility": 10.657362516921841
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 20,
+   "detail": "Final/OT",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.686185+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_GB_NYJ",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": false,
+   "home_rec": "1-0",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872937": {
+  "away": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "id": "401872937",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8902439024390244,
+   "drama": 0.6353578799127003,
+   "finish": 0.3380327790975571,
+   "max_swing": 0.24263113737106295,
+   "n_plays": 164,
+   "ot": false,
+   "volatility": 7.996906703673306
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 9,
+   "detail": "Final",
+   "home": 3
+  },
+  "scored_at": "2026-11-03T06:19:46.682160+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_MIN_CHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": true,
+   "home_rec": "1-0",
+   "rivalry": 5,
+   "score": 95.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872938": {
+  "away": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "id": "401872938",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.3312883435582822,
+   "drama": 0.323508567814988,
+   "finish": 0.4342184372787973,
+   "max_swing": 0.18931686878204299,
+   "n_plays": 163,
+   "ot": false,
+   "volatility": 5.118669006047352
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.689186+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_NO_BAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": false,
+   "home_rec": "1-0",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872939": {
+  "away": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "id": "401872939",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6352941176470588,
+   "drama": 0.8606856541964133,
+   "finish": 0.6486862954788559,
+   "max_swing": 0.27723995539041996,
+   "n_plays": 170,
+   "ot": false,
+   "volatility": 8.454181385965393
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.683503+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_PHI_TEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": false,
+   "home_rec": "0-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872940": {
+  "away": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "id": "401872940",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8238993710691824,
+   "drama": 0.3601823295713089,
+   "finish": 0.10639154648079598,
+   "max_swing": 0.15253138542175299,
+   "n_plays": 159,
+   "ot": false,
+   "volatility": 6.342604483819245
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 13,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.691797+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_JAX_DEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": false,
+   "home_rec": "0-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872941": {
+  "away": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "id": "401872941",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.864406779661017,
+   "drama": 0.6688836066689134,
+   "finish": 0.18392756101595983,
+   "max_swing": 0.330769300460815,
+   "n_plays": 177,
+   "ot": false,
+   "volatility": 7.82766349816893
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 26,
+   "detail": "Final",
+   "home": 14
+  },
+  "scored_at": "2026-11-03T06:19:46.693084+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_LV_LAC",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": true,
+   "home_rec": "0-1",
+   "rivalry": 5,
+   "score": 50.0
+  },
+  "start_utc": "2026-09-20T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872942": {
+  "away": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "id": "401872942",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.0,
+   "drama": 0.019538436826159314,
+   "finish": 2.792494539486749e-05,
+   "max_swing": 0.04721864312887203,
+   "n_plays": 151,
+   "ot": false,
+   "volatility": 1.0644797942063247
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 13,
+   "detail": "Final",
+   "home": 35
+  },
+  "scored_at": "2026-11-03T06:19:46.696958+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_MIA_SF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": false,
+   "home_rec": "1-0",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872943": {
+  "away": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "id": "401872943",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.554140127388535,
+   "drama": 0.13989397176944335,
+   "finish": 0.0004175602433470641,
+   "max_swing": 0.14225236368511002,
+   "n_plays": 157,
+   "ot": false,
+   "volatility": 3.4855486411275844
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 31,
+   "detail": "Final",
+   "home": 7
+  },
+  "scored_at": "2026-11-03T06:19:46.695646+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_SEA_ARI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": true,
+   "home_rec": "1-0",
+   "rivalry": 5,
+   "score": 95.0
+  },
+  "start_utc": "2026-09-20T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872944": {
+  "away": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "id": "401872944",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.42771084337349397,
+   "drama": 0.1312649494935566,
+   "finish": 0.008459978796686907,
+   "max_swing": 0.16180551052093495,
+   "n_plays": 166,
+   "ot": false,
+   "volatility": 3.294495748560715
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 20,
+   "detail": "Final",
+   "home": 37
+  },
+  "scored_at": "2026-11-03T06:19:46.694385+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_WAS_DAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": true,
+   "home_rec": "0-1",
+   "rivalry": 10,
+   "score": 25.0
+  },
+  "start_utc": "2026-09-20T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872945": {
+  "away": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-2",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "2-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "id": "401872945",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8613861386138614,
+   "drama": 2.8722927920201453,
+   "finish": 0.7219544981259279,
+   "max_swing": 0.531644493526919,
+   "n_plays": 202,
+   "ot": true,
+   "volatility": 15.830156923999501
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 30,
+   "detail": "Final/OT",
+   "home": 33
+  },
+  "scored_at": "2026-11-03T06:19:46.698391+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_IND_KC",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-1",
+   "division": false,
+   "home_rec": "1-0",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-21T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872946": {
+  "away": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "date_et": "2026-09-20",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "id": "401872946",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.15151515151515152,
+   "drama": 0.0903620678201025,
+   "finish": 0.000862966827948175,
+   "max_swing": 0.10808265209198009,
+   "n_plays": 165,
+   "ot": false,
+   "volatility": 2.7632909750594536
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 3,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.684843+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_PIT_NE",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": false,
+   "home_rec": "0-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-20T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872947": {
+  "away": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "date_et": "2026-09-21",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "id": "401872947",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.21935483870967742,
+   "drama": 0.0539189874786236,
+   "finish": 2.9265880584744552e-05,
+   "max_swing": 0.09312883078800105,
+   "n_plays": 155,
+   "ot": false,
+   "volatility": 1.8684715398096023
+  },
+  "period": "week-02",
+  "period_label": "Week 2",
+  "period_sort": 2,
+  "result": {
+   "away": 6,
+   "detail": "Final",
+   "home": 28
+  },
+  "scored_at": "2026-11-03T06:19:46.699722+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_02_NYG_LA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-0",
+   "division": false,
+   "home_rec": "0-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-22T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872948": {
+  "away": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "date_et": "2026-09-24",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "id": "401872948",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5549132947976878,
+   "drama": 0.1730273501723592,
+   "finish": 0.002009893130952794,
+   "max_swing": 0.11505383253097501,
+   "n_plays": 173,
+   "ot": false,
+   "volatility": 3.953054837205265
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 35,
+   "detail": "Final",
+   "home": 14
+  },
+  "scored_at": "2026-11-03T06:19:46.701487+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_ATL_GB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-2",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 15.0
+  },
+  "start_utc": "2026-09-25T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872949": {
+  "away": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "id": "401872949",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9015544041450777,
+   "drama": 0.7075415422146998,
+   "finish": 0.39359623062525484,
+   "max_swing": 0.21798594637215096,
+   "n_plays": 193,
+   "ot": false,
+   "volatility": 9.966119141638435
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 18,
+   "detail": "Final",
+   "home": 21
+  },
+  "scored_at": "2026-11-03T06:19:46.705570+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_CAR_CLE",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-1",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872950": {
+  "away": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "id": "401872950",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9819277108433735,
+   "drama": 1.1536474360503173,
+   "finish": 0.6091620102524757,
+   "max_swing": 0.478230059146881,
+   "n_plays": 166,
+   "ot": false,
+   "volatility": 9.27471413641314
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 27,
+   "detail": "Final",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.715839+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_CIN_PIT",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-0",
+   "division": true,
+   "home_rec": "1-1",
+   "rivalry": 5,
+   "score": 80.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872951": {
+  "away": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "id": "401872951",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8614457831325302,
+   "drama": 0.5613452583314655,
+   "finish": 0.665608418060127,
+   "max_swing": 0.27414889633655504,
+   "n_plays": 166,
+   "ot": false,
+   "volatility": 7.118442954204921
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 19
+  },
+  "scored_at": "2026-11-03T06:19:46.709696+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_HOU_IND",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-2",
+   "division": true,
+   "home_rec": "0-2",
+   "rivalry": 5,
+   "score": 20.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872952": {
+  "away": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "id": "401872952",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.08860759493670886,
+   "drama": 0.09594754830456528,
+   "finish": 0.009994562128657458,
+   "max_swing": 0.08450984954834,
+   "n_plays": 158,
+   "ot": false,
+   "volatility": 3.195392528482474
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 10
+  },
+  "scored_at": "2026-11-03T06:19:46.711759+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_KC_MIA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-0",
+   "division": false,
+   "home_rec": "0-2",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872953": {
+  "away": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "id": "401872953",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8514285714285714,
+   "drama": 0.43803186150248186,
+   "finish": 0.08256999643084302,
+   "max_swing": 0.18379768729209894,
+   "n_plays": 175,
+   "ot": false,
+   "volatility": 7.256379832583982
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 16,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.703581+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_LAC_BUF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-2",
+   "division": false,
+   "home_rec": "2-0",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872954": {
+  "away": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "id": "401872954",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5209580838323353,
+   "drama": 0.3682091626166548,
+   "finish": 0.2971168941266325,
+   "max_swing": 0.22221816253662097,
+   "n_plays": 167,
+   "ot": false,
+   "volatility": 5.466725913382908
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.707665+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_NYJ_DET",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-1",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872955": {
+  "away": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "id": "401872955",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9210526315789473,
+   "drama": 0.7320244452224878,
+   "finish": 0.4497934875720015,
+   "max_swing": 0.337417672033825,
+   "n_plays": 190,
+   "ot": false,
+   "volatility": 9.318309823744105
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 31,
+   "detail": "Final",
+   "home": 33
+  },
+  "scored_at": "2026-11-03T06:19:46.717885+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_SEA_WAS",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-0",
+   "division": false,
+   "home_rec": "0-2",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872956": {
+  "away": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "id": "401872956",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5515151515151515,
+   "drama": 1.02685355596563,
+   "finish": 0.5037523495114368,
+   "max_swing": 0.612522661685944,
+   "n_plays": 165,
+   "ot": false,
+   "volatility": 6.4000199640314595
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 7,
+   "detail": "Final",
+   "home": 12
+  },
+  "scored_at": "2026-11-03T06:19:46.713743+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_TEN_NYG",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-2",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 15.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872957": {
+  "away": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "id": "401872957",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.4166666666666667,
+   "drama": 0.13041167492874142,
+   "finish": 5.728147894279445e-05,
+   "max_swing": 0.16922736167907698,
+   "n_plays": 168,
+   "ot": false,
+   "volatility": 2.970952409683418
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 6,
+   "detail": "Final",
+   "home": 35
+  },
+  "scored_at": "2026-11-03T06:19:46.720039+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_NE_JAX",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-1",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-27T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872958": {
+  "away": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "id": "401872958",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.12041884816753927,
+   "drama": 0.11611005067227542,
+   "finish": 0.14185252401083592,
+   "max_swing": 0.132099010138494,
+   "n_plays": 191,
+   "ot": false,
+   "volatility": 3.275867613783198
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 30,
+   "detail": "Final",
+   "home": 36
+  },
+  "scored_at": "2026-11-03T06:19:46.722194+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_ARI_SF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-1",
+   "division": true,
+   "home_rec": "2-0",
+   "rivalry": 5,
+   "score": 80.0
+  },
+  "start_utc": "2026-09-27T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872959": {
+  "away": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "id": "401872959",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8156424581005587,
+   "drama": 0.44210327031023117,
+   "finish": 0.24524889528178268,
+   "max_swing": 0.153367249567415,
+   "n_plays": 179,
+   "ot": false,
+   "volatility": 7.430755602097295
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 23,
+   "detail": "Final",
+   "home": 16
+  },
+  "scored_at": "2026-11-03T06:19:46.724261+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_MIN_TB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-0",
+   "division": false,
+   "home_rec": "0-2",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-09-27T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872960": {
+  "away": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-2",
+   "neutral": true
+  },
+  "home": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "id": "401872960",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8548387096774194,
+   "drama": 0.7721109694742727,
+   "finish": 0.7188091533411222,
+   "max_swing": 0.188155114650726,
+   "n_plays": 186,
+   "ot": false,
+   "volatility": 9.879210217901996
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 34,
+   "detail": "Final",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.726413+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_BAL_DAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-1",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-27T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872961": {
+  "away": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "id": "401872961",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.723404255319149,
+   "drama": 0.4441240788825293,
+   "finish": 0.13042728027159506,
+   "max_swing": 0.23450693488121,
+   "n_plays": 188,
+   "ot": false,
+   "volatility": 7.290117989616027
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 35,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.728451+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_LV_NO",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-0",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 60.0
+  },
+  "start_utc": "2026-09-27T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872962": {
+  "away": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-09-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "id": "401872962",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7079207920792079,
+   "drama": 1.635423156618169,
+   "finish": 0.5514745535522908,
+   "max_swing": 0.539403077625312,
+   "n_plays": 202,
+   "ot": false,
+   "volatility": 11.559654267573126
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 26,
+   "detail": "Final",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.730571+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_LA_DEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-1",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-09-28T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872963": {
+  "away": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "date_et": "2026-09-28",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "id": "401872963",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6709677419354839,
+   "drama": 0.20867519014323938,
+   "finish": 0.0005408227443697566,
+   "max_swing": 0.17327713966369607,
+   "n_plays": 155,
+   "ot": false,
+   "volatility": 4.407658897088916
+  },
+  "period": "week-03",
+  "period_label": "Week 3",
+  "period_sort": 3,
+  "result": {
+   "away": 7,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.732665+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_03_PHI_CHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-0",
+   "division": false,
+   "home_rec": "1-1",
+   "rivalry": 0,
+   "score": 60.0
+  },
+  "start_utc": "2026-09-29T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872964": {
+  "away": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "date_et": "2026-10-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "id": "401872964",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6935483870967742,
+   "drama": 0.5283003496742632,
+   "finish": 0.390267367862165,
+   "max_swing": 0.211752451956273,
+   "n_plays": 186,
+   "ot": false,
+   "volatility": 8.137973534254495
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.734797+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_PIT_CLE",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-1",
+   "division": true,
+   "home_rec": "2-1",
+   "rivalry": 10,
+   "score": 80.0
+  },
+  "start_utc": "2026-10-02T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872965": {
+  "away": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-3",
+   "neutral": true
+  },
+  "home": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "id": "401872965",
+  "labels": {
+   "day": "Sun",
+   "time": "9:30 AM ET"
+  },
+  "metrics": {
+   "competitive": 0.5906432748538012,
+   "drama": 0.17462705144980917,
+   "finish": 0.0018263497085381647,
+   "max_swing": 0.10362574458122298,
+   "n_plays": 171,
+   "ot": false,
+   "volatility": 4.186130528961312
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 30,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-03T06:19:46.736846+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_IND_WAS",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": false,
+   "home_rec": "1-2",
+   "rivalry": 0,
+   "score": 20.0
+  },
+  "start_utc": "2026-10-04T13:30:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872966": {
+  "away": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "id": "401872966",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8587570621468926,
+   "drama": 0.6536327357577432,
+   "finish": 0.4848266818693707,
+   "max_swing": 0.21911408007144895,
+   "n_plays": 177,
+   "ot": false,
+   "volatility": 8.64887200661964
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 36
+  },
+  "scored_at": "2026-11-03T06:19:46.745117+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_ARI_NYG",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": false,
+   "home_rec": "2-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872967": {
+  "away": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "id": "401872967",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8695652173913043,
+   "drama": 0.789279490239505,
+   "finish": 0.5562773278379338,
+   "max_swing": 0.22420641779899603,
+   "n_plays": 184,
+   "ot": false,
+   "volatility": 9.57157727780856
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 34,
+   "detail": "Final",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.753348+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_DAL_HOU",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": false,
+   "home_rec": "0-3",
+   "rivalry": 0,
+   "score": 10.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872968": {
+  "away": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "id": "401872968",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7610062893081762,
+   "drama": 0.3773502332615093,
+   "finish": 0.37985320460228683,
+   "max_swing": 0.16283544898033198,
+   "n_plays": 159,
+   "ot": false,
+   "volatility": 6.348719680483152
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 14
+  },
+  "scored_at": "2026-11-03T06:19:46.749171+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_GB_TB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": false,
+   "home_rec": "0-3",
+   "rivalry": 0,
+   "score": 10.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872969": {
+  "away": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "id": "401872969",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7344632768361582,
+   "drama": 0.6294576694374172,
+   "finish": 0.31430784654090016,
+   "max_swing": 0.24986013770103502,
+   "n_plays": 177,
+   "ot": false,
+   "volatility": 8.406715594142767
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 22,
+   "detail": "Final",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.743100+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_JAX_CIN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-1",
+   "division": false,
+   "home_rec": "2-1",
+   "rivalry": 0,
+   "score": 55.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872970": {
+  "away": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "id": "401872970",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8181818181818182,
+   "drama": 0.40022496768512594,
+   "finish": 0.521223391495131,
+   "max_swing": 0.13417798280716003,
+   "n_plays": 187,
+   "ot": false,
+   "volatility": 7.619326184486159
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.747204+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_LA_PHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": false,
+   "home_rec": "2-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872971": {
+  "away": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "id": "401872971",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9186046511627907,
+   "drama": 0.7651074262485043,
+   "finish": 0.4429289359905653,
+   "max_swing": 0.27954453229904197,
+   "n_plays": 172,
+   "ot": false,
+   "volatility": 8.937096030968572
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 29,
+   "detail": "Final",
+   "home": 26
+  },
+  "scored_at": "2026-11-03T06:19:46.738949+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_NE_BUF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": true,
+   "home_rec": "3-0",
+   "rivalry": 5,
+   "score": 60.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872972": {
+  "away": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "id": "401872972",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.4491017964071856,
+   "drama": 0.09791586540737862,
+   "finish": 0.004637384414672985,
+   "max_swing": 0.08914300799369801,
+   "n_plays": 167,
+   "ot": false,
+   "volatility": 3.1027428818772114
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 12,
+   "detail": "Final",
+   "home": 23
+  },
+  "scored_at": "2026-11-03T06:19:46.740977+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_NYJ_CHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": false,
+   "home_rec": "2-1",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872973": {
+  "away": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "id": "401872973",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.005714285714285714,
+   "drama": 0.0527338839243756,
+   "finish": 0.005970533255044185,
+   "max_swing": 0.12895306944847096,
+   "n_plays": 175,
+   "ot": false,
+   "volatility": 1.6236611289799057
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 18,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.751271+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_TEN_BAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-3",
+   "division": false,
+   "home_rec": "2-1",
+   "rivalry": 0,
+   "score": 20.0
+  },
+  "start_utc": "2026-10-04T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872974": {
+  "away": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "id": "401872974",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.15527950310559005,
+   "drama": 0.07667350325287839,
+   "finish": 0.06370604038238506,
+   "max_swing": 0.08610399442970296,
+   "n_plays": 161,
+   "ot": false,
+   "volatility": 2.966662054132253
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 15
+  },
+  "scored_at": "2026-11-03T06:19:46.755454+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_MIA_MIN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-3",
+   "division": false,
+   "home_rec": "3-0",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-04T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872975": {
+  "away": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "id": "401872975",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7556818181818182,
+   "drama": 0.31226405510688793,
+   "finish": 0.16389700228643733,
+   "max_swing": 0.193998783826828,
+   "n_plays": 176,
+   "ot": false,
+   "volatility": 5.874342891101528
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 14,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.759587+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_DEN_SF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-1",
+   "division": false,
+   "home_rec": "3-0",
+   "rivalry": 0,
+   "score": 65.0
+  },
+  "start_utc": "2026-10-04T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872976": {
+  "away": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "id": "401872976",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8272251308900523,
+   "drama": 0.7446894984053475,
+   "finish": 0.2508922046560471,
+   "max_swing": 0.359774351119995,
+   "n_plays": 191,
+   "ot": false,
+   "volatility": 9.13972084334922
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 30,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.757467+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_KC_LV",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-0",
+   "division": true,
+   "home_rec": "3-0",
+   "rivalry": 10,
+   "score": 100.0
+  },
+  "start_utc": "2026-10-04T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872977": {
+  "away": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "id": "401872977",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.11764705882352941,
+   "drama": 0.08338648231281731,
+   "finish": 0.058422477570948594,
+   "max_swing": 0.15905869007110596,
+   "n_plays": 187,
+   "ot": false,
+   "volatility": 2.473074407265412
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 23,
+   "detail": "Final",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.761621+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_LAC_SEA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-3",
+   "division": false,
+   "home_rec": "2-1",
+   "rivalry": 0,
+   "score": 20.0
+  },
+  "start_utc": "2026-10-04T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872978": {
+  "away": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "date_et": "2026-10-04",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "id": "401872978",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6767676767676768,
+   "drama": 0.38232447432666483,
+   "finish": 0.21354925350967305,
+   "max_swing": 0.15039440989494302,
+   "n_plays": 198,
+   "ot": false,
+   "volatility": 7.579590051788113
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 26,
+   "detail": "Final",
+   "home": 32
+  },
+  "scored_at": "2026-11-03T06:19:46.763740+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_DET_CAR",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-1",
+   "division": false,
+   "home_rec": "1-2",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-05T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872979": {
+  "away": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "date_et": "2026-10-05",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "id": "401872979",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.35795454545454547,
+   "drama": 0.09280974435271114,
+   "finish": 0.000199524161703953,
+   "max_swing": 0.12016761302947901,
+   "n_plays": 176,
+   "ot": false,
+   "volatility": 2.7745571688515978
+  },
+  "period": "week-04",
+  "period_label": "Week 4",
+  "period_sort": 4,
+  "result": {
+   "away": 45,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.765632+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_04_ATL_NO",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-2",
+   "division": true,
+   "home_rec": "1-2",
+   "rivalry": 10,
+   "score": 45.0
+  },
+  "start_utc": "2026-10-06T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872980": {
+  "away": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "date_et": "2026-10-08",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "id": "401872980",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5174418604651163,
+   "drama": 0.3931065509210605,
+   "finish": 0.19936729305320303,
+   "max_swing": 0.2439956068992614,
+   "n_plays": 172,
+   "ot": false,
+   "volatility": 5.776009919208757
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 16
+  },
+  "scored_at": "2026-11-03T06:19:46.767067+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_TB_DAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-4",
+   "division": false,
+   "home_rec": "2-2",
+   "rivalry": 0,
+   "score": 15.0
+  },
+  "start_utc": "2026-10-09T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872981": {
+  "away": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-1",
+   "neutral": true
+  },
+  "home": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "id": "401872981",
+  "labels": {
+   "day": "Sun",
+   "time": "9:30 AM ET"
+  },
+  "metrics": {
+   "competitive": 0.824468085106383,
+   "drama": 1.808731216197769,
+   "finish": 0.6505230197837901,
+   "max_swing": 0.447482109069824,
+   "n_plays": 188,
+   "ot": false,
+   "volatility": 12.634743250902781
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 19
+  },
+  "scored_at": "2026-11-03T06:19:46.768558+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_PHI_JAX",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-2",
+   "division": false,
+   "home_rec": "3-1",
+   "rivalry": 0,
+   "score": 52.5
+  },
+  "start_utc": "2026-10-11T13:30:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872982": {
+  "away": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "id": "401872982",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.20348837209302326,
+   "drama": 0.06853550974916818,
+   "finish": 0.015753948035949164,
+   "max_swing": 0.09379257261753039,
+   "n_plays": 172,
+   "ot": false,
+   "volatility": 2.2844971804604155
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 31,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.774618+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_CIN_MIA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-2",
+   "division": false,
+   "home_rec": "0-4",
+   "rivalry": 0,
+   "score": 15.0
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872983": {
+  "away": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "id": "401872983",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8967391304347826,
+   "drama": 0.9666969518328498,
+   "finish": 0.3548259724421069,
+   "max_swing": 0.338945209980011,
+   "n_plays": 184,
+   "ot": false,
+   "volatility": 9.699004405713474
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 12,
+   "detail": "Final",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.780069+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_CLE_NYJ",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-1",
+   "division": false,
+   "home_rec": "1-3",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872984": {
+  "away": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "id": "401872984",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.27439024390243905,
+   "drama": 0.052697166245948376,
+   "finish": 0.0001446419832973056,
+   "max_swing": 0.096318304538727,
+   "n_plays": 164,
+   "ot": false,
+   "volatility": 1.8888739726892831
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 26,
+   "detail": "Final",
+   "home": 3
+  },
+  "scored_at": "2026-11-03T06:19:46.772658+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_HOU_TEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-4",
+   "division": true,
+   "home_rec": "0-4",
+   "rivalry": 5,
+   "score": 20.0
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872985": {
+  "away": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "id": "401872985",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7556818181818182,
+   "drama": 0.27488814165053754,
+   "finish": 0.061048165308656525,
+   "max_swing": 0.14388836450466597,
+   "n_plays": 176,
+   "ot": false,
+   "volatility": 5.792906372153405
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 22,
+   "detail": "Final",
+   "home": 34
+  },
+  "scored_at": "2026-11-03T06:19:46.781902+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_IND_PIT",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-2",
+   "division": false,
+   "home_rec": "2-2",
+   "rivalry": 0,
+   "score": 45.0
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872986": {
+  "away": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "id": "401872986",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.33714285714285713,
+   "drama": 0.09507470711280988,
+   "finish": 6.760015066197534e-05,
+   "max_swing": 0.11211806535720792,
+   "n_plays": 175,
+   "ot": false,
+   "volatility": 2.4388778772097233
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 45
+  },
+  "scored_at": "2026-11-03T06:19:46.776336+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_LV_NE",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-1",
+   "division": false,
+   "home_rec": "2-2",
+   "rivalry": 0,
+   "score": 52.5
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872987": {
+  "away": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "id": "401872987",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6580645161290323,
+   "drama": 0.4257154113582132,
+   "finish": 0.04003971163183443,
+   "max_swing": 0.31740378537303704,
+   "n_plays": 155,
+   "ot": false,
+   "volatility": 5.393121259105667
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 23,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-03T06:19:46.778218+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_MIN_NO",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-0",
+   "division": false,
+   "home_rec": "1-3",
+   "rivalry": 0,
+   "score": 37.5
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872988": {
+  "away": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-1-1",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "1-3-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "id": "401872988",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5666666666666667,
+   "drama": 1.7315160003398402,
+   "finish": 0.6350470405594266,
+   "max_swing": 0.40189992694649895,
+   "n_plays": 210,
+   "ot": true,
+   "volatility": 12.674295660824797
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 27,
+   "detail": "Final/OT",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.783958+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_NYG_WAS",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-1",
+   "division": true,
+   "home_rec": "1-3",
+   "rivalry": 5,
+   "score": 50.0
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872989": {
+  "away": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "0-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "id": "401872989",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7175141242937854,
+   "drama": 0.45015667519805314,
+   "finish": 0.16950287873094735,
+   "max_swing": 0.209830820560456,
+   "n_plays": 177,
+   "ot": false,
+   "volatility": 6.822731305142448
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 23,
+   "detail": "Final",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.785934+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_DEN_LAC",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-2",
+   "division": true,
+   "home_rec": "0-4",
+   "rivalry": 5,
+   "score": 35.0
+  },
+  "start_utc": "2026-10-11T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872990": {
+  "away": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "id": "401872990",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.4823529411764706,
+   "drama": 0.1653963721689277,
+   "finish": 0.0002362788062394269,
+   "max_swing": 0.163847907692094,
+   "n_plays": 170,
+   "ot": false,
+   "volatility": 3.469827473175612
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 7,
+   "detail": "Final",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.770549+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_CHI_GB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-1",
+   "division": true,
+   "home_rec": "2-2",
+   "rivalry": 10,
+   "score": 77.5
+  },
+  "start_utc": "2026-10-11T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872991": {
+  "away": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "id": "401872991",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.31868131868131866,
+   "drama": 0.12975218620219667,
+   "finish": 6.479443201411134e-05,
+   "max_swing": 0.13896928831875102,
+   "n_plays": 182,
+   "ot": false,
+   "volatility": 2.617281996892086
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 45,
+   "detail": "Final",
+   "home": 21
+  },
+  "scored_at": "2026-11-03T06:19:46.788349+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_DET_ARI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-2",
+   "division": false,
+   "home_rec": "1-3",
+   "rivalry": 0,
+   "score": 22.5
+  },
+  "start_utc": "2026-10-11T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872992": {
+  "away": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-0",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "id": "401872992",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9822485207100592,
+   "drama": 0.6903284526523246,
+   "finish": 0.5546784162521363,
+   "max_swing": 0.20110410451889,
+   "n_plays": 169,
+   "ot": false,
+   "volatility": 8.395650366685754
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 32,
+   "detail": "Final",
+   "home": 29
+  },
+  "scored_at": "2026-11-03T06:19:46.790273+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_SF_SEA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-0",
+   "division": true,
+   "home_rec": "3-1",
+   "rivalry": 10,
+   "score": 92.5
+  },
+  "start_utc": "2026-10-11T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872993": {
+  "away": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "date_et": "2026-10-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-1",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "2-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "id": "401872993",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6752577319587629,
+   "drama": 1.526250291052805,
+   "finish": 0.4505589546706189,
+   "max_swing": 0.50496558775194,
+   "n_plays": 194,
+   "ot": true,
+   "volatility": 11.493751789206915
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 30,
+   "detail": "Final/OT",
+   "home": 23
+  },
+  "scored_at": "2026-11-03T06:19:46.792109+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_BAL_ATL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-1",
+   "division": false,
+   "home_rec": "2-2",
+   "rivalry": 0,
+   "score": 52.5
+  },
+  "start_utc": "2026-10-12T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872994": {
+  "away": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "date_et": "2026-10-12",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-1",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "2-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "id": "401872994",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9698492462311558,
+   "drama": 1.304789061337368,
+   "finish": 0.6223187684485726,
+   "max_swing": 0.23352674940740797,
+   "n_plays": 199,
+   "ot": true,
+   "volatility": 13.43428542610592
+  },
+  "period": "week-05",
+  "period_label": "Week 5",
+  "period_sort": 5,
+  "result": {
+   "away": 37,
+   "detail": "Final/OT",
+   "home": 34
+  },
+  "scored_at": "2026-11-03T06:19:46.794059+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_05_BUF_LA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-1",
+   "division": false,
+   "home_rec": "2-2",
+   "rivalry": 0,
+   "score": 52.5
+  },
+  "start_utc": "2026-10-13T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872995": {
+  "away": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "date_et": "2026-10-15",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-3",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "4-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "id": "401872995",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6984126984126984,
+   "drama": 1.1172978787413224,
+   "finish": 0.610259306642731,
+   "max_swing": 0.3678165674209589,
+   "n_plays": 189,
+   "ot": true,
+   "volatility": 10.15440049819571
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 14,
+   "detail": "Final/OT",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.796231+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_SEA_DEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-2",
+   "division": false,
+   "home_rec": "3-2",
+   "rivalry": 0,
+   "score": 51.0
+  },
+  "start_utc": "2026-10-16T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872996": {
+  "away": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-2",
+   "neutral": true
+  },
+  "home": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "id": "401872996",
+  "labels": {
+   "day": "Sun",
+   "time": "9:30 AM ET"
+  },
+  "metrics": {
+   "competitive": 0.9213483146067416,
+   "drama": 0.550127205068412,
+   "finish": 0.5614574985070662,
+   "max_swing": 0.222422093153,
+   "n_plays": 178,
+   "ot": false,
+   "volatility": 7.8908152840763
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 34,
+   "detail": "Final",
+   "home": 31
+  },
+  "scored_at": "2026-11-03T06:19:46.798262+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_HOU_JAX",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-4",
+   "division": true,
+   "home_rec": "4-1",
+   "rivalry": 5,
+   "score": 50.0
+  },
+  "start_utc": "2026-10-18T13:30:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872997": {
+  "away": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "id": "401872997",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.36470588235294116,
+   "drama": 0.41367154344739376,
+   "finish": 0.6158134180765885,
+   "max_swing": 0.23519384860992398,
+   "n_plays": 170,
+   "ot": false,
+   "volatility": 6.467481888242897
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-03T06:19:46.802346+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_BAL_CLE",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-1",
+   "division": true,
+   "home_rec": "3-2",
+   "rivalry": 0,
+   "score": 72.0
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872998": {
+  "away": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "id": "401872998",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5614973262032086,
+   "drama": 0.16795027241180305,
+   "finish": 0.019409466534852916,
+   "max_swing": 0.08895367383956898,
+   "n_plays": 187,
+   "ot": false,
+   "volatility": 4.810310765770722
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 25,
+   "detail": "Final",
+   "home": 14
+  },
+  "scored_at": "2026-11-03T06:19:46.809932+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_CAR_PHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-2",
+   "division": false,
+   "home_rec": "2-3",
+   "rivalry": 0,
+   "score": 27.0
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401872999": {
+  "away": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "id": "401872999",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.20454545454545456,
+   "drama": 0.08721760399382912,
+   "finish": 0.06279641350633218,
+   "max_swing": 0.107029259204865,
+   "n_plays": 176,
+   "ot": false,
+   "volatility": 2.6249820714980445
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 31,
+   "detail": "Final",
+   "home": 23
+  },
+  "scored_at": "2026-11-03T06:19:46.800256+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_CHI_ATL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-2",
+   "division": false,
+   "home_rec": "2-3",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873000": {
+  "away": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-2-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "id": "401873000",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5147058823529411,
+   "drama": 0.23784699219481062,
+   "finish": 0.08475663782707575,
+   "max_swing": 0.15311121940612799,
+   "n_plays": 204,
+   "ot": false,
+   "volatility": 5.249652214995755
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 34,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.808044+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_NO_NYG",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-4",
+   "division": false,
+   "home_rec": "3-1-1",
+   "rivalry": 0,
+   "score": 26.999999999999996
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873001": {
+  "away": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "id": "401873001",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.22413793103448276,
+   "drama": 0.10534456666936973,
+   "finish": 0.03237327069044104,
+   "max_swing": 0.08658693730831091,
+   "n_plays": 174,
+   "ot": false,
+   "volatility": 3.5315128192404304
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 19,
+   "detail": "Final",
+   "home": 26
+  },
+  "scored_at": "2026-11-03T06:19:46.806257+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_NYJ_NE",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-3",
+   "division": true,
+   "home_rec": "3-2",
+   "rivalry": 10,
+   "score": 55.0
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873002": {
+  "away": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-2",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "1-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "id": "401873002",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6730769230769231,
+   "drama": 1.6549141367060816,
+   "finish": 0.5712645006772911,
+   "max_swing": 0.476349592208862,
+   "n_plays": 208,
+   "ot": true,
+   "volatility": 13.128432433292167
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 26,
+   "detail": "Final/OT",
+   "home": 19
+  },
+  "scored_at": "2026-11-03T06:19:46.811970+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_PIT_TB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-2",
+   "division": false,
+   "home_rec": "1-4",
+   "rivalry": 0,
+   "score": 24.0
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873003": {
+  "away": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-5",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "id": "401873003",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.4260355029585799,
+   "drama": 0.5020482296971235,
+   "finish": 0.40993847038883435,
+   "max_swing": 0.28734492612118695,
+   "n_plays": 169,
+   "ot": false,
+   "volatility": 6.408184165750735
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 26,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.804345+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_TEN_IND",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-5",
+   "division": true,
+   "home_rec": "2-3",
+   "rivalry": 5,
+   "score": 32.0
+  },
+  "start_utc": "2026-10-18T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873004": {
+  "away": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "id": "401873004",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7803468208092486,
+   "drama": 1.1738940585627384,
+   "finish": 0.623555821541927,
+   "max_swing": 0.505011260509491,
+   "n_plays": 173,
+   "ot": false,
+   "volatility": 9.306412623942236
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 18,
+   "detail": "Final",
+   "home": 16
+  },
+  "scored_at": "2026-11-03T06:19:46.814395+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_ARI_LA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-4",
+   "division": true,
+   "home_rec": "2-3",
+   "rivalry": 5,
+   "score": 38.0
+  },
+  "start_utc": "2026-10-18T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873005": {
+  "away": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "id": "401873005",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6153846153846154,
+   "drama": 0.2673115940329151,
+   "finish": 0.11212135573162645,
+   "max_swing": 0.16771947049104102,
+   "n_plays": 182,
+   "ot": false,
+   "volatility": 5.7059195223213095
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 33,
+   "detail": "Final",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.818410+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_BUF_LV",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-1",
+   "division": false,
+   "home_rec": "3-2",
+   "rivalry": 0,
+   "score": 57.0
+  },
+  "start_utc": "2026-10-18T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873006": {
+  "away": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-6",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "5-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "id": "401873006",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.12048192771084337,
+   "drama": 0.05647513720708366,
+   "finish": 0.003088193795910093,
+   "max_swing": 0.09721753001212996,
+   "n_plays": 166,
+   "ot": false,
+   "volatility": 1.9993570579800424
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 6,
+   "detail": "Final",
+   "home": 22
+  },
+  "scored_at": "2026-11-03T06:19:46.816457+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_LAC_KC",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-5",
+   "division": true,
+   "home_rec": "4-0",
+   "rivalry": 5,
+   "score": 50.0
+  },
+  "start_utc": "2026-10-18T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873007": {
+  "away": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "date_et": "2026-10-18",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "id": "401873007",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.42783505154639173,
+   "drama": 0.2197157143415853,
+   "finish": 0.0024765792113528424,
+   "max_swing": 0.135914206504822,
+   "n_plays": 194,
+   "ot": false,
+   "volatility": 4.853872124657856
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 13,
+   "detail": "Final",
+   "home": 23
+  },
+  "scored_at": "2026-11-03T06:19:46.820263+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_DAL_GB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-3",
+   "division": false,
+   "home_rec": "3-2",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-19T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873008": {
+  "away": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "date_et": "2026-10-19",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-4-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "6-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "id": "401873008",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.07738095238095238,
+   "drama": 0.18140637664461434,
+   "finish": 0.22385663747787482,
+   "max_swing": 0.16135486960411105,
+   "n_plays": 168,
+   "ot": false,
+   "volatility": 3.404700383718595
+  },
+  "period": "week-06",
+  "period_label": "Week 6",
+  "period_sort": 6,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 23
+  },
+  "scored_at": "2026-11-03T06:19:46.822258+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_06_WAS_SF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-3-1",
+   "division": false,
+   "home_rec": "5-0",
+   "rivalry": 0,
+   "score": 39.0
+  },
+  "start_utc": "2026-10-20T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873009": {
+  "away": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "date_et": "2026-10-26",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "id": "401873009",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.632768361581921,
+   "drama": 0.24195615633438136,
+   "finish": 0.009868562158614941,
+   "max_swing": 0.146531899375265,
+   "n_plays": 177,
+   "ot": false,
+   "volatility": 5.193257579240603
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 38,
+   "detail": "Final",
+   "home": 21
+  },
+  "scored_at": "2026-11-03T06:19:46.846013+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_DAL_PHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-4",
+   "division": true,
+   "home_rec": "2-4",
+   "rivalry": 10,
+   "score": 45.0
+  },
+  "start_utc": "2026-10-27T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873010": {
+  "away": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "date_et": "2026-10-22",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "5-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "id": "401873010",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.47368421052631576,
+   "drama": 0.22276873513068687,
+   "finish": 0.06981341160523392,
+   "max_swing": 0.140042250221994,
+   "n_plays": 171,
+   "ot": false,
+   "volatility": 4.903957539593644
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.824209+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_NE_CHI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-2",
+   "division": false,
+   "home_rec": "4-2",
+   "rivalry": 0,
+   "score": 55.0
+  },
+  "start_utc": "2026-10-23T00:15:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873011": {
+  "away": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-5",
+   "neutral": true
+  },
+  "home": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "id": "401873011",
+  "labels": {
+   "day": "Sun",
+   "time": "9:30 AM ET"
+  },
+  "metrics": {
+   "competitive": 0.7961783439490446,
+   "drama": 0.3029390598454058,
+   "finish": 0.05889720469713208,
+   "max_swing": 0.18396636843681302,
+   "n_plays": 157,
+   "ot": false,
+   "volatility": 5.445025830823502
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 16,
+   "detail": "Final",
+   "home": 10
+  },
+  "scored_at": "2026-11-03T06:19:46.826270+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_PIT_NO",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-2",
+   "division": false,
+   "home_rec": "2-4",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-25T13:30:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873012": {
+  "away": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "id": "401873012",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7018633540372671,
+   "drama": 0.23062790232909977,
+   "finish": 0.0001280790487119913,
+   "max_swing": 0.14392886871203903,
+   "n_plays": 161,
+   "ot": false,
+   "volatility": 4.585873887237317
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 35,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-03T06:19:46.837954+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_CIN_BAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-2",
+   "division": true,
+   "home_rec": "4-2",
+   "rivalry": 10,
+   "score": 78.0
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873013": {
+  "away": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "id": "401873013",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9190751445086706,
+   "drama": 0.5663234830234737,
+   "finish": 0.4008954647009278,
+   "max_swing": 0.22355180978775,
+   "n_plays": 173,
+   "ot": false,
+   "volatility": 8.359061571883245
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 27,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.830248+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_CLE_TEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-2",
+   "division": false,
+   "home_rec": "1-5",
+   "rivalry": 0,
+   "score": 24.999999999999996
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873014": {
+  "away": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-5",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "6-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "id": "401873014",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8589743589743589,
+   "drama": 0.4222066113407259,
+   "finish": 0.2218575411372712,
+   "max_swing": 0.18972733616828896,
+   "n_plays": 156,
+   "ot": false,
+   "volatility": 6.592223508784352
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 16
+  },
+  "scored_at": "2026-11-03T06:19:46.832091+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_IND_MIN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-4",
+   "division": false,
+   "home_rec": "5-0",
+   "rivalry": 0,
+   "score": 40.0
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873015": {
+  "away": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-5",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "id": "401873015",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.75625,
+   "drama": 0.4232439006081281,
+   "finish": 0.25415239007803075,
+   "max_swing": 0.1531992885355782,
+   "n_plays": 160,
+   "ot": false,
+   "volatility": 6.807171633114391
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 28,
+   "detail": "Final",
+   "home": 25
+  },
+  "scored_at": "2026-11-03T06:19:46.834064+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_MIA_NYJ",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-5",
+   "division": true,
+   "home_rec": "2-4",
+   "rivalry": 5,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873016": {
+  "away": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-2-1",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "2-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "id": "401873016",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9302325581395349,
+   "drama": 0.7163823940553881,
+   "finish": 0.7197582537495548,
+   "max_swing": 0.287535552226473,
+   "n_plays": 172,
+   "ot": true,
+   "volatility": 8.560957864336979
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 27,
+   "detail": "Final/OT",
+   "home": 21
+  },
+  "scored_at": "2026-11-03T06:19:46.839378+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_NYG_HOU",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-2-1",
+   "division": false,
+   "home_rec": "2-4",
+   "rivalry": 0,
+   "score": 27.500000000000004
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873017": {
+  "away": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "id": "401873017",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6416184971098265,
+   "drama": 0.31617054024414115,
+   "finish": 0.1626856210999764,
+   "max_swing": 0.15799903869628906,
+   "n_plays": 173,
+   "ot": false,
+   "volatility": 6.089147838009337
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 20,
+   "detail": "Final",
+   "home": 29
+  },
+  "scored_at": "2026-11-03T06:19:46.828281+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_SF_ATL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "6-0",
+   "division": false,
+   "home_rec": "2-4",
+   "rivalry": 0,
+   "score": 40.0
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873018": {
+  "away": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-5",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "id": "401873018",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.3333333333333333,
+   "drama": 0.08269633883466516,
+   "finish": 8.262720207726075e-05,
+   "max_swing": 0.11446392536163297,
+   "n_plays": 156,
+   "ot": false,
+   "volatility": 1.9015240786350887
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 43,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-03T06:19:46.836196+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_TB_CAR",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-5",
+   "division": true,
+   "home_rec": "3-2",
+   "rivalry": 5,
+   "score": 43.0
+  },
+  "start_utc": "2026-10-25T17:00:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873019": {
+  "away": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "id": "401873019",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.43617021276595747,
+   "drama": 0.1142267466918154,
+   "finish": 0.009998175566299523,
+   "max_swing": 0.11886630688491401,
+   "n_plays": 188,
+   "ot": false,
+   "volatility": 3.5154304513272363
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 30,
+   "detail": "Final",
+   "home": 16
+  },
+  "scored_at": "2026-11-03T06:19:46.840656+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_DEN_ARI",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-2",
+   "division": false,
+   "home_rec": "2-4",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-10-25T20:05:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873020": {
+  "away": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "id": "401873020",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9,
+   "drama": 0.5318276720114875,
+   "finish": 0.4422420371662485,
+   "max_swing": 0.20212870836258,
+   "n_plays": 170,
+   "ot": false,
+   "volatility": 8.006386594966896
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.842240+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_GB_DET",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-2",
+   "division": true,
+   "home_rec": "3-2",
+   "rivalry": 10,
+   "score": 78.0
+  },
+  "start_utc": "2026-10-25T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873021": {
+  "away": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "id": "401873021",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.2391304347826087,
+   "drama": 0.05424383136437501,
+   "finish": 0.0038087167647769906,
+   "max_swing": 0.06758648157119701,
+   "n_plays": 184,
+   "ot": false,
+   "volatility": 1.990278054657733
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 35,
+   "detail": "Final",
+   "home": 21
+  },
+  "scored_at": "2026-11-03T06:19:46.843480+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_LA_LV",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-4",
+   "division": false,
+   "home_rec": "3-3",
+   "rivalry": 0,
+   "score": 24.999999999999996
+  },
+  "start_utc": "2026-10-25T20:25:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873022": {
+  "away": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "date_et": "2026-10-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "id": "401873022",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.4125,
+   "drama": 0.1363603178802088,
+   "finish": 0.01011978854638821,
+   "max_swing": 0.11233597993850697,
+   "n_plays": 160,
+   "ot": false,
+   "volatility": 3.5980085175003915
+  },
+  "period": "week-07",
+  "period_label": "Week 7",
+  "period_sort": 7,
+  "result": {
+   "away": 3,
+   "detail": "Final",
+   "home": 20
+  },
+  "scored_at": "2026-11-03T06:19:46.844762+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_07_KC_SEA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "5-0",
+   "division": false,
+   "home_rec": "3-3",
+   "rivalry": 0,
+   "score": 60.0
+  },
+  "start_utc": "2026-10-26T00:20:00+00:00",
+  "status": "final",
+  "video": null
+ },
+ "401873023": {
+  "away": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "date_et": "2026-10-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "5-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "id": "401873023",
+  "labels": {
+   "day": "Thu",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.425531914893617,
+   "drama": 0.18484103672492053,
+   "finish": 0.07172906185345107,
+   "max_swing": 0.11688184738159196,
+   "n_plays": 188,
+   "ot": false,
+   "volatility": 4.4366671318579245
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 19,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.847359+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_CAR_GB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-3",
+   "division": false,
+   "home_rec": "4-3",
+   "rivalry": 0,
+   "score": 47.14285714285714
+  },
+  "start_utc": "2026-10-30T00:15:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "L6m1RUIXLB4",
+   "source": "seed"
+  }
+ },
+ "401873024": {
+  "away": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-5",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "3-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "id": "401873024",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.2358490566037736,
+   "drama": 1.3322152204206479,
+   "finish": 0.35398202060555783,
+   "max_swing": 0.455461337046211,
+   "n_plays": 212,
+   "ot": true,
+   "volatility": 8.945593727277501
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 33,
+   "detail": "Final/OT",
+   "home": 30
+  },
+  "scored_at": "2026-11-03T06:19:46.851381+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_ARI_DAL",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-5",
+   "division": false,
+   "home_rec": "3-4",
+   "rivalry": 0,
+   "score": 21.428571428571427
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "5qorFNyHsiM",
+   "source": "seed"
+  }
+ },
+ "401873025": {
+  "away": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-5",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "3-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "id": "401873025",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.34210526315789475,
+   "drama": 0.09738203197656095,
+   "finish": 0.0030933337286115138,
+   "max_swing": 0.13030374050140392,
+   "n_plays": 152,
+   "ot": false,
+   "volatility": 2.7809122938509465
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 0,
+   "detail": "Final",
+   "home": 16
+  },
+  "scored_at": "2026-11-03T06:19:46.856570+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_ATL_TB",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-4",
+   "division": true,
+   "home_rec": "2-5",
+   "rivalry": 5,
+   "score": 41.42857142857143
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "lGnOFwQPXD4",
+   "source": "seed"
+  }
+ },
+ "401873026": {
+  "away": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "6-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "id": "401873026",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.5568181818181818,
+   "drama": 0.19106086701530905,
+   "finish": 4.018009793887383e-05,
+   "max_swing": 0.13917884230613697,
+   "n_plays": 176,
+   "ot": false,
+   "volatility": 4.030303409562611
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 36
+  },
+  "scored_at": "2026-11-03T06:19:46.848587+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_BAL_BUF",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-3",
+   "division": false,
+   "home_rec": "5-1",
+   "rivalry": 0,
+   "score": 57.14285714285714
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "3xMS3qL2KwY",
+   "source": "seed"
+  }
+ },
+ "401873027": {
+  "away": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "6-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "id": "401873027",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.15789473684210525,
+   "drama": 0.07461061043686068,
+   "finish": 0.0013759612890059027,
+   "max_swing": 0.10305187106132496,
+   "n_plays": 171,
+   "ot": false,
+   "volatility": 2.156757746935943
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 6,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.855285+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_CLE_PIT",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "5-2",
+   "division": true,
+   "home_rec": "5-2",
+   "rivalry": 10,
+   "score": 82.85714285714286
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "_tkkFK0248w",
+   "source": "seed"
+  }
+ },
+ "401873028": {
+  "away": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-6",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "5-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "id": "401873028",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.01910828025477707,
+   "drama": 0.02438910302162135,
+   "finish": 2.9268730610548293e-05,
+   "max_swing": 0.07608659565448694,
+   "n_plays": 157,
+   "ot": false,
+   "volatility": 0.8794915441369416
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 7,
+   "detail": "Final",
+   "home": 42
+  },
+  "scored_at": "2026-11-03T06:19:46.857821+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_IND_JAX",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-5",
+   "division": true,
+   "home_rec": "4-2",
+   "rivalry": 5,
+   "score": 48.57142857142857
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "R7zUguz0Aag",
+   "source": "seed"
+  }
+ },
+ "401873029": {
+  "away": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-4",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "id": "401873029",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8057142857142857,
+   "drama": 0.5933860426200714,
+   "finish": 0.3543855175375937,
+   "max_swing": 0.21285471320152294,
+   "n_plays": 175,
+   "ot": false,
+   "volatility": 8.000687203645299
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 38,
+   "detail": "Final",
+   "home": 33
+  },
+  "scored_at": "2026-11-03T06:19:46.853937+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_LV_NYJ",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "3-4",
+   "division": false,
+   "home_rec": "2-5",
+   "rivalry": 0,
+   "score": 21.428571428571427
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "-fuyn2BZZAI",
+   "source": "seed"
+  }
+ },
+ "401873030": {
+  "away": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-1",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "5-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "id": "401873030",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.9024390243902439,
+   "drama": 0.5044523492928153,
+   "finish": 0.24978633727246696,
+   "max_swing": 0.165394425392151,
+   "n_plays": 164,
+   "ot": false,
+   "volatility": 7.870593326982112
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 15,
+   "detail": "Final",
+   "home": 19
+  },
+  "scored_at": "2026-11-03T06:19:46.852670+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_MIN_DET",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "6-0",
+   "division": true,
+   "home_rec": "4-2",
+   "rivalry": 10,
+   "score": 90.0
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "pB59Bt0uklY",
+   "source": "seed"
+  }
+ },
+ "401873031": {
+  "away": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-7",
+   "conference": false,
+   "detail": "Final/OT",
+   "home_rank": 99,
+   "home_record": "5-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "id": "401873031",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7241379310344828,
+   "drama": 1.4142897580905307,
+   "finish": 0.6670160284479814,
+   "max_swing": 0.35012909197184006,
+   "n_plays": 203,
+   "ot": true,
+   "volatility": 12.475329267582584
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 36,
+   "detail": "Final/OT",
+   "home": 43
+  },
+  "scored_at": "2026-11-03T06:19:46.849944+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_TEN_CIN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "1-6",
+   "division": false,
+   "home_rec": "4-2",
+   "rivalry": 0,
+   "score": 24.285714285714285
+  },
+  "start_utc": "2026-11-01T18:00:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "fZ27uy5PB7I",
+   "source": "seed"
+  }
+ },
+ "401873032": {
+  "away": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "0-7",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "id": "401873032",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.546583850931677,
+   "drama": 0.17148508602649903,
+   "finish": 0.0008260928667512055,
+   "max_swing": 0.17265322804451,
+   "n_plays": 161,
+   "ot": false,
+   "volatility": 3.72167527714796
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 9,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-03T06:19:46.859204+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_LAC_LA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "0-6",
+   "division": false,
+   "home_rec": "3-4",
+   "rivalry": 10,
+   "score": 22.857142857142854
+  },
+  "start_utc": "2026-11-01T21:05:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "Z5w0O7Jprdk",
+   "source": "seed"
+  }
+ },
+ "401873033": {
+  "away": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "6-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "id": "401873033",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.8547486033519553,
+   "drama": 1.0775563734839495,
+   "finish": 0.6076551667694424,
+   "max_swing": 0.40490084886550903,
+   "n_plays": 179,
+   "ot": false,
+   "volatility": 8.826808765886543
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 28
+  },
+  "scored_at": "2026-11-03T06:19:46.860462+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_KC_DEN",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "5-1",
+   "division": true,
+   "home_rec": "5-2",
+   "rivalry": 10,
+   "score": 86.42857142857143
+  },
+  "start_utc": "2026-11-01T21:25:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "Tj71A_YItgE",
+   "source": "seed"
+  }
+ },
+ "401873034": {
+  "away": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-3",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "1-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "id": "401873034",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.6424242424242425,
+   "drama": 0.2621637353188636,
+   "finish": 0.04979105824503032,
+   "max_swing": 0.140724782744593,
+   "n_plays": 165,
+   "ot": false,
+   "volatility": 5.100271156504388
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 24,
+   "detail": "Final",
+   "home": 19
+  },
+  "scored_at": "2026-11-03T06:19:46.861723+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_NE_MIA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "4-3",
+   "division": true,
+   "home_rec": "1-5",
+   "rivalry": 5,
+   "score": 42.14285714285714
+  },
+  "start_utc": "2026-11-01T21:25:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "EL_8uTSc1PY",
+   "source": "seed"
+  }
+ },
+ "401873035": {
+  "away": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "date_et": "2026-11-01",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-6",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "2-4-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "id": "401873035",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7457627118644068,
+   "drama": 0.1975926653011017,
+   "finish": 0.034632126660867076,
+   "max_swing": 0.11857914924621604,
+   "n_plays": 177,
+   "ot": false,
+   "volatility": 5.0017713911430155
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 10,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-03T06:19:46.863054+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_PHI_WAS",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "2-5",
+   "division": true,
+   "home_rec": "1-4-1",
+   "rivalry": 10,
+   "score": 41.07142857142857
+  },
+  "start_utc": "2026-11-02T01:20:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "40wesZPReUc",
+   "source": "seed"
+  }
+ },
+ "401873036": {
+  "away": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "date_et": "2026-11-02",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-2",
+   "conference": false,
+   "detail": "Final",
+   "home_rank": 99,
+   "home_record": "4-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "id": "401873036",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": {
+   "competitive": 0.7398843930635838,
+   "drama": 0.2601160422129584,
+   "finish": 0.00981002470145132,
+   "max_swing": 0.14350625872612,
+   "n_plays": 173,
+   "ot": false,
+   "volatility": 5.323005287131924
+  },
+  "period": "week-08",
+  "period_label": "Week 8",
+  "period_sort": 8,
+  "result": {
+   "away": 34,
+   "detail": "Final",
+   "home": 17
+  },
+  "scored_at": "2026-11-03T06:19:46.864318+00:00",
+  "season": "2026",
+  "source": {
+   "game_id": "2026_08_CHI_SEA",
+   "wp": "nflverse"
+  },
+  "stakes": {
+   "away_rec": "5-2",
+   "division": false,
+   "home_rec": "4-3",
+   "rivalry": 0,
+   "score": 53.57142857142857
+  },
+  "start_utc": "2026-11-03T01:15:00+00:00",
+  "status": "final",
+  "video": {
+   "id": "j8XRNpYOsos",
+   "source": "seed"
+  }
+ }
+}

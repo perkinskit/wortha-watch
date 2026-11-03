@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}wortha.watch{% endblock %}
+{% block content %}
+<header>
+  <h1>Which games were worth watching?</h1>
+  <p>Every NFL, college football, NBA and NHL game ranked by how exciting it actually was, computed from play-by-play win probability. No scores, no spoilers. Pick a game, tap through to the official highlights.</p>
+</header>
+<div class="cards">
+  {% for c in cards %}
+  <a class="card" href="/{{ c.league.slug }}/">
+    <div class="kicker">{{ c.league.short }} <span>{{ c.period.label }}</span></div>
+    {% if c.rows %}
+    <ol>
+      {% for r in c.rows %}<li><span>{{ r.rank }}. {{ r.matchup }}</span><b>{{ r.index }}</b></li>{% endfor %}
+    </ol>
+    <div class="more">{{ c.period.scored }} games ranked{% if c.pending %} · {{ c.pending }} still to play{% endif %} →</div>
+    {% else %}
+    <div class="more">Nothing scored yet{% if c.pending %} · {{ c.pending }} games today{% endif %} →</div>
+    {% endif %}
+  </a>
+  {% endfor %}
+</div>
+<section id="subscribe">
+  <h2>Get the rankings by email</h2>
+  <form class="sub" name="subscribe" method="POST" action="/subscribed/" data-netlify="true" netlify-honeypot="website">
+    <input type="hidden" name="form-name" value="subscribe">
+    <p class="hp"><label>Leave this empty: <input name="website" tabindex="-1" autocomplete="off"></label></p>
+    <div class="grid">
+      <label>Email <input type="email" name="email" id="email" required placeholder="you@example.com" autocomplete="email"></label>
+      <label>Send at <select name="send_hour" id="send_hour">
+        {% for h in [6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22] %}<option value="{{ h }}"{% if h == 8 %} selected{% endif %}>{{ h % 12 if h % 12 else 12 }}:00 {{ 'AM' if h < 12 else 'PM' }}</option>{% endfor %}
+      </select></label>
+    </div>
+    <div class="checks">
+      {% for lg in leagues %}<label><input type="checkbox" name="leagues" value="{{ lg.slug }}" checked> {{ lg.short }}</label>{% endfor %}
+    </div>
+    <input type="hidden" name="timezone" id="tz" value="America/Denver">
+    <button type="submit">Subscribe</button>
+    <p class="hint">One email per day with that day's rankings for the leagues you pick, in your local time. Sending is being built; you'll get the first one when it ships.</p>
+  </form>
+</section>
+<script>
+  try { document.getElementById('tz').value = Intl.DateTimeFormat().resolvedOptions().timeZone || 'America/Denver'; } catch (e) {}
+</script>
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}You're on the list · wortha.watch{% endblock %}
+{% block content %}
+<header>
+  <h1>You're on the list</h1>
+  <p>Daily emails are still being built. When they ship, you'll get the first one at the time you picked. Until then, the site updates hourly during games.</p>
+  <div class="sub">{% for lg in leagues %}<a href="/{{ lg.slug }}/">{{ lg.short }} →</a>{% endfor %}</div>
+</header>
+{% endblock %}

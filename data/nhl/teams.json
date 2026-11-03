@@ -1,0 +1,290 @@
+{
+ "1": {
+  "abbr": "BOS",
+  "alt": "#fdb71a",
+  "color": "#231f20",
+  "id": "1",
+  "name": "Boston Bruins",
+  "nick": "Bruins",
+  "short": "Boston"
+ },
+ "10": {
+  "abbr": "MTL",
+  "alt": "#013a81",
+  "color": "#c41230",
+  "id": "10",
+  "name": "Montreal Canadiens",
+  "nick": "Canadiens",
+  "short": "Montreal"
+ },
+ "11": {
+  "abbr": "NJ",
+  "alt": "#000000",
+  "color": "#e30b2b",
+  "id": "11",
+  "name": "New Jersey Devils",
+  "nick": "Devils",
+  "short": "New Jersey"
+ },
+ "12": {
+  "abbr": "NYI",
+  "alt": "#f47d31",
+  "color": "#00529b",
+  "id": "12",
+  "name": "New York Islanders",
+  "nick": "Islanders",
+  "short": "New York"
+ },
+ "124292": {
+  "abbr": "SEA",
+  "alt": "#a3dce4",
+  "color": "#000d33",
+  "id": "124292",
+  "name": "Seattle Kraken",
+  "nick": "Kraken",
+  "short": "Seattle"
+ },
+ "129764": {
+  "abbr": "UTAH",
+  "alt": "#7ab2e1",
+  "color": "#000000",
+  "id": "129764",
+  "name": "Utah Mammoth",
+  "nick": "Mammoth",
+  "short": "Utah"
+ },
+ "13": {
+  "abbr": "NYR",
+  "alt": "#e51937",
+  "color": "#0056ae",
+  "id": "13",
+  "name": "New York Rangers",
+  "nick": "Rangers",
+  "short": "New York"
+ },
+ "14": {
+  "abbr": "OTT",
+  "alt": "#b79257",
+  "color": "#dd1a32",
+  "id": "14",
+  "name": "Ottawa Senators",
+  "nick": "Senators",
+  "short": "Ottawa"
+ },
+ "15": {
+  "abbr": "PHI",
+  "alt": "#000000",
+  "color": "#fe5823",
+  "id": "15",
+  "name": "Philadelphia Flyers",
+  "nick": "Flyers",
+  "short": "Philadelphia"
+ },
+ "16": {
+  "abbr": "PIT",
+  "alt": "#fdb71a",
+  "color": "#000000",
+  "id": "16",
+  "name": "Pittsburgh Penguins",
+  "nick": "Penguins",
+  "short": "Pittsburgh"
+ },
+ "17": {
+  "abbr": "COL",
+  "alt": "#005ea3",
+  "color": "#860038",
+  "id": "17",
+  "name": "Colorado Avalanche",
+  "nick": "Avalanche",
+  "short": "Colorado"
+ },
+ "18": {
+  "abbr": "SJ",
+  "alt": "#070707",
+  "color": "#00788a",
+  "id": "18",
+  "name": "San Jose Sharks",
+  "nick": "Sharks",
+  "short": "San Jose"
+ },
+ "19": {
+  "abbr": "STL",
+  "alt": "#fdb71a",
+  "color": "#0070b9",
+  "id": "19",
+  "name": "St. Louis Blues",
+  "nick": "Blues",
+  "short": "St. Louis"
+ },
+ "2": {
+  "abbr": "BUF",
+  "alt": "#fdb71a",
+  "color": "#00468b",
+  "id": "2",
+  "name": "Buffalo Sabres",
+  "nick": "Sabres",
+  "short": "Buffalo"
+ },
+ "20": {
+  "abbr": "TB",
+  "alt": "#ffffff",
+  "color": "#003e7e",
+  "id": "20",
+  "name": "Tampa Bay Lightning",
+  "nick": "Lightning",
+  "short": "Tampa Bay"
+ },
+ "21": {
+  "abbr": "TOR",
+  "alt": "#ffffff",
+  "color": "#003e7e",
+  "id": "21",
+  "name": "Toronto Maple Leafs",
+  "nick": "Maple Leafs",
+  "short": "Toronto"
+ },
+ "22": {
+  "abbr": "VAN",
+  "alt": "#008752",
+  "color": "#003e7e",
+  "id": "22",
+  "name": "Vancouver Canucks",
+  "nick": "Canucks",
+  "short": "Vancouver"
+ },
+ "23": {
+  "abbr": "WSH",
+  "alt": "#0b1f41",
+  "color": "#d71830",
+  "id": "23",
+  "name": "Washington Capitals",
+  "nick": "Capitals",
+  "short": "Washington"
+ },
+ "25": {
+  "abbr": "ANA",
+  "alt": "#000000",
+  "color": "#fc4c02",
+  "id": "25",
+  "name": "Anaheim Ducks",
+  "nick": "Ducks",
+  "short": "Anaheim"
+ },
+ "26": {
+  "abbr": "FLA",
+  "alt": "#002d62",
+  "color": "#e51937",
+  "id": "26",
+  "name": "Florida Panthers",
+  "nick": "Panthers",
+  "short": "Florida"
+ },
+ "27": {
+  "abbr": "NSH",
+  "alt": "#002d62",
+  "color": "#fdba31",
+  "id": "27",
+  "name": "Nashville Predators",
+  "nick": "Predators",
+  "short": "Nashville"
+ },
+ "28": {
+  "abbr": "WPG",
+  "alt": "#c41230",
+  "color": "#002d62",
+  "id": "28",
+  "name": "Winnipeg Jets",
+  "nick": "Jets",
+  "short": "Winnipeg"
+ },
+ "29": {
+  "abbr": "CBJ",
+  "alt": "#e31937",
+  "color": "#002d62",
+  "id": "29",
+  "name": "Columbus Blue Jackets",
+  "nick": "Blue Jackets",
+  "short": "Columbus"
+ },
+ "3": {
+  "abbr": "CGY",
+  "alt": "#000000",
+  "color": "#dd1a32",
+  "id": "3",
+  "name": "Calgary Flames",
+  "nick": "Flames",
+  "short": "Calgary"
+ },
+ "30": {
+  "abbr": "MIN",
+  "alt": "#ae122a",
+  "color": "#124734",
+  "id": "30",
+  "name": "Minnesota Wild",
+  "nick": "Wild",
+  "short": "Minnesota"
+ },
+ "37": {
+  "abbr": "VGK",
+  "alt": "#b4975a",
+  "color": "#344043",
+  "id": "37",
+  "name": "Vegas Golden Knights",
+  "nick": "Golden Knights",
+  "short": "Vegas"
+ },
+ "4": {
+  "abbr": "CHI",
+  "alt": "#000000",
+  "color": "#e31937",
+  "id": "4",
+  "name": "Chicago Blackhawks",
+  "nick": "Blackhawks",
+  "short": "Chicago"
+ },
+ "5": {
+  "abbr": "DET",
+  "alt": "#ffffff",
+  "color": "#e30526",
+  "id": "5",
+  "name": "Detroit Red Wings",
+  "nick": "Red Wings",
+  "short": "Detroit"
+ },
+ "6": {
+  "abbr": "EDM",
+  "alt": "#ff4c00",
+  "color": "#00205b",
+  "id": "6",
+  "name": "Edmonton Oilers",
+  "nick": "Oilers",
+  "short": "Edmonton"
+ },
+ "7": {
+  "abbr": "CAR",
+  "alt": "#000000",
+  "color": "#e30426",
+  "id": "7",
+  "name": "Carolina Hurricanes",
+  "nick": "Hurricanes",
+  "short": "Carolina"
+ },
+ "8": {
+  "abbr": "LA",
+  "alt": "#a2aaad",
+  "color": "#121212",
+  "id": "8",
+  "name": "Los Angeles Kings",
+  "nick": "Kings",
+  "short": "Los Angeles"
+ },
+ "9": {
+  "abbr": "DAL",
+  "alt": "#000000",
+  "color": "#20864c",
+  "id": "9",
+  "name": "Dallas Stars",
+  "nick": "Stars",
+  "short": "Dallas"
+ }
+}
