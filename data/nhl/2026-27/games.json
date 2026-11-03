@@ -131,7 +131,11 @@
   },
   "start_utc": "2026-10-25T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "7e-Y0hct16M",
+   "published": "2026-10-26T02:14:09Z",
+   "source": "youtube"
+  }
  },
  "401891820": {
   "away": {
@@ -6898,7 +6902,11 @@
   },
   "start_utc": "2026-10-22T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "tkRuHGSevoQ",
+   "published": "2026-10-23T02:50:24Z",
+   "source": "youtube"
+  }
  },
  "401892553": {
   "away": {
@@ -6965,7 +6973,11 @@
   },
   "start_utc": "2026-10-22T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "-YMvfklbr60",
+   "published": "2026-10-23T02:57:18Z",
+   "source": "youtube"
+  }
  },
  "401892554": {
   "away": {
@@ -7032,7 +7044,11 @@
   },
   "start_utc": "2026-10-22T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "sOuHu2Rvf9k",
+   "published": "2026-10-23T02:13:20Z",
+   "source": "youtube"
+  }
  },
  "401892555": {
   "away": {
@@ -7099,7 +7115,11 @@
   },
   "start_utc": "2026-10-22T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "nFuIGl_Iz6Y",
+   "published": "2026-10-23T01:51:21Z",
+   "source": "youtube"
+  }
  },
  "401892556": {
   "away": {
@@ -7166,7 +7186,11 @@
   },
   "start_utc": "2026-10-22T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "ihEIBKGraYs",
+   "published": "2026-10-23T02:09:52Z",
+   "source": "youtube"
+  }
  },
  "401892557": {
   "away": {
@@ -7233,7 +7257,11 @@
   },
   "start_utc": "2026-10-22T23:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "IhQrZuq2ZZU",
+   "published": "2026-10-23T02:43:12Z",
+   "source": "youtube"
+  }
  },
  "401892558": {
   "away": {
@@ -7300,7 +7328,11 @@
   },
   "start_utc": "2026-10-23T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "oZ8xU4Yy10E",
+   "published": "2026-10-23T03:08:28Z",
+   "source": "youtube"
+  }
  },
  "401892559": {
   "away": {
@@ -7367,7 +7399,11 @@
   },
   "start_utc": "2026-10-23T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "zdxnOjQFKN0",
+   "published": "2026-10-23T03:16:31Z",
+   "source": "youtube"
+  }
  },
  "401892560": {
   "away": {
@@ -7434,7 +7470,11 @@
   },
   "start_utc": "2026-10-23T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "AwgkpO-YVio",
+   "published": "2026-10-23T03:56:54Z",
+   "source": "youtube"
+  }
  },
  "401892561": {
   "away": {
@@ -7501,7 +7541,11 @@
   },
   "start_utc": "2026-10-23T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "4vFZ17oSjHM",
+   "published": "2026-10-23T04:15:22Z",
+   "source": "youtube"
+  }
  },
  "401892562": {
   "away": {
@@ -7568,7 +7612,11 @@
   },
   "start_utc": "2026-10-23T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "EOLco0rj9lE",
+   "published": "2026-10-23T05:27:19Z",
+   "source": "youtube"
+  }
  },
  "401892563": {
   "away": {
@@ -7635,7 +7683,11 @@
   },
   "start_utc": "2026-10-23T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "of8g3MzQ6oU",
+   "published": "2026-10-23T04:43:11Z",
+   "source": "youtube"
+  }
  },
  "401892564": {
   "away": {
@@ -7702,7 +7754,11 @@
   },
   "start_utc": "2026-10-24T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "BvKeBTlwabM",
+   "published": "2026-10-24T02:55:14Z",
+   "source": "youtube"
+  }
  },
  "401892565": {
   "away": {
@@ -7769,7 +7825,11 @@
   },
   "start_utc": "2026-10-24T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "VPyMhbPeFfM",
+   "published": "2026-10-24T04:25:24Z",
+   "source": "youtube"
+  }
  },
  "401892566": {
   "away": {
@@ -7836,7 +7896,11 @@
   },
   "start_utc": "2026-10-24T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "uyWmKeedtS0",
+   "published": "2026-10-24T20:10:30Z",
+   "source": "youtube"
+  }
  },
  "401892567": {
   "away": {
@@ -7903,7 +7967,11 @@
   },
   "start_utc": "2026-10-24T19:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "n2r2lz5mwXI",
+   "published": "2026-10-24T22:12:35Z",
+   "source": "youtube"
+  }
  },
  "401892568": {
   "away": {
@@ -7970,7 +8038,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "_pUNDvOhXbg",
+   "published": "2026-10-25T02:46:10Z",
+   "source": "youtube"
+  }
  },
  "401892569": {
   "away": {
@@ -8037,7 +8109,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "4Fq4ckOsmWk",
+   "published": "2026-10-25T02:23:22Z",
+   "source": "youtube"
+  }
  },
  "401892570": {
   "away": {
@@ -8104,7 +8180,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "beHTxpRqyb0",
+   "published": "2026-10-25T02:38:29Z",
+   "source": "youtube"
+  }
  },
  "401892571": {
   "away": {
@@ -8171,7 +8251,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "FDr5Kyu9sz4",
+   "published": "2026-10-25T02:19:03Z",
+   "source": "youtube"
+  }
  },
  "401892572": {
   "away": {
@@ -8238,7 +8322,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "VzwUhOgOJ34",
+   "published": "2026-10-25T02:25:34Z",
+   "source": "youtube"
+  }
  },
  "401892573": {
   "away": {
@@ -8305,7 +8393,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "wTrDHFdBlys",
+   "published": "2026-10-25T02:10:26Z",
+   "source": "youtube"
+  }
  },
  "401892574": {
   "away": {
@@ -8372,7 +8464,11 @@
   },
   "start_utc": "2026-10-24T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "SDfPSBXzRtQ",
+   "published": "2026-10-25T02:19:24Z",
+   "source": "youtube"
+  }
  },
  "401892575": {
   "away": {
@@ -8439,7 +8535,11 @@
   },
   "start_utc": "2026-10-25T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "WKoa-zLlLpo",
+   "published": "2026-10-25T04:23:03Z",
+   "source": "youtube"
+  }
  },
  "401892576": {
   "away": {
@@ -8506,7 +8606,11 @@
   },
   "start_utc": "2026-10-25T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "1wdSY7wFwYE",
+   "published": "2026-10-25T05:00:13Z",
+   "source": "youtube"
+  }
  },
  "401892577": {
   "away": {
@@ -8573,7 +8677,11 @@
   },
   "start_utc": "2026-10-25T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "SnKRDGN9nsk",
+   "published": "2026-10-25T05:05:55Z",
+   "source": "youtube"
+  }
  },
  "401892578": {
   "away": {
@@ -8640,7 +8748,11 @@
   },
   "start_utc": "2026-10-25T19:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "54ZniUGLBew",
+   "published": "2026-10-25T22:04:08Z",
+   "source": "youtube"
+  }
  },
  "401892579": {
   "away": {
@@ -8707,7 +8819,11 @@
   },
   "start_utc": "2026-10-25T22:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "Kvga5mA6K8c",
+   "published": "2026-10-26T00:42:43Z",
+   "source": "youtube"
+  }
  },
  "401892580": {
   "away": {
@@ -8774,7 +8890,11 @@
   },
   "start_utc": "2026-10-26T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "7L_-NPYXk0U",
+   "published": "2026-10-26T03:00:41Z",
+   "source": "youtube"
+  }
  },
  "401892581": {
   "away": {
@@ -8841,7 +8961,11 @@
   },
   "start_utc": "2026-10-26T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "vEVsQD5oslA",
+   "published": "2026-10-26T04:50:51Z",
+   "source": "youtube"
+  }
  },
  "401892582": {
   "away": {
@@ -8908,7 +9032,11 @@
   },
   "start_utc": "2026-10-26T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "703SY6hadII",
+   "published": "2026-10-27T02:16:58Z",
+   "source": "youtube"
+  }
  },
  "401892583": {
   "away": {
@@ -8975,7 +9103,11 @@
   },
   "start_utc": "2026-10-27T00:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "7TnQuLk7MGw",
+   "published": "2026-10-27T04:47:50Z",
+   "source": "youtube"
+  }
  },
  "401892584": {
   "away": {
@@ -9042,7 +9174,11 @@
   },
   "start_utc": "2026-10-27T01:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "6wTBZ0GTo8k",
+   "published": "2026-10-27T04:47:40Z",
+   "source": "youtube"
+  }
  },
  "401892585": {
   "away": {
@@ -9109,7 +9245,11 @@
   },
   "start_utc": "2026-10-27T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "i4_aQ2X5mjk",
+   "published": "2026-10-28T02:07:44Z",
+   "source": "youtube"
+  }
  },
  "401892586": {
   "away": {
@@ -9176,7 +9316,11 @@
   },
   "start_utc": "2026-10-28T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "-acwUlp4AJE",
+   "published": "2026-10-28T03:05:41Z",
+   "source": "youtube"
+  }
  },
  "401892587": {
   "away": {
@@ -9243,7 +9387,11 @@
   },
   "start_utc": "2026-10-28T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "rscmSbPzUmk",
+   "published": "2026-10-28T03:01:14Z",
+   "source": "youtube"
+  }
  },
  "401892588": {
   "away": {
@@ -9310,7 +9458,11 @@
   },
   "start_utc": "2026-10-28T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "gq2mmg27ef0",
+   "published": "2026-10-28T03:25:28Z",
+   "source": "youtube"
+  }
  },
  "401892589": {
   "away": {
@@ -9377,7 +9529,11 @@
   },
   "start_utc": "2026-10-28T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "rt12MsWyiAA",
+   "published": "2026-10-28T03:24:37Z",
+   "source": "youtube"
+  }
  },
  "401892590": {
   "away": {
@@ -9444,7 +9600,11 @@
   },
   "start_utc": "2026-10-28T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "0cjoYufBRIA",
+   "published": "2026-10-28T03:02:58Z",
+   "source": "youtube"
+  }
  },
  "401892591": {
   "away": {
@@ -9511,7 +9671,11 @@
   },
   "start_utc": "2026-10-28T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "-igJ3DdULC8",
+   "published": "2026-10-28T03:02:41Z",
+   "source": "youtube"
+  }
  },
  "401892592": {
   "away": {
@@ -9578,7 +9742,11 @@
   },
   "start_utc": "2026-10-28T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "X6L2VrkkjTM",
+   "published": "2026-10-28T04:13:32Z",
+   "source": "youtube"
+  }
  },
  "401892593": {
   "away": {
@@ -9645,7 +9813,11 @@
   },
   "start_utc": "2026-10-28T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "pEg7SOkX9_4",
+   "published": "2026-10-28T05:02:35Z",
+   "source": "youtube"
+  }
  },
  "401892594": {
   "away": {
@@ -9712,7 +9884,11 @@
   },
   "start_utc": "2026-10-28T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "3FsYcY8YhYI",
+   "published": "2026-10-28T05:09:03Z",
+   "source": "youtube"
+  }
  },
  "401892595": {
   "away": {
@@ -9779,7 +9955,11 @@
   },
   "start_utc": "2026-10-28T02:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "iW85Wfb5Zoc",
+   "published": "2026-10-28T05:48:19Z",
+   "source": "youtube"
+  }
  },
  "401892596": {
   "away": {
@@ -9846,7 +10026,11 @@
   },
   "start_utc": "2026-10-28T23:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "54nsfz7zh64",
+   "published": "2026-10-29T02:24:28Z",
+   "source": "youtube"
+  }
  },
  "401892597": {
   "away": {
@@ -9913,7 +10097,11 @@
   },
   "start_utc": "2026-10-29T00:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "97q7fqqNdPY",
+   "published": "2026-10-29T03:33:15Z",
+   "source": "youtube"
+  }
  },
  "401892598": {
   "away": {
@@ -9980,7 +10168,11 @@
   },
   "start_utc": "2026-10-29T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "gzg8u8_kDbA",
+   "published": "2026-10-29T04:00:44Z",
+   "source": "youtube"
+  }
  },
  "401892599": {
   "away": {
@@ -10047,7 +10239,11 @@
   },
   "start_utc": "2026-10-29T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "83tpUO1BSf0",
+   "published": "2026-10-29T05:02:59Z",
+   "source": "youtube"
+  }
  },
  "401892600": {
   "away": {
@@ -10114,7 +10310,11 @@
   },
   "start_utc": "2026-10-29T23:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "21v3KgyZQjk",
+   "published": "2026-10-30T02:26:01Z",
+   "source": "youtube"
+  }
  },
  "401892601": {
   "away": {
@@ -10181,7 +10381,11 @@
   },
   "start_utc": "2026-10-29T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "XEAXEl0Qm7U",
+   "published": "2026-10-30T02:18:09Z",
+   "source": "youtube"
+  }
  },
  "401892602": {
   "away": {
@@ -10248,7 +10452,11 @@
   },
   "start_utc": "2026-10-29T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "RDpTPDo55Ug",
+   "published": "2026-10-30T02:24:02Z",
+   "source": "youtube"
+  }
  },
  "401892603": {
   "away": {
@@ -10315,7 +10523,11 @@
   },
   "start_utc": "2026-10-29T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "DQyPffOvHjs",
+   "published": "2026-10-30T01:54:45Z",
+   "source": "youtube"
+  }
  },
  "401892604": {
   "away": {
@@ -10382,7 +10594,11 @@
   },
   "start_utc": "2026-10-30T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "qoRVyTCEWwQ",
+   "published": "2026-10-30T02:50:45Z",
+   "source": "youtube"
+  }
  },
  "401892605": {
   "away": {
@@ -10449,7 +10665,11 @@
   },
   "start_utc": "2026-10-30T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "PF2ROAKxgVw",
+   "published": "2026-10-30T03:05:13Z",
+   "source": "youtube"
+  }
  },
  "401892606": {
   "away": {
@@ -10516,7 +10736,11 @@
   },
   "start_utc": "2026-10-30T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "oeX3DKZbQcU",
+   "published": "2026-10-30T02:50:59Z",
+   "source": "youtube"
+  }
  },
  "401892607": {
   "away": {
@@ -10583,7 +10807,11 @@
   },
   "start_utc": "2026-10-30T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "N9FMv6b2p8I",
+   "published": "2026-10-30T03:13:24Z",
+   "source": "youtube"
+  }
  },
  "401892608": {
   "away": {
@@ -10650,7 +10878,11 @@
   },
   "start_utc": "2026-10-30T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "JJPLOlCv1f8",
+   "published": "2026-10-30T05:03:29Z",
+   "source": "youtube"
+  }
  },
  "401892609": {
   "away": {
@@ -10717,7 +10949,11 @@
   },
   "start_utc": "2026-10-30T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "bvj0PNlk75Y",
+   "published": "2026-10-30T05:21:21Z",
+   "source": "youtube"
+  }
  },
  "401892610": {
   "away": {
@@ -10784,7 +11020,11 @@
   },
   "start_utc": "2026-10-30T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "ndKonD2Gi6w",
+   "published": "2026-10-30T04:49:23Z",
+   "source": "youtube"
+  }
  },
  "401892611": {
   "away": {
@@ -10851,7 +11091,11 @@
   },
   "start_utc": "2026-10-30T22:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "XaWTUuHOt8U",
+   "published": "2026-10-31T00:49:03Z",
+   "source": "youtube"
+  }
  },
  "401892612": {
   "away": {
@@ -10918,7 +11162,11 @@
   },
   "start_utc": "2026-10-30T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "xbpc4l9ZhPY",
+   "published": "2026-10-31T01:59:07Z",
+   "source": "youtube"
+  }
  },
  "401892613": {
   "away": {
@@ -10985,7 +11233,11 @@
   },
   "start_utc": "2026-10-31T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "wJw1BDJlnMQ",
+   "published": "2026-10-31T03:01:58Z",
+   "source": "youtube"
+  }
  },
  "401892614": {
   "away": {
@@ -11052,7 +11304,11 @@
   },
   "start_utc": "2026-10-31T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "h-k_Z3EDDuk",
+   "published": "2026-10-31T20:18:36Z",
+   "source": "youtube"
+  }
  },
  "401892615": {
   "away": {
@@ -11119,7 +11375,11 @@
   },
   "start_utc": "2026-10-31T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "3HMmDHOghGs",
+   "published": "2026-10-31T19:53:38Z",
+   "source": "youtube"
+  }
  },
  "401892616": {
   "away": {
@@ -11186,7 +11446,11 @@
   },
   "start_utc": "2026-10-31T18:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "Y4EgM_OxXUE",
+   "published": "2026-10-31T21:15:48Z",
+   "source": "youtube"
+  }
  },
  "401892617": {
   "away": {
@@ -11253,7 +11517,11 @@
   },
   "start_utc": "2026-10-31T18:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "ZqP3pqgdTl0",
+   "published": "2026-10-31T20:51:56Z",
+   "source": "youtube"
+  }
  },
  "401892618": {
   "away": {
@@ -11320,7 +11588,11 @@
   },
   "start_utc": "2026-10-31T20:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "rcfOVQJcNfo",
+   "published": "2026-10-31T23:05:09Z",
+   "source": "youtube"
+  }
  },
  "401892619": {
   "away": {
@@ -11387,7 +11659,11 @@
   },
   "start_utc": "2026-10-31T20:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "YMUcSI8hodQ",
+   "published": "2026-10-31T22:53:12Z",
+   "source": "youtube"
+  }
  },
  "401892620": {
   "away": {
@@ -11454,7 +11730,11 @@
   },
   "start_utc": "2026-10-31T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "ld1v3U5Fktg",
+   "published": "2026-11-01T02:15:19Z",
+   "source": "youtube"
+  }
  },
  "401892621": {
   "away": {
@@ -11521,7 +11801,11 @@
   },
   "start_utc": "2026-10-31T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "syrFqcNZgQY",
+   "published": "2026-11-01T01:51:39Z",
+   "source": "youtube"
+  }
  },
  "401892622": {
   "away": {
@@ -11588,7 +11872,11 @@
   },
   "start_utc": "2026-11-01T00:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "aq1OBCyJjYc",
+   "published": "2026-11-01T02:53:11Z",
+   "source": "youtube"
+  }
  },
  "401892623": {
   "away": {
@@ -11655,7 +11943,11 @@
   },
   "start_utc": "2026-11-01T02:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "2NxQjrFD6fQ",
+   "published": "2026-11-01T05:12:09Z",
+   "source": "youtube"
+  }
  },
  "401892624": {
   "away": {
@@ -11722,7 +12014,11 @@
   },
   "start_utc": "2026-11-01T18:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "iZ5HAgYFq8M",
+   "published": "2026-11-01T20:56:11Z",
+   "source": "youtube"
+  }
  },
  "401892625": {
   "away": {
@@ -11789,7 +12085,11 @@
   },
   "start_utc": "2026-11-01T20:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "ZFbl9GZ7dts",
+   "published": "2026-11-01T23:37:31Z",
+   "source": "youtube"
+  }
  },
  "401892626": {
   "away": {
@@ -11856,7 +12156,11 @@
   },
   "start_utc": "2026-11-01T21:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "GI8Ooc1wE8U",
+   "published": "2026-11-01T23:57:08Z",
+   "source": "youtube"
+  }
  },
  "401892627": {
   "away": {
@@ -11923,7 +12227,11 @@
   },
   "start_utc": "2026-11-01T23:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "-3n_ghgbBcQ",
+   "published": "2026-11-02T01:56:00Z",
+   "source": "youtube"
+  }
  },
  "401892628": {
   "away": {
@@ -11990,7 +12298,11 @@
   },
   "start_utc": "2026-11-02T01:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "NXmCbSK2ijI",
+   "published": "2026-11-02T03:53:32Z",
+   "source": "youtube"
+  }
  },
  "401892629": {
   "away": {

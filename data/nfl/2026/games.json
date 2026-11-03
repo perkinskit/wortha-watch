@@ -6389,7 +6389,11 @@
   },
   "start_utc": "2026-10-27T00:15:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "6Hdk00wyWZk",
+   "published": "2026-10-27T03:34:11Z",
+   "source": "youtube"
+  }
  },
  "401873010": {
   "away": {
@@ -6457,7 +6461,8 @@
   },
   "start_utc": "2026-10-23T00:15:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873011": {
   "away": {
@@ -6525,7 +6530,8 @@
   },
   "start_utc": "2026-10-25T13:30:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873012": {
   "away": {
@@ -6593,7 +6599,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873013": {
   "away": {
@@ -6661,7 +6668,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873014": {
   "away": {
@@ -6729,7 +6737,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873015": {
   "away": {
@@ -6797,7 +6806,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873016": {
   "away": {
@@ -6865,7 +6875,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873017": {
   "away": {
@@ -6933,7 +6944,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873018": {
   "away": {
@@ -7001,7 +7013,8 @@
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873019": {
   "away": {
@@ -7069,7 +7082,8 @@
   },
   "start_utc": "2026-10-25T20:05:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873020": {
   "away": {
@@ -7137,7 +7151,8 @@
   },
   "start_utc": "2026-10-25T20:25:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873021": {
   "away": {
@@ -7205,7 +7220,8 @@
   },
   "start_utc": "2026-10-25T20:25:00+00:00",
   "status": "final",
-  "video": null
+  "video": null,
+  "video_attempts": 1
  },
  "401873022": {
   "away": {
@@ -7273,7 +7289,11 @@
   },
   "start_utc": "2026-10-26T00:20:00+00:00",
   "status": "final",
-  "video": null
+  "video": {
+   "id": "dIfN83Krivs",
+   "published": "2026-10-26T03:25:42Z",
+   "source": "youtube"
+  }
  },
  "401873023": {
   "away": {
