@@ -27,8 +27,11 @@ Live at https://wortha.watch — NFL, college football, NBA, NHL.
     python scripts/build.py nfl                          # one league
     python scripts/build.py --render-only                # no network
 
-The GitHub Actions workflow runs hourly, commits data changes, and deploys `site/` to Netlify with
-the CLI (secrets: `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`, `YOUTUBE_API_KEY`).
+The GitHub Actions workflow commits data changes and deploys `site/` to Netlify with the CLI
+(secrets: `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`, `YOUTUBE_API_KEY`). GitHub's own cron drops most
+hourly runs, so `netlify/functions/trigger-build.mts` (a Netlify scheduled function) dispatches the
+workflow every hour; it needs `GITHUB_DISPATCH_TOKEN` (fine-grained PAT, Actions: read & write) as a
+Netlify environment variable with the Functions scope.
 
 ## Seeding a highlight by hand
 

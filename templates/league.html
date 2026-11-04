@@ -13,6 +13,14 @@
     <a href="/{{ league.slug }}/archive/">All {% if league.cadence == 'weekly' %}weeks{% else %}nights{% endif %}</a>
     {% if not is_current %}<span>This is an archived page. <a href="/{{ league.slug }}/">Latest →</a></span>{% endif %}
   </div>
+  {% if upcoming %}
+  <p class="notice">
+    {%- if upcoming.live %}{{ upcoming.live }} game{{ 's' if upcoming.live != 1 }} in progress{% if upcoming.pending %} and {{ upcoming.pending }} more to come{% endif %}
+    {%- elif league.cadence == 'daily' %}{{ upcoming.pending }} game{{ 's' if upcoming.pending != 1 }} {{ 'tonight' if upcoming.key == today else 'on ' ~ upcoming.label }}
+    {%- else %}{{ upcoming.label }} starts {{ upcoming.first_day }} with {{ upcoming.pending }} games
+    {%- endif %}; rankings appear here as games go final. This is the most recent {% if league.cadence == 'weekly' %}week{% else %}night{% endif %} with results.
+  </p>
+  {% endif %}
 </header>
 {% if rows %}
 {{ table(rows, league) }}

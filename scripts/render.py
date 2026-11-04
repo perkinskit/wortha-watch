@@ -60,12 +60,17 @@ def league_context(league) -> dict:
     percentile_scores(games)
     periods = {}
     for g in games:
-        p = periods.setdefault(g["period"], dict(key=g["period"], label=g["period_label"], sort=g["period_sort"], n=0, scored=0, pending=0))
+        p = periods.setdefault(g["period"], dict(key=g["period"], label=g["period_label"], sort=g["period_sort"], n=0, scored=0, pending=0, live=0,
+                                                 first_day=g["labels"]["day"]))
         p["n"] += 1
         if g.get("index") is not None:
             p["scored"] += 1
+        elif g["status"] == "live":
+            p["live"] += 1
         elif g["status"] != "final":
             p["pending"] += 1
+        if g["start_utc"] < p.get("first_start", "9"):
+            p["first_start"], p["first_day"] = g["start_utc"], g["labels"]["day"]
     ordered = sorted(periods.values(), key=lambda p: p["sort"])
     with_scores = [p for p in ordered if p["scored"]]
     current = with_scores[-1]["key"] if with_scores else (ordered[-1]["key"] if ordered else None)
@@ -75,7 +80,12 @@ def league_context(league) -> dict:
     for p in ordered:
         best = max([g for g in games if g["period"] == p["key"] and g.get("index") is not None], key=lambda g: g["index"], default=None)
         p["top"] = row_for(best, league) if best else None
-    return dict(league=league, periods=ordered, current=current, season_rows=season_rows,
+    # the next period that has games still to play, so the current page can say what's coming
+    upcoming = None
+    if current:
+        later = [p for p in ordered if p["sort"] > periods[current]["sort"] and (p["pending"] or p["live"])]
+        upcoming = later[0] if later else None
+    return dict(league=league, periods=ordered, current=current, season_rows=season_rows, upcoming=upcoming,
                 scored_total=sum(1 for g in games if g.get("index") is not None))
 
 
@@ -84,7 +94,7 @@ def render_site(leagues: list) -> None:
         shutil.rmtree(SITE)
     SITE.mkdir(parents=True)
     built_at = utc_now().astimezone(ET).strftime("%a %b %-d, %-I:%M %p ET")
-    common = dict(built_at=built_at, leagues=leagues, year=utc_now().year)
+    common = dict(built_at=built_at, leagues=leagues, year=utc_now().year, today=utc_now().astimezone(ET).strftime("%Y-%m-%d"))
 
     def write(path: str, template: str, **ctx):
         out = SITE / path
@@ -102,16 +112,16 @@ def render_site(leagues: list) -> None:
             prev_p = ctx["periods"][idx - 1] if idx > 0 else None
             next_p = ctx["periods"][idx + 1] if idx + 1 < len(ctx["periods"]) else None
             page = dict(league=lg, period=p, rows=rows, prev=prev_p, next=next_p, is_current=(key == cur),
-                        scored_total=ctx["scored_total"])
+                        scored_total=ctx["scored_total"], upcoming=ctx["upcoming"] if key == cur else None)
             write(f"{lg.slug}/{key}/index.html", "league.html", **page)
             if key == cur:
                 write(f"{lg.slug}/index.html", "league.html", **page)
                 landing.append(dict(league=lg, period=p, rows=[r for r in rows if r["status"] == "scored"][:3],
-                                    pending=sum(1 for r in rows if r["status"] in ("pending", "live"))))
+                                    pending=sum(1 for r in rows if r["status"] in ("pending", "live")), upcoming=ctx["upcoming"]))
         write(f"{lg.slug}/season/index.html", "season.html", league=lg, rows=ctx["season_rows"], scored_total=ctx["scored_total"])
         write(f"{lg.slug}/archive/index.html", "archive.html", league=lg, periods=list(reversed(ctx["periods"])))
         if not cur:
-            write(f"{lg.slug}/index.html", "league.html", league=lg, period=None, rows=[], prev=None, next=None, is_current=True, scored_total=0)
+            write(f"{lg.slug}/index.html", "league.html", league=lg, period=None, rows=[], prev=None, next=None, is_current=True, scored_total=0, upcoming=None)
     write("index.html", "index.html", cards=landing)
     write("methods/index.html", "methods.html")
     write("subscribed/index.html", "subscribed.html")

@@ -13,7 +13,7 @@
     <ol>
       {% for r in c.rows %}<li><span>{{ r.rank }}. {{ r.matchup }}</span><b>{{ r.index }}</b></li>{% endfor %}
     </ol>
-    <div class="more">{{ c.period.scored }} games ranked{% if c.pending %} · {{ c.pending }} still to play{% endif %} →</div>
+    <div class="more">{{ c.period.scored }} games ranked{% if c.pending %} · {{ c.pending }} still to play{% elif c.upcoming %} · {{ c.upcoming.pending + c.upcoming.live }} {{ 'tonight' if c.league.cadence == 'daily' and c.upcoming.key == today else 'in ' ~ c.upcoming.label if c.league.cadence == 'weekly' else 'on ' ~ c.upcoming.label }}{% endif %} →</div>
     {% else %}
     <div class="more">Nothing scored yet{% if c.pending %} · {{ c.pending }} games today{% endif %} →</div>
     {% endif %}
