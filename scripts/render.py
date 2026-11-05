@@ -7,7 +7,10 @@ from datetime import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from common import ET, SITE, TEMPLATES, log, utc_now
+from og import render_card, render_default
 from scoring import percentile_scores
+
+BASE_URL = "https://wortha.watch"
 
 env = Environment(loader=FileSystemLoader(str(TEMPLATES)), autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
 
@@ -96,10 +99,24 @@ def render_site(leagues: list) -> None:
     built_at = utc_now().astimezone(ET).strftime("%a %b %-d, %-I:%M %p ET")
     common = dict(built_at=built_at, leagues=leagues, year=utc_now().year, today=utc_now().astimezone(ET).strftime("%Y-%m-%d"))
 
-    def write(path: str, template: str, **ctx):
+    def write(path: str, template: str, og: str = "og/default.png", **ctx):
         out = SITE / path
         out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(env.get_template(template).render(**common, **ctx))
+        url = BASE_URL + "/" + path.replace("index.html", "")
+        out.write_text(env.get_template(template).render(**common, og_image=f"{BASE_URL}/{og}", page_url=url, **ctx))
+
+    def og_for(lg, p, rows, slug_key: str) -> str:
+        scored = [r for r in rows if r["status"] == "scored"][:3]
+        name = f"og/{lg.slug}-{slug_key}.png"
+        if not scored:
+            return "og/default.png"
+        unit = "week" if lg.cadence == "weekly" else "night"
+        n = sum(1 for r in rows if r["status"] == "scored")
+        footer = f"{n} games ranked" + (" · tap through to official highlights" if lg.youtube_channel else "") + f" · wortha.watch/{lg.slug}"
+        render_card(SITE / name, f"{lg.short} · {p['label'].upper()}", f"{p['label']}, ranked", scored, footer)
+        return name + f"?v={slug_key}"
+
+    render_default(SITE / "og" / "default.png")
 
     landing = []
     for lg in leagues:
@@ -113,12 +130,19 @@ def render_site(leagues: list) -> None:
             next_p = ctx["periods"][idx + 1] if idx + 1 < len(ctx["periods"]) else None
             page = dict(league=lg, period=p, rows=rows, prev=prev_p, next=next_p, is_current=(key == cur),
                         scored_total=ctx["scored_total"], upcoming=ctx["upcoming"] if key == cur else None)
-            write(f"{lg.slug}/{key}/index.html", "league.html", **page)
+            og = og_for(lg, p, rows, key)
+            write(f"{lg.slug}/{key}/index.html", "league.html", og=og, **page)
             if key == cur:
-                write(f"{lg.slug}/index.html", "league.html", **page)
+                write(f"{lg.slug}/index.html", "league.html", og=og, **page)
                 landing.append(dict(league=lg, period=p, rows=[r for r in rows if r["status"] == "scored"][:3],
                                     pending=sum(1 for r in rows if r["status"] in ("pending", "live")), upcoming=ctx["upcoming"]))
-        write(f"{lg.slug}/season/index.html", "season.html", league=lg, rows=ctx["season_rows"], scored_total=ctx["scored_total"])
+        season_og = "og/default.png"
+        if ctx["season_rows"]:
+            season_og = f"og/{lg.slug}-season.png"
+            render_card(SITE / season_og, f"{lg.short} · {lg.season}", "Best games so far", ctx["season_rows"][:3],
+                        f"top 25 of {ctx['scored_total']} games this season · wortha.watch/{lg.slug}/season")
+            season_og += f"?v={ctx['scored_total']}"
+        write(f"{lg.slug}/season/index.html", "season.html", og=season_og, league=lg, rows=ctx["season_rows"], scored_total=ctx["scored_total"])
         write(f"{lg.slug}/archive/index.html", "archive.html", league=lg, periods=list(reversed(ctx["periods"])))
         if not cur:
             write(f"{lg.slug}/index.html", "league.html", league=lg, period=None, rows=[], prev=None, next=None, is_current=True, scored_total=0, upcoming=None)
