@@ -1,16 +1,9 @@
-"""NFL: schedule from ESPN, win probability from nflverse play-by-play (spread-adjusted model)."""
+"""NFL: schedule and per-play win probability from ESPN (available minutes after the final whistle)."""
 from __future__ import annotations
 
 from datetime import date
 
-import pandas as pd
-
-from common import RAW, download, log
 from leagues.base import League
-
-PBP_URL = "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_{season}.csv.gz"
-# nflverse abbreviation -> ESPN abbreviation
-ABBR = {"LA": "LAR", "WAS": "WSH"}
 
 RIVALRIES = {frozenset(p) for p in [
     ("CLE", "PIT"), ("PIT", "BAL"), ("BAL", "CIN"), ("CIN", "PIT"), ("CIN", "CLE"),
@@ -49,37 +42,8 @@ class NFL(League):
     youtube_channel = "UCDVYQ4Zhbm3S2dlz7P1GBDg"
     week_count = 18
 
-    def __init__(self):
-        super().__init__()
-        self._pbp: pd.DataFrame | None = None
-        self._by_key: dict[tuple[str, str], str] = {}
-
-    def prepare_wp(self, todo):
-        path = download(PBP_URL.format(season=self.season), RAW / f"nfl_pbp_{self.season}.csv.gz", max_age_s=20 * 60)
-        cols = ["game_id", "game_date", "home_team", "away_team", "qtr", "play_id", "game_seconds_remaining",
-                "desc", "vegas_home_wp", "home_wp"]
-        df = pd.read_csv(path, usecols=cols, low_memory=False).sort_values(["game_id", "play_id"])
-        ended = set(df.loc[df["desc"] == "END GAME", "game_id"])
-        df = df[df["game_id"].isin(ended)]
-        self._pbp = df
-        # nflverse game_date is the ET game date; key on (date, espn home abbr)
-        first = df.groupby("game_id").first()
-        self._by_key = {(r["game_date"], ABBR.get(r["home_team"], r["home_team"])): gid for gid, r in first.iterrows()}
-        log("nfl", f"nflverse: {len(ended)} completed games in file")
-
     def wp_series(self, g):
-        key = (g["date_et"], g["home"]["abbr"])
-        gid = self._by_key.get(key)
-        if not gid:
-            return None
-        p = self._pbp[self._pbp["game_id"] == gid]
-        wpcol = "vegas_home_wp" if p["vegas_home_wp"].notna().mean() > 0.9 else "home_wp"
-        p = p[p[wpcol].notna()]
-        wp = p[wpcol].to_list()
-        rem = p["game_seconds_remaining"].fillna(0).to_list()
-        ot = (p["qtr"].fillna(4) >= 5).to_list()
-        g["source"] = dict(wp="nflverse", game_id=gid)
-        return wp, rem, ot
+        return self.espn_wp_series(g, period_seconds=900.0, regulation_periods=4)
 
     def extra_stakes(self, g):
         h, a = g["home"]["abbr"], g["away"]["abbr"]

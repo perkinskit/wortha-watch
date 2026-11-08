@@ -1,24 +1,38 @@
 name: build
 
+# GitHub's cron fires irregularly (observed every 4-7 hours, not hourly), so each run keeps working:
+# it rebuilds and redeploys every 20 minutes for up to ~5.5 hours, and the concurrency group lets the
+# next scheduled run queue behind it. Net effect: the site refreshes within ~20 minutes of a game ending.
 on:
   schedule:
-    - cron: "7 * * * *"      # hourly; each run publishes whatever games went final since the last one
+    - cron: "7 */3 * * *"
+    - cron: "37 1,4,7,10,13,16,19,22 * * *"
   workflow_dispatch:
+    inputs:
+      once:
+        description: "Run a single build instead of the multi-hour loop"
+        type: boolean
+        default: false
   push:
     branches: [main]
-    paths: ["scripts/**", "templates/**", "netlify.toml", ".github/workflows/build.yml"]
+    paths: ["scripts/**", "templates/**", "assets/**", "netlify/**", "netlify.toml", ".github/workflows/build.yml"]
 
 concurrency:
-  group: build
+  # pushes (code changes) get their own lane so they deploy right away instead of queueing behind a loop
+  group: ${{ github.event_name == 'push' && 'build-push' || 'build' }}
   cancel-in-progress: false
 
 permissions:
   contents: write
 
+env:
+  LOOP_MINUTES: 330       # total time one run keeps going
+  INTERVAL_MINUTES: 20    # rebuild cadence inside a run
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -29,26 +43,42 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Update data and render site
+      - name: Install Netlify CLI
+        run: npm install -g netlify-cli@27
+
+      - name: Build, commit data, deploy (repeating)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python scripts/build.py
-
-      - name: Commit updated data
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          ONCE: ${{ github.event.inputs.once }}
         run: |
           git config user.name "wortha-watch bot"
           git config user.email "bot@wortha.watch"
-          git add data
-          if git diff --cached --quiet; then
-            echo "no data changes"
-          else
-            git commit -m "data: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
-
-      - name: Deploy to Netlify
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        run: npx --yes netlify-cli@27 deploy --prod --dir=site --message "build $(date -u +'%Y-%m-%d %H:%M UTC')"
+          start=$(date +%s)
+          iteration=0
+          while true; do
+            iteration=$((iteration + 1))
+            echo "::group::iteration $iteration at $(date -u +'%H:%M UTC')"
+            git pull --rebase --quiet origin main || true
+            python scripts/build.py
+            git add data
+            if ! git diff --cached --quiet; then
+              git commit -q -m "data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+              git push -q origin HEAD:main || (git pull --rebase --quiet origin main && git push -q origin HEAD:main)
+              netlify deploy --prod --dir=site --message "build $(date -u +'%Y-%m-%d %H:%M UTC')" | tail -3
+            elif [ "$iteration" = "1" ]; then
+              netlify deploy --prod --dir=site --message "build $(date -u +'%Y-%m-%d %H:%M UTC') (code)" | tail -3
+            else
+              echo "no new data; skipping deploy"
+            fi
+            echo "::endgroup::"
+            if [ "$ONCE" = "true" ] || [ "${{ github.event_name }}" = "push" ]; then
+              echo "single build requested"; break
+            fi
+            elapsed=$(( ($(date +%s) - start) / 60 ))
+            if [ "$elapsed" -ge "$LOOP_MINUTES" ]; then
+              echo "loop budget used ($elapsed min)"; break
+            fi
+            sleep $((INTERVAL_MINUTES * 60))
+          done

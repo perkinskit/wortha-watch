@@ -193,10 +193,46 @@ class League:
         return n
 
     def prepare_wp(self, todo: list[dict]) -> None:
-        """Hook: bulk-load a season file once (NFL, CFB)."""
+        """Hook: bulk-load anything once before scoring a batch."""
 
     def wp_series(self, g: dict):
         raise NotImplementedError
+
+    def espn_wp_series(self, g: dict, period_seconds: float, regulation_periods: int, min_points: int = 20):
+        """ESPN's per-play win probability from the game summary, joined to plays for the clock.
+        Football keeps plays inside drives; basketball has a flat list. Clocks count down."""
+        from common import clock_to_seconds  # local import keeps base importable without it at module load
+
+        s = espn(f"{self.espn_path}/summary", event=g["id"])
+        wps = s.get("winprobability") or []
+        if len(wps) < min_points:
+            return None
+        plays = {p["id"]: p for p in (s.get("plays") or [])}
+        drives = s.get("drives") or {}
+        for key in ("previous", "current"):
+            d = drives.get(key)
+            for dr in (d if isinstance(d, list) else [d] if d else []):
+                for p in dr.get("plays", []) or []:
+                    plays[p["id"]] = p
+        wp, rem, ot = [], [], []
+        for e in wps:
+            p = plays.get(e.get("playId"))
+            if not p:
+                continue
+            period = int((p.get("period") or {}).get("number") or 1)
+            clock = clock_to_seconds((p.get("clock") or {}).get("displayValue", "0:00"))
+            if period <= regulation_periods:
+                rem.append((regulation_periods - period) * period_seconds + clock)
+                ot.append(False)
+            else:
+                rem.append(0.0)
+                ot.append(True)
+            wp.append(float(e.get("homeWinPercentage", 0.5)))
+        if len(wp) < min_points:
+            return None
+        home_won = g["result"]["home"] > g["result"]["away"] if g.get("result") else None
+        g["source"] = dict(wp="espn")
+        return self.finalize_series(wp, rem, ot, home_won)
 
     # ---------- stakes ----------
     def compute_stakes(self) -> None:

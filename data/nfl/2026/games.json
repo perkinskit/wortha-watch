@@ -19,6 +19,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 88.68852459016394,
   "home": {
    "abbr": "SEA",
    "alt": "#69be28",
@@ -29,18 +30,25 @@
    "short": "Seattle"
   },
   "id": "401872656",
+  "index": 79.95081967213115,
   "labels": {
    "day": "Wed",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.963855421686747,
-   "drama": 1.2983826922169797,
-   "finish": 0.6247349494979496,
-   "max_swing": 0.560999691486358,
-   "n_plays": 166,
+   "competitive": 0.95,
+   "drama": 1.1999464603138887,
+   "finish": 0.5556782608695653,
+   "max_swing": 0.4839,
+   "n_plays": 180,
    "ot": false,
-   "volatility": 9.063215634168836
+   "volatility": 9.299533027777777
+  },
+  "pct": {
+   "competitive": 97.54098360655738,
+   "drama": 91.80327868852459,
+   "finish": 91.80327868852459,
+   "volatility": 83.60655737704919
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -50,11 +58,12 @@
    "detail": "Final",
    "home": 13
   },
-  "scored_at": "2026-11-03T06:19:46.655922+00:00",
+  "scored_at": "2026-11-08T05:56:57.520851+00:00",
   "season": "2026",
+  "season_rank": 12,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_NE_SEA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -87,6 +96,7 @@
    "home_record": "0-1",
    "neutral": true
   },
+  "game_score": 33.31967213114754,
   "home": {
    "abbr": "LAR",
    "alt": "#ffd100",
@@ -97,18 +107,25 @@
    "short": "Los Angeles"
   },
   "id": "401872657",
+  "index": 39.65573770491804,
   "labels": {
    "day": "Thu",
    "time": "8:35 PM ET"
   },
   "metrics": {
-   "competitive": 0.6942675159235668,
-   "drama": 0.17283370081923694,
-   "finish": 0.0017101942716786223,
-   "max_swing": 0.12380515975748096,
-   "n_plays": 157,
+   "competitive": 0.6647058823529411,
+   "drama": 0.17089548015833336,
+   "finish": 0.0017777777777777794,
+   "max_swing": 0.13560000000000005,
+   "n_plays": 170,
    "ot": false,
-   "volatility": 4.028139224010511
+   "volatility": 3.8646850833333337
+  },
+  "pct": {
+   "competitive": 60.65573770491803,
+   "drama": 32.78688524590164,
+   "finish": 19.672131147540984,
+   "volatility": 33.60655737704918
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -118,11 +135,12 @@
    "detail": "Final",
    "home": 7
   },
-  "scored_at": "2026-11-03T06:19:46.657645+00:00",
+  "scored_at": "2026-11-08T05:56:57.858260+00:00",
   "season": "2026",
+  "season_rank": 77,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_SF_LA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -155,6 +173,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 47.50000000000001,
   "home": {
    "abbr": "PIT",
    "alt": "#ffb612",
@@ -165,18 +184,25 @@
    "short": "Pittsburgh"
   },
   "id": "401872658",
+  "index": 47.00000000000001,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5485714285714286,
-   "drama": 0.29323217761990167,
-   "finish": 0.09295417368412015,
-   "max_swing": 0.17666612913911495,
-   "n_plays": 175,
+   "competitive": 0.7526315789473684,
+   "drama": 0.3373061298916667,
+   "finish": 0.07876470588235295,
+   "max_swing": 0.2358,
+   "n_plays": 190,
    "ot": false,
-   "volatility": 5.298230597660348
+   "volatility": 5.99558575
+  },
+  "pct": {
+   "competitive": 40.16393442622951,
+   "drama": 49.18032786885246,
+   "finish": 50.81967213114754,
+   "volatility": 46.72131147540984
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -186,11 +212,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.665220+00:00",
+  "scored_at": "2026-11-08T05:56:58.218013+00:00",
   "season": "2026",
+  "season_rank": 64,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_ATL_PIT",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -223,6 +250,7 @@
    "home_record": "0-1",
    "neutral": false
   },
+  "game_score": 12.991803278688524,
   "home": {
    "abbr": "IND",
    "alt": "#ffffff",
@@ -233,18 +261,25 @@
    "short": "Indianapolis"
   },
   "id": "401872659",
+  "index": 19.393442622950822,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.16766467065868262,
-   "drama": 0.07712265279278925,
-   "finish": 0.0013071628947120808,
-   "max_swing": 0.12433755397796598,
-   "n_plays": 167,
+   "competitive": 0.20454545454545456,
+   "drama": 0.08209924800833332,
+   "finish": 0.0021058823529411796,
+   "max_swing": 0.09639999999999999,
+   "n_plays": 176,
    "ot": false,
-   "volatility": 2.1604242625106242
+   "volatility": 2.3960074166666665
+  },
+  "pct": {
+   "competitive": 13.114754098360656,
+   "drama": 12.295081967213115,
+   "finish": 17.21311475409836,
+   "volatility": 11.475409836065573
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -254,11 +289,12 @@
    "detail": "Final",
    "home": 23
   },
-  "scored_at": "2026-11-03T06:19:46.663676+00:00",
+  "scored_at": "2026-11-08T05:56:58.586235+00:00",
   "season": "2026",
+  "season_rank": 108,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_BAL_IND",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -291,6 +327,7 @@
    "home_record": "0-1",
    "neutral": false
   },
+  "game_score": 89.42622950819671,
   "home": {
    "abbr": "HOU",
    "alt": "#eb0028",
@@ -301,18 +338,25 @@
    "short": "Houston"
   },
   "id": "401872660",
+  "index": 80.54098360655738,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9222222222222223,
-   "drama": 0.9233548439306707,
-   "finish": 0.6018646001212042,
-   "max_swing": 0.276936379950494,
-   "n_plays": 180,
+   "competitive": 0.9365079365079365,
+   "drama": 1.4627675713722224,
+   "finish": 0.556058064516129,
+   "max_swing": 0.41259999999999997,
+   "n_plays": 189,
    "ot": false,
-   "volatility": 10.293029763521083
+   "volatility": 11.585979055555555
+  },
+  "pct": {
+   "competitive": 95.90163934426229,
+   "drama": 85.24590163934425,
+   "finish": 86.0655737704918,
+   "volatility": 91.80327868852459
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -322,11 +366,12 @@
    "detail": "Final",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.669649+00:00",
+  "scored_at": "2026-11-08T05:56:58.974657+00:00",
   "season": "2026",
+  "season_rank": 11,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_BUF_HOU",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -359,6 +404,7 @@
    "home_record": "0-1",
    "neutral": false
   },
+  "game_score": 42.74590163934426,
   "home": {
    "abbr": "CAR",
    "alt": "#000000",
@@ -369,18 +415,25 @@
    "short": "Carolina"
   },
   "id": "401872661",
+  "index": 43.19672131147541,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.6275510204081632,
-   "drama": 0.29702229194876745,
-   "finish": 0.0014346401659775564,
-   "max_swing": 0.16338169574737604,
-   "n_plays": 196,
+   "competitive": 0.69,
+   "drama": 1.6366452362750004,
+   "finish": 0.03330769230769231,
+   "max_swing": 0.5944,
+   "n_plays": 200,
    "ot": false,
-   "volatility": 5.314966919023984
+   "volatility": 7.401584694444444
+  },
+  "pct": {
+   "competitive": 50.81967213114754,
+   "drama": 50.0,
+   "finish": 18.852459016393443,
+   "volatility": 47.540983606557376
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -390,11 +443,12 @@
    "detail": "Final",
    "home": 37
   },
-  "scored_at": "2026-11-03T06:19:46.666860+00:00",
+  "scored_at": "2026-11-08T05:56:59.328806+00:00",
   "season": "2026",
+  "season_rank": 71,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_CHI_CAR",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -427,6 +481,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 1.639344262295082,
   "home": {
    "abbr": "JAX",
    "alt": "#d7a22a",
@@ -437,18 +492,25 @@
    "short": "Jacksonville"
   },
   "id": "401872922",
+  "index": 10.311475409836065,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.05405405405405406,
-   "drama": 0.017147079246098686,
-   "finish": 3.158423621938069e-05,
-   "max_swing": 0.096388339996338,
-   "n_plays": 148,
+   "competitive": 0.06918238993710692,
+   "drama": 0.019384478241666676,
+   "finish": 0.0017333333333333348,
+   "max_swing": 0.09460000000000002,
+   "n_plays": 159,
    "ot": false,
-   "volatility": 0.5903453005814342
+   "volatility": 0.7200278055555562
+  },
+  "pct": {
+   "competitive": 4.098360655737705,
+   "drama": 0.819672131147541,
+   "finish": 3.278688524590164,
+   "volatility": 0.819672131147541
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -458,11 +520,12 @@
    "detail": "Final",
    "home": 34
   },
-  "scored_at": "2026-11-03T06:19:46.668248+00:00",
+  "scored_at": "2026-11-08T05:56:59.681434+00:00",
   "season": "2026",
+  "season_rank": 121,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_CLE_JAX",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -495,6 +558,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 84.87704918032787,
   "home": {
    "abbr": "DET",
    "alt": "#bbbbbb",
@@ -505,18 +569,25 @@
    "short": "Detroit"
   },
   "id": "401872923",
+  "index": 76.9016393442623,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.28440366972477066,
-   "drama": 1.9154284322974726,
-   "finish": 0.4942749426822168,
-   "max_swing": 0.552253984025679,
-   "n_plays": 218,
+   "competitive": 0.24778761061946902,
+   "drama": 1.2428231849083333,
+   "finish": 0.46317142857142857,
+   "max_swing": 0.47,
+   "n_plays": 226,
    "ot": true,
-   "volatility": 11.411661231192213
+   "volatility": 10.103152305555556
+  },
+  "pct": {
+   "competitive": 21.311475409836063,
+   "drama": 99.18032786885246,
+   "finish": 79.50819672131148,
+   "volatility": 93.44262295081968
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -526,11 +597,12 @@
    "detail": "Final/OT",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.660580+00:00",
+  "scored_at": "2026-11-08T05:57:00.039623+00:00",
   "season": "2026",
+  "season_rank": 21,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_NO_DET",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -563,6 +635,7 @@
    "home_record": "0-1",
    "neutral": false
   },
+  "game_score": 26.352459016393443,
   "home": {
    "abbr": "TEN",
    "alt": "#001532",
@@ -573,18 +646,25 @@
    "short": "Tennessee"
   },
   "id": "401872924",
+  "index": 30.081967213114755,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5493827160493827,
-   "drama": 0.13506763672508346,
-   "finish": 0.0019794085589971947,
-   "max_swing": 0.11279484629630998,
-   "n_plays": 162,
+   "competitive": 0.5485714285714286,
+   "drama": 0.12467273939166668,
+   "finish": 0.0020190476190476187,
+   "max_swing": 0.10830000000000001,
+   "n_plays": 175,
    "ot": false,
-   "volatility": 3.2955208819089816
+   "volatility": 3.1335970277777774
+  },
+  "pct": {
+   "competitive": 40.98360655737705,
+   "drama": 26.229508196721312,
+   "finish": 21.311475409836063,
+   "volatility": 25.40983606557377
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -594,11 +674,12 @@
    "detail": "Final",
    "home": 10
   },
-  "scored_at": "2026-11-03T06:19:46.662307+00:00",
+  "scored_at": "2026-11-08T05:57:00.400224+00:00",
   "season": "2026",
+  "season_rank": 91,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_NYJ_TEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -631,6 +712,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 29.098360655737704,
   "home": {
    "abbr": "CIN",
    "alt": "#000000",
@@ -641,18 +723,25 @@
    "short": "Cincinnati"
   },
   "id": "401872925",
+  "index": 32.278688524590166,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.17751479289940827,
-   "drama": 0.14441799985179468,
-   "finish": 0.08703774877993373,
-   "max_swing": 0.168023494017581,
-   "n_plays": 169,
+   "competitive": 0.20224719101123595,
+   "drama": 0.1644043782111111,
+   "finish": 0.08541739130434785,
+   "max_swing": 0.1622,
+   "n_plays": 178,
    "ot": false,
-   "volatility": 3.279288982760101
+   "volatility": 3.8565772777777765
+  },
+  "pct": {
+   "competitive": 13.934426229508196,
+   "drama": 28.688524590163933,
+   "finish": 49.18032786885246,
+   "volatility": 23.770491803278688
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -662,11 +751,12 @@
    "detail": "Final",
    "home": 33
   },
-  "scored_at": "2026-11-03T06:19:46.659221+00:00",
+  "scored_at": "2026-11-08T05:57:00.806446+00:00",
   "season": "2026",
+  "season_rank": 89,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_TB_CIN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -699,6 +789,7 @@
    "home_record": "0-1",
    "neutral": false
   },
+  "game_score": 53.07377049180328,
   "home": {
    "abbr": "LAC",
    "alt": "#ffc20e",
@@ -709,18 +800,25 @@
    "short": "Los Angeles"
   },
   "id": "401872926",
+  "index": 51.459016393442624,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.791907514450867,
-   "drama": 0.2827678715332846,
-   "finish": 0.08918939001858232,
-   "max_swing": 0.174552351236343,
-   "n_plays": 173,
+   "competitive": 0.7945945945945946,
+   "drama": 0.2990849780666666,
+   "finish": 0.04011851851851852,
+   "max_swing": 0.18869999999999998,
+   "n_plays": 185,
    "ot": false,
-   "volatility": 5.7194281325028715
+   "volatility": 6.049170055555555
+  },
+  "pct": {
+   "competitive": 73.77049180327869,
+   "drama": 48.36065573770492,
+   "finish": 50.0,
+   "volatility": 52.459016393442624
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -730,11 +828,12 @@
    "detail": "Final",
    "home": 14
   },
-  "scored_at": "2026-11-03T06:19:46.674885+00:00",
+  "scored_at": "2026-11-08T05:57:01.176118+00:00",
   "season": "2026",
+  "season_rank": 59,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_ARI_LAC",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -767,6 +866,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 54.30327868852459,
   "home": {
    "abbr": "MIN",
    "alt": "#ffc62f",
@@ -777,18 +877,25 @@
    "short": "Minnesota"
   },
   "id": "401872927",
+  "index": 57.442622950819676,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.7166666666666667,
-   "drama": 0.390480496949479,
-   "finish": 0.033096237653022303,
-   "max_swing": 0.17637798141869598,
-   "n_plays": 180,
+   "competitive": 0.5661375661375662,
+   "drama": 0.37561549376944436,
+   "finish": 0.014140740740740745,
+   "max_swing": 0.19130000000000003,
+   "n_plays": 189,
    "ot": false,
-   "volatility": 6.115401637334849
+   "volatility": 5.760868083333333
+  },
+  "pct": {
+   "competitive": 63.934426229508205,
+   "drama": 58.19672131147541,
+   "finish": 37.704918032786885,
+   "volatility": 57.377049180327866
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -798,11 +905,12 @@
    "detail": "Final",
    "home": 39
   },
-  "scored_at": "2026-11-03T06:19:46.672305+00:00",
+  "scored_at": "2026-11-08T05:57:01.546998+00:00",
   "season": "2026",
+  "season_rank": 48,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_GB_MIN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -835,6 +943,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 23.770491803278688,
   "home": {
    "abbr": "LV",
    "alt": "#a5acaf",
@@ -845,18 +954,25 @@
    "short": "Las Vegas"
   },
   "id": "401872928",
+  "index": 28.016393442622952,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.2485207100591716,
-   "drama": 0.1125765514123683,
-   "finish": 0.013225445589658073,
-   "max_swing": 0.10569931418961698,
-   "n_plays": 169,
+   "competitive": 0.32222222222222224,
+   "drama": 0.10767255198611109,
+   "finish": 0.006416000000000004,
+   "max_swing": 0.08579999999999999,
+   "n_plays": 180,
    "ot": false,
-   "volatility": 3.1779752830247876
+   "volatility": 3.3537498611111105
+  },
+  "pct": {
+   "competitive": 19.672131147540984,
+   "drama": 21.311475409836063,
+   "finish": 34.42622950819672,
+   "volatility": 21.311475409836063
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -866,11 +982,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.671020+00:00",
+  "scored_at": "2026-11-08T05:57:01.905899+00:00",
   "season": "2026",
+  "season_rank": 95,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_MIA_LV",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -903,6 +1020,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 53.64754098360656,
   "home": {
    "abbr": "PHI",
    "alt": "#000000",
@@ -913,18 +1031,25 @@
    "short": "Philadelphia"
   },
   "id": "401872929",
+  "index": 56.91803278688525,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.4502923976608187,
-   "drama": 0.34016295175738404,
-   "finish": 0.21420941637894697,
-   "max_swing": 0.16708391243769893,
-   "n_plays": 171,
+   "competitive": 0.7142857142857143,
+   "drama": 0.6645824724888889,
+   "finish": 0.2987777777777778,
+   "max_swing": 0.3519,
+   "n_plays": 182,
    "ot": false,
-   "volatility": 5.869190892369076
+   "volatility": 7.345055944444445
+  },
+  "pct": {
+   "competitive": 34.42622950819672,
+   "drama": 54.09836065573771,
+   "finish": 59.83606557377049,
+   "volatility": 54.91803278688525
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -934,11 +1059,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.673529+00:00",
+  "scored_at": "2026-11-08T05:57:02.273021+00:00",
   "season": "2026",
+  "season_rank": 50,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_WAS_PHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -971,6 +1097,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 45.40983606557377,
   "home": {
    "abbr": "NYG",
    "alt": "#c9243f",
@@ -981,18 +1108,25 @@
    "short": "New York"
   },
   "id": "401872930",
+  "index": 49.32786885245902,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.6666666666666666,
-   "drama": 0.24802089741696917,
-   "finish": 0.06296981970469148,
-   "max_swing": 0.12992657051274803,
-   "n_plays": 165,
+   "competitive": 0.6057142857142858,
+   "drama": 0.1973422481277778,
+   "finish": 0.03779999999999999,
+   "max_swing": 0.11709999999999998,
+   "n_plays": 175,
    "ot": false,
-   "volatility": 5.142567021544011
+   "volatility": 4.929421111111112
+  },
+  "pct": {
+   "competitive": 55.73770491803278,
+   "drama": 44.26229508196721,
+   "finish": 44.26229508196721,
+   "volatility": 44.26229508196721
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -1002,11 +1136,12 @@
    "detail": "Final",
    "home": 28
   },
-  "scored_at": "2026-11-03T06:19:46.676151+00:00",
+  "scored_at": "2026-11-08T05:57:02.632054+00:00",
   "season": "2026",
+  "season_rank": 61,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_DAL_NYG",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -1039,6 +1174,7 @@
    "home_record": "1-0",
    "neutral": false
   },
+  "game_score": 26.352459016393443,
   "home": {
    "abbr": "KC",
    "alt": "#ffb612",
@@ -1049,18 +1185,25 @@
    "short": "Kansas City"
   },
   "id": "401872931",
+  "index": 35.08196721311475,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.55,
-   "drama": 0.1473933870311975,
-   "finish": 0.00029852377536565555,
-   "max_swing": 0.14922889683724194,
-   "n_plays": 160,
+   "competitive": 0.5465116279069767,
+   "drama": 0.1395326693944444,
+   "finish": 0.001692307692307694,
+   "max_swing": 0.14759999999999995,
+   "n_plays": 172,
    "ot": false,
-   "volatility": 3.4411762332025866
+   "volatility": 3.2639061666666658
+  },
+  "pct": {
+   "competitive": 41.80327868852459,
+   "drama": 29.508196721311474,
+   "finish": 13.114754098360656,
+   "volatility": 27.049180327868854
   },
   "period": "week-01",
   "period_label": "Week 1",
@@ -1070,11 +1213,12 @@
    "detail": "Final",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.677394+00:00",
+  "scored_at": "2026-11-08T05:57:03.003224+00:00",
   "season": "2026",
+  "season_rank": 84,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_01_DEN_KC",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-0",
@@ -1107,6 +1251,7 @@
    "home_record": "2-0",
    "neutral": false
   },
+  "game_score": 9.385245901639344,
   "home": {
    "abbr": "BUF",
    "alt": "#d50a0a",
@@ -1117,18 +1262,25 @@
    "short": "Buffalo"
   },
   "id": "401872932",
+  "index": 22.508196721311474,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.08695652173913043,
-   "drama": 0.03796148680957934,
-   "finish": 0.005163197908731992,
-   "max_swing": 0.05775722680316897,
-   "n_plays": 184,
+   "competitive": 0.08947368421052632,
+   "drama": 0.3748463222666666,
+   "finish": 0.0023833333333333393,
+   "max_swing": 0.3388,
+   "n_plays": 190,
    "ot": false,
-   "volatility": 1.8854246378381292
+   "volatility": 3.126588666666666
+  },
+  "pct": {
+   "competitive": 5.737704918032787,
+   "drama": 3.278688524590164,
+   "finish": 27.049180327868854,
+   "volatility": 5.737704918032787
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1138,11 +1290,12 @@
    "detail": "Final",
    "home": 41
   },
-  "scored_at": "2026-11-03T06:19:46.679403+00:00",
+  "scored_at": "2026-11-08T05:57:03.358971+00:00",
   "season": "2026",
+  "season_rank": 104,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_DET_BUF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1175,6 +1328,7 @@
    "home_record": "0-2",
    "neutral": false
   },
+  "game_score": 8.19672131147541,
   "home": {
    "abbr": "ATL",
    "alt": "#000000",
@@ -1185,18 +1339,25 @@
    "short": "Atlanta"
   },
   "id": "401872933",
+  "index": 10.557377049180328,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.15204678362573099,
-   "drama": 0.07182338950935312,
-   "finish": 4.723309648397844e-05,
-   "max_swing": 0.14493986964225802,
-   "n_plays": 171,
+   "competitive": 0.19337016574585636,
+   "drama": 0.06972883130833334,
+   "finish": 0.0017647058823529428,
+   "max_swing": 0.09409999999999996,
+   "n_plays": 181,
    "ot": false,
-   "volatility": 1.9808342827089098
+   "volatility": 2.074265583333333
+  },
+  "pct": {
+   "competitive": 10.655737704918032,
+   "drama": 9.836065573770492,
+   "finish": 4.918032786885246,
+   "volatility": 8.19672131147541
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1206,11 +1367,12 @@
    "detail": "Final",
    "home": 3
   },
-  "scored_at": "2026-11-03T06:19:46.680782+00:00",
+  "scored_at": "2026-11-08T05:57:03.725179+00:00",
   "season": "2026",
+  "season_rank": 120,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_CAR_ATL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -1243,6 +1405,7 @@
    "home_record": "0-2",
    "neutral": false
   },
+  "game_score": 40.9016393442623,
   "home": {
    "abbr": "HOU",
    "alt": "#eb0028",
@@ -1253,18 +1416,25 @@
    "short": "Houston"
   },
   "id": "401872934",
+  "index": 38.72131147540984,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.6113989637305699,
-   "drama": 0.2321813570089047,
-   "finish": 0.012787182493151904,
-   "max_swing": 0.15974719252949598,
-   "n_plays": 193,
+   "competitive": 0.6135265700483091,
+   "drama": 1.1281467332222221,
+   "finish": 0.03640645161290323,
+   "max_swing": 0.4765,
+   "n_plays": 207,
    "ot": false,
-   "volatility": 5.078517024158067
+   "volatility": 6.955943055555557
+  },
+  "pct": {
+   "competitive": 49.18032786885246,
+   "drama": 41.80327868852459,
+   "finish": 33.60655737704918,
+   "volatility": 41.80327868852459
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1274,11 +1444,12 @@
    "detail": "Final",
    "home": 6
   },
-  "scored_at": "2026-11-03T06:19:46.690520+00:00",
+  "scored_at": "2026-11-08T05:57:04.082691+00:00",
   "season": "2026",
+  "season_rank": 79,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_CIN_HOU",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1311,6 +1482,7 @@
    "home_record": "0-2",
    "neutral": false
   },
+  "game_score": 73.85245901639345,
   "home": {
    "abbr": "TB",
    "alt": "#3e3a35",
@@ -1321,18 +1493,25 @@
    "short": "Tampa Bay"
   },
   "id": "401872935",
+  "index": 59.081967213114766,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5930232558139535,
-   "drama": 0.7265123639552341,
-   "finish": 0.7540478198924546,
-   "max_swing": 0.38619601726532016,
-   "n_plays": 172,
+   "competitive": 0.6010928961748634,
+   "drama": 0.8017183805694443,
+   "finish": 0.6068720000000001,
+   "max_swing": 0.4251,
+   "n_plays": 183,
    "ot": false,
-   "volatility": 6.837893879163181
+   "volatility": 6.892500083333333
+  },
+  "pct": {
+   "competitive": 48.36065573770492,
+   "drama": 79.50819672131148,
+   "finish": 100.0,
+   "volatility": 64.75409836065575
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1342,11 +1521,12 @@
    "detail": "Final",
    "home": 19
   },
-  "scored_at": "2026-11-03T06:19:46.687690+00:00",
+  "scored_at": "2026-11-08T05:57:04.446610+00:00",
   "season": "2026",
+  "season_rank": 44,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_CLE_TB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -1379,6 +1559,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 92.3360655737705,
   "home": {
    "abbr": "NYJ",
    "alt": "#ffffff",
@@ -1389,18 +1570,25 @@
    "short": "New York"
   },
   "id": "401872936",
+  "index": 79.8688524590164,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8858695652173914,
-   "drama": 1.1557501485843322,
-   "finish": 0.6880978877314706,
-   "max_swing": 0.30197754828259304,
-   "n_plays": 184,
+   "competitive": 0.882051282051282,
+   "drama": 0.8738492309527779,
+   "finish": 0.7072944444444444,
+   "max_swing": 0.26220000000000004,
+   "n_plays": 195,
    "ot": true,
-   "volatility": 10.657362516921841
+   "volatility": 10.143011138888888
+  },
+  "pct": {
+   "competitive": 87.70491803278688,
+   "drama": 90.1639344262295,
+   "finish": 96.72131147540983,
+   "volatility": 92.62295081967213
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1410,11 +1598,12 @@
    "detail": "Final/OT",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.686185+00:00",
+  "scored_at": "2026-11-08T05:57:04.801496+00:00",
   "season": "2026",
+  "season_rank": 14,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_GB_NYJ",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -1447,6 +1636,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 73.77049180327869,
   "home": {
    "abbr": "CHI",
    "alt": "#e64100",
@@ -1457,18 +1647,25 @@
    "short": "Chicago"
   },
   "id": "401872937",
+  "index": 78.01639344262296,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8902439024390244,
-   "drama": 0.6353578799127003,
-   "finish": 0.3380327790975571,
-   "max_swing": 0.24263113737106295,
-   "n_plays": 164,
+   "competitive": 0.8938547486033519,
+   "drama": 1.0633817310249998,
+   "finish": 0.3227185185185185,
+   "max_swing": 0.31950000000000006,
+   "n_plays": 179,
    "ot": false,
-   "volatility": 7.996906703673306
+   "volatility": 9.97811125
+  },
+  "pct": {
+   "competitive": 88.52459016393442,
+   "drama": 74.59016393442623,
+   "finish": 67.21311475409836,
+   "volatility": 72.95081967213115
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1478,11 +1675,12 @@
    "detail": "Final",
    "home": 3
   },
-  "scored_at": "2026-11-03T06:19:46.682160+00:00",
+  "scored_at": "2026-11-08T05:57:05.155461+00:00",
   "season": "2026",
+  "season_rank": 17,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_MIN_CHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1515,6 +1713,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 50.08196721311475,
   "home": {
    "abbr": "BAL",
    "alt": "#000000",
@@ -1525,18 +1724,25 @@
    "short": "Baltimore"
   },
   "id": "401872938",
+  "index": 46.0655737704918,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.3312883435582822,
-   "drama": 0.323508567814988,
-   "finish": 0.4342184372787973,
-   "max_swing": 0.18931686878204299,
-   "n_plays": 163,
+   "competitive": 0.2774566473988439,
+   "drama": 0.4296353490722223,
+   "finish": 0.36175,
+   "max_swing": 0.2264,
+   "n_plays": 173,
    "ot": false,
-   "volatility": 5.118669006047352
+   "volatility": 5.882751833333334
+  },
+  "pct": {
+   "competitive": 22.950819672131146,
+   "drama": 53.278688524590166,
+   "finish": 74.59016393442623,
+   "volatility": 43.44262295081967
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1546,11 +1752,12 @@
    "detail": "Final",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.689186+00:00",
+  "scored_at": "2026-11-08T05:57:05.507516+00:00",
   "season": "2026",
+  "season_rank": 67,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_NO_BAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -1583,6 +1790,7 @@
    "home_record": "0-2",
    "neutral": false
   },
+  "game_score": 80.45081967213115,
   "home": {
    "abbr": "TEN",
    "alt": "#001532",
@@ -1593,18 +1801,25 @@
    "short": "Tennessee"
   },
   "id": "401872939",
+  "index": 70.36065573770492,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.6352941176470588,
-   "drama": 0.8606856541964133,
-   "finish": 0.6486862954788559,
-   "max_swing": 0.27723995539041996,
-   "n_plays": 170,
+   "competitive": 0.88268156424581,
+   "drama": 1.0778249277444447,
+   "finish": 0.5540709677419354,
+   "max_swing": 0.4012,
+   "n_plays": 179,
    "ot": false,
-   "volatility": 8.454181385965393
+   "volatility": 9.423207611111113
+  },
+  "pct": {
+   "competitive": 52.459016393442624,
+   "drama": 84.42622950819673,
+   "finish": 93.44262295081968,
+   "volatility": 78.68852459016394
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1614,11 +1829,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.683503+00:00",
+  "scored_at": "2026-11-08T05:57:05.872358+00:00",
   "season": "2026",
+  "season_rank": 31,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_PHI_TEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1651,6 +1867,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 58.032786885245905,
   "home": {
    "abbr": "DEN",
    "alt": "#fc4c02",
@@ -1661,18 +1878,25 @@
    "short": "Denver"
   },
   "id": "401872940",
+  "index": 52.42622950819673,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.8238993710691824,
-   "drama": 0.3601823295713089,
-   "finish": 0.10639154648079598,
-   "max_swing": 0.15253138542175299,
-   "n_plays": 159,
+   "competitive": 0.6686046511627907,
+   "drama": 0.2665828933444445,
+   "finish": 0.09196190476190476,
+   "max_swing": 0.14890000000000003,
+   "n_plays": 172,
    "ot": false,
-   "volatility": 6.342604483819245
+   "volatility": 5.386035888888889
+  },
+  "pct": {
+   "competitive": 77.8688524590164,
+   "drama": 54.91803278688525,
+   "finish": 51.63934426229508,
+   "volatility": 58.19672131147541
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1682,11 +1906,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.691797+00:00",
+  "scored_at": "2026-11-08T05:57:06.235715+00:00",
   "season": "2026",
+  "season_rank": 54,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_JAX_DEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1719,6 +1944,7 @@
    "home_record": "0-2",
    "neutral": false
   },
+  "game_score": 70.86065573770492,
   "home": {
    "abbr": "LAC",
    "alt": "#ffc20e",
@@ -1729,18 +1955,25 @@
    "short": "Los Angeles"
   },
   "id": "401872941",
+  "index": 66.68852459016394,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.864406779661017,
-   "drama": 0.6688836066689134,
-   "finish": 0.18392756101595983,
-   "max_swing": 0.330769300460815,
-   "n_plays": 177,
+   "competitive": 0.8571428571428571,
+   "drama": 0.6243047832333335,
+   "finish": 0.12145999999999998,
+   "max_swing": 0.2922,
+   "n_plays": 189,
    "ot": false,
-   "volatility": 7.82766349816893
+   "volatility": 7.755155111111112
+  },
+  "pct": {
+   "competitive": 86.0655737704918,
+   "drama": 76.22950819672131,
+   "finish": 57.377049180327866,
+   "volatility": 70.49180327868852
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1750,11 +1983,12 @@
    "detail": "Final",
    "home": 14
   },
-  "scored_at": "2026-11-03T06:19:46.693084+00:00",
+  "scored_at": "2026-11-08T05:57:06.589337+00:00",
   "season": "2026",
+  "season_rank": 34,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_LV_LAC",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1787,6 +2021,7 @@
    "home_record": "2-0",
    "neutral": false
   },
+  "game_score": 1.7622950819672132,
   "home": {
    "abbr": "SF",
    "alt": "#b3995d",
@@ -1797,18 +2032,25 @@
    "short": "San Francisco"
   },
   "id": "401872942",
+  "index": 7.409836065573771,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
    "competitive": 0.0,
-   "drama": 0.019538436826159314,
-   "finish": 2.792494539486749e-05,
-   "max_swing": 0.04721864312887203,
-   "n_plays": 151,
+   "drama": 0.014450348313888872,
+   "finish": 0.001692307692307694,
+   "max_swing": 0.05779999999999996,
+   "n_plays": 162,
    "ot": false,
-   "volatility": 1.0644797942063247
+   "volatility": 0.8300985833333334
+  },
+  "pct": {
+   "competitive": 0.819672131147541,
+   "drama": 1.639344262295082,
+   "finish": 0.819672131147541,
+   "volatility": 2.459016393442623
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1818,11 +2060,12 @@
    "detail": "Final",
    "home": 35
   },
-  "scored_at": "2026-11-03T06:19:46.696958+00:00",
+  "scored_at": "2026-11-08T05:57:06.935895+00:00",
   "season": "2026",
+  "season_rank": 122,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_MIA_SF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -1855,6 +2098,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 27.008196721311474,
   "home": {
    "abbr": "ARI",
    "alt": "#ffffff",
@@ -1865,18 +2109,25 @@
    "short": "Arizona"
   },
   "id": "401872943",
+  "index": 40.606557377049185,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.554140127388535,
-   "drama": 0.13989397176944335,
-   "finish": 0.0004175602433470641,
-   "max_swing": 0.14225236368511002,
-   "n_plays": 157,
+   "competitive": 0.6369047619047619,
+   "drama": 0.19098906526666665,
+   "finish": 0.0017333333333333348,
+   "max_swing": 0.1628,
+   "n_plays": 168,
    "ot": false,
-   "volatility": 3.4855486411275844
+   "volatility": 3.834727444444445
+  },
+  "pct": {
+   "competitive": 43.44262295081967,
+   "drama": 27.86885245901639,
+   "finish": 13.934426229508196,
+   "volatility": 28.688524590163933
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1886,11 +2137,12 @@
    "detail": "Final",
    "home": 7
   },
-  "scored_at": "2026-11-03T06:19:46.695646+00:00",
+  "scored_at": "2026-11-08T05:57:07.298826+00:00",
   "season": "2026",
+  "season_rank": 75,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_SEA_ARI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -1923,6 +2175,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 26.270491803278688,
   "home": {
    "abbr": "DAL",
    "alt": "#b0b7bc",
@@ -1933,18 +2186,25 @@
    "short": "Dallas"
   },
   "id": "401872944",
+  "index": 26.016393442622952,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.42771084337349397,
-   "drama": 0.1312649494935566,
-   "finish": 0.008459978796686907,
-   "max_swing": 0.16180551052093495,
-   "n_plays": 166,
+   "competitive": 0.38857142857142857,
+   "drama": 0.09458952182499993,
+   "finish": 0.003683333333333335,
+   "max_swing": 0.10259999999999991,
+   "n_plays": 175,
    "ot": false,
-   "volatility": 3.294495748560715
+   "volatility": 3.07193497222222
+  },
+  "pct": {
+   "competitive": 31.147540983606557,
+   "drama": 25.40983606557377,
+   "finish": 28.688524590163933,
+   "volatility": 24.59016393442623
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -1954,11 +2214,12 @@
    "detail": "Final",
    "home": 37
   },
-  "scored_at": "2026-11-03T06:19:46.694385+00:00",
+  "scored_at": "2026-11-08T05:57:07.659460+00:00",
   "season": "2026",
+  "season_rank": 97,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_WAS_DAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -1991,6 +2252,7 @@
    "home_record": "2-0",
    "neutral": false
   },
+  "game_score": 98.27868852459017,
   "home": {
    "abbr": "KC",
    "alt": "#ffb612",
@@ -2001,18 +2263,25 @@
    "short": "Kansas City"
   },
   "id": "401872945",
+  "index": 84.62295081967214,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.8613861386138614,
-   "drama": 2.8722927920201453,
-   "finish": 0.7219544981259279,
-   "max_swing": 0.531644493526919,
-   "n_plays": 202,
+   "competitive": 0.8293838862559242,
+   "drama": 1.6690000364083333,
+   "finish": 0.6971933333333333,
+   "max_swing": 0.4024,
+   "n_plays": 211,
    "ot": true,
-   "volatility": 15.830156923999501
+   "volatility": 12.822476805555555
+  },
+  "pct": {
+   "competitive": 84.42622950819673,
+   "drama": 100.0,
+   "finish": 99.18032786885246,
+   "volatility": 100.0
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -2022,11 +2291,12 @@
    "detail": "Final/OT",
    "home": 33
   },
-  "scored_at": "2026-11-03T06:19:46.698391+00:00",
+  "scored_at": "2026-11-08T05:57:08.023698+00:00",
   "season": "2026",
+  "season_rank": 4,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_IND_KC",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-1",
@@ -2059,6 +2329,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 15.532786885245901,
   "home": {
    "abbr": "NE",
    "alt": "#c60c30",
@@ -2069,18 +2340,25 @@
    "short": "New England"
   },
   "id": "401872946",
+  "index": 18.42622950819672,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.15151515151515152,
-   "drama": 0.0903620678201025,
-   "finish": 0.000862966827948175,
-   "max_swing": 0.10808265209198009,
-   "n_plays": 165,
+   "competitive": 0.22099447513812154,
+   "drama": 0.0977881929805556,
+   "finish": 0.0017500000000000016,
+   "max_swing": 0.07589999999999997,
+   "n_plays": 181,
    "ot": false,
-   "volatility": 2.7632909750594536
+   "volatility": 3.0891289166666667
+  },
+  "pct": {
+   "competitive": 9.836065573770492,
+   "drama": 15.573770491803279,
+   "finish": 16.39344262295082,
+   "volatility": 16.39344262295082
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -2090,11 +2368,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.684843+00:00",
+  "scored_at": "2026-11-08T05:57:08.363669+00:00",
   "season": "2026",
+  "season_rank": 110,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_PIT_NE",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -2127,6 +2406,7 @@
    "home_record": "1-1",
    "neutral": false
   },
+  "game_score": 5.8196721311475414,
   "home": {
    "abbr": "LAR",
    "alt": "#ffd100",
@@ -2137,18 +2417,25 @@
    "short": "Los Angeles"
   },
   "id": "401872947",
+  "index": 10.655737704918034,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.21935483870967742,
-   "drama": 0.0539189874786236,
-   "finish": 2.9265880584744552e-05,
-   "max_swing": 0.09312883078800105,
-   "n_plays": 155,
+   "competitive": 0.23809523809523808,
+   "drama": 0.071702779925,
+   "finish": 0.0016000000000000014,
+   "max_swing": 0.09689999999999999,
+   "n_plays": 168,
    "ot": false,
-   "volatility": 1.8684715398096023
+   "volatility": 2.3334615277777777
+  },
+  "pct": {
+   "competitive": 16.39344262295082,
+   "drama": 6.557377049180328,
+   "finish": 1.639344262295082,
+   "volatility": 4.918032786885246
   },
   "period": "week-02",
   "period_label": "Week 2",
@@ -2158,11 +2445,12 @@
    "detail": "Final",
    "home": 28
   },
-  "scored_at": "2026-11-03T06:19:46.699722+00:00",
+  "scored_at": "2026-11-08T05:57:08.700906+00:00",
   "season": "2026",
+  "season_rank": 119,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_02_NYG_LA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-0",
@@ -2195,6 +2483,7 @@
    "home_record": "1-2",
    "neutral": false
   },
+  "game_score": 32.00819672131148,
   "home": {
    "abbr": "GB",
    "alt": "#ffb612",
@@ -2205,18 +2494,25 @@
    "short": "Green Bay"
   },
   "id": "401872948",
+  "index": 28.606557377049185,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.5549132947976878,
-   "drama": 0.1730273501723592,
-   "finish": 0.002009893130952794,
-   "max_swing": 0.11505383253097501,
-   "n_plays": 173,
+   "competitive": 0.5567567567567567,
+   "drama": 0.1312656328722222,
+   "finish": 0.0018666666666666692,
+   "max_swing": 0.08460000000000001,
+   "n_plays": 185,
    "ot": false,
-   "volatility": 3.953054837205265
+   "volatility": 3.836059611111111
+  },
+  "pct": {
+   "competitive": 44.26229508196721,
+   "drama": 33.60655737704918,
+   "finish": 22.131147540983605,
+   "volatility": 32.78688524590164
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2226,11 +2522,12 @@
    "detail": "Final",
    "home": 14
   },
-  "scored_at": "2026-11-03T06:19:46.701487+00:00",
+  "scored_at": "2026-11-08T05:57:09.057087+00:00",
   "season": "2026",
+  "season_rank": 93,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_ATL_GB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-2",
@@ -2263,6 +2560,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 83.56557377049181,
   "home": {
    "abbr": "CLE",
    "alt": "#ff3c00",
@@ -2273,18 +2571,25 @@
    "short": "Cleveland"
   },
   "id": "401872949",
+  "index": 75.85245901639345,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9015544041450777,
-   "drama": 0.7075415422146998,
-   "finish": 0.39359623062525484,
-   "max_swing": 0.21798594637215096,
-   "n_plays": 193,
+   "competitive": 0.8985507246376812,
+   "drama": 0.9511780228722221,
+   "finish": 0.3199333333333334,
+   "max_swing": 0.3617000000000001,
+   "n_plays": 207,
    "ot": false,
-   "volatility": 9.966119141638435
+   "volatility": 11.258507555555557
+  },
+  "pct": {
+   "competitive": 90.98360655737704,
+   "drama": 77.8688524590164,
+   "finish": 72.1311475409836,
+   "volatility": 90.1639344262295
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2294,11 +2599,12 @@
    "detail": "Final",
    "home": 21
   },
-  "scored_at": "2026-11-03T06:19:46.705570+00:00",
+  "scored_at": "2026-11-08T05:57:09.412538+00:00",
   "season": "2026",
+  "season_rank": 22,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_CAR_CLE",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-1",
@@ -2331,6 +2637,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 88.15573770491802,
   "home": {
    "abbr": "PIT",
    "alt": "#ffb612",
@@ -2341,18 +2648,25 @@
    "short": "Pittsburgh"
   },
   "id": "401872950",
+  "index": 86.52459016393442,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9819277108433735,
-   "drama": 1.1536474360503173,
-   "finish": 0.6091620102524757,
-   "max_swing": 0.478230059146881,
-   "n_plays": 166,
+   "competitive": 0.9714285714285714,
+   "drama": 0.9425014157499999,
+   "finish": 0.4244222222222222,
+   "max_swing": 0.37070000000000003,
+   "n_plays": 175,
    "ot": false,
-   "volatility": 9.27471413641314
+   "volatility": 9.132135055555555
+  },
+  "pct": {
+   "competitive": 99.18032786885246,
+   "drama": 89.34426229508196,
+   "finish": 87.70491803278688,
+   "volatility": 85.24590163934425
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2362,11 +2676,12 @@
    "detail": "Final",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.715839+00:00",
+  "scored_at": "2026-11-08T05:57:09.739221+00:00",
   "season": "2026",
+  "season_rank": 2,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_CIN_PIT",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-0",
@@ -2399,6 +2714,7 @@
    "home_record": "1-2",
    "neutral": false
   },
+  "game_score": 74.87704918032787,
   "home": {
    "abbr": "IND",
    "alt": "#ffffff",
@@ -2409,18 +2725,25 @@
    "short": "Indianapolis"
   },
   "id": "401872951",
+  "index": 63.9016393442623,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8614457831325302,
-   "drama": 0.5613452583314655,
-   "finish": 0.665608418060127,
-   "max_swing": 0.27414889633655504,
-   "n_plays": 166,
+   "competitive": 0.8324022346368715,
+   "drama": 0.6949076408111113,
+   "finish": 0.608762962962963,
+   "max_swing": 0.3255,
+   "n_plays": 179,
    "ot": false,
-   "volatility": 7.118442954204921
+   "volatility": 8.139887611111114
+  },
+  "pct": {
+   "competitive": 85.24590163934425,
+   "drama": 71.31147540983606,
+   "finish": 95.08196721311475,
+   "volatility": 65.57377049180327
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2430,11 +2753,12 @@
    "detail": "Final",
    "home": 19
   },
-  "scored_at": "2026-11-03T06:19:46.709696+00:00",
+  "scored_at": "2026-11-08T05:57:10.074267+00:00",
   "season": "2026",
+  "season_rank": 38,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_HOU_IND",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-2",
@@ -2467,6 +2791,7 @@
    "home_record": "0-3",
    "neutral": false
   },
+  "game_score": 21.352459016393443,
   "home": {
    "abbr": "MIA",
    "alt": "#fc4c02",
@@ -2477,18 +2802,25 @@
    "short": "Miami"
   },
   "id": "401872952",
+  "index": 23.081967213114755,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.08860759493670886,
-   "drama": 0.09594754830456528,
-   "finish": 0.009994562128657458,
-   "max_swing": 0.08450984954834,
-   "n_plays": 158,
+   "competitive": 0.005917159763313609,
+   "drama": 0.055202313177777775,
+   "finish": 0.007041666666666673,
+   "max_swing": 0.048100000000000004,
+   "n_plays": 169,
    "ot": false,
-   "volatility": 3.195392528482474
+   "volatility": 2.511551388888889
+  },
+  "pct": {
+   "competitive": 6.557377049180328,
+   "drama": 18.0327868852459,
+   "finish": 31.147540983606557,
+   "volatility": 22.131147540983605
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2498,11 +2830,12 @@
    "detail": "Final",
    "home": 10
   },
-  "scored_at": "2026-11-03T06:19:46.711759+00:00",
+  "scored_at": "2026-11-08T05:57:10.399252+00:00",
   "season": "2026",
+  "season_rank": 102,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_KC_MIA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-0",
@@ -2535,6 +2868,7 @@
    "home_record": "3-0",
    "neutral": false
   },
+  "game_score": 63.40163934426229,
   "home": {
    "abbr": "BUF",
    "alt": "#d50a0a",
@@ -2545,18 +2879,25 @@
    "short": "Buffalo"
   },
   "id": "401872953",
+  "index": 56.721311475409834,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8514285714285714,
-   "drama": 0.43803186150248186,
-   "finish": 0.08256999643084302,
-   "max_swing": 0.18379768729209894,
-   "n_plays": 175,
+   "competitive": 0.8387096774193549,
+   "drama": 0.4449026647888889,
+   "finish": 0.051624000000000024,
+   "max_swing": 0.1886,
+   "n_plays": 186,
    "ot": false,
-   "volatility": 7.256379832583982
+   "volatility": 7.415812777777781
+  },
+  "pct": {
+   "competitive": 80.32786885245902,
+   "drama": 63.934426229508205,
+   "finish": 47.540983606557376,
+   "volatility": 66.39344262295081
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2566,11 +2907,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.703581+00:00",
+  "scored_at": "2026-11-08T05:57:10.751528+00:00",
   "season": "2026",
+  "season_rank": 51,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_LAC_BUF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-2",
@@ -2603,6 +2945,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 53.77049180327869,
   "home": {
    "abbr": "DET",
    "alt": "#bbbbbb",
@@ -2613,18 +2956,25 @@
    "short": "Detroit"
   },
   "id": "401872954",
+  "index": 52.016393442622956,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5209580838323353,
-   "drama": 0.3682091626166548,
-   "finish": 0.2971168941266325,
-   "max_swing": 0.22221816253662097,
-   "n_plays": 167,
+   "competitive": 0.5485714285714286,
+   "drama": 0.38443666833333334,
+   "finish": 0.25501666666666667,
+   "max_swing": 0.28700000000000003,
+   "n_plays": 175,
    "ot": false,
-   "volatility": 5.466725913382908
+   "volatility": 5.449650833333333
+  },
+  "pct": {
+   "competitive": 38.52459016393443,
+   "drama": 55.73770491803278,
+   "finish": 65.57377049180327,
+   "volatility": 50.81967213114754
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2634,11 +2984,12 @@
    "detail": "Final",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.707665+00:00",
+  "scored_at": "2026-11-08T05:57:11.071594+00:00",
   "season": "2026",
+  "season_rank": 55,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_NYJ_DET",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-1",
@@ -2671,6 +3022,7 @@
    "home_record": "1-2",
    "neutral": false
   },
+  "game_score": 84.01639344262296,
   "home": {
    "abbr": "WSH",
    "alt": "#ffb612",
@@ -2681,18 +3033,25 @@
    "short": "Washington"
   },
   "id": "401872955",
+  "index": 73.21311475409837,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9210526315789473,
-   "drama": 0.7320244452224878,
-   "finish": 0.4497934875720015,
-   "max_swing": 0.337417672033825,
-   "n_plays": 190,
+   "competitive": 0.9191919191919192,
+   "drama": 0.8322290947944442,
+   "finish": 0.39805714285714294,
+   "max_swing": 0.34099999999999997,
+   "n_plays": 198,
    "ot": false,
-   "volatility": 9.318309823744105
+   "volatility": 9.71901711111111
+  },
+  "pct": {
+   "competitive": 94.26229508196722,
+   "drama": 80.32786885245902,
+   "finish": 77.04918032786885,
+   "volatility": 86.88524590163934
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2702,11 +3061,12 @@
    "detail": "Final",
    "home": 33
   },
-  "scored_at": "2026-11-03T06:19:46.717885+00:00",
+  "scored_at": "2026-11-08T05:57:11.412749+00:00",
   "season": "2026",
+  "season_rank": 27,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_SEA_WAS",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-0",
@@ -2739,6 +3099,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 68.97540983606557,
   "home": {
    "abbr": "NYG",
    "alt": "#c9243f",
@@ -2749,18 +3110,25 @@
    "short": "New York"
   },
   "id": "401872956",
+  "index": 58.18032786885246,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5515151515151515,
-   "drama": 1.02685355596563,
-   "finish": 0.5037523495114368,
-   "max_swing": 0.612522661685944,
-   "n_plays": 165,
+   "competitive": 0.6906077348066298,
+   "drama": 1.3688046729388887,
+   "finish": 0.46153846153846156,
+   "max_swing": 0.6807,
+   "n_plays": 181,
    "ot": false,
-   "volatility": 6.4000199640314595
+   "volatility": 7.611678777777776
+  },
+  "pct": {
+   "competitive": 42.62295081967213,
+   "drama": 86.88524590163934,
+   "finish": 80.32786885245902,
+   "volatility": 59.83606557377049
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2770,11 +3138,12 @@
    "detail": "Final",
    "home": 12
   },
-  "scored_at": "2026-11-03T06:19:46.713743+00:00",
+  "scored_at": "2026-11-08T05:57:11.741487+00:00",
   "season": "2026",
+  "season_rank": 45,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_TEN_NYG",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-2",
@@ -2807,6 +3176,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 19.01639344262295,
   "home": {
    "abbr": "JAX",
    "alt": "#d7a22a",
@@ -2817,18 +3187,25 @@
    "short": "Jacksonville"
   },
   "id": "401872957",
+  "index": 24.21311475409836,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.4166666666666667,
-   "drama": 0.13041167492874142,
-   "finish": 5.728147894279445e-05,
-   "max_swing": 0.16922736167907698,
-   "n_plays": 168,
+   "competitive": 0.4745762711864407,
+   "drama": 0.13089000969999995,
+   "finish": 0.0017333333333333348,
+   "max_swing": 0.11580000000000001,
+   "n_plays": 177,
    "ot": false,
-   "volatility": 2.970952409683418
+   "volatility": 3.1141416666666655
+  },
+  "pct": {
+   "competitive": 28.688524590163933,
+   "drama": 24.59016393442623,
+   "finish": 5.737704918032787,
+   "volatility": 19.672131147540984
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2838,11 +3215,12 @@
    "detail": "Final",
    "home": 35
   },
-  "scored_at": "2026-11-03T06:19:46.720039+00:00",
+  "scored_at": "2026-11-08T05:57:12.096118+00:00",
   "season": "2026",
+  "season_rank": 99,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_NE_JAX",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-1",
@@ -2875,6 +3253,7 @@
    "home_record": "3-0",
    "neutral": false
   },
+  "game_score": 27.704918032786885,
   "home": {
    "abbr": "SF",
    "alt": "#b3995d",
@@ -2885,18 +3264,25 @@
    "short": "San Francisco"
   },
   "id": "401872958",
+  "index": 38.16393442622951,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.12041884816753927,
-   "drama": 0.11611005067227542,
-   "finish": 0.14185252401083592,
-   "max_swing": 0.132099010138494,
-   "n_plays": 191,
+   "competitive": 0.0,
+   "drama": 0.10426783458611112,
+   "finish": 0.12261428571428569,
+   "max_swing": 0.11070000000000002,
+   "n_plays": 199,
    "ot": false,
-   "volatility": 3.275867613783198
+   "volatility": 2.799618416666667
+  },
+  "pct": {
+   "competitive": 8.19672131147541,
+   "drama": 22.950819672131146,
+   "finish": 54.09836065573771,
+   "volatility": 22.950819672131146
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2906,11 +3292,12 @@
    "detail": "Final",
    "home": 36
   },
-  "scored_at": "2026-11-03T06:19:46.722194+00:00",
+  "scored_at": "2026-11-08T05:57:12.430949+00:00",
   "season": "2026",
+  "season_rank": 80,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_ARI_SF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-1",
@@ -2943,6 +3330,7 @@
    "home_record": "0-3",
    "neutral": false
   },
+  "game_score": 66.88524590163935,
   "home": {
    "abbr": "TB",
    "alt": "#3e3a35",
@@ -2953,18 +3341,25 @@
    "short": "Tampa Bay"
   },
   "id": "401872959",
+  "index": 59.508196721311485,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.8156424581005587,
-   "drama": 0.44210327031023117,
-   "finish": 0.24524889528178268,
-   "max_swing": 0.153367249567415,
-   "n_plays": 179,
+   "competitive": 0.890625,
+   "drama": 0.38440492810277777,
+   "finish": 0.23913793103448272,
+   "max_swing": 0.15290000000000004,
+   "n_plays": 192,
    "ot": false,
-   "volatility": 7.430755602097295
+   "volatility": 6.938810194444442
+  },
+  "pct": {
+   "competitive": 76.22950819672131,
+   "drama": 64.75409836065575,
+   "finish": 62.295081967213115,
+   "volatility": 68.0327868852459
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -2974,11 +3369,12 @@
    "detail": "Final",
    "home": 16
   },
-  "scored_at": "2026-11-03T06:19:46.724261+00:00",
+  "scored_at": "2026-11-08T05:57:12.778660+00:00",
   "season": "2026",
+  "season_rank": 42,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_MIN_TB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-0",
@@ -3011,6 +3407,7 @@
    "home_record": "1-2",
    "neutral": true
   },
+  "game_score": 88.60655737704919,
   "home": {
    "abbr": "DAL",
    "alt": "#b0b7bc",
@@ -3021,18 +3418,25 @@
    "short": "Dallas"
   },
   "id": "401872960",
+  "index": 79.88524590163935,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.8548387096774194,
-   "drama": 0.7721109694742727,
-   "finish": 0.7188091533411222,
-   "max_swing": 0.188155114650726,
-   "n_plays": 186,
+   "competitive": 0.9076923076923077,
+   "drama": 1.658710346088889,
+   "finish": 0.6850388888888889,
+   "max_swing": 0.4861,
+   "n_plays": 195,
    "ot": false,
-   "volatility": 9.879210217901996
+   "volatility": 12.617262944444448
+  },
+  "pct": {
+   "competitive": 81.9672131147541,
+   "drama": 82.78688524590164,
+   "finish": 97.54098360655738,
+   "volatility": 89.34426229508196
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -3042,11 +3446,12 @@
    "detail": "Final",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.726413+00:00",
+  "scored_at": "2026-11-08T05:57:13.133023+00:00",
   "season": "2026",
+  "season_rank": 13,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_BAL_DAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-1",
@@ -3079,6 +3484,7 @@
    "home_record": "1-2",
    "neutral": false
   },
+  "game_score": 63.85245901639344,
   "home": {
    "abbr": "NO",
    "alt": "#000000",
@@ -3089,18 +3495,25 @@
    "short": "New Orleans"
   },
   "id": "401872961",
+  "index": 63.08196721311475,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.723404255319149,
-   "drama": 0.4441240788825293,
-   "finish": 0.13042728027159506,
-   "max_swing": 0.23450693488121,
-   "n_plays": 188,
+   "competitive": 0.7743589743589744,
+   "drama": 0.4965348657083334,
+   "finish": 0.11770833333333336,
+   "max_swing": 0.2485,
+   "n_plays": 195,
    "ot": false,
-   "volatility": 7.290117989616027
+   "volatility": 7.4143673055555555
+  },
+  "pct": {
+   "competitive": 65.57377049180327,
+   "drama": 65.57377049180327,
+   "finish": 53.278688524590166,
+   "volatility": 67.21311475409836
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -3110,11 +3523,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.728451+00:00",
+  "scored_at": "2026-11-08T05:57:13.456947+00:00",
   "season": "2026",
+  "season_rank": 39,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_LV_NO",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-0",
@@ -3147,6 +3561,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 89.4672131147541,
   "home": {
    "abbr": "DEN",
    "alt": "#fc4c02",
@@ -3157,18 +3572,25 @@
    "short": "Denver"
   },
   "id": "401872962",
+  "index": 80.57377049180329,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.7079207920792079,
-   "drama": 1.635423156618169,
-   "finish": 0.5514745535522908,
-   "max_swing": 0.539403077625312,
-   "n_plays": 202,
+   "competitive": 0.4858490566037736,
+   "drama": 1.6385732512055557,
+   "finish": 0.48130500000000004,
+   "max_swing": 0.5038,
+   "n_plays": 212,
    "ot": false,
-   "volatility": 11.559654267573126
+   "volatility": 11.302917166666667
+  },
+  "pct": {
+   "competitive": 63.114754098360656,
+   "drama": 95.90163934426229,
+   "finish": 81.9672131147541,
+   "volatility": 95.08196721311475
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -3178,11 +3600,12 @@
    "detail": "Final",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.730571+00:00",
+  "scored_at": "2026-11-08T05:57:13.815749+00:00",
   "season": "2026",
+  "season_rank": 9,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_LA_DEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-1",
@@ -3215,6 +3638,7 @@
    "home_record": "2-1",
    "neutral": false
   },
+  "game_score": 34.4672131147541,
   "home": {
    "abbr": "CHI",
    "alt": "#e64100",
@@ -3225,18 +3649,25 @@
    "short": "Chicago"
   },
   "id": "401872963",
+  "index": 39.57377049180329,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.6709677419354839,
-   "drama": 0.20867519014323938,
-   "finish": 0.0005408227443697566,
-   "max_swing": 0.17327713966369607,
-   "n_plays": 155,
+   "competitive": 0.6586826347305389,
+   "drama": 0.18998993370833334,
+   "finish": 0.0016000000000000014,
+   "max_swing": 0.1548,
+   "n_plays": 167,
    "ot": false,
-   "volatility": 4.407658897088916
+   "volatility": 4.151055972222222
+  },
+  "pct": {
+   "competitive": 56.557377049180324,
+   "drama": 38.52459016393443,
+   "finish": 14.754098360655737,
+   "volatility": 36.0655737704918
   },
   "period": "week-03",
   "period_label": "Week 3",
@@ -3246,11 +3677,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.732665+00:00",
+  "scored_at": "2026-11-08T05:57:14.161910+00:00",
   "season": "2026",
+  "season_rank": 78,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_03_PHI_CHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-0",
@@ -3283,6 +3715,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 71.39344262295081,
   "home": {
    "abbr": "CLE",
    "alt": "#ff3c00",
@@ -3293,18 +3726,25 @@
    "short": "Cleveland"
   },
   "id": "401872964",
+  "index": 73.11475409836066,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.6935483870967742,
-   "drama": 0.5283003496742632,
-   "finish": 0.390267367862165,
-   "max_swing": 0.211752451956273,
-   "n_plays": 186,
+   "competitive": 0.576530612244898,
+   "drama": 1.1662074002694442,
+   "finish": 0.33901818181818183,
+   "max_swing": 0.49019999999999997,
+   "n_plays": 196,
    "ot": false,
-   "volatility": 8.137973534254495
+   "volatility": 9.759676805555554
+  },
+  "pct": {
+   "competitive": 59.83606557377049,
+   "drama": 68.85245901639344,
+   "finish": 71.31147540983606,
+   "volatility": 75.40983606557377
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3314,11 +3754,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.734797+00:00",
+  "scored_at": "2026-11-08T05:57:14.485302+00:00",
   "season": "2026",
+  "season_rank": 28,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_PIT_CLE",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-1",
@@ -3351,6 +3792,7 @@
    "home_record": "1-3",
    "neutral": true
   },
+  "game_score": 33.31967213114754,
   "home": {
    "abbr": "WSH",
    "alt": "#ffb612",
@@ -3361,18 +3803,25 @@
    "short": "Washington"
   },
   "id": "401872965",
+  "index": 30.655737704918035,
   "labels": {
    "day": "Sun",
    "time": "9:30 AM ET"
   },
   "metrics": {
-   "competitive": 0.5906432748538012,
-   "drama": 0.17462705144980917,
-   "finish": 0.0018263497085381647,
-   "max_swing": 0.10362574458122298,
-   "n_plays": 171,
+   "competitive": 0.6630434782608695,
+   "drama": 0.18162996778055557,
+   "finish": 0.0018266666666666652,
+   "max_swing": 0.1225,
+   "n_plays": 184,
    "ot": false,
-   "volatility": 4.186130528961312
+   "volatility": 4.338013916666667
+  },
+  "pct": {
+   "competitive": 47.540983606557376,
+   "drama": 34.42622950819672,
+   "finish": 20.491803278688526,
+   "volatility": 35.24590163934426
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3382,11 +3831,12 @@
    "detail": "Final",
    "home": 13
   },
-  "scored_at": "2026-11-03T06:19:46.736846+00:00",
+  "scored_at": "2026-11-08T05:57:14.868752+00:00",
   "season": "2026",
+  "season_rank": 90,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_IND_WAS",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3420,6 +3870,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 79.01639344262296,
   "home": {
    "abbr": "NYG",
    "alt": "#c9243f",
@@ -3430,18 +3881,25 @@
    "short": "New York"
   },
   "id": "401872966",
+  "index": 69.21311475409837,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8587570621468926,
-   "drama": 0.6536327357577432,
-   "finish": 0.4848266818693707,
-   "max_swing": 0.21911408007144895,
-   "n_plays": 177,
+   "competitive": 0.9411764705882353,
+   "drama": 1.2042622402138892,
+   "finish": 0.4577333333333333,
+   "max_swing": 0.45820000000000005,
+   "n_plays": 187,
    "ot": false,
-   "volatility": 8.64887200661964
+   "volatility": 9.696941138888889
+  },
+  "pct": {
+   "competitive": 82.78688524590164,
+   "drama": 75.40983606557377,
+   "finish": 78.68852459016394,
+   "volatility": 80.32786885245902
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3451,11 +3909,12 @@
    "detail": "Final",
    "home": 36
   },
-  "scored_at": "2026-11-03T06:19:46.745117+00:00",
+  "scored_at": "2026-11-08T05:57:15.248600+00:00",
   "season": "2026",
+  "season_rank": 33,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_ARI_NYG",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3489,6 +3948,7 @@
    "home_record": "0-4",
    "neutral": false
   },
+  "game_score": 85.77868852459017,
   "home": {
    "abbr": "HOU",
    "alt": "#eb0028",
@@ -3499,18 +3959,25 @@
    "short": "Houston"
   },
   "id": "401872967",
+  "index": 70.62295081967214,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8695652173913043,
-   "drama": 0.789279490239505,
-   "finish": 0.5562773278379338,
-   "max_swing": 0.22420641779899603,
-   "n_plays": 184,
+   "competitive": 0.9430051813471503,
+   "drama": 1.3307274720555555,
+   "finish": 0.4801151515151515,
+   "max_swing": 0.4508,
+   "n_plays": 193,
    "ot": false,
-   "volatility": 9.57157727780856
+   "volatility": 11.425011500000002
+  },
+  "pct": {
+   "competitive": 86.88524590163934,
+   "drama": 83.60655737704919,
+   "finish": 83.60655737704919,
+   "volatility": 87.70491803278688
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3520,11 +3987,12 @@
    "detail": "Final",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.753348+00:00",
+  "scored_at": "2026-11-08T05:57:15.593380+00:00",
   "season": "2026",
+  "season_rank": 30,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_DAL_HOU",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3558,6 +4026,7 @@
    "home_record": "0-4",
    "neutral": false
   },
+  "game_score": 62.00819672131148,
   "home": {
    "abbr": "TB",
    "alt": "#3e3a35",
@@ -3568,18 +4037,25 @@
    "short": "Tampa Bay"
   },
   "id": "401872968",
+  "index": 51.606557377049185,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.7610062893081762,
-   "drama": 0.3773502332615093,
-   "finish": 0.37985320460228683,
-   "max_swing": 0.16283544898033198,
-   "n_plays": 159,
+   "competitive": 0.672514619883041,
+   "drama": 0.37214113990000003,
+   "finish": 0.330528,
+   "max_swing": 0.13910000000000003,
+   "n_plays": 171,
    "ot": false,
-   "volatility": 6.348719680483152
+   "volatility": 6.6175299444444455
+  },
+  "pct": {
+   "competitive": 72.1311475409836,
+   "drama": 56.557377049180324,
+   "finish": 70.49180327868852,
+   "volatility": 59.01639344262295
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3589,11 +4065,12 @@
    "detail": "Final",
    "home": 14
   },
-  "scored_at": "2026-11-03T06:19:46.749171+00:00",
+  "scored_at": "2026-11-08T05:57:15.909039+00:00",
   "season": "2026",
+  "season_rank": 58,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_GB_TB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3627,6 +4104,7 @@
    "home_record": "2-2",
    "neutral": false
   },
+  "game_score": 73.48360655737704,
   "home": {
    "abbr": "CIN",
    "alt": "#000000",
@@ -3637,18 +4115,25 @@
    "short": "Cincinnati"
   },
   "id": "401872969",
+  "index": 69.78688524590163,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.7344632768361582,
-   "drama": 0.6294576694374172,
-   "finish": 0.31430784654090016,
-   "max_swing": 0.24986013770103502,
-   "n_plays": 177,
+   "competitive": 0.7074468085106383,
+   "drama": 0.5191619964472223,
+   "finish": 0.24603333333333327,
+   "max_swing": 0.1939,
+   "n_plays": 188,
    "ot": false,
-   "volatility": 8.406715594142767
+   "volatility": 8.090279638888891
+  },
+  "pct": {
+   "competitive": 67.21311475409836,
+   "drama": 73.77049180327869,
+   "finish": 66.39344262295081,
+   "volatility": 77.8688524590164
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3658,11 +4143,12 @@
    "detail": "Final",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.743100+00:00",
+  "scored_at": "2026-11-08T05:57:16.247092+00:00",
   "season": "2026",
+  "season_rank": 32,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_JAX_CIN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-1",
@@ -3696,6 +4182,7 @@
    "home_record": "2-2",
    "neutral": false
   },
+  "game_score": 70.24590163934427,
   "home": {
    "abbr": "PHI",
    "alt": "#000000",
@@ -3706,18 +4193,25 @@
    "short": "Philadelphia"
   },
   "id": "401872970",
+  "index": 62.196721311475414,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8181818181818182,
-   "drama": 0.40022496768512594,
-   "finish": 0.521223391495131,
-   "max_swing": 0.13417798280716003,
-   "n_plays": 187,
+   "competitive": 0.7638190954773869,
+   "drama": 0.5497802841916666,
+   "finish": 0.475,
+   "max_swing": 0.2655,
+   "n_plays": 199,
    "ot": false,
-   "volatility": 7.619326184486159
+   "volatility": 7.519511416666665
+  },
+  "pct": {
+   "competitive": 77.04918032786885,
+   "drama": 59.83606557377049,
+   "finish": 81.14754098360656,
+   "volatility": 69.67213114754098
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3727,11 +4221,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.747204+00:00",
+  "scored_at": "2026-11-08T05:57:16.604293+00:00",
   "season": "2026",
+  "season_rank": 41,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_LA_PHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3765,6 +4260,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 81.88524590163935,
   "home": {
    "abbr": "BUF",
    "alt": "#d50a0a",
@@ -3775,18 +4271,25 @@
    "short": "Buffalo"
   },
   "id": "401872971",
+  "index": 77.50819672131148,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9186046511627907,
-   "drama": 0.7651074262485043,
-   "finish": 0.4429289359905653,
-   "max_swing": 0.27954453229904197,
-   "n_plays": 172,
+   "competitive": 0.9234972677595629,
+   "drama": 0.947676173247222,
+   "finish": 0.36877037037037036,
+   "max_swing": 0.31329999999999997,
+   "n_plays": 183,
    "ot": false,
-   "volatility": 8.937096030968572
+   "volatility": 10.403378361111109
+  },
+  "pct": {
+   "competitive": 92.62295081967213,
+   "drama": 81.9672131147541,
+   "finish": 76.22950819672131,
+   "volatility": 81.9672131147541
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3796,11 +4299,12 @@
    "detail": "Final",
    "home": 26
   },
-  "scored_at": "2026-11-03T06:19:46.738949+00:00",
+  "scored_at": "2026-11-08T05:57:16.960207+00:00",
   "season": "2026",
+  "season_rank": 19,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_NE_BUF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3834,6 +4338,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 22.74590163934426,
   "home": {
    "abbr": "CHI",
    "alt": "#e64100",
@@ -3844,18 +4349,25 @@
    "short": "Chicago"
   },
   "id": "401872972",
+  "index": 24.19672131147541,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.4491017964071856,
-   "drama": 0.09791586540737862,
-   "finish": 0.004637384414672985,
-   "max_swing": 0.08914300799369801,
-   "n_plays": 167,
+   "competitive": 0.33714285714285713,
+   "drama": 0.09306523434166668,
+   "finish": 0.005250000000000014,
+   "max_swing": 0.09150000000000003,
+   "n_plays": 175,
    "ot": false,
-   "volatility": 3.1027428818772114
+   "volatility": 2.9554227500000003
+  },
+  "pct": {
+   "competitive": 33.60655737704918,
+   "drama": 19.672131147540984,
+   "finish": 26.229508196721312,
+   "volatility": 20.491803278688526
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3865,11 +4377,12 @@
    "detail": "Final",
    "home": 23
   },
-  "scored_at": "2026-11-03T06:19:46.740977+00:00",
+  "scored_at": "2026-11-08T05:57:17.309245+00:00",
   "season": "2026",
+  "season_rank": 100,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_NYJ_CHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -3903,6 +4416,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 9.01639344262295,
   "home": {
    "abbr": "BAL",
    "alt": "#000000",
@@ -3913,18 +4427,25 @@
    "short": "Baltimore"
   },
   "id": "401872973",
+  "index": 11.21311475409836,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.005714285714285714,
-   "drama": 0.0527338839243756,
-   "finish": 0.005970533255044185,
-   "max_swing": 0.12895306944847096,
-   "n_plays": 175,
+   "competitive": 0.0,
+   "drama": 0.05099794668333329,
+   "finish": 0.01373043478260868,
+   "max_swing": 0.08299999999999996,
+   "n_plays": 187,
    "ot": false,
-   "volatility": 1.6236611289799057
+   "volatility": 1.8416908333333317
+  },
+  "pct": {
+   "competitive": 1.639344262295082,
+   "drama": 5.737704918032787,
+   "finish": 27.86885245901639,
+   "volatility": 4.098360655737705
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -3934,11 +4455,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.751271+00:00",
+  "scored_at": "2026-11-08T05:57:17.672770+00:00",
   "season": "2026",
+  "season_rank": 117,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_TEN_BAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-3",
@@ -3972,6 +4494,7 @@
    "home_record": "4-0",
    "neutral": false
   },
+  "game_score": 21.51639344262295,
   "home": {
    "abbr": "MIN",
    "alt": "#ffc62f",
@@ -3982,18 +4505,25 @@
    "short": "Minnesota"
   },
   "id": "401872974",
+  "index": 23.21311475409836,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.15527950310559005,
-   "drama": 0.07667350325287839,
-   "finish": 0.06370604038238506,
-   "max_swing": 0.08610399442970296,
-   "n_plays": 161,
+   "competitive": 0.040229885057471264,
+   "drama": 0.08311066154722223,
+   "finish": 0.04328235294117649,
+   "max_swing": 0.06559999999999999,
+   "n_plays": 174,
    "ot": false,
-   "volatility": 2.966662054132253
+   "volatility": 3.221411083333333
+  },
+  "pct": {
+   "competitive": 11.475409836065573,
+   "drama": 11.475409836065573,
+   "finish": 45.08196721311475,
+   "volatility": 18.852459016393443
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -4003,11 +4533,12 @@
    "detail": "Final",
    "home": 15
   },
-  "scored_at": "2026-11-03T06:19:46.755454+00:00",
+  "scored_at": "2026-11-08T05:57:18.009155+00:00",
   "season": "2026",
+  "season_rank": 101,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_MIA_MIN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-3",
@@ -4041,6 +4572,7 @@
    "home_record": "4-0",
    "neutral": false
   },
+  "game_score": 56.147540983606554,
   "home": {
    "abbr": "SF",
    "alt": "#b3995d",
@@ -4051,18 +4583,25 @@
    "short": "San Francisco"
   },
   "id": "401872975",
+  "index": 57.91803278688525,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.7556818181818182,
-   "drama": 0.31226405510688793,
-   "finish": 0.16389700228643733,
-   "max_swing": 0.193998783826828,
-   "n_plays": 176,
+   "competitive": 0.6701570680628273,
+   "drama": 0.18134103790555556,
+   "finish": 0.09549600000000001,
+   "max_swing": 0.1372000000000001,
+   "n_plays": 191,
    "ot": false,
-   "volatility": 5.874342891101528
+   "volatility": 4.760475388888888
+  },
+  "pct": {
+   "competitive": 70.08196721311475,
+   "drama": 51.63934426229508,
+   "finish": 55.73770491803278,
+   "volatility": 55.73770491803278
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -4072,11 +4611,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.759587+00:00",
+  "scored_at": "2026-11-08T05:57:18.370257+00:00",
   "season": "2026",
+  "season_rank": 46,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_DEN_SF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-1",
@@ -4110,6 +4650,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 79.01639344262296,
   "home": {
    "abbr": "LV",
    "alt": "#a5acaf",
@@ -4120,18 +4661,25 @@
    "short": "Las Vegas"
   },
   "id": "401872976",
+  "index": 83.21311475409837,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.8272251308900523,
-   "drama": 0.7446894984053475,
-   "finish": 0.2508922046560471,
-   "max_swing": 0.359774351119995,
-   "n_plays": 191,
+   "competitive": 0.8316831683168316,
+   "drama": 0.7460421787,
+   "finish": 0.20761500000000002,
+   "max_swing": 0.2845,
+   "n_plays": 202,
    "ot": false,
-   "volatility": 9.13972084334922
+   "volatility": 9.981658666666664
+  },
+  "pct": {
+   "competitive": 79.50819672131148,
+   "drama": 81.14754098360656,
+   "finish": 63.934426229508205,
+   "volatility": 84.42622950819673
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -4141,11 +4689,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.757467+00:00",
+  "scored_at": "2026-11-08T05:57:18.721284+00:00",
   "season": "2026",
+  "season_rank": 6,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_KC_LV",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-0",
@@ -4179,6 +4728,7 @@
    "home_record": "3-1",
    "neutral": false
   },
+  "game_score": 18.688524590163933,
   "home": {
    "abbr": "SEA",
    "alt": "#69be28",
@@ -4189,18 +4739,25 @@
    "short": "Seattle"
   },
   "id": "401872977",
+  "index": 18.950819672131146,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.11764705882352941,
-   "drama": 0.08338648231281731,
-   "finish": 0.058422477570948594,
-   "max_swing": 0.15905869007110596,
-   "n_plays": 187,
+   "competitive": 0.25252525252525254,
+   "drama": 0.08137751987500001,
+   "finish": 0.05001999999999998,
+   "max_swing": 0.10429999999999995,
+   "n_plays": 198,
    "ot": false,
-   "volatility": 2.473074407265412
+   "volatility": 3.035115527777776
+  },
+  "pct": {
+   "competitive": 7.377049180327869,
+   "drama": 13.934426229508196,
+   "finish": 40.98360655737705,
+   "volatility": 13.934426229508196
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -4210,11 +4767,12 @@
    "detail": "Final",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.761621+00:00",
+  "scored_at": "2026-11-08T05:57:19.081057+00:00",
   "season": "2026",
+  "season_rank": 109,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_LAC_SEA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-3",
@@ -4248,6 +4806,7 @@
    "home_record": "2-2",
    "neutral": false
   },
+  "game_score": 63.0327868852459,
   "home": {
    "abbr": "CAR",
    "alt": "#000000",
@@ -4258,18 +4817,25 @@
    "short": "Carolina"
   },
   "id": "401872978",
+  "index": 56.42622950819672,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.6767676767676768,
-   "drama": 0.38232447432666483,
-   "finish": 0.21354925350967305,
-   "max_swing": 0.15039440989494302,
-   "n_plays": 198,
+   "competitive": 0.6220095693779905,
+   "drama": 0.3809527769777778,
+   "finish": 0.18037931034482754,
+   "max_swing": 0.13160000000000005,
+   "n_plays": 209,
    "ot": false,
-   "volatility": 7.579590051788113
+   "volatility": 7.640063055555555
+  },
+  "pct": {
+   "competitive": 59.01639344262295,
+   "drama": 57.377049180327866,
+   "finish": 59.01639344262295,
+   "volatility": 68.85245901639344
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -4279,11 +4845,12 @@
    "detail": "Final",
    "home": 32
   },
-  "scored_at": "2026-11-03T06:19:46.763740+00:00",
+  "scored_at": "2026-11-08T05:57:19.459580+00:00",
   "season": "2026",
+  "season_rank": 52,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_DET_CAR",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-1",
@@ -4317,6 +4884,7 @@
    "home_record": "1-3",
    "neutral": false
   },
+  "game_score": 16.762295081967213,
   "home": {
    "abbr": "NO",
    "alt": "#000000",
@@ -4327,18 +4895,25 @@
    "short": "New Orleans"
   },
   "id": "401872979",
+  "index": 22.40983606557377,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.35795454545454547,
-   "drama": 0.09280974435271114,
-   "finish": 0.000199524161703953,
-   "max_swing": 0.12016761302947901,
-   "n_plays": 176,
+   "competitive": 0.36065573770491804,
+   "drama": 0.11787677849444446,
+   "finish": 0.0017500000000000016,
+   "max_swing": 0.1144,
+   "n_plays": 183,
    "ot": false,
-   "volatility": 2.7745571688515978
+   "volatility": 3.171898333333333
+  },
+  "pct": {
+   "competitive": 26.229508196721312,
+   "drama": 16.39344262295082,
+   "finish": 11.475409836065573,
+   "volatility": 17.21311475409836
   },
   "period": "week-04",
   "period_label": "Week 4",
@@ -4348,11 +4923,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.765632+00:00",
+  "scored_at": "2026-11-08T05:57:19.812487+00:00",
   "season": "2026",
+  "season_rank": 105,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_04_ATL_NO",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-2",
@@ -4386,6 +4962,7 @@
    "home_record": "2-3",
    "neutral": false
   },
+  "game_score": 54.13934426229508,
   "home": {
    "abbr": "DAL",
    "alt": "#b0b7bc",
@@ -4396,18 +4973,25 @@
    "short": "Dallas"
   },
   "id": "401872980",
+  "index": 46.31147540983607,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.5174418604651163,
-   "drama": 0.3931065509210605,
-   "finish": 0.19936729305320303,
-   "max_swing": 0.2439956068992614,
-   "n_plays": 172,
+   "competitive": 0.25,
+   "drama": 0.37962252752777775,
+   "finish": 0.19050476190476187,
+   "max_swing": 0.198,
+   "n_plays": 184,
    "ot": false,
-   "volatility": 5.776009919208757
+   "volatility": 5.870646833333332
+  },
+  "pct": {
+   "competitive": 37.704918032786885,
+   "drama": 59.01639344262295,
+   "finish": 58.19672131147541,
+   "volatility": 53.278688524590166
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4417,11 +5001,12 @@
    "detail": "Final",
    "home": 16
   },
-  "scored_at": "2026-11-03T06:19:46.767067+00:00",
+  "scored_at": "2026-11-08T05:57:20.166320+00:00",
   "season": "2026",
+  "season_rank": 66,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_TB_DAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-4",
@@ -4455,6 +5040,7 @@
    "home_record": "4-1",
    "neutral": true
   },
+  "game_score": 94.8360655737705,
   "home": {
    "abbr": "JAX",
    "alt": "#d7a22a",
@@ -4465,18 +5051,25 @@
    "short": "Jacksonville"
   },
   "id": "401872981",
+  "index": 86.3688524590164,
   "labels": {
    "day": "Sun",
    "time": "9:30 AM ET"
   },
   "metrics": {
-   "competitive": 0.824468085106383,
-   "drama": 1.808731216197769,
-   "finish": 0.6505230197837901,
-   "max_swing": 0.447482109069824,
-   "n_plays": 188,
+   "competitive": 0.855,
+   "drama": 2.798149242705555,
+   "finish": 0.5645878787878787,
+   "max_swing": 0.7462,
+   "n_plays": 200,
    "ot": false,
-   "volatility": 12.634743250902781
+   "volatility": 14.617162944444441
+  },
+  "pct": {
+   "competitive": 78.68852459016394,
+   "drama": 98.36065573770492,
+   "finish": 94.26229508196722,
+   "volatility": 96.72131147540983
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4486,11 +5079,12 @@
    "detail": "Final",
    "home": 19
   },
-  "scored_at": "2026-11-03T06:19:46.768558+00:00",
+  "scored_at": "2026-11-08T05:57:20.520759+00:00",
   "season": "2026",
+  "season_rank": 3,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_PHI_JAX",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-2",
@@ -4524,6 +5118,7 @@
    "home_record": "0-5",
    "neutral": false
   },
+  "game_score": 16.311475409836067,
   "home": {
    "abbr": "MIA",
    "alt": "#fc4c02",
@@ -4534,18 +5129,25 @@
    "short": "Miami"
   },
   "id": "401872982",
+  "index": 16.049180327868854,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.20348837209302326,
-   "drama": 0.06853550974916818,
-   "finish": 0.015753948035949164,
-   "max_swing": 0.09379257261753039,
-   "n_plays": 172,
+   "competitive": 0.022222222222222223,
+   "drama": 0.20072500234722226,
+   "finish": 0.0197,
+   "max_swing": 0.2063,
+   "n_plays": 180,
    "ot": false,
-   "volatility": 2.2844971804604155
+   "volatility": 2.7468465277777776
+  },
+  "pct": {
+   "competitive": 14.754098360655737,
+   "drama": 9.01639344262295,
+   "finish": 35.24590163934426,
+   "volatility": 12.295081967213115
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4555,11 +5157,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.774618+00:00",
+  "scored_at": "2026-11-08T05:57:20.883621+00:00",
   "season": "2026",
+  "season_rank": 113,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_CIN_MIA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-2",
@@ -4593,6 +5196,7 @@
    "home_record": "2-3",
    "neutral": false
   },
+  "game_score": 84.22131147540983,
   "home": {
    "abbr": "NYJ",
    "alt": "#ffffff",
@@ -4603,18 +5207,25 @@
    "short": "New York"
   },
   "id": "401872983",
+  "index": 73.37704918032787,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8967391304347826,
-   "drama": 0.9666969518328498,
-   "finish": 0.3548259724421069,
-   "max_swing": 0.338945209980011,
-   "n_plays": 184,
+   "competitive": 0.8939393939393939,
+   "drama": 0.9830960313166667,
+   "finish": 0.3252,
+   "max_swing": 0.31729999999999997,
+   "n_plays": 198,
    "ot": false,
-   "volatility": 9.699004405713474
+   "volatility": 9.883243833333335
+  },
+  "pct": {
+   "competitive": 89.34426229508196,
+   "drama": 86.0655737704918,
+   "finish": 69.67213114754098,
+   "volatility": 88.52459016393442
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4624,11 +5235,12 @@
    "detail": "Final",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.780069+00:00",
+  "scored_at": "2026-11-08T05:57:21.243252+00:00",
   "season": "2026",
+  "season_rank": 25,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_CLE_NYJ",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-1",
@@ -4662,6 +5274,7 @@
    "home_record": "0-5",
    "neutral": false
   },
+  "game_score": 8.360655737704919,
   "home": {
    "abbr": "TEN",
    "alt": "#001532",
@@ -4672,18 +5285,25 @@
    "short": "Tennessee"
   },
   "id": "401872984",
+  "index": 10.688524590163937,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.27439024390243905,
-   "drama": 0.052697166245948376,
-   "finish": 0.0001446419832973056,
-   "max_swing": 0.096318304538727,
-   "n_plays": 164,
+   "competitive": 0.3707865168539326,
+   "drama": 0.07585466372222223,
+   "finish": 0.0017777777777777794,
+   "max_swing": 0.10289999999999999,
+   "n_plays": 178,
    "ot": false,
-   "volatility": 1.8888739726892831
+   "volatility": 2.4173587222222226
+  },
+  "pct": {
+   "competitive": 20.491803278688526,
+   "drama": 4.918032786885246,
+   "finish": 10.655737704918032,
+   "volatility": 6.557377049180328
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4693,11 +5313,12 @@
    "detail": "Final",
    "home": 3
   },
-  "scored_at": "2026-11-03T06:19:46.772658+00:00",
+  "scored_at": "2026-11-08T05:57:21.599613+00:00",
   "season": "2026",
+  "season_rank": 118,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_HOU_TEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-4",
@@ -4731,6 +5352,7 @@
    "home_record": "3-2",
    "neutral": false
   },
+  "game_score": 51.76229508196721,
   "home": {
    "abbr": "PIT",
    "alt": "#ffb612",
@@ -4741,18 +5363,25 @@
    "short": "Pittsburgh"
   },
   "id": "401872985",
+  "index": 50.40983606557377,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.7556818181818182,
-   "drama": 0.27488814165053754,
-   "finish": 0.061048165308656525,
-   "max_swing": 0.14388836450466597,
-   "n_plays": 176,
+   "competitive": 0.8,
+   "drama": 0.40402372388611096,
+   "finish": 0.03696774193548386,
+   "max_swing": 0.1664,
+   "n_plays": 190,
    "ot": false,
-   "volatility": 5.792906372153405
+   "volatility": 6.879615138888888
+  },
+  "pct": {
+   "competitive": 70.08196721311475,
+   "drama": 47.540983606557376,
+   "finish": 42.62295081967213,
+   "volatility": 54.09836065573771
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4762,11 +5391,12 @@
    "detail": "Final",
    "home": 34
   },
-  "scored_at": "2026-11-03T06:19:46.781902+00:00",
+  "scored_at": "2026-11-08T05:57:21.970450+00:00",
   "season": "2026",
+  "season_rank": 60,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_IND_PIT",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-2",
@@ -4800,6 +5430,7 @@
    "home_record": "3-2",
    "neutral": false
   },
+  "game_score": 14.139344262295083,
   "home": {
    "abbr": "NE",
    "alt": "#c60c30",
@@ -4810,18 +5441,25 @@
    "short": "New England"
   },
   "id": "401872986",
+  "index": 21.811475409836067,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.33714285714285713,
-   "drama": 0.09507470711280988,
-   "finish": 6.760015066197534e-05,
-   "max_swing": 0.11211806535720792,
-   "n_plays": 175,
+   "competitive": 0.3858695652173913,
+   "drama": 0.09535458528055563,
+   "finish": 0.0017333333333333348,
+   "max_swing": 0.08900000000000008,
+   "n_plays": 184,
    "ot": false,
-   "volatility": 2.4388778772097233
+   "volatility": 2.60075375
+  },
+  "pct": {
+   "competitive": 24.59016393442623,
+   "drama": 17.21311475409836,
+   "finish": 7.377049180327869,
+   "volatility": 13.114754098360656
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4831,11 +5469,12 @@
    "detail": "Final",
    "home": 45
   },
-  "scored_at": "2026-11-03T06:19:46.776336+00:00",
+  "scored_at": "2026-11-08T05:57:22.347325+00:00",
   "season": "2026",
+  "season_rank": 106,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_LV_NE",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-1",
@@ -4869,6 +5508,7 @@
    "home_record": "1-4",
    "neutral": false
   },
+  "game_score": 51.270491803278695,
   "home": {
    "abbr": "NO",
    "alt": "#000000",
@@ -4879,18 +5519,25 @@
    "short": "New Orleans"
   },
   "id": "401872987",
+  "index": 48.516393442622956,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.6580645161290323,
-   "drama": 0.4257154113582132,
-   "finish": 0.04003971163183443,
-   "max_swing": 0.31740378537303704,
-   "n_plays": 155,
+   "competitive": 0.6746987951807228,
+   "drama": 0.42464711965833335,
+   "finish": 0.013722222222222235,
+   "max_swing": 0.3196,
+   "n_plays": 166,
    "ot": false,
-   "volatility": 5.393121259105667
+   "volatility": 5.671124194444445
+  },
+  "pct": {
+   "competitive": 54.91803278688525,
+   "drama": 63.114754098360656,
+   "finish": 39.34426229508197,
+   "volatility": 49.18032786885246
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4900,11 +5547,12 @@
    "detail": "Final",
    "home": 13
   },
-  "scored_at": "2026-11-03T06:19:46.778218+00:00",
+  "scored_at": "2026-11-08T05:57:22.686945+00:00",
   "season": "2026",
+  "season_rank": 62,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_MIN_NO",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-0",
@@ -4938,6 +5586,7 @@
    "home_record": "1-3-1",
    "neutral": false
   },
+  "game_score": 91.47540983606558,
   "home": {
    "abbr": "WSH",
    "alt": "#ffb612",
@@ -4948,18 +5597,25 @@
    "short": "Washington"
   },
   "id": "401872988",
+  "index": 83.18032786885247,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5666666666666667,
-   "drama": 1.7315160003398402,
-   "finish": 0.6350470405594266,
-   "max_swing": 0.40189992694649895,
-   "n_plays": 210,
+   "competitive": 0.38288288288288286,
+   "drama": 2.3403853236222227,
+   "finish": 0.5916947368421054,
+   "max_swing": 0.5,
+   "n_plays": 222,
    "ot": true,
-   "volatility": 12.674295660824797
+   "volatility": 13.652793666666668
+  },
+  "pct": {
+   "competitive": 46.72131147540984,
+   "drama": 97.54098360655738,
+   "finish": 92.62295081967213,
+   "volatility": 97.54098360655738
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -4969,11 +5625,12 @@
    "detail": "Final/OT",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.783958+00:00",
+  "scored_at": "2026-11-08T05:57:23.065978+00:00",
   "season": "2026",
+  "season_rank": 7,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_NYG_WAS",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-1",
@@ -5007,6 +5664,7 @@
    "home_record": "0-5",
    "neutral": false
   },
+  "game_score": 63.15573770491804,
   "home": {
    "abbr": "LAC",
    "alt": "#ffc20e",
@@ -5017,18 +5675,25 @@
    "short": "Los Angeles"
   },
   "id": "401872989",
+  "index": 57.524590163934434,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.7175141242937854,
-   "drama": 0.45015667519805314,
-   "finish": 0.16950287873094735,
-   "max_swing": 0.209830820560456,
-   "n_plays": 177,
+   "competitive": 0.8457446808510638,
+   "drama": 0.48603018886111116,
+   "finish": 0.1473,
+   "max_swing": 0.1886,
+   "n_plays": 188,
    "ot": false,
-   "volatility": 6.822731305142448
+   "volatility": 8.02309838888889
+  },
+  "pct": {
+   "competitive": 64.75409836065575,
+   "drama": 66.39344262295081,
+   "finish": 56.557377049180324,
+   "volatility": 63.934426229508205
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -5038,11 +5703,12 @@
    "detail": "Final",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.785934+00:00",
+  "scored_at": "2026-11-08T05:57:23.420311+00:00",
   "season": "2026",
+  "season_rank": 47,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_DEN_LAC",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-2",
@@ -5076,6 +5742,7 @@
    "home_record": "3-2",
    "neutral": false
   },
+  "game_score": 26.188524590163933,
   "home": {
    "abbr": "GB",
    "alt": "#ffb612",
@@ -5086,18 +5753,25 @@
    "short": "Green Bay"
   },
   "id": "401872990",
+  "index": 36.450819672131146,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.4823529411764706,
-   "drama": 0.1653963721689277,
-   "finish": 0.0002362788062394269,
-   "max_swing": 0.163847907692094,
-   "n_plays": 170,
+   "competitive": 0.44505494505494503,
+   "drama": 0.16151776151944447,
+   "finish": 0.0018260869565217407,
+   "max_swing": 0.1786000000000001,
+   "n_plays": 182,
    "ot": false,
-   "volatility": 3.469827473175612
+   "volatility": 3.389072416666666
+  },
+  "pct": {
+   "competitive": 36.0655737704918,
+   "drama": 30.327868852459016,
+   "finish": 12.295081967213115,
+   "volatility": 27.86885245901639
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -5107,11 +5781,12 @@
    "detail": "Final",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.770549+00:00",
+  "scored_at": "2026-11-08T05:57:23.783215+00:00",
   "season": "2026",
+  "season_rank": 81,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_CHI_GB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-1",
@@ -5145,6 +5820,7 @@
    "home_record": "1-4",
    "neutral": false
   },
+  "game_score": 16.10655737704918,
   "home": {
    "abbr": "ARI",
    "alt": "#ffffff",
@@ -5155,18 +5831,25 @@
    "short": "Arizona"
   },
   "id": "401872991",
+  "index": 17.385245901639344,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.31868131868131866,
-   "drama": 0.12975218620219667,
-   "finish": 6.479443201411134e-05,
-   "max_swing": 0.13896928831875102,
-   "n_plays": 182,
+   "competitive": 0.32460732984293195,
+   "drama": 0.10583733145833335,
+   "finish": 0.001833333333333335,
+   "max_swing": 0.1434,
+   "n_plays": 191,
    "ot": false,
-   "volatility": 2.617281996892086
+   "volatility": 2.4274458055555557
+  },
+  "pct": {
+   "competitive": 22.131147540983605,
+   "drama": 23.770491803278688,
+   "finish": 6.557377049180328,
+   "volatility": 14.754098360655737
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -5176,11 +5859,12 @@
    "detail": "Final",
    "home": 21
   },
-  "scored_at": "2026-11-03T06:19:46.788349+00:00",
+  "scored_at": "2026-11-08T05:57:24.147171+00:00",
   "season": "2026",
+  "season_rank": 111,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_DET_ARI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-2",
@@ -5214,6 +5898,7 @@
    "home_record": "3-2",
    "neutral": false
   },
+  "game_score": 80.49180327868854,
   "home": {
    "abbr": "SEA",
    "alt": "#69be28",
@@ -5224,18 +5909,25 @@
    "short": "Seattle"
   },
   "id": "401872992",
+  "index": 82.89344262295083,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.9822485207100592,
-   "drama": 0.6903284526523246,
-   "finish": 0.5546784162521363,
-   "max_swing": 0.20110410451889,
-   "n_plays": 169,
+   "competitive": 0.9269662921348315,
+   "drama": 0.7081757598583331,
+   "finish": 0.3572941176470588,
+   "max_swing": 0.21889999999999998,
+   "n_plays": 178,
    "ot": false,
-   "volatility": 8.395650366685754
+   "volatility": 8.880090805555556
+  },
+  "pct": {
+   "competitive": 100.0,
+   "drama": 77.04918032786885,
+   "finish": 82.78688524590164,
+   "volatility": 77.04918032786885
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -5245,11 +5937,12 @@
    "detail": "Final",
    "home": 29
   },
-  "scored_at": "2026-11-03T06:19:46.790273+00:00",
+  "scored_at": "2026-11-08T05:57:24.516209+00:00",
   "season": "2026",
+  "season_rank": 8,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_SF_SEA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-0",
@@ -5283,6 +5976,7 @@
    "home_record": "2-3",
    "neutral": false
   },
+  "game_score": 87.58196721311475,
   "home": {
    "abbr": "ATL",
    "alt": "#000000",
@@ -5293,18 +5987,25 @@
    "short": "Atlanta"
   },
   "id": "401872993",
+  "index": 80.56557377049181,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.6752577319587629,
-   "drama": 1.526250291052805,
-   "finish": 0.4505589546706189,
-   "max_swing": 0.50496558775194,
-   "n_plays": 194,
+   "competitive": 0.7961165048543689,
+   "drama": 1.7469886503305556,
+   "finish": 0.4442792452830188,
+   "max_swing": 0.6509,
+   "n_plays": 206,
    "ot": true,
-   "volatility": 11.493751789206915
+   "volatility": 11.371392638888885
+  },
+  "pct": {
+   "competitive": 58.19672131147541,
+   "drama": 95.08196721311475,
+   "finish": 77.8688524590164,
+   "volatility": 94.26229508196722
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -5314,11 +6015,12 @@
    "detail": "Final/OT",
    "home": 23
   },
-  "scored_at": "2026-11-03T06:19:46.792109+00:00",
+  "scored_at": "2026-11-08T05:57:24.872727+00:00",
   "season": "2026",
+  "season_rank": 10,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_BAL_ATL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-1",
@@ -5352,6 +6054,7 @@
    "home_record": "2-3",
    "neutral": false
   },
+  "game_score": 95.65573770491802,
   "home": {
    "abbr": "LAR",
    "alt": "#ffd100",
@@ -5362,18 +6065,25 @@
    "short": "Los Angeles"
   },
   "id": "401872994",
+  "index": 87.02459016393442,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.9698492462311558,
-   "drama": 1.304789061337368,
-   "finish": 0.6223187684485726,
-   "max_swing": 0.23352674940740797,
-   "n_plays": 199,
+   "competitive": 0.8985507246376812,
+   "drama": 1.6868753630500002,
+   "finish": 0.5177702127659575,
+   "max_swing": 0.4032,
+   "n_plays": 207,
    "ot": true,
-   "volatility": 13.43428542610592
+   "volatility": 13.888609000000002
+  },
+  "pct": {
+   "competitive": 98.36065573770492,
+   "drama": 92.62295081967213,
+   "finish": 90.1639344262295,
+   "volatility": 99.18032786885246
   },
   "period": "week-05",
   "period_label": "Week 5",
@@ -5383,11 +6093,12 @@
    "detail": "Final/OT",
    "home": 34
   },
-  "scored_at": "2026-11-03T06:19:46.794059+00:00",
+  "scored_at": "2026-11-08T05:57:25.237069+00:00",
   "season": "2026",
+  "season_rank": 1,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_05_BUF_LA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-1",
@@ -5421,6 +6132,7 @@
    "home_record": "4-2",
    "neutral": false
   },
+  "game_score": 86.92622950819671,
   "home": {
    "abbr": "DEN",
    "alt": "#fc4c02",
@@ -5431,18 +6143,25 @@
    "short": "Denver"
   },
   "id": "401872995",
+  "index": 79.74098360655738,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.6984126984126984,
-   "drama": 1.1172978787413224,
-   "finish": 0.610259306642731,
-   "max_swing": 0.3678165674209589,
-   "n_plays": 189,
+   "competitive": 0.5771144278606966,
+   "drama": 0.9912643625611112,
+   "finish": 0.6126400000000001,
+   "max_swing": 0.3788,
+   "n_plays": 201,
    "ot": true,
-   "volatility": 10.15440049819571
+   "volatility": 9.960138722222222
+  },
+  "pct": {
+   "competitive": 61.47540983606557,
+   "drama": 88.52459016393442,
+   "finish": 88.52459016393442,
+   "volatility": 90.98360655737704
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5452,11 +6171,12 @@
    "detail": "Final/OT",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.796231+00:00",
+  "scored_at": "2026-11-08T05:57:25.598967+00:00",
   "season": "2026",
+  "season_rank": 15,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_SEA_DEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-2",
@@ -5493,6 +6213,7 @@
    "home_record": "4-2",
    "neutral": true
   },
+  "game_score": 76.47540983606558,
   "home": {
    "abbr": "JAX",
    "alt": "#d7a22a",
@@ -5503,18 +6224,25 @@
    "short": "Jacksonville"
   },
   "id": "401872996",
+  "index": 71.18032786885246,
   "labels": {
    "day": "Sun",
    "time": "9:30 AM ET"
   },
   "metrics": {
-   "competitive": 0.9213483146067416,
-   "drama": 0.550127205068412,
-   "finish": 0.5614574985070662,
-   "max_swing": 0.222422093153,
-   "n_plays": 178,
+   "competitive": 0.9197860962566845,
+   "drama": 0.7945505819694446,
+   "finish": 0.532064,
+   "max_swing": 0.1906,
+   "n_plays": 187,
    "ot": false,
-   "volatility": 7.8908152840763
+   "volatility": 9.873877305555556
+  },
+  "pct": {
+   "competitive": 95.08196721311475,
+   "drama": 70.49180327868852,
+   "finish": 84.42622950819673,
+   "volatility": 72.1311475409836
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5524,11 +6252,12 @@
    "detail": "Final",
    "home": 31
   },
-  "scored_at": "2026-11-03T06:19:46.798262+00:00",
+  "scored_at": "2026-11-08T05:57:25.954057+00:00",
   "season": "2026",
+  "season_rank": 29,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_HOU_JAX",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-4",
@@ -5565,6 +6294,7 @@
    "home_record": "4-2",
    "neutral": false
   },
+  "game_score": 63.40163934426229,
   "home": {
    "abbr": "CLE",
    "alt": "#ff3c00",
@@ -5575,18 +6305,25 @@
    "short": "Cleveland"
   },
   "id": "401872997",
+  "index": 65.12131147540984,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.36470588235294116,
-   "drama": 0.41367154344739376,
-   "finish": 0.6158134180765885,
-   "max_swing": 0.23519384860992398,
-   "n_plays": 170,
+   "competitive": 0.6304347826086957,
+   "drama": 0.5451015690305557,
+   "finish": 0.5443785714285714,
+   "max_swing": 0.29270000000000007,
+   "n_plays": 184,
    "ot": false,
-   "volatility": 6.467481888242897
+   "volatility": 7.273159361111112
+  },
+  "pct": {
+   "competitive": 27.049180327868854,
+   "drama": 60.65573770491803,
+   "finish": 89.34426229508196,
+   "volatility": 61.47540983606557
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5596,11 +6333,12 @@
    "detail": "Final",
    "home": 13
   },
-  "scored_at": "2026-11-03T06:19:46.802346+00:00",
+  "scored_at": "2026-11-08T05:57:26.276172+00:00",
   "season": "2026",
+  "season_rank": 36,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_BAL_CLE",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-1",
@@ -5637,6 +6375,7 @@
    "home_record": "2-4",
    "neutral": false
   },
+  "game_score": 36.92622950819673,
   "home": {
    "abbr": "PHI",
    "alt": "#000000",
@@ -5647,18 +6386,25 @@
    "short": "Philadelphia"
   },
   "id": "401872998",
+  "index": 34.94098360655738,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5614973262032086,
-   "drama": 0.16795027241180305,
-   "finish": 0.019409466534852916,
-   "max_swing": 0.08895367383956898,
-   "n_plays": 187,
+   "competitive": 0.69,
+   "drama": 0.2522252647694444,
+   "finish": 0.00812631578947369,
+   "max_swing": 0.10400000000000001,
+   "n_plays": 200,
    "ot": false,
-   "volatility": 4.810310765770722
+   "volatility": 5.895056472222222
+  },
+  "pct": {
+   "competitive": 45.90163934426229,
+   "drama": 31.147540983606557,
+   "finish": 36.0655737704918,
+   "volatility": 38.52459016393443
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5668,11 +6414,12 @@
    "detail": "Final",
    "home": 14
   },
-  "scored_at": "2026-11-03T06:19:46.809932+00:00",
+  "scored_at": "2026-11-08T05:57:26.634489+00:00",
   "season": "2026",
+  "season_rank": 85,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_CAR_PHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-2",
@@ -5709,6 +6456,7 @@
    "home_record": "2-4",
    "neutral": false
   },
+  "game_score": 20.942622950819672,
   "home": {
    "abbr": "ATL",
    "alt": "#000000",
@@ -5719,18 +6467,25 @@
    "short": "Atlanta"
   },
   "id": "401872999",
+  "index": 22.75409836065574,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.20454545454545456,
-   "drama": 0.08721760399382912,
-   "finish": 0.06279641350633218,
-   "max_swing": 0.107029259204865,
-   "n_plays": 176,
+   "competitive": 0.12568306010928962,
+   "drama": 0.06484393374166667,
+   "finish": 0.04496190476190476,
+   "max_swing": 0.0949,
+   "n_plays": 183,
    "ot": false,
-   "volatility": 2.6249820714980445
+   "volatility": 2.429851527777778
+  },
+  "pct": {
+   "competitive": 15.573770491803279,
+   "drama": 14.754098360655737,
+   "finish": 43.44262295081967,
+   "volatility": 15.573770491803279
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5740,11 +6495,12 @@
    "detail": "Final",
    "home": 23
   },
-  "scored_at": "2026-11-03T06:19:46.800256+00:00",
+  "scored_at": "2026-11-08T05:57:26.990245+00:00",
   "season": "2026",
+  "season_rank": 103,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_CHI_ATL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-2",
@@ -5781,6 +6537,7 @@
    "home_record": "3-2-1",
    "neutral": false
   },
+  "game_score": 44.67213114754098,
   "home": {
    "abbr": "NYG",
    "alt": "#c9243f",
@@ -5791,18 +6548,25 @@
    "short": "New York"
   },
   "id": "401873000",
+  "index": 41.13770491803278,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5147058823529411,
-   "drama": 0.23784699219481062,
-   "finish": 0.08475663782707575,
-   "max_swing": 0.15311121940612799,
-   "n_plays": 204,
+   "competitive": 0.5305164319248826,
+   "drama": 0.4440407771888889,
+   "finish": 0.11106451612903225,
+   "max_swing": 0.2132,
+   "n_plays": 213,
    "ot": false,
-   "volatility": 5.249652214995755
+   "volatility": 6.3428227222222215
+  },
+  "pct": {
+   "competitive": 36.885245901639344,
+   "drama": 42.62295081967213,
+   "finish": 48.36065573770492,
+   "volatility": 45.90163934426229
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5812,11 +6576,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.808044+00:00",
+  "scored_at": "2026-11-08T05:57:27.348185+00:00",
   "season": "2026",
+  "season_rank": 74,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_NO_NYG",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-4",
@@ -5853,6 +6618,7 @@
    "home_record": "4-2",
    "neutral": false
   },
+  "game_score": 27.868852459016395,
   "home": {
    "abbr": "NE",
    "alt": "#c60c30",
@@ -5863,18 +6629,25 @@
    "short": "New England"
   },
   "id": "401873001",
+  "index": 33.29508196721312,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.22413793103448276,
-   "drama": 0.10534456666936973,
-   "finish": 0.03237327069044104,
-   "max_swing": 0.08658693730831091,
-   "n_plays": 174,
+   "competitive": 0.19786096256684493,
+   "drama": 0.08394228238055562,
+   "finish": 0.0066384615384615245,
+   "max_swing": 0.08950000000000002,
+   "n_plays": 187,
    "ot": false,
-   "volatility": 3.5315128192404304
+   "volatility": 3.1520497500000006
+  },
+  "pct": {
+   "competitive": 17.21311475409836,
+   "drama": 20.491803278688526,
+   "finish": 36.885245901639344,
+   "volatility": 30.327868852459016
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5884,11 +6657,12 @@
    "detail": "Final",
    "home": 26
   },
-  "scored_at": "2026-11-03T06:19:46.806257+00:00",
+  "scored_at": "2026-11-08T05:57:27.689235+00:00",
   "season": "2026",
+  "season_rank": 88,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_NYJ_NE",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-3",
@@ -5925,6 +6699,7 @@
    "home_record": "1-5",
    "neutral": false
   },
+  "game_score": 91.22950819672131,
   "home": {
    "abbr": "TB",
    "alt": "#3e3a35",
@@ -5935,18 +6710,25 @@
    "short": "Tampa Bay"
   },
   "id": "401873002",
+  "index": 77.78360655737706,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.6730769230769231,
-   "drama": 1.6549141367060816,
-   "finish": 0.5712645006772911,
-   "max_swing": 0.476349592208862,
-   "n_plays": 208,
+   "competitive": 0.6576576576576577,
+   "drama": 1.253106094688889,
+   "finish": 0.46711785714285714,
+   "max_swing": 0.40709999999999996,
+   "n_plays": 222,
    "ot": true,
-   "volatility": 13.128432433292167
+   "volatility": 11.654468444444447
+  },
+  "pct": {
+   "competitive": 57.377049180327866,
+   "drama": 96.72131147540983,
+   "finish": 85.24590163934425,
+   "volatility": 98.36065573770492
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -5956,11 +6738,12 @@
    "detail": "Final/OT",
    "home": 19
   },
-  "scored_at": "2026-11-03T06:19:46.811970+00:00",
+  "scored_at": "2026-11-08T05:57:28.051952+00:00",
   "season": "2026",
+  "season_rank": 18,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_PIT_TB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-2",
@@ -5997,6 +6780,7 @@
    "home_record": "2-4",
    "neutral": false
   },
+  "game_score": 61.885245901639344,
   "home": {
    "abbr": "IND",
    "alt": "#ffffff",
@@ -6007,18 +6791,25 @@
    "short": "Indianapolis"
   },
   "id": "401873003",
+  "index": 55.90819672131148,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.4260355029585799,
-   "drama": 0.5020482296971235,
-   "finish": 0.40993847038883435,
-   "max_swing": 0.28734492612118695,
-   "n_plays": 169,
+   "competitive": 0.4530386740331492,
+   "drama": 1.5624820484888888,
+   "finish": 0.3175214285714287,
+   "max_swing": 0.5449999999999999,
+   "n_plays": 181,
    "ot": false,
-   "volatility": 6.408184165750735
+   "volatility": 9.250756388888888
+  },
+  "pct": {
+   "competitive": 30.327868852459016,
+   "drama": 67.21311475409836,
+   "finish": 73.77049180327869,
+   "volatility": 60.65573770491803
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -6028,11 +6819,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.804345+00:00",
+  "scored_at": "2026-11-08T05:57:28.481016+00:00",
   "season": "2026",
+  "season_rank": 53,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_TEN_IND",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-5",
@@ -6069,6 +6861,7 @@
    "home_record": "2-4",
    "neutral": false
   },
+  "game_score": 86.9672131147541,
   "home": {
    "abbr": "LAR",
    "alt": "#ffd100",
@@ -6079,18 +6872,25 @@
    "short": "Los Angeles"
   },
   "id": "401873004",
+  "index": 77.17377049180328,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.7803468208092486,
-   "drama": 1.1738940585627384,
-   "finish": 0.623555821541927,
-   "max_swing": 0.505011260509491,
-   "n_plays": 173,
+   "competitive": 0.5638297872340425,
+   "drama": 1.4202866005083332,
+   "finish": 0.5511250000000001,
+   "max_swing": 0.5013,
+   "n_plays": 188,
    "ot": false,
-   "volatility": 9.306412623942236
+   "volatility": 9.850171805555554
+  },
+  "pct": {
+   "competitive": 72.95081967213115,
+   "drama": 90.98360655737704,
+   "finish": 90.98360655737704,
+   "volatility": 86.0655737704918
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -6100,11 +6900,12 @@
    "detail": "Final",
    "home": 16
   },
-  "scored_at": "2026-11-03T06:19:46.814395+00:00",
+  "scored_at": "2026-11-08T05:57:28.832369+00:00",
   "season": "2026",
+  "season_rank": 20,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_ARI_LA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-4",
@@ -6141,6 +6942,7 @@
    "home_record": "3-3",
    "neutral": false
   },
+  "game_score": 50.40983606557377,
   "home": {
    "abbr": "LV",
    "alt": "#a5acaf",
@@ -6151,18 +6953,25 @@
    "short": "Las Vegas"
   },
   "id": "401873005",
+  "index": 51.72786885245902,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.6153846153846154,
-   "drama": 0.2673115940329151,
-   "finish": 0.11212135573162645,
-   "max_swing": 0.16771947049104102,
-   "n_plays": 182,
+   "competitive": 0.6210526315789474,
+   "drama": 0.3070218513972222,
+   "finish": 0.09125714285714286,
+   "max_swing": 0.1626,
+   "n_plays": 190,
    "ot": false,
-   "volatility": 5.7059195223213095
+   "volatility": 6.553226138888888
+  },
+  "pct": {
+   "competitive": 50.0,
+   "drama": 46.72131147540984,
+   "finish": 52.459016393442624,
+   "volatility": 51.63934426229508
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -6172,11 +6981,12 @@
    "detail": "Final",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.818410+00:00",
+  "scored_at": "2026-11-08T05:57:29.190221+00:00",
   "season": "2026",
+  "season_rank": 57,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_BUF_LV",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-1",
@@ -6213,6 +7023,7 @@
    "home_record": "5-0",
    "neutral": false
   },
+  "game_score": 12.131147540983607,
   "home": {
    "abbr": "KC",
    "alt": "#ffb612",
@@ -6223,18 +7034,25 @@
    "short": "Kansas City"
   },
   "id": "401873006",
+  "index": 19.704918032786885,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.12048192771084337,
-   "drama": 0.05647513720708366,
-   "finish": 0.003088193795910093,
-   "max_swing": 0.09721753001212996,
-   "n_plays": 166,
+   "competitive": 0.07303370786516854,
+   "drama": 0.0570327093777778,
+   "finish": 0.001965217391304334,
+   "max_swing": 0.10809999999999997,
+   "n_plays": 178,
    "ot": false,
-   "volatility": 1.9993570579800424
+   "volatility": 2.1507315
+  },
+  "pct": {
+   "competitive": 9.01639344262295,
+   "drama": 8.19672131147541,
+   "finish": 23.770491803278688,
+   "volatility": 9.836065573770492
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -6244,11 +7062,12 @@
    "detail": "Final",
    "home": 22
   },
-  "scored_at": "2026-11-03T06:19:46.816457+00:00",
+  "scored_at": "2026-11-08T05:57:29.563878+00:00",
   "season": "2026",
+  "season_rank": 107,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_LAC_KC",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-5",
@@ -6285,6 +7104,7 @@
    "home_record": "4-2",
    "neutral": false
   },
+  "game_score": 35.32786885245902,
   "home": {
    "abbr": "GB",
    "alt": "#ffb612",
@@ -6295,18 +7115,25 @@
    "short": "Green Bay"
   },
   "id": "401873007",
+  "index": 34.26229508196722,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.42783505154639173,
-   "drama": 0.2197157143415853,
-   "finish": 0.0024765792113528424,
-   "max_swing": 0.135914206504822,
-   "n_plays": 194,
+   "competitive": 0.3719806763285024,
+   "drama": 0.1486695789944444,
+   "finish": 0.0019266666666666618,
+   "max_swing": 0.09040000000000004,
+   "n_plays": 207,
    "ot": false,
-   "volatility": 4.853872124657856
+   "volatility": 4.0904188888888875
+  },
+  "pct": {
+   "competitive": 31.967213114754102,
+   "drama": 39.34426229508197,
+   "finish": 22.950819672131146,
+   "volatility": 39.34426229508197
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -6316,11 +7143,12 @@
    "detail": "Final",
    "home": 23
   },
-  "scored_at": "2026-11-03T06:19:46.820263+00:00",
+  "scored_at": "2026-11-08T05:57:29.930473+00:00",
   "season": "2026",
+  "season_rank": 87,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_DAL_GB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-3",
@@ -6357,6 +7185,7 @@
    "home_record": "6-0",
    "neutral": false
   },
+  "game_score": 33.40163934426229,
   "home": {
    "abbr": "SF",
    "alt": "#b3995d",
@@ -6367,18 +7196,25 @@
    "short": "San Francisco"
   },
   "id": "401873008",
+  "index": 34.52131147540983,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.07738095238095238,
-   "drama": 0.18140637664461434,
-   "finish": 0.22385663747787482,
-   "max_swing": 0.16135486960411105,
-   "n_plays": 168,
+   "competitive": 0.05027932960893855,
+   "drama": 0.24687484437777785,
+   "finish": 0.2637785714285714,
+   "max_swing": 0.15050000000000008,
+   "n_plays": 179,
    "ot": false,
-   "volatility": 3.404700383718595
+   "volatility": 3.7968539444444462
+  },
+  "pct": {
+   "competitive": 4.918032786885246,
+   "drama": 35.24590163934426,
+   "finish": 61.47540983606557,
+   "volatility": 26.229508196721312
   },
   "period": "week-06",
   "period_label": "Week 6",
@@ -6388,11 +7224,12 @@
    "detail": "Final",
    "home": 23
   },
-  "scored_at": "2026-11-03T06:19:46.822258+00:00",
+  "scored_at": "2026-11-08T05:57:30.308213+00:00",
   "season": "2026",
+  "season_rank": 86,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_06_WAS_SF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-3-1",
@@ -6429,6 +7266,7 @@
    "home_record": "2-5",
    "neutral": false
   },
+  "game_score": 42.37704918032787,
   "home": {
    "abbr": "PHI",
    "alt": "#000000",
@@ -6439,18 +7277,25 @@
    "short": "Philadelphia"
   },
   "id": "401873009",
+  "index": 42.9016393442623,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.632768361581921,
-   "drama": 0.24195615633438136,
-   "finish": 0.009868562158614941,
-   "max_swing": 0.146531899375265,
-   "n_plays": 177,
+   "competitive": 0.6329787234042553,
+   "drama": 0.1493703597138889,
+   "finish": 0.005733333333333336,
+   "max_swing": 0.08829999999999999,
+   "n_plays": 188,
    "ot": false,
-   "volatility": 5.193257579240603
+   "volatility": 4.16211225
+  },
+  "pct": {
+   "competitive": 51.63934426229508,
+   "drama": 43.44262295081967,
+   "finish": 30.327868852459016,
+   "volatility": 45.08196721311475
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6460,11 +7305,12 @@
    "detail": "Final",
    "home": 21
   },
-  "scored_at": "2026-11-03T06:19:46.846013+00:00",
+  "scored_at": "2026-11-08T05:57:30.676652+00:00",
   "season": "2026",
+  "season_rank": 72,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_DAL_PHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-4",
@@ -6501,6 +7347,7 @@
    "home_record": "5-2",
    "neutral": false
   },
+  "game_score": 40.81967213114754,
   "home": {
    "abbr": "CHI",
    "alt": "#e64100",
@@ -6511,18 +7358,25 @@
    "short": "Chicago"
   },
   "id": "401873010",
+  "index": 43.65573770491803,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.47368421052631576,
-   "drama": 0.22276873513068687,
-   "finish": 0.06981341160523392,
-   "max_swing": 0.140042250221994,
-   "n_plays": 171,
+   "competitive": 0.6132596685082873,
+   "drama": 0.3047818667249999,
+   "finish": 0.06713076923076926,
+   "max_swing": 0.13780000000000003,
+   "n_plays": 181,
    "ot": false,
-   "volatility": 4.903957539593644
+   "volatility": 6.080237416666666
+  },
+  "pct": {
+   "competitive": 35.24590163934426,
+   "drama": 40.16393442622951,
+   "finish": 45.90163934426229,
+   "volatility": 40.16393442622951
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6532,11 +7386,12 @@
    "detail": "Final",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.824209+00:00",
+  "scored_at": "2026-11-08T05:57:31.040848+00:00",
   "season": "2026",
+  "season_rank": 70,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_NE_CHI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-2",
@@ -6574,6 +7429,7 @@
    "home_record": "2-5",
    "neutral": true
   },
+  "game_score": 51.02459016393443,
   "home": {
    "abbr": "NO",
    "alt": "#000000",
@@ -6584,18 +7440,25 @@
    "short": "New Orleans"
   },
   "id": "401873011",
+  "index": 46.81967213114754,
   "labels": {
    "day": "Sun",
    "time": "9:30 AM ET"
   },
   "metrics": {
-   "competitive": 0.7961783439490446,
-   "drama": 0.3029390598454058,
-   "finish": 0.05889720469713208,
-   "max_swing": 0.18396636843681302,
-   "n_plays": 157,
+   "competitive": 0.8284023668639053,
+   "drama": 0.2603775512277778,
+   "finish": 0.041744444444444445,
+   "max_swing": 0.16899999999999998,
+   "n_plays": 169,
    "ot": false,
-   "volatility": 5.445025830823502
+   "volatility": 5.2562217222222225
+  },
+  "pct": {
+   "competitive": 74.59016393442623,
+   "drama": 50.81967213114754,
+   "finish": 41.80327868852459,
+   "volatility": 50.0
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6605,11 +7468,12 @@
    "detail": "Final",
    "home": 10
   },
-  "scored_at": "2026-11-03T06:19:46.826270+00:00",
+  "scored_at": "2026-11-08T05:57:31.392935+00:00",
   "season": "2026",
+  "season_rank": 65,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_PIT_NO",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-2",
@@ -6647,6 +7511,7 @@
    "home_record": "4-3",
    "neutral": false
   },
+  "game_score": 35.24590163934426,
   "home": {
    "abbr": "BAL",
    "alt": "#000000",
@@ -6657,18 +7522,25 @@
    "short": "Baltimore"
   },
   "id": "401873012",
+  "index": 43.79672131147541,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.7018633540372671,
-   "drama": 0.23062790232909977,
-   "finish": 0.0001280790487119913,
-   "max_swing": 0.14392886871203903,
-   "n_plays": 161,
+   "competitive": 0.7368421052631579,
+   "drama": 0.2166372662222222,
+   "finish": 0.0017142857142857157,
+   "max_swing": 0.14089999999999997,
+   "n_plays": 171,
    "ot": false,
-   "volatility": 4.585873887237317
+   "volatility": 4.730201166666666
+  },
+  "pct": {
+   "competitive": 62.295081967213115,
+   "drama": 40.98360655737705,
+   "finish": 9.01639344262295,
+   "volatility": 37.704918032786885
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6678,11 +7550,12 @@
    "detail": "Final",
    "home": 13
   },
-  "scored_at": "2026-11-03T06:19:46.837954+00:00",
+  "scored_at": "2026-11-08T05:57:31.757208+00:00",
   "season": "2026",
+  "season_rank": 68,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_CIN_BAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-2",
@@ -6720,6 +7593,7 @@
    "home_record": "1-6",
    "neutral": false
   },
+  "game_score": 76.27049180327869,
   "home": {
    "abbr": "TEN",
    "alt": "#001532",
@@ -6730,18 +7604,25 @@
    "short": "Tennessee"
   },
   "id": "401873013",
+  "index": 66.01639344262296,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9190751445086706,
-   "drama": 0.5663234830234737,
-   "finish": 0.4008954647009278,
-   "max_swing": 0.22355180978775,
-   "n_plays": 173,
+   "competitive": 0.875,
+   "drama": 0.6269100804861111,
+   "finish": 0.36515000000000003,
+   "max_swing": 0.23870000000000002,
+   "n_plays": 184,
    "ot": false,
-   "volatility": 8.359061571883245
+   "volatility": 8.583354638888888
+  },
+  "pct": {
+   "competitive": 93.44262295081968,
+   "drama": 72.1311475409836,
+   "finish": 72.95081967213115,
+   "volatility": 76.22950819672131
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6751,11 +7632,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.830248+00:00",
+  "scored_at": "2026-11-08T05:57:32.156936+00:00",
   "season": "2026",
+  "season_rank": 35,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_CLE_TEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-2",
@@ -6793,6 +7675,7 @@
    "home_record": "6-0",
    "neutral": false
   },
+  "game_score": 63.89344262295082,
   "home": {
    "abbr": "MIN",
    "alt": "#ffc62f",
@@ -6803,18 +7686,25 @@
    "short": "Minnesota"
   },
   "id": "401873014",
+  "index": 59.11475409836066,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8589743589743589,
-   "drama": 0.4222066113407259,
-   "finish": 0.2218575411372712,
-   "max_swing": 0.18972733616828896,
-   "n_plays": 156,
+   "competitive": 0.863905325443787,
+   "drama": 0.4343975018277777,
+   "finish": 0.2356380952380952,
+   "max_swing": 0.18589999999999995,
+   "n_plays": 169,
    "ot": false,
-   "volatility": 6.592223508784352
+   "volatility": 7.1698522222222225
+  },
+  "pct": {
+   "competitive": 83.60655737704919,
+   "drama": 61.47540983606557,
+   "finish": 60.65573770491803,
+   "volatility": 62.295081967213115
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6824,11 +7714,12 @@
    "detail": "Final",
    "home": 16
   },
-  "scored_at": "2026-11-03T06:19:46.832091+00:00",
+  "scored_at": "2026-11-08T05:57:32.503989+00:00",
   "season": "2026",
+  "season_rank": 43,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_IND_MIN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-4",
@@ -6866,6 +7757,7 @@
    "home_record": "2-5",
    "neutral": false
   },
+  "game_score": 64.05737704918033,
   "home": {
    "abbr": "NYJ",
    "alt": "#ffffff",
@@ -6876,18 +7768,25 @@
    "short": "New York"
   },
   "id": "401873015",
+  "index": 57.24590163934427,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.75625,
-   "drama": 0.4232439006081281,
-   "finish": 0.25415239007803075,
-   "max_swing": 0.1531992885355782,
-   "n_plays": 160,
+   "competitive": 0.7380952380952381,
+   "drama": 0.45791234950000004,
+   "finish": 0.17801666666666663,
+   "max_swing": 0.1977,
+   "n_plays": 168,
    "ot": false,
-   "volatility": 6.807171633114391
+   "volatility": 6.978202111111111
+  },
+  "pct": {
+   "competitive": 71.31147540983606,
+   "drama": 62.295081967213115,
+   "finish": 64.75409836065575,
+   "volatility": 63.114754098360656
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6897,11 +7796,12 @@
    "detail": "Final",
    "home": 25
   },
-  "scored_at": "2026-11-03T06:19:46.834064+00:00",
+  "scored_at": "2026-11-08T05:57:32.903731+00:00",
   "season": "2026",
+  "season_rank": 49,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_MIA_NYJ",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-5",
@@ -6939,6 +7839,7 @@
    "home_record": "2-5",
    "neutral": false
   },
+  "game_score": 84.79508196721312,
   "home": {
    "abbr": "HOU",
    "alt": "#eb0028",
@@ -6949,18 +7850,25 @@
    "short": "Houston"
   },
   "id": "401873016",
+  "index": 73.3360655737705,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9302325581395349,
-   "drama": 0.7163823940553881,
-   "finish": 0.7197582537495548,
-   "max_swing": 0.287535552226473,
-   "n_plays": 172,
+   "competitive": 0.8524590163934426,
+   "drama": 0.7322577839666669,
+   "finish": 0.6958642857142856,
+   "max_swing": 0.2982,
+   "n_plays": 183,
    "ot": true,
-   "volatility": 8.560957864336979
+   "volatility": 7.925253555555557
+  },
+  "pct": {
+   "competitive": 96.72131147540983,
+   "drama": 78.68852459016394,
+   "finish": 98.36065573770492,
+   "volatility": 79.50819672131148
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -6970,11 +7878,12 @@
    "detail": "Final/OT",
    "home": 21
   },
-  "scored_at": "2026-11-03T06:19:46.839378+00:00",
+  "scored_at": "2026-11-08T05:57:33.277989+00:00",
   "season": "2026",
+  "season_rank": 26,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_NYG_HOU",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-2-1",
@@ -7012,6 +7921,7 @@
    "home_record": "3-4",
    "neutral": false
   },
+  "game_score": 54.87704918032787,
   "home": {
    "abbr": "ATL",
    "alt": "#000000",
@@ -7022,18 +7932,25 @@
    "short": "Atlanta"
   },
   "id": "401873017",
+  "index": 51.9016393442623,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.6416184971098265,
-   "drama": 0.31617054024414115,
-   "finish": 0.1626856210999764,
-   "max_swing": 0.15799903869628906,
-   "n_plays": 173,
+   "competitive": 0.34444444444444444,
+   "drama": 0.35141767849166666,
+   "finish": 0.13394999999999999,
+   "max_swing": 0.2258,
+   "n_plays": 180,
    "ot": false,
-   "volatility": 6.089147838009337
+   "volatility": 6.0199100833333326
+  },
+  "pct": {
+   "competitive": 53.278688524590166,
+   "drama": 52.459016393442624,
+   "finish": 54.91803278688525,
+   "volatility": 56.557377049180324
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -7043,11 +7960,12 @@
    "detail": "Final",
    "home": 29
   },
-  "scored_at": "2026-11-03T06:19:46.828281+00:00",
+  "scored_at": "2026-11-08T05:57:33.646955+00:00",
   "season": "2026",
+  "season_rank": 56,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_SF_ATL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "6-0",
@@ -7085,6 +8003,7 @@
    "home_record": "3-3",
    "neutral": false
   },
+  "game_score": 10.614754098360656,
   "home": {
    "abbr": "CAR",
    "alt": "#000000",
@@ -7095,18 +8014,25 @@
    "short": "Carolina"
   },
   "id": "401873018",
+  "index": 17.091803278688523,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.3333333333333333,
-   "drama": 0.08269633883466516,
-   "finish": 8.262720207726075e-05,
-   "max_swing": 0.11446392536163297,
-   "n_plays": 156,
+   "competitive": 0.28484848484848485,
+   "drama": 0.08481988595833333,
+   "finish": 0.0017142857142857157,
+   "max_swing": 0.13029999999999997,
+   "n_plays": 165,
    "ot": false,
-   "volatility": 1.9015240786350887
+   "volatility": 1.769345638888889
+  },
+  "pct": {
+   "competitive": 23.770491803278688,
+   "drama": 13.114754098360656,
+   "finish": 8.19672131147541,
+   "volatility": 7.377049180327869
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -7116,11 +8042,12 @@
    "detail": "Final",
    "home": 13
   },
-  "scored_at": "2026-11-03T06:19:46.836196+00:00",
+  "scored_at": "2026-11-08T05:57:33.994279+00:00",
   "season": "2026",
+  "season_rank": 112,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_TB_CAR",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-5",
@@ -7158,6 +8085,7 @@
    "home_record": "2-5",
    "neutral": false
   },
+  "game_score": 28.48360655737705,
   "home": {
    "abbr": "ARI",
    "alt": "#ffffff",
@@ -7168,18 +8096,25 @@
    "short": "Arizona"
   },
   "id": "401873019",
+  "index": 28.786885245901644,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.43617021276595747,
-   "drama": 0.1142267466918154,
-   "finish": 0.009998175566299523,
-   "max_swing": 0.11886630688491401,
-   "n_plays": 188,
+   "competitive": 0.4444444444444444,
+   "drama": 0.104035615075,
+   "finish": 0.017992857142857137,
+   "max_swing": 0.1338,
+   "n_plays": 198,
    "ot": false,
-   "volatility": 3.5154304513272363
+   "volatility": 3.244232972222222
+  },
+  "pct": {
+   "competitive": 32.78688524590164,
+   "drama": 22.131147540983605,
+   "finish": 31.967213114754102,
+   "volatility": 29.508196721311474
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -7189,11 +8124,12 @@
    "detail": "Final",
    "home": 16
   },
-  "scored_at": "2026-11-03T06:19:46.840656+00:00",
+  "scored_at": "2026-11-08T05:57:34.360295+00:00",
   "season": "2026",
+  "season_rank": 92,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_DEN_ARI",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-2",
@@ -7231,6 +8167,7 @@
    "home_record": "4-2",
    "neutral": false
   },
+  "game_score": 75.08196721311475,
   "home": {
    "abbr": "DET",
    "alt": "#bbbbbb",
@@ -7241,18 +8178,25 @@
    "short": "Detroit"
   },
   "id": "401873020",
+  "index": 75.6655737704918,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.9,
-   "drama": 0.5318276720114875,
-   "finish": 0.4422420371662485,
-   "max_swing": 0.20212870836258,
-   "n_plays": 170,
+   "competitive": 0.9293478260869565,
+   "drama": 0.5647661109194445,
+   "finish": 0.400864,
+   "max_swing": 0.19170000000000004,
+   "n_plays": 184,
    "ot": false,
-   "volatility": 8.006386594966896
+   "volatility": 8.354337527777776
+  },
+  "pct": {
+   "competitive": 90.1639344262295,
+   "drama": 69.67213114754098,
+   "finish": 75.40983606557377,
+   "volatility": 74.59016393442623
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -7262,11 +8206,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.842240+00:00",
+  "scored_at": "2026-11-08T05:57:34.705909+00:00",
   "season": "2026",
+  "season_rank": 23,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_GB_DET",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-2",
@@ -7304,6 +8249,7 @@
    "home_record": "3-4",
    "neutral": false
   },
+  "game_score": 12.868852459016395,
   "home": {
    "abbr": "LV",
    "alt": "#a5acaf",
@@ -7314,18 +8260,25 @@
    "short": "Las Vegas"
   },
   "id": "401873021",
+  "index": 15.295081967213116,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.2391304347826087,
-   "drama": 0.05424383136437501,
-   "finish": 0.0038087167647769906,
-   "max_swing": 0.06758648157119701,
-   "n_plays": 184,
+   "competitive": 0.24352331606217617,
+   "drama": 0.041883036033333335,
+   "finish": 0.0034099999999999964,
+   "max_swing": 0.0685,
+   "n_plays": 193,
    "ot": false,
-   "volatility": 1.990278054657733
+   "volatility": 1.9975548888888888
+  },
+  "pct": {
+   "competitive": 18.852459016393443,
+   "drama": 7.377049180327869,
+   "finish": 25.40983606557377,
+   "volatility": 9.01639344262295
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -7335,11 +8288,12 @@
    "detail": "Final",
    "home": 21
   },
-  "scored_at": "2026-11-03T06:19:46.843480+00:00",
+  "scored_at": "2026-11-08T05:57:35.066452+00:00",
   "season": "2026",
+  "season_rank": 114,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_LA_LV",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-4",
@@ -7377,6 +8331,7 @@
    "home_record": "4-3",
    "neutral": false
   },
+  "game_score": 30.12295081967213,
   "home": {
    "abbr": "SEA",
    "alt": "#69be28",
@@ -7387,18 +8342,25 @@
    "short": "Seattle"
   },
   "id": "401873022",
+  "index": 36.09836065573771,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.4125,
-   "drama": 0.1363603178802088,
-   "finish": 0.01011978854638821,
-   "max_swing": 0.11233597993850697,
-   "n_plays": 160,
+   "competitive": 0.47126436781609193,
+   "drama": 0.16904684648888887,
+   "finish": 0.005409090909090899,
+   "max_swing": 0.12549999999999994,
+   "n_plays": 174,
    "ot": false,
-   "volatility": 3.5980085175003915
+   "volatility": 4.102392666666667
+  },
+  "pct": {
+   "competitive": 27.86885245901639,
+   "drama": 27.049180327868854,
+   "finish": 32.78688524590164,
+   "volatility": 31.147540983606557
   },
   "period": "week-07",
   "period_label": "Week 7",
@@ -7408,11 +8370,12 @@
    "detail": "Final",
    "home": 20
   },
-  "scored_at": "2026-11-03T06:19:46.844762+00:00",
+  "scored_at": "2026-11-08T05:57:35.390089+00:00",
   "season": "2026",
+  "season_rank": 82,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_07_KC_SEA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "5-0",
@@ -7449,6 +8412,7 @@
    "home_record": "5-3",
    "neutral": false
   },
+  "game_score": 37.90983606557377,
   "home": {
    "abbr": "GB",
    "alt": "#ffb612",
@@ -7459,18 +8423,25 @@
    "short": "Green Bay"
   },
   "id": "401873023",
+  "index": 39.75644028103045,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.425531914893617,
-   "drama": 0.18484103672492053,
-   "finish": 0.07172906185345107,
-   "max_swing": 0.11688184738159196,
-   "n_plays": 188,
+   "competitive": 0.4213197969543147,
+   "drama": 0.7402763022805554,
+   "finish": 0.06641538461538463,
+   "max_swing": 0.4085,
+   "n_plays": 197,
    "ot": false,
-   "volatility": 4.4366671318579245
+   "volatility": 5.665868638888887
+  },
+  "pct": {
+   "competitive": 29.508196721311474,
+   "drama": 36.0655737704918,
+   "finish": 46.72131147540984,
+   "volatility": 36.885245901639344
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7480,11 +8451,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.847359+00:00",
+  "scored_at": "2026-11-08T05:57:35.751343+00:00",
   "season": "2026",
+  "season_rank": 76,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_CAR_GB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-3",
@@ -7520,6 +8492,7 @@
    "home_record": "3-5",
    "neutral": false
   },
+  "game_score": 76.02459016393443,
   "home": {
    "abbr": "DAL",
    "alt": "#b0b7bc",
@@ -7530,18 +8503,25 @@
    "short": "Dallas"
   },
   "id": "401873024",
+  "index": 65.10538641686183,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.2358490566037736,
-   "drama": 1.3322152204206479,
-   "finish": 0.35398202060555783,
-   "max_swing": 0.455461337046211,
-   "n_plays": 212,
+   "competitive": 0.22072072072072071,
+   "drama": 2.1141215373083333,
+   "finish": 0.33416949152542375,
+   "max_swing": 0.7406,
+   "n_plays": 222,
    "ot": true,
-   "volatility": 8.945593727277501
+   "volatility": 9.16013175
+  },
+  "pct": {
+   "competitive": 18.0327868852459,
+   "drama": 93.44262295081968,
+   "finish": 68.0327868852459,
+   "volatility": 82.78688524590164
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7551,11 +8531,12 @@
    "detail": "Final/OT",
    "home": 30
   },
-  "scored_at": "2026-11-03T06:19:46.851381+00:00",
+  "scored_at": "2026-11-08T05:57:36.085681+00:00",
   "season": "2026",
+  "season_rank": 37,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_ARI_DAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-5",
@@ -7591,6 +8572,7 @@
    "home_record": "3-5",
    "neutral": false
   },
+  "game_score": 20.28688524590164,
   "home": {
    "abbr": "TB",
    "alt": "#3e3a35",
@@ -7601,18 +8583,25 @@
    "short": "Tampa Bay"
   },
   "id": "401873025",
+  "index": 24.515222482435597,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.34210526315789475,
-   "drama": 0.09738203197656095,
-   "finish": 0.0030933337286115138,
-   "max_swing": 0.13030374050140392,
-   "n_plays": 152,
+   "competitive": 0.23353293413173654,
+   "drama": 0.06991639258055554,
+   "finish": 0.003127272727272716,
+   "max_swing": 0.1008,
+   "n_plays": 167,
    "ot": false,
-   "volatility": 2.7809122938509465
+   "volatility": 2.405015916666666
+  },
+  "pct": {
+   "competitive": 25.40983606557377,
+   "drama": 18.852459016393443,
+   "finish": 24.59016393442623,
+   "volatility": 18.0327868852459
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7622,11 +8611,12 @@
    "detail": "Final",
    "home": 16
   },
-  "scored_at": "2026-11-03T06:19:46.856570+00:00",
+  "scored_at": "2026-11-08T05:57:36.419027+00:00",
   "season": "2026",
+  "season_rank": 98,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_ATL_TB",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-4",
@@ -7662,6 +8652,7 @@
    "home_record": "6-1",
    "neutral": false
   },
+  "game_score": 30.040983606557376,
   "home": {
    "abbr": "BUF",
    "alt": "#d50a0a",
@@ -7672,18 +8663,25 @@
    "short": "Buffalo"
   },
   "id": "401873026",
+  "index": 35.46135831381733,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.5568181818181818,
-   "drama": 0.19106086701530905,
-   "finish": 4.018009793887383e-05,
-   "max_swing": 0.13917884230613697,
-   "n_plays": 176,
+   "competitive": 0.5372340425531915,
+   "drama": 0.16205253874166664,
+   "finish": 0.0016363636363636378,
+   "max_swing": 0.10089999999999999,
+   "n_plays": 188,
    "ot": false,
-   "volatility": 4.030303409562611
+   "volatility": 3.93848825
+  },
+  "pct": {
+   "competitive": 45.08196721311475,
+   "drama": 36.885245901639344,
+   "finish": 4.098360655737705,
+   "volatility": 34.42622950819672
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7693,11 +8691,12 @@
    "detail": "Final",
    "home": 36
   },
-  "scored_at": "2026-11-03T06:19:46.848587+00:00",
+  "scored_at": "2026-11-08T05:57:36.775630+00:00",
   "season": "2026",
+  "season_rank": 83,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_BAL_BUF",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-3",
@@ -7733,6 +8732,7 @@
    "home_record": "6-2",
    "neutral": false
   },
+  "game_score": 12.295081967213115,
   "home": {
    "abbr": "PIT",
    "alt": "#ffb612",
@@ -7743,18 +8743,25 @@
    "short": "Pittsburgh"
   },
   "id": "401873027",
+  "index": 26.407494145199067,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.15789473684210525,
-   "drama": 0.07461061043686068,
-   "finish": 0.0013759612890059027,
-   "max_swing": 0.10305187106132496,
-   "n_plays": 171,
+   "competitive": 0.1783783783783784,
+   "drama": 0.05892697461111112,
+   "finish": 0.0018095238095238112,
+   "max_swing": 0.08810000000000007,
+   "n_plays": 185,
    "ot": false,
-   "volatility": 2.156757746935943
+   "volatility": 2.168764166666666
+  },
+  "pct": {
+   "competitive": 12.295081967213115,
+   "drama": 10.655737704918032,
+   "finish": 18.0327868852459,
+   "volatility": 10.655737704918032
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7764,11 +8771,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.855285+00:00",
+  "scored_at": "2026-11-08T05:57:37.132730+00:00",
   "season": "2026",
+  "season_rank": 96,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_CLE_PIT",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "5-2",
@@ -7804,6 +8812,7 @@
    "home_record": "5-2",
    "neutral": false
   },
+  "game_score": 2.0901639344262297,
   "home": {
    "abbr": "JAX",
    "alt": "#d7a22a",
@@ -7814,18 +8823,25 @@
    "short": "Jacksonville"
   },
   "id": "401873028",
+  "index": 11.3864168618267,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.01910828025477707,
-   "drama": 0.02438910302162135,
-   "finish": 2.9268730610548293e-05,
-   "max_swing": 0.07608659565448694,
-   "n_plays": 157,
+   "competitive": 0.0963855421686747,
+   "drama": 0.03265629017499998,
+   "finish": 0.001692307692307694,
+   "max_swing": 0.07009999999999994,
+   "n_plays": 166,
    "ot": false,
-   "volatility": 0.8794915441369416
+   "volatility": 1.1722444166666657
+  },
+  "pct": {
+   "competitive": 2.459016393442623,
+   "drama": 2.459016393442623,
+   "finish": 2.459016393442623,
+   "volatility": 1.639344262295082
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7835,11 +8851,12 @@
    "detail": "Final",
    "home": 42
   },
-  "scored_at": "2026-11-03T06:19:46.857821+00:00",
+  "scored_at": "2026-11-08T05:57:37.489098+00:00",
   "season": "2026",
+  "season_rank": 116,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_IND_JAX",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-5",
@@ -7875,6 +8892,7 @@
    "home_record": "2-6",
    "neutral": false
   },
+  "game_score": 72.74590163934425,
   "home": {
    "abbr": "NYJ",
    "alt": "#ffffff",
@@ -7885,18 +8903,25 @@
    "short": "New York"
   },
   "id": "401873029",
+  "index": 62.48243559718969,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.8057142857142857,
-   "drama": 0.5933860426200714,
-   "finish": 0.3543855175375937,
-   "max_swing": 0.21285471320152294,
-   "n_plays": 175,
+   "competitive": 0.907103825136612,
+   "drama": 0.5453942347999999,
+   "finish": 0.28333846153846154,
+   "max_swing": 0.17270000000000002,
+   "n_plays": 183,
    "ot": false,
-   "volatility": 8.000687203645299
+   "volatility": 8.437097444444444
+  },
+  "pct": {
+   "competitive": 75.40983606557377,
+   "drama": 72.95081967213115,
+   "finish": 68.85245901639344,
+   "volatility": 73.77049180327869
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7906,11 +8931,12 @@
    "detail": "Final",
    "home": 33
   },
-  "scored_at": "2026-11-03T06:19:46.853937+00:00",
+  "scored_at": "2026-11-08T05:57:37.850164+00:00",
   "season": "2026",
+  "season_rank": 40,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_LV_NYJ",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "3-4",
@@ -7946,6 +8972,7 @@
    "home_record": "5-2",
    "neutral": false
   },
+  "game_score": 70.90163934426229,
   "home": {
    "abbr": "DET",
    "alt": "#bbbbbb",
@@ -7956,18 +8983,25 @@
    "short": "Detroit"
   },
   "id": "401873030",
+  "index": 74.72131147540983,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.9024390243902439,
-   "drama": 0.5044523492928153,
-   "finish": 0.24978633727246696,
-   "max_swing": 0.165394425392151,
-   "n_plays": 164,
+   "competitive": 0.9080459770114943,
+   "drama": 0.4209244786194445,
+   "finish": 0.17616,
+   "max_swing": 0.16349999999999998,
+   "n_plays": 174,
    "ot": false,
-   "volatility": 7.870593326982112
+   "volatility": 7.159411583333334
+  },
+  "pct": {
+   "competitive": 91.80327868852459,
+   "drama": 68.0327868852459,
+   "finish": 63.114754098360656,
+   "volatility": 71.31147540983606
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -7977,11 +9011,12 @@
    "detail": "Final",
    "home": 19
   },
-  "scored_at": "2026-11-03T06:19:46.852670+00:00",
+  "scored_at": "2026-11-08T05:57:38.193706+00:00",
   "season": "2026",
+  "season_rank": 24,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_MIN_DET",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "6-0",
@@ -8017,6 +9052,7 @@
    "home_record": "5-2",
    "neutral": false
   },
+  "game_score": 92.54098360655738,
   "home": {
    "abbr": "CIN",
    "alt": "#000000",
@@ -8027,18 +9063,25 @@
    "short": "Cincinnati"
   },
   "id": "401873031",
+  "index": 78.88992974238876,
   "labels": {
    "day": "Sun",
    "time": "1 PM ET"
   },
   "metrics": {
-   "competitive": 0.7241379310344828,
-   "drama": 1.4142897580905307,
-   "finish": 0.6670160284479814,
-   "max_swing": 0.35012909197184006,
-   "n_plays": 203,
+   "competitive": 0.7380952380952381,
+   "drama": 0.9501172298833332,
+   "finish": 0.5073230769230769,
+   "max_swing": 0.2668,
+   "n_plays": 210,
    "ot": true,
-   "volatility": 12.475329267582584
+   "volatility": 11.09428388888889
+  },
+  "pct": {
+   "competitive": 66.39344262295081,
+   "drama": 94.26229508196722,
+   "finish": 95.90163934426229,
+   "volatility": 95.90163934426229
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -8048,11 +9091,12 @@
    "detail": "Final/OT",
    "home": 43
   },
-  "scored_at": "2026-11-03T06:19:46.849944+00:00",
+  "scored_at": "2026-11-08T05:57:38.551539+00:00",
   "season": "2026",
+  "season_rank": 16,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_TEN_CIN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "1-6",
@@ -8088,6 +9132,7 @@
    "home_record": "4-4",
    "neutral": false
   },
+  "game_score": 29.426229508196723,
   "home": {
    "abbr": "LAR",
    "alt": "#ffd100",
@@ -8098,18 +9143,25 @@
    "short": "Los Angeles"
   },
   "id": "401873032",
+  "index": 28.112412177985952,
   "labels": {
    "day": "Sun",
    "time": "4:05 PM ET"
   },
   "metrics": {
-   "competitive": 0.546583850931677,
-   "drama": 0.17148508602649903,
-   "finish": 0.0008260928667512055,
-   "max_swing": 0.17265322804451,
-   "n_plays": 161,
+   "competitive": 0.5632183908045977,
+   "drama": 0.14493733644444445,
+   "finish": 0.0018266666666666728,
+   "max_swing": 0.1078,
+   "n_plays": 174,
    "ot": false,
-   "volatility": 3.72167527714796
+   "volatility": 3.5235340555555545
+  },
+  "pct": {
+   "competitive": 39.34426229508197,
+   "drama": 31.967213114754102,
+   "finish": 15.573770491803279,
+   "volatility": 31.967213114754102
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -8119,11 +9171,12 @@
    "detail": "Final",
    "home": 24
   },
-  "scored_at": "2026-11-03T06:19:46.859204+00:00",
+  "scored_at": "2026-11-08T05:57:38.892274+00:00",
   "season": "2026",
+  "season_rank": 94,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_LAC_LA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "0-6",
@@ -8159,6 +9212,7 @@
    "home_record": "6-2",
    "neutral": false
   },
+  "game_score": 83.9344262295082,
   "home": {
    "abbr": "DEN",
    "alt": "#fc4c02",
@@ -8169,18 +9223,25 @@
    "short": "Denver"
   },
   "id": "401873033",
+  "index": 84.43325526932085,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.8547486033519553,
-   "drama": 1.0775563734839495,
-   "finish": 0.6076551667694424,
-   "max_swing": 0.40490084886550903,
-   "n_plays": 179,
+   "competitive": 0.8157894736842105,
+   "drama": 1.2107803419194447,
+   "finish": 0.51956,
+   "max_swing": 0.4,
+   "n_plays": 190,
    "ot": false,
-   "volatility": 8.826808765886543
+   "volatility": 9.270939305555554
+  },
+  "pct": {
+   "competitive": 81.14754098360656,
+   "drama": 87.70491803278688,
+   "finish": 86.88524590163934,
+   "volatility": 81.14754098360656
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -8190,11 +9251,12 @@
    "detail": "Final",
    "home": 28
   },
-  "scored_at": "2026-11-03T06:19:46.860462+00:00",
+  "scored_at": "2026-11-08T05:57:39.227284+00:00",
   "season": "2026",
+  "season_rank": 5,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_KC_DEN",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "5-1",
@@ -8230,6 +9292,7 @@
    "home_record": "1-6",
    "neutral": false
   },
+  "game_score": 44.09836065573771,
   "home": {
    "abbr": "MIA",
    "alt": "#fc4c02",
@@ -8240,18 +9303,25 @@
    "short": "Miami"
   },
   "id": "401873034",
+  "index": 43.707259953161596,
   "labels": {
    "day": "Sun",
    "time": "4:25 PM ET"
   },
   "metrics": {
-   "competitive": 0.6424242424242425,
-   "drama": 0.2621637353188636,
-   "finish": 0.04979105824503032,
-   "max_swing": 0.140724782744593,
-   "n_plays": 165,
+   "competitive": 0.5795454545454546,
+   "drama": 0.27903272576666666,
+   "finish": 0.026086956521739126,
+   "max_swing": 0.15160000000000007,
+   "n_plays": 176,
    "ot": false,
-   "volatility": 5.100271156504388
+   "volatility": 5.216889111111111
+  },
+  "pct": {
+   "competitive": 54.09836065573771,
+   "drama": 45.90163934426229,
+   "finish": 40.16393442622951,
+   "volatility": 42.62295081967213
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -8261,11 +9331,12 @@
    "detail": "Final",
    "home": 19
   },
-  "scored_at": "2026-11-03T06:19:46.861723+00:00",
+  "scored_at": "2026-11-08T05:57:39.555700+00:00",
   "season": "2026",
+  "season_rank": 69,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_NE_MIA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "4-3",
@@ -8301,6 +9372,7 @@
    "home_record": "2-4-1",
    "neutral": false
   },
+  "game_score": 42.459016393442624,
   "home": {
    "abbr": "WSH",
    "alt": "#ffb612",
@@ -8311,18 +9383,25 @@
    "short": "Washington"
   },
   "id": "401873035",
+  "index": 42.18149882903982,
   "labels": {
    "day": "Sun",
    "time": "8:20 PM ET"
   },
   "metrics": {
-   "competitive": 0.7457627118644068,
-   "drama": 0.1975926653011017,
-   "finish": 0.034632126660867076,
-   "max_swing": 0.11857914924621604,
-   "n_plays": 177,
+   "competitive": 0.798941798941799,
+   "drama": 0.24458217789722214,
+   "finish": 0.018061538461538455,
+   "max_swing": 0.12629999999999997,
+   "n_plays": 189,
    "ot": false,
-   "volatility": 5.0017713911430155
+   "volatility": 5.683436916666666
+  },
+  "pct": {
+   "competitive": 68.85245901639344,
+   "drama": 37.704918032786885,
+   "finish": 38.52459016393443,
+   "volatility": 40.98360655737705
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -8332,11 +9411,12 @@
    "detail": "Final",
    "home": 27
   },
-  "scored_at": "2026-11-03T06:19:46.863054+00:00",
+  "scored_at": "2026-11-08T05:57:39.879645+00:00",
   "season": "2026",
+  "season_rank": 73,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_PHI_WAS",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "2-5",
@@ -8372,6 +9452,7 @@
    "home_record": "4-4",
    "neutral": false
   },
+  "game_score": 45.73770491803279,
   "home": {
    "abbr": "SEA",
    "alt": "#69be28",
@@ -8382,18 +9463,25 @@
    "short": "Seattle"
   },
   "id": "401873036",
+  "index": 47.30444964871195,
   "labels": {
    "day": "Mon",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.7398843930635838,
-   "drama": 0.2601160422129584,
-   "finish": 0.00981002470145132,
-   "max_swing": 0.14350625872612,
-   "n_plays": 173,
+   "competitive": 0.73224043715847,
+   "drama": 0.27119701345,
+   "finish": 0.00421666666666666,
+   "max_swing": 0.17919999999999997,
+   "n_plays": 183,
    "ot": false,
-   "volatility": 5.323005287131924
+   "volatility": 5.3062585
+  },
+  "pct": {
+   "competitive": 68.0327868852459,
+   "drama": 45.08196721311475,
+   "finish": 29.508196721311474,
+   "volatility": 48.36065573770492
   },
   "period": "week-08",
   "period_label": "Week 8",
@@ -8403,11 +9491,12 @@
    "detail": "Final",
    "home": 17
   },
-  "scored_at": "2026-11-03T06:19:46.864318+00:00",
+  "scored_at": "2026-11-08T05:57:40.234645+00:00",
   "season": "2026",
+  "season_rank": 63,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_08_CHI_SEA",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "5-2",
@@ -8443,6 +9532,7 @@
    "home_record": "4-5",
    "neutral": false
   },
+  "game_score": 4.795081967213115,
   "home": {
    "abbr": "BAL",
    "alt": "#000000",
@@ -8453,18 +9543,25 @@
    "short": "Baltimore"
   },
   "id": "401873037",
+  "index": 14.121779859484779,
   "labels": {
    "day": "Thu",
    "time": "8:15 PM ET"
   },
   "metrics": {
-   "competitive": 0.02564102564102564,
-   "drama": 0.04319134097282588,
-   "finish": 0.00013534419320587239,
-   "max_swing": 0.09941792488098097,
-   "n_plays": 156,
+   "competitive": 0.0,
+   "drama": 0.019865819255555552,
+   "finish": 0.001692307692307694,
+   "max_swing": 0.0559,
+   "n_plays": 167,
    "ot": false,
-   "volatility": 1.6168435787992885
+   "volatility": 1.174674
+  },
+  "pct": {
+   "competitive": 3.278688524590164,
+   "drama": 4.098360655737705,
+   "finish": 9.836065573770492,
+   "volatility": 3.278688524590164
   },
   "period": "week-09",
   "period_label": "Week 9",
@@ -8474,11 +9571,12 @@
    "detail": "Final",
    "home": 10
   },
-  "scored_at": "2026-11-06T09:15:41.774175+00:00",
+  "scored_at": "2026-11-08T05:57:40.550213+00:00",
   "season": "2026",
+  "season_rank": 115,
+  "season_size": 122,
   "source": {
-   "game_id": "2026_09_JAX_BAL",
-   "wp": "nflverse"
+   "wp": "espn"
   },
   "stakes": {
    "away_rec": "5-2",
