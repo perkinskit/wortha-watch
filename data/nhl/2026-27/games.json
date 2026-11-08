@@ -15917,7 +15917,7 @@
    "away_rank": 99,
    "away_record": "9-6-2",
    "conference": false,
-   "detail": "Sun, November 8th at 1:00 PM EST",
+   "detail": "15:07 - 1st Period",
    "home_rank": 99,
    "home_record": "12-4-1",
    "neutral": false
@@ -15948,7 +15948,7 @@
    "score": 54.23076923076923
   },
   "start_utc": "2026-11-08T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892675": {
