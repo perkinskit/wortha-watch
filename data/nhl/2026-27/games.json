@@ -15185,7 +15185,11 @@
   },
   "start_utc": "2026-11-07T18:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "KYYoIEWfd5o",
+   "published": "2026-11-07T20:57:34Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892664": {
@@ -15203,7 +15207,7 @@
    "away_rank": 99,
    "away_record": "9-7-1",
    "conference": false,
-   "detail": "Sat, November 7th at 5:00 PM EST",
+   "detail": "6:56 - 3rd Period",
    "home_rank": 99,
    "home_record": "9-5-1",
    "neutral": false
@@ -15234,7 +15238,7 @@
    "score": 31.59090909090909
   },
   "start_utc": "2026-11-07T22:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892665": {
@@ -15252,7 +15256,7 @@
    "away_rank": 99,
    "away_record": "10-3-3",
    "conference": false,
-   "detail": "Sat, November 7th at 7:00 PM EST",
+   "detail": "12:13 - 1st Period",
    "home_rank": 99,
    "home_record": "8-7-2",
    "neutral": false
@@ -15283,7 +15287,7 @@
    "score": 34.61538461538461
   },
   "start_utc": "2026-11-08T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892666": {
@@ -15301,7 +15305,7 @@
    "away_rank": 99,
    "away_record": "10-6-1",
    "conference": false,
-   "detail": "Sat, November 7th at 7:00 PM EST",
+   "detail": "17:00 - 1st Period",
    "home_rank": 99,
    "home_record": "10-6-1",
    "neutral": false
@@ -15332,7 +15336,7 @@
    "score": 48.2967032967033
   },
   "start_utc": "2026-11-08T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892667": {
@@ -15350,7 +15354,7 @@
    "away_rank": 99,
    "away_record": "11-5-0",
    "conference": false,
-   "detail": "Sat, November 7th at 7:00 PM EST",
+   "detail": "11:45 - 1st Period",
    "home_rank": 99,
    "home_record": "7-6-2",
    "neutral": false
@@ -15381,7 +15385,7 @@
    "score": 53.07692307692307
   },
   "start_utc": "2026-11-08T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892668": {
