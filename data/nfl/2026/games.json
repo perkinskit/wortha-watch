@@ -9658,7 +9658,11 @@
   },
   "start_utc": "2026-11-08T14:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "IFMku2Sz3bA",
+   "published": "2026-11-08T17:48:04Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401873039": {
