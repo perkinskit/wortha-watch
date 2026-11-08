@@ -15243,7 +15243,7 @@
    "detail": "Final",
    "home": 3
   },
-  "scored_at": "2026-11-08T06:00:02.942682+00:00",
+  "scored_at": "2026-11-08T06:01:53.668870+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.449,
@@ -15257,11 +15257,7 @@
   },
   "start_utc": "2026-11-07T22:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "lRnru7Y48K4",
-   "published": "2026-11-08T00:45:20Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892665": {
   "away": {
@@ -15314,7 +15310,7 @@
    "detail": "Final",
    "home": 2
   },
-  "scored_at": "2026-11-08T06:00:03.234800+00:00",
+  "scored_at": "2026-11-08T06:01:54.000585+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.474,
@@ -15328,11 +15324,7 @@
   },
   "start_utc": "2026-11-08T00:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "nVIvIm6DHjE",
-   "published": "2026-11-08T03:11:54Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892666": {
   "away": {
@@ -15385,7 +15377,7 @@
    "detail": "Final",
    "home": 4
   },
-  "scored_at": "2026-11-08T06:00:03.512859+00:00",
+  "scored_at": "2026-11-08T06:01:54.435065+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.478,
@@ -15399,11 +15391,7 @@
   },
   "start_utc": "2026-11-08T00:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "eNWGe1mt3bI",
-   "published": "2026-11-08T03:05:44Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892667": {
   "away": {
@@ -15456,7 +15444,7 @@
    "detail": "Final/OT",
    "home": 4
   },
-  "scored_at": "2026-11-08T06:00:03.789143+00:00",
+  "scored_at": "2026-11-08T06:01:54.774606+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.428,
@@ -15470,11 +15458,7 @@
   },
   "start_utc": "2026-11-08T00:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "Pw-ttsNXAYc",
-   "published": "2026-11-08T03:33:57Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892668": {
   "away": {
@@ -15527,7 +15511,7 @@
    "detail": "Final",
    "home": 9
   },
-  "scored_at": "2026-11-08T06:00:04.060201+00:00",
+  "scored_at": "2026-11-08T06:01:55.105582+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.782,
@@ -15541,11 +15525,7 @@
   },
   "start_utc": "2026-11-08T01:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "l-7rwCMVj-A",
-   "published": "2026-11-08T03:46:48Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892669": {
   "away": {
@@ -15598,7 +15578,7 @@
    "detail": "Final",
    "home": 4
   },
-  "scored_at": "2026-11-08T06:00:04.350121+00:00",
+  "scored_at": "2026-11-08T06:01:55.467887+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.714,
@@ -15612,11 +15592,7 @@
   },
   "start_utc": "2026-11-08T01:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "vQuNZxVPS4I",
-   "published": "2026-11-08T03:52:00Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892670": {
   "away": {
@@ -15669,7 +15645,7 @@
    "detail": "Final/OT",
    "home": 3
   },
-  "scored_at": "2026-11-08T06:00:04.627917+00:00",
+  "scored_at": "2026-11-08T06:01:55.799676+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.437,
@@ -15683,11 +15659,7 @@
   },
   "start_utc": "2026-11-08T01:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "P7BGYMJDW6Q",
-   "published": "2026-11-08T04:11:32Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892671": {
   "away": {
@@ -15740,7 +15712,7 @@
    "detail": "Final",
    "home": 4
   },
-  "scored_at": "2026-11-08T06:00:04.925072+00:00",
+  "scored_at": "2026-11-08T06:01:56.120478+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.664,
@@ -15754,11 +15726,7 @@
   },
   "start_utc": "2026-11-08T02:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "vPtHmqOqqVY",
-   "published": "2026-11-08T04:52:52Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892672": {
   "away": {
@@ -15811,7 +15779,7 @@
    "detail": "Final",
    "home": 2
   },
-  "scored_at": "2026-11-08T06:00:05.251116+00:00",
+  "scored_at": "2026-11-08T06:01:56.455033+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.517,
@@ -15825,11 +15793,7 @@
   },
   "start_utc": "2026-11-08T02:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "Njl75480RWY",
-   "published": "2026-11-08T04:51:43Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892673": {
   "away": {
@@ -15882,7 +15846,7 @@
    "detail": "Final",
    "home": 4
   },
-  "scored_at": "2026-11-08T06:00:05.548548+00:00",
+  "scored_at": "2026-11-08T06:01:56.801893+00:00",
   "season": "2026-27",
   "source": {
    "p0": 0.757,
@@ -15896,11 +15860,7 @@
   },
   "start_utc": "2026-11-08T03:00:00+00:00",
   "status": "final",
-  "video": {
-   "id": "KblCawJ_hGQ",
-   "published": "2026-11-08T05:55:26Z",
-   "source": "youtube"
-  }
+  "video": null
  },
  "401892674": {
   "away": {
