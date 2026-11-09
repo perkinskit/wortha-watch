@@ -10021,7 +10021,11 @@
   },
   "start_utc": "2026-11-09T02:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "BsDNa_7PTnc",
+   "published": "2026-11-09T04:53:45Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909951": {
@@ -10088,6 +10092,6 @@
   "start_utc": "2026-11-09T02:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  }
 }

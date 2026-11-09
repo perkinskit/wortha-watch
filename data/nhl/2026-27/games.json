@@ -16039,7 +16039,7 @@
   "start_utc": "2026-11-08T20:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 18
+  "video_attempts": 19
  },
  "401892676": {
   "away": {
@@ -16320,7 +16320,11 @@
   },
   "start_utc": "2026-11-09T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "6DVF7t4o9wY",
+   "published": "2026-11-09T04:53:02Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  }
 }
