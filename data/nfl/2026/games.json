@@ -10182,11 +10182,11 @@
   "date_et": "2026-11-08",
   "espn": {
    "away_rank": 99,
-   "away_record": "2-5",
+   "away_record": "3-5",
    "conference": false,
-   "detail": "1:07 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "0-7",
+   "home_record": "0-8",
    "neutral": false
   },
   "home": {
@@ -10203,12 +10203,28 @@
    "day": "Sun",
    "time": "4:05 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.4,
+   "drama": 0.10396140975277779,
+   "finish": 0.0018400000000000016,
+   "max_swing": 0.1397,
+   "n_plays": 205,
+   "ot": false,
+   "volatility": 2.7686879722222226
+  },
   "period": "week-09",
   "period_label": "Week 9",
   "period_sort": 9,
-  "result": null,
+  "result": {
+   "away": 44,
+   "detail": "Final",
+   "home": 22
+  },
+  "scored_at": "2026-11-09T00:48:42.738673+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "2-5",
    "division": false,
@@ -10217,8 +10233,9 @@
    "score": 8.571428571428571
   },
   "start_utc": "2026-11-08T21:05:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401873047": {
   "away": {
@@ -10356,7 +10373,11 @@
   },
   "start_utc": "2026-11-08T21:25:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "de07dP1hlt8",
+   "published": "2026-11-09T00:32:36Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401873049": {
@@ -10372,11 +10393,11 @@
   "date_et": "2026-11-08",
   "espn": {
    "away_rank": 99,
-   "away_record": "5-3",
+   "away_record": "6-3",
    "conference": false,
-   "detail": "4:14 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "5-3",
+   "home_record": "5-4",
    "neutral": false
   },
   "home": {
@@ -10393,12 +10414,28 @@
    "day": "Sun",
    "time": "4:25 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.3621621621621622,
+   "drama": 0.12823808769722223,
+   "finish": 0.0017647058823529428,
+   "max_swing": 0.12430000000000002,
+   "n_plays": 185,
+   "ot": false,
+   "volatility": 3.2485016388888885
+  },
   "period": "week-09",
   "period_label": "Week 9",
   "period_sort": 9,
-  "result": null,
+  "result": {
+   "away": 45,
+   "detail": "Final",
+   "home": 27
+  },
+  "scored_at": "2026-11-09T00:48:43.024635+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "5-3",
    "division": false,
@@ -10407,8 +10444,9 @@
    "score": 52.5
   },
   "start_utc": "2026-11-08T21:25:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401873050": {
   "away": {
