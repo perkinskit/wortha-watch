@@ -16039,7 +16039,7 @@
   "start_utc": "2026-11-08T20:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 14
+  "video_attempts": 15
  },
  "401892676": {
   "away": {
@@ -16270,7 +16270,7 @@
    "away_rank": 99,
    "away_record": "6-9-2",
    "conference": false,
-   "detail": "11:55 - 3rd Period",
+   "detail": "1:50 - 3rd Period",
    "home_rank": 99,
    "home_record": "9-7-1",
    "neutral": false
