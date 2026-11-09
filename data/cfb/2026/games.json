@@ -12474,6 +12474,431 @@
   "status": "final",
   "video": null
  },
+ "401856857": {
+  "away": {
+   "abbr": "ASU",
+   "alt": "#8c1d40",
+   "color": "#ffc627",
+   "id": "9",
+   "name": "Arizona State Sun Devils",
+   "nick": "Sun Devils",
+   "short": "Arizona State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UCF",
+   "alt": "#b4a169",
+   "color": "#000000",
+   "id": "2116",
+   "name": "UCF Knights",
+   "nick": "Knights",
+   "short": "UCF"
+  },
+  "id": "401856857",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 63.333333333333336
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856858": {
+  "away": {
+   "abbr": "BAY",
+   "alt": "#ffb81c",
+   "color": "#154734",
+   "id": "239",
+   "name": "Baylor Bears",
+   "nick": "Bears",
+   "short": "Baylor"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 9,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BYU",
+   "alt": "#002e5d",
+   "color": "#0047ba",
+   "id": "252",
+   "name": "BYU Cougars",
+   "nick": "Cougars",
+   "short": "BYU"
+  },
+  "id": "401856858",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [
+    9
+   ],
+   "score": 83.33333333333334
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856859": {
+  "away": {
+   "abbr": "CIN",
+   "alt": "#e00122",
+   "color": "#000000",
+   "id": "2132",
+   "name": "Cincinnati Bearcats",
+   "nick": "Bearcats",
+   "short": "Cincinnati"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ISU",
+   "alt": "#ffc72a",
+   "color": "#ae192d",
+   "id": "66",
+   "name": "Iowa State Cyclones",
+   "nick": "Cyclones",
+   "short": "Iowa State"
+  },
+  "id": "401856859",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 45.0
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856860": {
+  "away": {
+   "abbr": "HOU",
+   "alt": "#ffffff",
+   "color": "#c8102e",
+   "id": "248",
+   "name": "Houston Cougars",
+   "nick": "Cougars",
+   "short": "Houston"
+  },
+  "date_et": "2026-11-13",
+  "espn": {
+   "away_rank": 17,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Fri, November 13th at 10:15 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "COLO",
+   "alt": "#000000",
+   "color": "#cfb87c",
+   "id": "38",
+   "name": "Colorado Buffaloes",
+   "nick": "Buffaloes",
+   "short": "Colorado"
+  },
+  "id": "401856860",
+  "labels": {
+   "day": "Fri",
+   "time": "10:15 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [
+    17
+   ],
+   "score": 54.333333333333336
+  },
+  "start_utc": "2026-11-14T03:15:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856861": {
+  "away": {
+   "abbr": "KU",
+   "alt": "#e8000d",
+   "color": "#0051ba",
+   "id": "2305",
+   "name": "Kansas Jayhawks",
+   "nick": "Jayhawks",
+   "short": "Kansas"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 5:30 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WVU",
+   "alt": "#002855",
+   "color": "#eaaa00",
+   "id": "277",
+   "name": "West Virginia Mountaineers",
+   "nick": "Mountaineers",
+   "short": "West Virginia"
+  },
+  "id": "401856861",
+  "labels": {
+   "day": "Sat",
+   "time": "5:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-14T22:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856862": {
+  "away": {
+   "abbr": "KSU",
+   "alt": "#e2e3e4",
+   "color": "#330a57",
+   "id": "2306",
+   "name": "Kansas State Wildcats",
+   "nick": "Wildcats",
+   "short": "Kansas State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 2:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TCU",
+   "alt": "#ffffff",
+   "color": "#4d1979",
+   "id": "2628",
+   "name": "TCU Horned Frogs",
+   "nick": "Horned Frogs",
+   "short": "TCU"
+  },
+  "id": "401856862",
+  "labels": {
+   "day": "Sat",
+   "time": "2 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-14T19:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856863": {
+  "away": {
+   "abbr": "TTU",
+   "alt": "#000000",
+   "color": "#da291c",
+   "id": "2641",
+   "name": "Texas Tech Red Raiders",
+   "nick": "Red Raiders",
+   "short": "Texas Tech"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 15,
+   "away_record": "8-1",
+   "conference": true,
+   "detail": "Sat, November 14th at 9:30 PM EST",
+   "home_rank": 99,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "OKST",
+   "alt": "#000000",
+   "color": "#fe5c00",
+   "id": "197",
+   "name": "Oklahoma State Cowboys",
+   "nick": "Cowboys",
+   "short": "Oklahoma State"
+  },
+  "id": "401856863",
+  "labels": {
+   "day": "Sat",
+   "time": "9:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "8-1",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [
+    15
+   ],
+   "score": 82.66666666666666
+  },
+  "start_utc": "2026-11-15T02:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856864": {
+  "away": {
+   "abbr": "UTAH",
+   "alt": "#ffffff",
+   "color": "#be0000",
+   "id": "254",
+   "name": "Utah Utes",
+   "nick": "Utes",
+   "short": "Utah"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 3,
+   "away_record": "9-0",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:30 PM EST",
+   "home_rank": 22,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ARIZ",
+   "alt": "#003366",
+   "color": "#cc0033",
+   "id": "12",
+   "name": "Arizona Wildcats",
+   "nick": "Wildcats",
+   "short": "Arizona"
+  },
+  "id": "401856864",
+  "labels": {
+   "day": "Sat",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "9-0",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [
+    22,
+    3
+   ],
+   "score": 100.0
+  },
+  "start_utc": "2026-11-15T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401856881": {
   "away": {
    "abbr": "OKST",
@@ -12540,6 +12965,439 @@
   },
   "start_utc": "2026-09-26T23:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401856882": {
+  "away": {
+   "abbr": "SC",
+   "alt": "#000000",
+   "color": "#73000a",
+   "id": "2579",
+   "name": "South Carolina Gamecocks",
+   "nick": "Gamecocks",
+   "short": "South Carolina"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 21,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:45 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ARK",
+   "alt": "#ffffff",
+   "color": "#a32136",
+   "id": "8",
+   "name": "Arkansas Razorbacks",
+   "nick": "Razorbacks",
+   "short": "Arkansas"
+  },
+  "id": "401856882",
+  "labels": {
+   "day": "Sat",
+   "time": "7:45 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [
+    21
+   ],
+   "score": 51.0
+  },
+  "start_utc": "2026-11-15T00:45:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856883": {
+  "away": {
+   "abbr": "MIZ",
+   "alt": "#000000",
+   "color": "#f1b82d",
+   "id": "142",
+   "name": "Missouri Tigers",
+   "nick": "Tigers",
+   "short": "Missouri"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 18,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 2,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UGA",
+   "alt": "#2c2a29",
+   "color": "#ba0c2f",
+   "id": "61",
+   "name": "Georgia Bulldogs",
+   "nick": "Bulldogs",
+   "short": "Georgia"
+  },
+  "id": "401856883",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "8-1",
+   "ranked": [
+    2,
+    18
+   ],
+   "score": 96.66666666666666
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856884": {
+  "away": {
+   "abbr": "FLA",
+   "alt": "#fa4616",
+   "color": "#0021a5",
+   "id": "57",
+   "name": "Florida Gators",
+   "nick": "Gators",
+   "short": "Florida"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 24,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 6:15 PM EST",
+   "home_rank": 6,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UK",
+   "alt": "#ffffff",
+   "color": "#0033a0",
+   "id": "96",
+   "name": "Kentucky Wildcats",
+   "nick": "Wildcats",
+   "short": "Kentucky"
+  },
+  "id": "401856884",
+  "labels": {
+   "day": "Sat",
+   "time": "6:15 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [
+    6,
+    24
+   ],
+   "score": 86.0
+  },
+  "start_utc": "2026-11-14T23:15:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856885": {
+  "away": {
+   "abbr": "TEX",
+   "alt": "#ffffff",
+   "color": "#af5c37",
+   "id": "251",
+   "name": "Texas Longhorns",
+   "nick": "Longhorns",
+   "short": "Texas"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 7,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:30 PM EST",
+   "home_rank": 14,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LSU",
+   "alt": "#fdd023",
+   "color": "#461d76",
+   "id": "99",
+   "name": "LSU Tigers",
+   "nick": "Tigers",
+   "short": "LSU"
+  },
+  "id": "401856885",
+  "labels": {
+   "day": "Sat",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [
+    14,
+    7
+   ],
+   "score": 89.33333333333334
+  },
+  "start_utc": "2026-11-15T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856886": {
+  "away": {
+   "abbr": "AUB",
+   "alt": "#f26522",
+   "color": "#002b5c",
+   "id": "2",
+   "name": "Auburn Tigers",
+   "nick": "Tigers",
+   "short": "Auburn"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MSST",
+   "alt": "#c1c6c8",
+   "color": "#5d1725",
+   "id": "344",
+   "name": "Mississippi State Bulldogs",
+   "nick": "Bulldogs",
+   "short": "Mississippi State"
+  },
+  "id": "401856886",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 45.0
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856887": {
+  "away": {
+   "abbr": "MISS",
+   "alt": "#cf142b",
+   "color": "#13294b",
+   "id": "145",
+   "name": "Ole Miss Rebels",
+   "nick": "Rebels",
+   "short": "Ole Miss"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 10,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 4:15 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "OU",
+   "alt": "#ffffff",
+   "color": "#990000",
+   "id": "201",
+   "name": "Oklahoma Sooners",
+   "nick": "Sooners",
+   "short": "Oklahoma"
+  },
+  "id": "401856887",
+  "labels": {
+   "day": "Sat",
+   "time": "4:15 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [
+    10
+   ],
+   "score": 76.66666666666667
+  },
+  "start_utc": "2026-11-14T21:15:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856888": {
+  "away": {
+   "abbr": "TENN",
+   "alt": "#ffffff",
+   "color": "#ff8200",
+   "id": "2633",
+   "name": "Tennessee Volunteers",
+   "nick": "Volunteers",
+   "short": "Tennessee"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 13,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TA&M",
+   "alt": "#ffffff",
+   "color": "#500000",
+   "id": "245",
+   "name": "Texas A&M Aggies",
+   "nick": "Aggies",
+   "short": "Texas A&M"
+  },
+  "id": "401856888",
+  "labels": {
+   "day": "Sat",
+   "time": "3 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [
+    13
+   ],
+   "score": 57.66666666666667
+  },
+  "start_utc": "2026-11-14T20:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401856889": {
+  "away": {
+   "abbr": "ALA",
+   "alt": "#ffffff",
+   "color": "#9e1b32",
+   "id": "333",
+   "name": "Alabama Crimson Tide",
+   "nick": "Crimson Tide",
+   "short": "Alabama"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 5,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:45 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "VAN",
+   "alt": "#cfae70",
+   "color": "#000000",
+   "id": "238",
+   "name": "Vanderbilt Commodores",
+   "nick": "Commodores",
+   "short": "Vanderbilt"
+  },
+  "id": "401856889",
+  "labels": {
+   "day": "Sat",
+   "time": "12:45 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [
+    5
+   ],
+   "score": 65.66666666666667
+  },
+  "start_utc": "2026-11-14T17:45:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401858201": {
@@ -18646,6 +19504,480 @@
   },
   "start_utc": "2026-11-07T17:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401858293": {
+  "away": {
+   "abbr": "FSU",
+   "alt": "#ceb888",
+   "color": "#782f40",
+   "id": "52",
+   "name": "Florida State Seminoles",
+   "nick": "Seminoles",
+   "short": "Florida State"
+  },
+  "date_et": "2026-11-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Fri, November 13th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PITT",
+   "alt": "#ffb81c",
+   "color": "#003594",
+   "id": "221",
+   "name": "Pittsburgh Panthers",
+   "nick": "Panthers",
+   "short": "Pittsburgh"
+  },
+  "id": "401858293",
+  "labels": {
+   "day": "Fri",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [],
+   "score": 48.333333333333336
+  },
+  "start_utc": "2026-11-14T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858294": {
+  "away": {
+   "abbr": "BC",
+   "alt": "#dbcca6",
+   "color": "#8c2232",
+   "id": "103",
+   "name": "Boston College Eagles",
+   "nick": "Eagles",
+   "short": "Boston College"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": false,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 11,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ND",
+   "alt": "#c99700",
+   "color": "#062340",
+   "id": "87",
+   "name": "Notre Dame Fighting Irish",
+   "nick": "Fighting Irish",
+   "short": "Notre Dame"
+  },
+  "id": "401858294",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": false,
+   "division": false,
+   "home_rec": "8-1",
+   "ranked": [
+    11
+   ],
+   "score": 46.0
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858295": {
+  "away": {
+   "abbr": "CAL",
+   "alt": "#ffc72c",
+   "color": "#041e42",
+   "id": "25",
+   "name": "California Golden Bears",
+   "nick": "Golden Bears",
+   "short": "California"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UVA",
+   "alt": "#f84c1e",
+   "color": "#232d4b",
+   "id": "258",
+   "name": "Virginia Cavaliers",
+   "nick": "Cavaliers",
+   "short": "Virginia"
+  },
+  "id": "401858295",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 38.33333333333333
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858296": {
+  "away": {
+   "abbr": "DUKE",
+   "alt": "#ffffff",
+   "color": "#00539b",
+   "id": "150",
+   "name": "Duke Blue Devils",
+   "nick": "Blue Devils",
+   "short": "Duke"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 1,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIA",
+   "alt": "#035131",
+   "color": "#f47423",
+   "id": "2390",
+   "name": "Miami Hurricanes",
+   "nick": "Hurricanes",
+   "short": "Miami"
+  },
+  "id": "401858296",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "8-1",
+   "ranked": [
+    1
+   ],
+   "score": 94.0
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858297": {
+  "away": {
+   "abbr": "GT",
+   "alt": "#ffffff",
+   "color": "#b3a369",
+   "id": "59",
+   "name": "Georgia Tech Yellow Jackets",
+   "nick": "Yellow Jackets",
+   "short": "Georgia Tech"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-7",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:30 PM EST",
+   "home_rank": 99,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CLEM",
+   "alt": "#ffffff",
+   "color": "#f56600",
+   "id": "228",
+   "name": "Clemson Tigers",
+   "nick": "Tigers",
+   "short": "Clemson"
+  },
+  "id": "401858297",
+  "labels": {
+   "day": "Sat",
+   "time": "12:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "2-7",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-14T17:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858298": {
+  "away": {
+   "abbr": "LOU",
+   "alt": "#ffffff",
+   "color": "#c9001f",
+   "id": "97",
+   "name": "Louisville Cardinals",
+   "nick": "Cardinals",
+   "short": "Louisville"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UNC",
+   "alt": "#13294b",
+   "color": "#7bafd4",
+   "id": "153",
+   "name": "North Carolina Tar Heels",
+   "nick": "Tar Heels",
+   "short": "North Carolina"
+  },
+  "id": "401858298",
+  "labels": {
+   "day": "Sat",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 66.66666666666667
+  },
+  "start_utc": "2026-11-15T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858299": {
+  "away": {
+   "abbr": "STAN",
+   "alt": "#ffffff",
+   "color": "#8c1515",
+   "id": "24",
+   "name": "Stanford Cardinal",
+   "nick": "Cardinal",
+   "short": "Stanford"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:30 PM EST",
+   "home_rank": 99,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "VT",
+   "alt": "#cf4520",
+   "color": "#6a2c3e",
+   "id": "259",
+   "name": "Virginia Tech Hokies",
+   "nick": "Hokies",
+   "short": "Virginia Tech"
+  },
+  "id": "401858299",
+  "labels": {
+   "day": "Sat",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [],
+   "score": 48.333333333333336
+  },
+  "start_utc": "2026-11-15T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858300": {
+  "away": {
+   "abbr": "SYR",
+   "alt": "#ff431b",
+   "color": "#000e54",
+   "id": "183",
+   "name": "Syracuse Orange",
+   "nick": "Orange",
+   "short": "Syracuse"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NCSU",
+   "alt": "#ffffff",
+   "color": "#cc0000",
+   "id": "152",
+   "name": "NC State Wolfpack",
+   "nick": "Wolfpack",
+   "short": "NC State"
+  },
+  "id": "401858300",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858301": {
+  "away": {
+   "abbr": "WAKE",
+   "alt": "#2c2a29",
+   "color": "#ceb888",
+   "id": "154",
+   "name": "Wake Forest Demon Deacons",
+   "nick": "Demon Deacons",
+   "short": "Wake Forest"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 16,
+   "away_record": "8-1",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SMU",
+   "alt": "#0033a1",
+   "color": "#a80000",
+   "id": "2567",
+   "name": "SMU Mustangs",
+   "nick": "Mustangs",
+   "short": "SMU"
+  },
+  "id": "401858301",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "8-1",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [
+    16
+   ],
+   "score": 86.0
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401858422": {
@@ -25284,6 +26616,485 @@
   "status": "final",
   "video": null
  },
+ "401858518": {
+  "away": {
+   "abbr": "USC",
+   "alt": "#ffc72c",
+   "color": "#9d2235",
+   "id": "30",
+   "name": "USC Trojans",
+   "nick": "Trojans",
+   "short": "USC"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 20,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 4,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "IU",
+   "alt": "#ffffff",
+   "color": "#970310",
+   "id": "84",
+   "name": "Indiana Hoosiers",
+   "nick": "Hoosiers",
+   "short": "Indiana"
+  },
+  "id": "401858518",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "8-1",
+   "ranked": [
+    4,
+    20
+   ],
+   "score": 100.0
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858519": {
+  "away": {
+   "abbr": "PUR",
+   "alt": "#000000",
+   "color": "#ceb888",
+   "id": "2509",
+   "name": "Purdue Boilermakers",
+   "nick": "Boilermakers",
+   "short": "Purdue"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:30 PM EST",
+   "home_rank": 19,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "IOWA",
+   "alt": "#fcd116",
+   "color": "#231f20",
+   "id": "2294",
+   "name": "Iowa Hawkeyes",
+   "nick": "Hawkeyes",
+   "short": "Iowa"
+  },
+  "id": "401858519",
+  "labels": {
+   "day": "Sat",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [
+    19
+   ],
+   "score": 54.333333333333336
+  },
+  "start_utc": "2026-11-15T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858520": {
+  "away": {
+   "abbr": "WIS",
+   "alt": "#ffffff",
+   "color": "#a00000",
+   "id": "275",
+   "name": "Wisconsin Badgers",
+   "nick": "Badgers",
+   "short": "Wisconsin"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MD",
+   "alt": "#ffffff",
+   "color": "#ce1126",
+   "id": "120",
+   "name": "Maryland Terrapins",
+   "nick": "Terrapins",
+   "short": "Maryland"
+  },
+  "id": "401858520",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 45.0
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858521": {
+  "away": {
+   "abbr": "WASH",
+   "alt": "#e8d3a2",
+   "color": "#33006f",
+   "id": "264",
+   "name": "Washington Huskies",
+   "nick": "Huskies",
+   "short": "Washington"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 4:15 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MSU",
+   "alt": "#ffffff",
+   "color": "#173f35",
+   "id": "127",
+   "name": "Michigan State Spartans",
+   "nick": "Spartans",
+   "short": "Michigan State"
+  },
+  "id": "401858521",
+  "labels": {
+   "day": "Sat",
+   "time": "4:15 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-14T21:15:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858522": {
+  "away": {
+   "abbr": "NU",
+   "alt": "#ffffff",
+   "color": "#492f92",
+   "id": "77",
+   "name": "Northwestern Wildcats",
+   "nick": "Wildcats",
+   "short": "Northwestern"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 12,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "OSU",
+   "alt": "#a8adb4",
+   "color": "#ba0c2f",
+   "id": "194",
+   "name": "Ohio State Buckeyes",
+   "nick": "Buckeyes",
+   "short": "Ohio State"
+  },
+  "id": "401858522",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [
+    12
+   ],
+   "score": 76.0
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858523": {
+  "away": {
+   "abbr": "MICH",
+   "alt": "#ffcb05",
+   "color": "#00274c",
+   "id": "130",
+   "name": "Michigan Wolverines",
+   "nick": "Wolverines",
+   "short": "Michigan"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 23,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ORE",
+   "alt": "#fff41b",
+   "color": "#00934b",
+   "id": "2483",
+   "name": "Oregon Ducks",
+   "nick": "Ducks",
+   "short": "Oregon"
+  },
+  "id": "401858523",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [
+    23
+   ],
+   "score": 72.66666666666667
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858524": {
+  "away": {
+   "abbr": "MINN",
+   "alt": "#fab41c",
+   "color": "#5e0a2f",
+   "id": "135",
+   "name": "Minnesota Golden Gophers",
+   "nick": "Golden Gophers",
+   "short": "Minnesota"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PSU",
+   "alt": "#ffffff",
+   "color": "#061440",
+   "id": "213",
+   "name": "Penn State Nittany Lions",
+   "nick": "Nittany Lions",
+   "short": "Penn State"
+  },
+  "id": "401858524",
+  "labels": {
+   "day": "Sat",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 63.333333333333336
+  },
+  "start_utc": "2026-11-15T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858525": {
+  "away": {
+   "abbr": "NEB",
+   "alt": "#ffffff",
+   "color": "#e31937",
+   "id": "158",
+   "name": "Nebraska Cornhuskers",
+   "nick": "Cornhuskers",
+   "short": "Nebraska"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 12:30 PM EST",
+   "home_rank": 99,
+   "home_record": "2-7",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "RUTG",
+   "alt": "#ffffff",
+   "color": "#ce0e2d",
+   "id": "164",
+   "name": "Rutgers Scarlet Knights",
+   "nick": "Scarlet Knights",
+   "short": "Rutgers"
+  },
+  "id": "401858525",
+  "labels": {
+   "day": "Sat",
+   "time": "12:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "2-7",
+   "ranked": [],
+   "score": 38.33333333333333
+  },
+  "start_utc": "2026-11-14T17:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401858526": {
+  "away": {
+   "abbr": "ILL",
+   "alt": "#13294b",
+   "color": "#ff5f05",
+   "id": "356",
+   "name": "Illinois Fighting Illini",
+   "nick": "Fighting Illini",
+   "short": "Illinois"
+  },
+  "date_et": "2026-11-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Fri, November 13th at 9:00 PM EST",
+   "home_rank": 8,
+   "home_record": "9-0",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UCLA",
+   "alt": "#f2a900",
+   "color": "#2774ae",
+   "id": "26",
+   "name": "UCLA Bruins",
+   "nick": "Bruins",
+   "short": "UCLA"
+  },
+  "id": "401858526",
+  "labels": {
+   "day": "Fri",
+   "time": "9 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "9-0",
+   "ranked": [
+    8
+   ],
+   "score": 90.0
+  },
+  "start_utc": "2026-11-14T02:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401859184": {
   "away": {
    "abbr": "RICE",
@@ -27882,6 +29693,216 @@
   "status": "final",
   "video": null
  },
+ "401860914": {
+  "away": {
+   "abbr": "ORST",
+   "alt": "#000000",
+   "color": "#dc4405",
+   "id": "204",
+   "name": "Oregon State Beavers",
+   "nick": "Beavers",
+   "short": "Oregon State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 6:00 PM EST",
+   "home_rank": 25,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BOIS",
+   "alt": "#d64309",
+   "color": "#0033a0",
+   "id": "68",
+   "name": "Boise State Broncos",
+   "nick": "Broncos",
+   "short": "Boise State"
+  },
+  "id": "401860914",
+  "labels": {
+   "day": "Sat",
+   "time": "6 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "8-1",
+   "ranked": [
+    25
+   ],
+   "score": 79.33333333333334
+  },
+  "start_utc": "2026-11-14T23:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401860915": {
+  "away": {
+   "abbr": "USU",
+   "alt": "#ffffff",
+   "color": "#0f2439",
+   "id": "328",
+   "name": "Utah State Aggies",
+   "nick": "Aggies",
+   "short": "Utah State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 9:30 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SDSU",
+   "alt": "#000000",
+   "color": "#a6192e",
+   "id": "21",
+   "name": "San Diego State Aztecs",
+   "nick": "Aztecs",
+   "short": "San Diego State"
+  },
+  "id": "401860915",
+  "labels": {
+   "day": "Sat",
+   "time": "9:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-15T02:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401860916": {
+  "away": {
+   "abbr": "FRES",
+   "alt": "#13284c",
+   "color": "#b1102b",
+   "id": "278",
+   "name": "Fresno State Bulldogs",
+   "nick": "Bulldogs",
+   "short": "Fresno State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 4:00 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TXST",
+   "alt": "#6a5638",
+   "color": "#501214",
+   "id": "326",
+   "name": "Texas State Bobcats",
+   "nick": "Bobcats",
+   "short": "Texas State"
+  },
+  "id": "401860916",
+  "labels": {
+   "day": "Sat",
+   "time": "4 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 63.333333333333336
+  },
+  "start_utc": "2026-11-14T21:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401860917": {
+  "away": {
+   "abbr": "CSU",
+   "alt": "#c8c372",
+   "color": "#004c23",
+   "id": "36",
+   "name": "Colorado State Rams",
+   "nick": "Rams",
+   "short": "Colorado State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 10:30 PM EST",
+   "home_rank": 99,
+   "home_record": "1-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WSU",
+   "alt": "#4d4d4d",
+   "color": "#a60f2d",
+   "id": "265",
+   "name": "Washington State Cougars",
+   "nick": "Cougars",
+   "short": "Washington State"
+  },
+  "id": "401860917",
+  "labels": {
+   "day": "Sat",
+   "time": "10:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "1-8",
+   "ranked": [],
+   "score": 28.333333333333332
+  },
+  "start_utc": "2026-11-15T03:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401860921": {
   "away": {
    "abbr": "FRES",
@@ -28492,6 +30513,58 @@
   },
   "start_utc": "2026-10-31T19:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401861967": {
+  "away": {
+   "abbr": "JMU",
+   "alt": "#cbb677",
+   "color": "#450084",
+   "id": "256",
+   "name": "James Madison Dukes",
+   "nick": "Dukes",
+   "short": "James Madison"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "8-2",
+   "conference": false,
+   "detail": "Sat, November 14th at 12:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CONN",
+   "alt": "#a2aaad",
+   "color": "#0c2340",
+   "id": "41",
+   "name": "UConn Huskies",
+   "nick": "Huskies",
+   "short": "UConn"
+  },
+  "id": "401861967",
+  "labels": {
+   "day": "Sat",
+   "time": "12 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "8-2",
+   "conference": false,
+   "division": false,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 37.333333333333336
+  },
+  "start_utc": "2026-11-14T17:00:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401861970": {
@@ -33118,6 +35191,318 @@
   "status": "final",
   "video": null
  },
+ "401862824": {
+  "away": {
+   "abbr": "MEM",
+   "alt": "#8e908f",
+   "color": "#004991",
+   "id": "235",
+   "name": "Memphis Tigers",
+   "nick": "Tigers",
+   "short": "Memphis"
+  },
+  "date_et": "2026-11-12",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Thu, November 12th at 8:00 PM EST",
+   "home_rank": 99,
+   "home_record": "6-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "USF",
+   "alt": "#cfc493",
+   "color": "#006747",
+   "id": "58",
+   "name": "South Florida Bulls",
+   "nick": "Bulls",
+   "short": "South Florida"
+  },
+  "id": "401862824",
+  "labels": {
+   "day": "Thu",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "6-3",
+   "ranked": [],
+   "score": 73.33333333333334
+  },
+  "start_utc": "2026-11-13T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401862825": {
+  "away": {
+   "abbr": "ECU",
+   "alt": "#ffc72c",
+   "color": "#582c83",
+   "id": "151",
+   "name": "East Carolina Pirates",
+   "nick": "Pirates",
+   "short": "East Carolina"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "1-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CLT",
+   "alt": "#a49665",
+   "color": "#005035",
+   "id": "2429",
+   "name": "Charlotte 49ers",
+   "nick": "49ers",
+   "short": "Charlotte"
+  },
+  "id": "401862825",
+  "labels": {
+   "day": "Sat",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "1-8",
+   "ranked": [],
+   "score": 35.0
+  },
+  "start_utc": "2026-11-14T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401862826": {
+  "away": {
+   "abbr": "FAU",
+   "alt": "#cc0000",
+   "color": "#003366",
+   "id": "2226",
+   "name": "Florida Atlantic Owls",
+   "nick": "Owls",
+   "short": "Florida Atlantic"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TLSA",
+   "alt": "#d0b787",
+   "color": "#003595",
+   "id": "202",
+   "name": "Tulsa Golden Hurricane",
+   "nick": "Golden Hurricane",
+   "short": "Tulsa"
+  },
+  "id": "401862826",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 66.66666666666667
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401862827": {
+  "away": {
+   "abbr": "UNT",
+   "alt": "#ffffff",
+   "color": "#068f33",
+   "id": "249",
+   "name": "North Texas Mean Green",
+   "nick": "Mean Green",
+   "short": "North Texas"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 9:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UTSA",
+   "alt": "#f15a22",
+   "color": "#0c2340",
+   "id": "2636",
+   "name": "UTSA Roadrunners",
+   "nick": "Roadrunners",
+   "short": "UTSA"
+  },
+  "id": "401862827",
+  "labels": {
+   "day": "Sat",
+   "time": "9 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [],
+   "score": 76.66666666666666
+  },
+  "start_utc": "2026-11-15T02:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401862828": {
+  "away": {
+   "abbr": "TULN",
+   "alt": "#418fde",
+   "color": "#006747",
+   "id": "2655",
+   "name": "Tulane Green Wave",
+   "nick": "Green Wave",
+   "short": "Tulane"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 2:00 PM EST",
+   "home_rank": 99,
+   "home_record": "1-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "RICE",
+   "alt": "#c1c6c8",
+   "color": "#00205b",
+   "id": "242",
+   "name": "Rice Owls",
+   "nick": "Owls",
+   "short": "Rice"
+  },
+  "id": "401862828",
+  "labels": {
+   "day": "Sat",
+   "time": "2 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "1-8",
+   "ranked": [],
+   "score": 31.666666666666668
+  },
+  "start_utc": "2026-11-14T19:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401862829": {
+  "away": {
+   "abbr": "UAB",
+   "alt": "#fdb913",
+   "color": "#1a5632",
+   "id": "5",
+   "name": "UAB Blazers",
+   "nick": "Blazers",
+   "short": "UAB"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "2-7",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TEM",
+   "alt": "#ffffff",
+   "color": "#a41e35",
+   "id": "218",
+   "name": "Temple Owls",
+   "nick": "Owls",
+   "short": "Temple"
+  },
+  "id": "401862829",
+  "labels": {
+   "day": "Sat",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "2-7",
+   "ranked": [],
+   "score": 38.33333333333333
+  },
+  "start_utc": "2026-11-14T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401864424": {
   "away": {
    "abbr": "MRMK",
@@ -36178,6 +38563,266 @@
   },
   "start_utc": "2026-11-08T03:30:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401864536": {
+  "away": {
+   "abbr": "NEV",
+   "alt": "#8a8d8f",
+   "color": "#041e42",
+   "id": "2440",
+   "name": "Nevada Wolf Pack",
+   "nick": "Wolf Pack",
+   "short": "Nevada"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "0-9",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NIU",
+   "alt": "#000000",
+   "color": "#c8102e",
+   "id": "2459",
+   "name": "Northern Illinois Huskies",
+   "nick": "Huskies",
+   "short": "Northern Illinois"
+  },
+  "id": "401864536",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "0-9",
+   "ranked": [],
+   "score": 25.0
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401864537": {
+  "away": {
+   "abbr": "NDSU",
+   "alt": "#ffffff",
+   "color": "#01402A",
+   "id": "2449",
+   "name": "North Dakota State Bison",
+   "nick": "Bison",
+   "short": "North Dakota State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 11:00 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "HAW",
+   "alt": "#000000",
+   "color": "#005737",
+   "id": "62",
+   "name": "Hawai'i Rainbow Warriors",
+   "nick": "Rainbow Warriors",
+   "short": "Hawai'i"
+  },
+  "id": "401864537",
+  "labels": {
+   "day": "Sat",
+   "time": "11 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 48.333333333333336
+  },
+  "start_utc": "2026-11-15T04:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401864538": {
+  "away": {
+   "abbr": "SJSU",
+   "alt": "#ffb81a",
+   "color": "#0038a8",
+   "id": "23",
+   "name": "San Jos\u00e9 State Spartans",
+   "nick": "Spartans",
+   "short": "San Jos\u00e9 State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "AF",
+   "alt": "#ffffff",
+   "color": "#003594",
+   "id": "2005",
+   "name": "Air Force Falcons",
+   "nick": "Falcons",
+   "short": "Air Force"
+  },
+  "id": "401864538",
+  "labels": {
+   "day": "Sat",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [],
+   "score": 68.33333333333333
+  },
+  "start_utc": "2026-11-15T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401864539": {
+  "away": {
+   "abbr": "UNLV",
+   "alt": "#cac8c8",
+   "color": "#cf0a2c",
+   "id": "2439",
+   "name": "UNLV Rebels",
+   "nick": "Rebels",
+   "short": "UNLV"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:30 PM EST",
+   "home_rank": 99,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UNM",
+   "alt": "#a7a8aa",
+   "color": "#ba0c2f",
+   "id": "167",
+   "name": "New Mexico Lobos",
+   "nick": "Lobos",
+   "short": "New Mexico"
+  },
+  "id": "401864539",
+  "labels": {
+   "day": "Sat",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "8-1",
+   "ranked": [],
+   "score": 73.33333333333334
+  },
+  "start_utc": "2026-11-15T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401864540": {
+  "away": {
+   "abbr": "WYO",
+   "alt": "#ffc425",
+   "color": "#492f24",
+   "id": "2751",
+   "name": "Wyoming Cowboys",
+   "nick": "Cowboys",
+   "short": "Wyoming"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Sat, November 14th at 10:00 PM EST",
+   "home_rank": 99,
+   "home_record": "1-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "UTEP",
+   "alt": "#041e42",
+   "color": "#ff8200",
+   "id": "2638",
+   "name": "UTEP Miners",
+   "nick": "Miners",
+   "short": "UTEP"
+  },
+  "id": "401864540",
+  "labels": {
+   "day": "Sat",
+   "time": "10 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "1-8",
+   "ranked": [],
+   "score": 38.33333333333333
+  },
+  "start_utc": "2026-11-15T03:00:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401864570": {
@@ -40260,6 +42905,318 @@
   "status": "final",
   "video": null
  },
+ "401866458": {
+  "away": {
+   "abbr": "WMU",
+   "alt": "#f1c500",
+   "color": "#532e1f",
+   "id": "2711",
+   "name": "Western Michigan Broncos",
+   "nick": "Broncos",
+   "short": "Western Michigan"
+  },
+  "date_et": "2026-11-10",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Tue, November 10th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "1-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "AKR",
+   "alt": "#c5b783",
+   "color": "#041e42",
+   "id": "2006",
+   "name": "Akron Zips",
+   "nick": "Zips",
+   "short": "Akron"
+  },
+  "id": "401866458",
+  "labels": {
+   "day": "Tue",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "1-8",
+   "ranked": [],
+   "score": 38.33333333333333
+  },
+  "start_utc": "2026-11-11T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401866459": {
+  "away": {
+   "abbr": "KENT",
+   "alt": "#eaab00",
+   "color": "#002664",
+   "id": "2309",
+   "name": "Kent State Golden Flashes",
+   "nick": "Golden Flashes",
+   "short": "Kent State"
+  },
+  "date_et": "2026-11-10",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Tue, November 10th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "2-7",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BGSU",
+   "alt": "#4f2c1d",
+   "color": "#fd5000",
+   "id": "189",
+   "name": "Bowling Green Falcons",
+   "nick": "Falcons",
+   "short": "Bowling Green"
+  },
+  "id": "401866459",
+  "labels": {
+   "day": "Tue",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "2-7",
+   "ranked": [],
+   "score": 31.666666666666668
+  },
+  "start_utc": "2026-11-11T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401866460": {
+  "away": {
+   "abbr": "OHIO",
+   "alt": "#ffffff",
+   "color": "#154734",
+   "id": "195",
+   "name": "Ohio Bobcats",
+   "nick": "Bobcats",
+   "short": "Ohio"
+  },
+  "date_et": "2026-11-10",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Tue, November 10th at 8:00 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "M-OH",
+   "alt": "#ffffff",
+   "color": "#c41230",
+   "id": "193",
+   "name": "Miami (OH) RedHawks",
+   "nick": "RedHawks",
+   "short": "Miami (OH)"
+  },
+  "id": "401866460",
+  "labels": {
+   "day": "Tue",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 70.0
+  },
+  "start_utc": "2026-11-11T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401866461": {
+  "away": {
+   "abbr": "BUF",
+   "alt": "#ffffff",
+   "color": "#005bbb",
+   "id": "2084",
+   "name": "Buffalo Bulls",
+   "nick": "Bulls",
+   "short": "Buffalo"
+  },
+  "date_et": "2026-11-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Wed, November 11th at 7:30 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BALL",
+   "alt": "#ffffff",
+   "color": "#ba0c2f",
+   "id": "2050",
+   "name": "Ball State Cardinals",
+   "nick": "Cardinals",
+   "short": "Ball State"
+  },
+  "id": "401866461",
+  "labels": {
+   "day": "Wed",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 45.0
+  },
+  "start_utc": "2026-11-12T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401866462": {
+  "away": {
+   "abbr": "SAC",
+   "alt": "#cdb97d",
+   "color": "#00573C",
+   "id": "16",
+   "name": "Sacramento State Hornets",
+   "nick": "Hornets",
+   "short": "Sacramento State"
+  },
+  "date_et": "2026-11-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "2-8",
+   "conference": true,
+   "detail": "Wed, November 11th at 7:30 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CMU",
+   "alt": "#fbab18",
+   "color": "#4c0027",
+   "id": "2117",
+   "name": "Central Michigan Chippewas",
+   "nick": "Chippewas",
+   "short": "Central Michigan"
+  },
+  "id": "401866462",
+  "labels": {
+   "day": "Wed",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "2-8",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 34.33333333333333
+  },
+  "start_utc": "2026-11-12T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401866463": {
+  "away": {
+   "abbr": "MASS",
+   "alt": "#ffffff",
+   "color": "#881c1c",
+   "id": "113",
+   "name": "Massachusetts Minutemen",
+   "nick": "Minutemen",
+   "short": "Massachusetts"
+  },
+  "date_et": "2026-11-11",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Wed, November 11th at 7:30 PM EST",
+   "home_rank": 99,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TOL",
+   "alt": "#ffcd00",
+   "color": "#0b2240",
+   "id": "2649",
+   "name": "Toledo Rockets",
+   "nick": "Rockets",
+   "short": "Toledo"
+  },
+  "id": "401866463",
+  "labels": {
+   "day": "Wed",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [],
+   "score": 70.0
+  },
+  "start_utc": "2026-11-12T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401866476": {
   "away": {
    "abbr": "M-OH",
@@ -42234,6 +45191,58 @@
   "status": "final",
   "video": null
  },
+ "401869928": {
+  "away": {
+   "abbr": "APP",
+   "alt": "#ffcd00",
+   "color": "#000000",
+   "id": "2026",
+   "name": "App State Mountaineers",
+   "nick": "Mountaineers",
+   "short": "App State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 6:00 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MRSH",
+   "alt": "#000000",
+   "color": "#00b140",
+   "id": "276",
+   "name": "Marshall Thundering Herd",
+   "nick": "Thundering Herd",
+   "short": "Marshall"
+  },
+  "id": "401869928",
+  "labels": {
+   "day": "Sat",
+   "time": "6 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 63.333333333333336
+  },
+  "start_utc": "2026-11-14T23:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401869931": {
   "away": {
    "abbr": "KENN",
@@ -42640,6 +45649,58 @@
   },
   "start_utc": "2026-11-07T20:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401869937": {
+  "away": {
+   "abbr": "ARST",
+   "alt": "#000000",
+   "color": "#cc092f",
+   "id": "2032",
+   "name": "Arkansas State Red Wolves",
+   "nick": "Red Wolves",
+   "short": "Arkansas State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CCU",
+   "alt": "#a27752",
+   "color": "#006f71",
+   "id": "324",
+   "name": "Coastal Carolina Chanticleers",
+   "nick": "Chanticleers",
+   "short": "Coastal Carolina"
+  },
+  "id": "401869937",
+  "labels": {
+   "day": "Sat",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 38.33333333333333
+  },
+  "start_utc": "2026-11-14T18:00:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401869940": {
@@ -43320,6 +46381,58 @@
   },
   "start_utc": "2026-11-07T20:30:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401869952": {
+  "away": {
+   "abbr": "GASO",
+   "alt": "#a3aaae",
+   "color": "#041e42",
+   "id": "290",
+   "name": "Georgia Southern Eagles",
+   "nick": "Eagles",
+   "short": "Georgia Southern"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "GAST",
+   "alt": "#ffffff",
+   "color": "#0039a6",
+   "id": "2247",
+   "name": "Georgia State Panthers",
+   "nick": "Panthers",
+   "short": "Georgia State"
+  },
+  "id": "401869952",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "5-4",
+   "ranked": [],
+   "score": 63.333333333333336
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401869955": {
@@ -44138,6 +47251,58 @@
   "status": "final",
   "video": null
  },
+ "401869969": {
+  "away": {
+   "abbr": "UL",
+   "alt": "#000000",
+   "color": "#ce181e",
+   "id": "309",
+   "name": "Louisiana Ragin' Cajuns",
+   "nick": "Ragin' Cajuns",
+   "short": "Louisiana"
+  },
+  "date_et": "2026-11-12",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3",
+   "conference": true,
+   "detail": "Thu, November 12th at 9:00 PM EST",
+   "home_rank": 99,
+   "home_record": "2-7",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ULM",
+   "alt": "#fdb913",
+   "color": "#840029",
+   "id": "2433",
+   "name": "UL Monroe Warhawks",
+   "nick": "Warhawks",
+   "short": "UL Monroe"
+  },
+  "id": "401869969",
+  "labels": {
+   "day": "Thu",
+   "time": "9 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3",
+   "conference": true,
+   "division": true,
+   "home_rec": "2-7",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-13T02:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401870745": {
   "away": {
    "abbr": "MERC",
@@ -44204,6 +47369,58 @@
   },
   "start_utc": "2026-09-26T23:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401870752": {
+  "away": {
+   "abbr": "JXST",
+   "alt": "#000000",
+   "color": "#cc0000",
+   "id": "55",
+   "name": "Jacksonville State Gamecocks",
+   "nick": "Gamecocks",
+   "short": "Jacksonville State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "7-2",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WKU",
+   "alt": "#ffffff",
+   "color": "#e13a3e",
+   "id": "98",
+   "name": "Western Kentucky Hilltoppers",
+   "nick": "Hilltoppers",
+   "short": "Western Kentucky"
+  },
+  "id": "401870752",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "7-2",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 48.333333333333336
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401870763": {
@@ -44410,6 +47627,58 @@
   "status": "final",
   "video": null
  },
+ "401870769": {
+  "away": {
+   "abbr": "KENN",
+   "alt": "#0b1315",
+   "color": "#fdbb30",
+   "id": "338",
+   "name": "Kennesaw State Owls",
+   "nick": "Owls",
+   "short": "Kennesaw State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 2:00 PM EST",
+   "home_rank": 99,
+   "home_record": "1-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SHSU",
+   "alt": "#ffffff",
+   "color": "#f56423",
+   "id": "2534",
+   "name": "Sam Houston Bearkats",
+   "nick": "Bearkats",
+   "short": "Sam Houston"
+  },
+  "id": "401870769",
+  "labels": {
+   "day": "Sat",
+   "time": "2 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "1-8",
+   "ranked": [],
+   "score": 28.333333333333332
+  },
+  "start_utc": "2026-11-14T19:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401870790": {
   "away": {
    "abbr": "MERC",
@@ -44544,6 +47813,58 @@
   },
   "start_utc": "2026-11-08T01:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401870796": {
+  "away": {
+   "abbr": "NMSU",
+   "alt": "#231f20",
+   "color": "#7e141b",
+   "id": "166",
+   "name": "New Mexico State Aggies",
+   "nick": "Aggies",
+   "short": "New Mexico State"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:00 PM EST",
+   "home_rank": 99,
+   "home_record": "3-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MOST",
+   "alt": "#ffffff",
+   "color": "#5e0009",
+   "id": "2623",
+   "name": "Missouri State Bears",
+   "nick": "Bears",
+   "short": "Missouri State"
+  },
+  "id": "401870796",
+  "labels": {
+   "day": "Sat",
+   "time": "3 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "3-6",
+   "ranked": [],
+   "score": 35.0
+  },
+  "start_utc": "2026-11-14T20:00:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401871045": {
@@ -45564,6 +48885,110 @@
   },
   "start_utc": "2026-10-31T19:30:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401871060": {
+  "away": {
+   "abbr": "FIU",
+   "alt": "#c3993f",
+   "color": "#091f3f",
+   "id": "2229",
+   "name": "Florida International Panthers",
+   "nick": "Panthers",
+   "short": "Florida International"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DEL",
+   "alt": "#ffd200",
+   "color": "#00539f",
+   "id": "48",
+   "name": "Delaware Blue Hens",
+   "nick": "Blue Hens",
+   "short": "Delaware"
+  },
+  "id": "401871060",
+  "labels": {
+   "day": "Sat",
+   "time": "3 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-14T20:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401871061": {
+  "away": {
+   "abbr": "MTSU",
+   "alt": "#ffffff",
+   "color": "#036eb7",
+   "id": "2393",
+   "name": "Middle Tennessee Blue Raiders",
+   "nick": "Blue Raiders",
+   "short": "Middle Tennessee"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-4",
+   "conference": true,
+   "detail": "Sat, November 14th at 3:30 PM EST",
+   "home_rank": 99,
+   "home_record": "8-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LIB",
+   "alt": "#b72025",
+   "color": "#0a254e",
+   "id": "2335",
+   "name": "Liberty Flames",
+   "nick": "Flames",
+   "short": "Liberty"
+  },
+  "id": "401871061",
+  "labels": {
+   "day": "Sat",
+   "time": "3:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-4",
+   "conference": true,
+   "division": true,
+   "home_rec": "8-1",
+   "ranked": [],
+   "score": 73.33333333333334
+  },
+  "start_utc": "2026-11-14T20:30:00+00:00",
+  "status": "pending",
   "video": null
  },
  "401871066": {
@@ -46992,6 +50417,110 @@
   },
   "start_utc": "2026-11-07T21:00:00+00:00",
   "status": "final",
+  "video": null
+ },
+ "401871099": {
+  "away": {
+   "abbr": "USM",
+   "alt": "#231f20",
+   "color": "#ffc72c",
+   "id": "2572",
+   "name": "Southern Miss Golden Eagles",
+   "nick": "Golden Eagles",
+   "short": "Southern Miss"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-6",
+   "conference": true,
+   "detail": "Sat, November 14th at 5:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LT",
+   "alt": "#cb333b",
+   "color": "#003087",
+   "id": "2348",
+   "name": "Louisiana Tech Bulldogs",
+   "nick": "Bulldogs",
+   "short": "Louisiana Tech"
+  },
+  "id": "401871099",
+  "labels": {
+   "day": "Sat",
+   "time": "5 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-6",
+   "conference": true,
+   "division": true,
+   "home_rec": "7-2",
+   "ranked": [],
+   "score": 48.333333333333336
+  },
+  "start_utc": "2026-11-14T22:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401871100": {
+  "away": {
+   "abbr": "TROY",
+   "alt": "#b1b1b1",
+   "color": "#862633",
+   "id": "2653",
+   "name": "Troy Trojans",
+   "nick": "Trojans",
+   "short": "Troy"
+  },
+  "date_et": "2026-11-14",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5",
+   "conference": true,
+   "detail": "Sat, November 14th at 7:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "USA",
+   "alt": "#bf0d3e",
+   "color": "#00205b",
+   "id": "6",
+   "name": "South Alabama Jaguars",
+   "nick": "Jaguars",
+   "short": "South Alabama"
+  },
+  "id": "401871100",
+  "labels": {
+   "day": "Sat",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "week-11",
+  "period_label": "Week 11",
+  "period_sort": 11,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5",
+   "conference": true,
+   "division": true,
+   "home_rec": "4-5",
+   "ranked": [],
+   "score": 41.666666666666664
+  },
+  "start_utc": "2026-11-15T00:00:00+00:00",
+  "status": "pending",
   "video": null
  }
 }
