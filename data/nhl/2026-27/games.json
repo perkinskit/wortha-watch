@@ -16039,7 +16039,7 @@
   "start_utc": "2026-11-08T20:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 13
+  "video_attempts": 14
  },
  "401892676": {
   "away": {
@@ -16106,7 +16106,11 @@
   },
   "start_utc": "2026-11-09T00:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "6RcXPVPOgsA",
+   "published": "2026-11-09T03:06:00Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892677": {
@@ -16193,11 +16197,11 @@
   "date_et": "2026-11-08",
   "espn": {
    "away_rank": 99,
-   "away_record": "4-10-4",
+   "away_record": "4-10-5",
    "conference": false,
-   "detail": "0:51 - OT",
+   "detail": "Final/OT",
    "home_rank": 99,
-   "home_record": "7-9-1",
+   "home_record": "8-9-1",
    "neutral": false
   },
   "home": {
@@ -16214,20 +16218,42 @@
    "day": "Sun",
    "time": "7 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.9144981412639405,
+   "drama": 1.072647018696804,
+   "finish": 0.9288529739710566,
+   "max_swing": 0.5156519511570319,
+   "n_plays": 269,
+   "ot": true,
+   "volatility": 3.2975523133121762
+  },
   "period": "2026-11-08",
   "period_label": "Nov 8",
   "period_sort": "2026-11-08",
-  "result": null,
+  "result": {
+   "away": 3,
+   "detail": "Final/OT",
+   "home": 4
+  },
+  "scored_at": "2026-11-09T03:14:10.863347+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.474,
+   "total": 5.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "4-10",
    "home_rec": "7-7",
    "score": 23.57142857142857
   },
   "start_utc": "2026-11-09T00:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": {
+   "id": "T_O2SFhAjG8",
+   "published": "2026-11-09T03:05:51Z",
+   "source": "youtube"
+  }
  },
  "401892679": {
   "away": {
@@ -16244,7 +16270,7 @@
    "away_rank": 99,
    "away_record": "6-9-2",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "11:55 - 3rd Period",
    "home_rank": 99,
    "home_record": "9-7-1",
    "neutral": false
