@@ -10650,7 +10650,11 @@
   },
   "start_utc": "2026-11-10T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "HUaf_y2R-Jw",
+   "published": "2026-11-10T05:35:41Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909960": {
