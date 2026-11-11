@@ -11070,7 +11070,11 @@
   },
   "start_utc": "2026-11-11T04:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "WtmaQ-mk6Ls",
+   "published": "2026-11-11T07:00:08Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909966": {
