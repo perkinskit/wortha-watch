@@ -11000,7 +11000,11 @@
   },
   "start_utc": "2026-11-11T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "7j_QT3kVKYE",
+   "published": "2026-11-11T05:53:21Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909965": {
@@ -11018,7 +11022,7 @@
    "away_rank": null,
    "away_record": "8-2",
    "conference": false,
-   "detail": "2:54 - 3rd Quarter",
+   "detail": "9:37 - 4th Quarter",
    "home_rank": null,
    "home_record": "6-3",
    "neutral": false
