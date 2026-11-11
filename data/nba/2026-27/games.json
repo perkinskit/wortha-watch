@@ -10720,7 +10720,11 @@
   },
   "start_utc": "2026-11-11T00:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "KQzofNjz7lI",
+   "published": "2026-11-11T03:16:15Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909961": {
@@ -10736,11 +10740,11 @@
   "date_et": "2026-11-10",
   "espn": {
    "away_rank": null,
-   "away_record": "8-2",
+   "away_record": "9-2",
    "conference": false,
-   "detail": "8:08 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "9-2",
+   "home_record": "9-3",
    "neutral": false
   },
   "home": {
@@ -10757,20 +10761,37 @@
    "day": "Tue",
    "time": "8 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.5525114155251142,
+   "drama": 0.3186908577777778,
+   "finish": 0.0018775510204081648,
+   "max_swing": 0.10400000000000001,
+   "n_plays": 438,
+   "ot": false,
+   "volatility": 8.865589444444446
+  },
   "period": "2026-11-10",
   "period_label": "Nov 10",
   "period_sort": "2026-11-10",
-  "result": null,
+  "result": {
+   "away": 123,
+   "detail": "Final",
+   "home": 101
+  },
+  "scored_at": "2026-11-11T03:28:10.062190+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "8-2",
    "home_rec": "9-2",
    "score": 63.54545454545455
   },
   "start_utc": "2026-11-11T01:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401909962": {
   "away": {
@@ -10787,7 +10808,7 @@
    "away_rank": null,
    "away_record": "2-7",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "8:19 - 3rd Quarter",
    "home_rank": null,
    "home_record": "3-6",
    "neutral": false
@@ -10836,7 +10857,7 @@
    "away_rank": null,
    "away_record": "4-6",
    "conference": false,
-   "detail": "5:07 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "1-9",
    "neutral": false
@@ -10885,7 +10906,7 @@
    "away_rank": null,
    "away_record": "2-7",
    "conference": false,
-   "detail": "Tue, November 10th at 10:00 PM EST",
+   "detail": "3:43 - 1st Quarter",
    "home_rank": null,
    "home_record": "1-9",
    "neutral": false
@@ -10916,7 +10937,7 @@
    "score": 9.666666666666666
   },
   "start_utc": "2026-11-11T03:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401909965": {
