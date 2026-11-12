@@ -206,7 +206,11 @@
   },
   "start_utc": "2026-11-12T17:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "ffEdLygsEEQ",
+   "published": "2026-11-12T20:24:03Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401891820": {
