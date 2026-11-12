@@ -11769,7 +11769,11 @@
   },
   "start_utc": "2026-11-12T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "YH0t29hJUy8",
+   "published": "2026-11-12T05:51:17Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909976": {
