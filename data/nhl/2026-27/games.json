@@ -156,7 +156,7 @@
    "away_rank": 99,
    "away_record": "14-3-2",
    "conference": false,
-   "detail": "12:21 - 1st Period",
+   "detail": "3:00 - 1st Period",
    "home_rank": 99,
    "home_record": "9-6-1",
    "neutral": true
@@ -17376,7 +17376,7 @@
   "start_utc": "2026-11-12T02:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 38
+  "video_attempts": 39
  },
  "401892694": {
   "away": {
