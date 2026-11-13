@@ -11910,7 +11910,7 @@
   "start_utc": "2026-11-13T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909978": {
   "away": {
@@ -11975,7 +11975,11 @@
   },
   "start_utc": "2026-11-13T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "a917kl3-0Qo",
+   "published": "2026-11-13T03:37:08Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909979": {
@@ -11993,7 +11997,7 @@
    "away_rank": null,
    "away_record": "4-7",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "2:41 - 3rd Quarter",
    "home_rank": null,
    "home_record": "4-6",
    "neutral": false
