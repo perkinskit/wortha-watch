@@ -10665,7 +10665,11 @@
   },
   "start_utc": "2026-11-13T01:15:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "7UsUSgeGEqo",
+   "published": "2026-11-13T04:34:55Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401873053": {
