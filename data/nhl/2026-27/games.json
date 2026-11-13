@@ -17611,7 +17611,7 @@
   "start_utc": "2026-11-13T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401892697": {
   "away": {
@@ -17679,7 +17679,7 @@
   "start_utc": "2026-11-13T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401892698": {
   "away": {
@@ -17696,7 +17696,7 @@
    "away_rank": 99,
    "away_record": "11-6-2",
    "conference": false,
-   "detail": "3:21 - 3rd Period",
+   "detail": "2:28 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-6-2",
    "neutral": false
@@ -17745,7 +17745,7 @@
    "away_rank": 99,
    "away_record": "7-9-3",
    "conference": false,
-   "detail": "14:10 - 3rd Period",
+   "detail": "13:59 - 3rd Period",
    "home_rank": 99,
    "home_record": "10-7-2",
    "neutral": false
@@ -17845,7 +17845,7 @@
   "start_utc": "2026-11-13T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401892701": {
   "away": {
@@ -17913,7 +17913,7 @@
   "start_utc": "2026-11-13T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401892702": {
   "away": {
@@ -17979,7 +17979,7 @@
    "away_rank": 99,
    "away_record": "8-8-3",
    "conference": false,
-   "detail": "4:37 - 2nd Period",
+   "detail": "3:38 - 2nd Period",
    "home_rank": 99,
    "home_record": "10-5-2",
    "neutral": false
@@ -18028,7 +18028,7 @@
    "away_rank": 99,
    "away_record": "8-8-2",
    "conference": false,
-   "detail": "5:36 - 1st Period",
+   "detail": "5:24 - 1st Period",
    "home_rank": 99,
    "home_record": "10-8-1",
    "neutral": false
