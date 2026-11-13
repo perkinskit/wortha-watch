@@ -10615,7 +10615,7 @@
    "away_rank": 99,
    "away_record": "2-5-1",
    "conference": false,
-   "detail": "Thu, November 12th at 8:15 PM EST",
+   "detail": "12:55 - 1st Quarter",
    "home_rank": 99,
    "home_record": "5-2-1",
    "neutral": false
@@ -10648,7 +10648,7 @@
    "score": 50.0
   },
   "start_utc": "2026-11-13T01:15:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873053": {
