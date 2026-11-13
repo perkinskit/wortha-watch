@@ -18136,7 +18136,7 @@
    "away_rank": 99,
    "away_record": "8-8-2",
    "conference": false,
-   "detail": "3:29 - 3rd Period",
+   "detail": "In SO",
    "home_rank": 99,
    "home_record": "10-8-1",
    "neutral": false
@@ -18185,7 +18185,7 @@
    "away_rank": 99,
    "away_record": "7-6-4",
    "conference": false,
-   "detail": "4:55 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "5-9-2",
    "neutral": false
@@ -18217,6 +18217,104 @@
   },
   "start_utc": "2026-11-13T03:00:00+00:00",
   "status": "live",
+  "video": null
+ },
+ "401892706": {
+  "away": {
+   "abbr": "NYR",
+   "alt": "#e51937",
+   "color": "#0056ae",
+   "id": "13",
+   "name": "New York Rangers",
+   "nick": "Rangers",
+   "short": "New York"
+  },
+  "date_et": "2026-11-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "11-8-1",
+   "conference": false,
+   "detail": "Fri, November 13th at 9:00 PM EST",
+   "home_rank": 99,
+   "home_record": "3-16-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "VAN",
+   "alt": "#008752",
+   "color": "#003e7e",
+   "id": "22",
+   "name": "Vancouver Canucks",
+   "nick": "Canucks",
+   "short": "Vancouver"
+  },
+  "id": "401892706",
+  "labels": {
+   "day": "Fri",
+   "time": "9 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-13",
+  "period_label": "Nov 13",
+  "period_sort": "2026-11-13",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "7-8",
+   "home_rec": "1-15",
+   "score": 15.875
+  },
+  "start_utc": "2026-11-14T02:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401892707": {
+  "away": {
+   "abbr": "NSH",
+   "alt": "#002d62",
+   "color": "#fdba31",
+   "id": "27",
+   "name": "Nashville Predators",
+   "nick": "Predators",
+   "short": "Nashville"
+  },
+  "date_et": "2026-11-13",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "10-4-5",
+   "conference": false,
+   "detail": "Fri, November 13th at 10:00 PM EST",
+   "home_rank": 99,
+   "home_record": "13-5-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "VGK",
+   "alt": "#b4975a",
+   "color": "#344043",
+   "id": "37",
+   "name": "Vegas Golden Knights",
+   "nick": "Golden Knights",
+   "short": "Vegas"
+  },
+  "id": "401892707",
+  "labels": {
+   "day": "Fri",
+   "time": "10 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-13",
+  "period_label": "Nov 13",
+  "period_sort": "2026-11-13",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "9-7",
+   "home_rec": "10-6",
+   "score": 50.625
+  },
+  "start_utc": "2026-11-14T03:00:00+00:00",
+  "status": "pending",
   "video": null
  }
 }
