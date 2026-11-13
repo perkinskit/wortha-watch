@@ -17560,7 +17560,7 @@
    "away_rank": 99,
    "away_record": "11-3-4",
    "conference": false,
-   "detail": "Thu, November 12th at 7:00 PM EST",
+   "detail": "13:14 - 1st Period",
    "home_rank": 99,
    "home_record": "13-4-1",
    "neutral": false
@@ -17591,7 +17591,7 @@
    "score": 58.57142857142857
   },
   "start_utc": "2026-11-13T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892697": {
@@ -17609,7 +17609,7 @@
    "away_rank": 99,
    "away_record": "13-3-4",
    "conference": false,
-   "detail": "Thu, November 12th at 7:00 PM EST",
+   "detail": "13:06 - 1st Period",
    "home_rank": 99,
    "home_record": "8-10-2",
    "neutral": false
@@ -17640,7 +17640,7 @@
    "score": 30.66176470588235
   },
   "start_utc": "2026-11-13T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892698": {
@@ -17658,7 +17658,7 @@
    "away_rank": 99,
    "away_record": "11-6-2",
    "conference": false,
-   "detail": "Thu, November 12th at 7:00 PM EST",
+   "detail": "15:10 - 1st Period",
    "home_rank": 99,
    "home_record": "11-6-2",
    "neutral": false
@@ -17689,7 +17689,7 @@
    "score": 47.757352941176464
   },
   "start_utc": "2026-11-13T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892699": {
@@ -17756,7 +17756,7 @@
    "away_rank": 99,
    "away_record": "10-6-0",
    "conference": false,
-   "detail": "Thu, November 12th at 7:00 PM EST",
+   "detail": "13:49 - 1st Period",
    "home_rank": 99,
    "home_record": "13-6-0",
    "neutral": false
@@ -17787,7 +17787,7 @@
    "score": 56.785714285714285
   },
   "start_utc": "2026-11-13T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892701": {
@@ -17805,7 +17805,7 @@
    "away_rank": 99,
    "away_record": "12-4-2",
    "conference": false,
-   "detail": "Thu, November 12th at 7:00 PM EST",
+   "detail": "14:27 - 1st Period",
    "home_rank": 99,
    "home_record": "7-9-0",
    "neutral": false
@@ -17836,7 +17836,7 @@
    "score": 32.857142857142854
   },
   "start_utc": "2026-11-13T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892702": {
