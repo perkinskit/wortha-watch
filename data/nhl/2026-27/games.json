@@ -17560,7 +17560,7 @@
    "away_rank": 99,
    "away_record": "11-3-4",
    "conference": false,
-   "detail": "19:44 - 3rd Period",
+   "detail": "9:52 - 3rd Period",
    "home_rank": 99,
    "home_record": "13-4-1",
    "neutral": false
@@ -17609,7 +17609,7 @@
    "away_rank": 99,
    "away_record": "13-3-4",
    "conference": false,
-   "detail": "20:00 - 3rd Period",
+   "detail": "10:04 - 3rd Period",
    "home_rank": 99,
    "home_record": "8-10-2",
    "neutral": false
@@ -17658,7 +17658,7 @@
    "away_rank": 99,
    "away_record": "11-6-2",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "12:49 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-6-2",
    "neutral": false
@@ -17707,7 +17707,7 @@
    "away_rank": 99,
    "away_record": "7-9-3",
    "conference": false,
-   "detail": "7:58 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "10-7-2",
    "neutral": false
@@ -17756,7 +17756,7 @@
    "away_rank": 99,
    "away_record": "10-6-0",
    "conference": false,
-   "detail": "20:00 - 3rd Period",
+   "detail": "10:38 - 3rd Period",
    "home_rank": 99,
    "home_record": "13-6-0",
    "neutral": false
@@ -17805,7 +17805,7 @@
    "away_rank": 99,
    "away_record": "12-4-2",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "9:17 - 3rd Period",
    "home_rank": 99,
    "home_record": "7-9-0",
    "neutral": false
@@ -17854,7 +17854,7 @@
    "away_rank": 99,
    "away_record": "8-7-3",
    "conference": false,
-   "detail": "End of 1st Period",
+   "detail": "10:52 - 2nd Period",
    "home_rank": 99,
    "home_record": "4-13-1",
    "neutral": false
@@ -17903,7 +17903,7 @@
    "away_rank": 99,
    "away_record": "8-8-3",
    "conference": false,
-   "detail": "End of 1st Period",
+   "detail": "12:58 - 2nd Period",
    "home_rank": 99,
    "home_record": "10-5-2",
    "neutral": false
@@ -17952,7 +17952,7 @@
    "away_rank": 99,
    "away_record": "8-8-2",
    "conference": false,
-   "detail": "Thu, November 12th at 9:00 PM EST",
+   "detail": "14:35 - 1st Period",
    "home_rank": 99,
    "home_record": "10-8-1",
    "neutral": false
@@ -17983,7 +17983,7 @@
    "score": 28.0
   },
   "start_utc": "2026-11-13T02:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892705": {
