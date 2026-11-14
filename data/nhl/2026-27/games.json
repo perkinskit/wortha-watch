@@ -228,7 +228,7 @@
    "away_rank": 99,
    "away_record": "9-7-1",
    "conference": false,
-   "detail": "Sat, November 14th at 1:00 PM EST",
+   "detail": "16:19 - 1st Period",
    "home_rank": 99,
    "home_record": "15-3-2",
    "neutral": true
@@ -259,7 +259,7 @@
    "score": 55.528846153846146
   },
   "start_utc": "2026-11-14T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401891820": {
