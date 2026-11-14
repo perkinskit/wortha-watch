@@ -13130,7 +13130,7 @@
    "away_rank": 99,
    "away_record": "5-4",
    "conference": true,
-   "detail": "9:16 - 1st Quarter",
+   "detail": "1:54 - 1st Quarter",
    "home_rank": 99,
    "home_record": "4-5",
    "neutral": false
@@ -20674,7 +20674,7 @@
    "away_rank": 99,
    "away_record": "7-2",
    "conference": true,
-   "detail": "10:24 - 1st Quarter",
+   "detail": "3:43 - 1st Quarter",
    "home_rank": 7,
    "home_record": "8-1",
    "neutral": false
@@ -20884,7 +20884,7 @@
    "away_rank": 99,
    "away_record": "4-5",
    "conference": true,
-   "detail": "5:20 - 1st Quarter",
+   "detail": "12:01 - 2nd Quarter",
    "home_rank": 99,
    "home_record": "4-5",
    "neutral": false
@@ -20936,7 +20936,7 @@
    "away_rank": 13,
    "away_record": "8-1",
    "conference": true,
-   "detail": "9:07 - 1st Quarter",
+   "detail": "4:44 - 1st Quarter",
    "home_rank": 99,
    "home_record": "7-2",
    "neutral": false
@@ -28209,7 +28209,7 @@
    "away_rank": 99,
    "away_record": "6-3",
    "conference": true,
-   "detail": "9:00 - 1st Quarter",
+   "detail": "1:04 - 1st Quarter",
    "home_rank": 99,
    "home_record": "3-6",
    "neutral": false
@@ -28313,7 +28313,7 @@
    "away_rank": 99,
    "away_record": "6-3",
    "conference": true,
-   "detail": "11:38 - 1st Quarter",
+   "detail": "4:53 - 1st Quarter",
    "home_rank": 20,
    "home_record": "6-3",
    "neutral": false
@@ -28473,7 +28473,7 @@
    "away_rank": 99,
    "away_record": "5-4",
    "conference": true,
-   "detail": "Sat, November 14th at 12:30 PM EST",
+   "detail": "11:40 - 1st Quarter",
    "home_rank": 99,
    "home_record": "2-7",
    "neutral": false
@@ -28507,7 +28507,7 @@
    "score": 38.33333333333333
   },
   "start_utc": "2026-11-14T17:30:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401858526": {
@@ -32705,7 +32705,7 @@
    "away_rank": 99,
    "away_record": "8-2",
    "conference": false,
-   "detail": "9:17 - 1st Quarter",
+   "detail": "1:57 - 1st Quarter",
    "home_rank": 99,
    "home_record": "4-5",
    "neutral": false
