@@ -2349,7 +2349,7 @@
   "start_utc": "2026-11-14T01:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909302": {
   "away": {
@@ -2366,7 +2366,7 @@
    "away_rank": null,
    "away_record": "8-4",
    "conference": false,
-   "detail": "3:08 - 3rd Quarter",
+   "detail": "6:25 - 4th Quarter",
    "home_rank": null,
    "home_record": "10-2",
    "neutral": false
@@ -2415,7 +2415,7 @@
    "away_rank": null,
    "away_record": "8-3",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "3:20 - 3rd Quarter",
    "home_rank": null,
    "home_record": "1-10",
    "neutral": false
@@ -2464,7 +2464,7 @@
    "away_rank": null,
    "away_record": "8-4",
    "conference": false,
-   "detail": "6:42 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "2-8",
    "neutral": false
