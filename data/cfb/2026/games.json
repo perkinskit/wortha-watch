@@ -12489,7 +12489,7 @@
    "away_rank": 99,
    "away_record": "5-4",
    "conference": true,
-   "detail": "Sat, November 14th at 3:30 PM EST",
+   "detail": "Sat, November 14th at 5:30 PM EST",
    "home_rank": 99,
    "home_record": "5-4",
    "neutral": false
@@ -12506,7 +12506,7 @@
   "id": "401856857",
   "labels": {
    "day": "Sat",
-   "time": "3:30 PM ET"
+   "time": "5:30 PM ET"
   },
   "metrics": null,
   "period": "week-11",
@@ -12522,7 +12522,7 @@
    "ranked": [],
    "score": 63.333333333333336
   },
-  "start_utc": "2026-11-14T20:30:00+00:00",
+  "start_utc": "2026-11-14T22:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -12558,7 +12558,7 @@
   "id": "401856858",
   "labels": {
    "day": "Sat",
-   "time": "3:30 PM ET"
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-11",
@@ -12576,7 +12576,7 @@
    ],
    "score": 83.33333333333334
   },
-  "start_utc": "2026-11-14T20:30:00+00:00",
+  "start_utc": "2026-11-15T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -12647,7 +12647,7 @@
    "away_rank": 14,
    "away_record": "7-2",
    "conference": true,
-   "detail": "5:35 - 1st Quarter",
+   "detail": "13:09 - 2nd Quarter",
    "home_rank": 99,
    "home_record": "3-6",
    "neutral": false
@@ -12860,7 +12860,7 @@
    "away_rank": 2,
    "away_record": "9-0",
    "conference": true,
-   "detail": "Sat, November 14th at 7:30 PM EST",
+   "detail": "Sat, November 14th at 10:30 PM EST",
    "home_rank": 23,
    "home_record": "7-2",
    "neutral": false
@@ -12877,7 +12877,7 @@
   "id": "401856864",
   "labels": {
    "day": "Sat",
-   "time": "7:30 PM ET"
+   "time": "10:30 PM ET"
   },
   "metrics": null,
   "period": "week-11",
@@ -12896,7 +12896,7 @@
    ],
    "score": 100.0
   },
-  "start_utc": "2026-11-15T00:30:00+00:00",
+  "start_utc": "2026-11-15T03:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -27072,7 +27072,7 @@
    "away_rank": 99,
    "away_record": "6-3",
    "conference": true,
-   "detail": "0:12 - 2nd Quarter",
+   "detail": "13:37 - 3rd Quarter",
    "home_rank": 4,
    "home_record": "9-0",
    "neutral": false
@@ -35359,7 +35359,7 @@
   "id": "401862826",
   "labels": {
    "day": "Sat",
-   "time": "3:30 PM ET"
+   "time": "8:15 PM ET"
   },
   "metrics": null,
   "period": "week-11",
@@ -35375,7 +35375,7 @@
    "ranked": [],
    "score": 66.66666666666667
   },
-  "start_utc": "2026-11-14T20:30:00+00:00",
+  "start_utc": "2026-11-15T01:15:00+00:00",
   "status": "pending",
   "video": null
  },
