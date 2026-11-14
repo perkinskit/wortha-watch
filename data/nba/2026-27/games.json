@@ -2488,7 +2488,11 @@
   },
   "start_utc": "2026-11-14T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "s8XSacjQ1r0",
+   "published": "2026-11-14T06:09:01Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  },
  "401909304": {
@@ -2555,7 +2559,7 @@
   "start_utc": "2026-11-14T03:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909834": {
   "away": {
