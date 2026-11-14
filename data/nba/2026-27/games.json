@@ -2208,7 +2208,11 @@
   },
   "start_utc": "2026-11-14T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "0AKvkuMffG4",
+   "published": "2026-11-14T04:12:09Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909300": {
@@ -2274,7 +2278,11 @@
   },
   "start_utc": "2026-11-14T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "pW8Zq151Q_U",
+   "published": "2026-11-14T04:06:47Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909301": {
@@ -2290,11 +2298,11 @@
   "date_et": "2026-11-13",
   "espn": {
    "away_rank": null,
-   "away_record": "1-11",
+   "away_record": "1-12",
    "conference": false,
-   "detail": "9.7 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "9-3",
+   "home_record": "10-3",
    "neutral": false
   },
   "home": {
@@ -2311,20 +2319,37 @@
    "day": "Fri",
    "time": "8:30 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.18199233716475097,
+   "drama": 1.5368001238888884,
+   "finish": 0.2657777777777778,
+   "max_swing": 0.429,
+   "n_plays": 522,
+   "ot": false,
+   "volatility": 15.846201805555554
+  },
   "period": "2026-11-13",
   "period_label": "Nov 13",
   "period_sort": "2026-11-13",
-  "result": null,
+  "result": {
+   "away": 118,
+   "detail": "Final",
+   "home": 125
+  },
+  "scored_at": "2026-11-14T04:25:59.226937+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "1-11",
    "home_rec": "9-3",
    "score": 25.0
   },
   "start_utc": "2026-11-14T01:30:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401909302": {
   "away": {
@@ -2341,7 +2366,7 @@
    "away_rank": null,
    "away_record": "8-4",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "3:08 - 3rd Quarter",
    "home_rank": null,
    "home_record": "10-2",
    "neutral": false
@@ -2390,7 +2415,7 @@
    "away_rank": null,
    "away_record": "8-3",
    "conference": false,
-   "detail": "3:16 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "1-10",
    "neutral": false
@@ -2439,7 +2464,7 @@
    "away_rank": null,
    "away_record": "8-4",
    "conference": false,
-   "detail": "1:51 - 1st Quarter",
+   "detail": "6:42 - 2nd Quarter",
    "home_rank": null,
    "home_record": "2-8",
    "neutral": false
