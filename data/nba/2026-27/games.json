@@ -2438,11 +2438,11 @@
   "date_et": "2026-11-13",
   "espn": {
    "away_rank": null,
-   "away_record": "8-3",
+   "away_record": "9-3",
    "conference": false,
    "detail": "Final",
    "home_rank": null,
-   "home_record": "1-10",
+   "home_record": "1-11",
    "neutral": false
   },
   "home": {
@@ -2489,7 +2489,7 @@
   "start_utc": "2026-11-14T03:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909304": {
   "away": {
@@ -2506,7 +2506,7 @@
    "away_rank": null,
    "away_record": "8-4",
    "conference": false,
-   "detail": "11:17 - 4th Quarter",
+   "detail": "3:39 - 4th Quarter",
    "home_rank": null,
    "home_record": "2-8",
    "neutral": false
