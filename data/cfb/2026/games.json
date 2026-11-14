@@ -13201,7 +13201,7 @@
    "away_rank": 99,
    "away_record": "5-4",
    "conference": true,
-   "detail": "Sat, November 14th at 12:00 PM EST",
+   "detail": "Sat, November 14th at 4:15 PM EST",
    "home_rank": 99,
    "home_record": "4-5",
    "neutral": false
@@ -13218,7 +13218,7 @@
   "id": "401856886",
   "labels": {
    "day": "Sat",
-   "time": "12 PM ET"
+   "time": "4:15 PM ET"
   },
   "metrics": null,
   "period": "week-11",
@@ -13234,7 +13234,7 @@
    "ranked": [],
    "score": 45.0
   },
-  "start_utc": "2026-11-14T17:00:00+00:00",
+  "start_utc": "2026-11-14T21:15:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -19521,7 +19521,7 @@
    "away_rank": 99,
    "away_record": "4-5",
    "conference": true,
-   "detail": "7:08 - 4th Quarter",
+   "detail": "1:14 - 4th Quarter",
    "home_rank": 99,
    "home_record": "6-3",
    "neutral": false
@@ -27056,7 +27056,7 @@
    "away_rank": 99,
    "away_record": "6-3",
    "conference": true,
-   "detail": "7:37 - 2nd Quarter",
+   "detail": "1:44 - 2nd Quarter",
    "home_rank": 4,
    "home_record": "9-0",
    "neutral": false
