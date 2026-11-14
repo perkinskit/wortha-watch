@@ -13264,12 +13264,12 @@
    "nick": "Rebels",
    "short": "Ole Miss"
   },
-  "date_et": "2026-11-14",
+  "date_et": "2026-11-15",
   "espn": {
    "away_rank": 19,
    "away_record": "6-3",
    "conference": true,
-   "detail": "Sat, November 14th at 4:15 PM EST",
+   "detail": "Sun, November 15th at 1:00 PM EST",
    "home_rank": 99,
    "home_record": "5-4",
    "neutral": false
@@ -13285,13 +13285,13 @@
   },
   "id": "401856887",
   "labels": {
-   "day": "Sat",
-   "time": "4:15 PM ET"
+   "day": "Sun",
+   "time": "1 PM ET"
   },
   "metrics": null,
-  "period": "week-11",
-  "period_label": "Week 11",
-  "period_sort": 11,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
   "result": null,
   "season": "2026",
   "stakes": {
@@ -13304,7 +13304,7 @@
    ],
    "score": 72.66666666666667
   },
-  "start_utc": "2026-11-14T21:15:00+00:00",
+  "start_utc": "2026-11-15T18:00:00+00:00",
   "status": "pending",
   "video": null
  },
