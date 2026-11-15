@@ -12889,7 +12889,7 @@
   "start_utc": "2026-11-15T01:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909983": {
   "away": {
@@ -12954,7 +12954,11 @@
   },
   "start_utc": "2026-11-15T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "Ti118u15fwA",
+   "published": "2026-11-15T03:59:59Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909984": {
@@ -13020,7 +13024,11 @@
   },
   "start_utc": "2026-11-15T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "BJc9aQLcbAo",
+   "published": "2026-11-15T03:55:27Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  }
 }
