@@ -12698,11 +12698,11 @@
   "date_et": "2026-11-14",
   "espn": {
    "away_rank": null,
-   "away_record": "6-4",
+   "away_record": "7-4",
    "conference": false,
-   "detail": "22.9 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "4-9",
+   "home_record": "4-10",
    "neutral": false
   },
   "home": {
@@ -12719,20 +12719,37 @@
    "day": "Sat",
    "time": "7 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.029296875,
+   "drama": 0.21259052302083337,
+   "finish": 0.016647058823529425,
+   "max_swing": 0.125,
+   "n_plays": 512,
+   "ot": false,
+   "volatility": 8.0064509375
+  },
   "period": "2026-11-14",
   "period_label": "Nov 14",
   "period_sort": "2026-11-14",
-  "result": null,
+  "result": {
+   "away": 116,
+   "detail": "Final",
+   "home": 108
+  },
+  "scored_at": "2026-11-15T02:51:59.448105+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "6-4",
    "home_rec": "4-9",
    "score": 27.23076923076923
   },
   "start_utc": "2026-11-15T00:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401909981": {
   "away": {
@@ -12749,7 +12766,7 @@
    "away_rank": null,
    "away_record": "7-5",
    "conference": false,
-   "detail": "9:56 - 4th Quarter",
+   "detail": "4:00 - 4th Quarter",
    "home_rank": null,
    "home_record": "6-7",
    "neutral": false
@@ -12798,7 +12815,7 @@
    "away_rank": null,
    "away_record": "8-3",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "6:24 - 3rd Quarter",
    "home_rank": null,
    "home_record": "6-6",
    "neutral": false
@@ -12847,7 +12864,7 @@
    "away_rank": null,
    "away_record": "3-8",
    "conference": false,
-   "detail": "9:14 - 3rd Quarter",
+   "detail": "2:07 - 3rd Quarter",
    "home_rank": null,
    "home_record": "8-4",
    "neutral": false
@@ -12896,7 +12913,7 @@
    "away_rank": null,
    "away_record": "2-9",
    "conference": false,
-   "detail": "6:40 - 3rd Quarter",
+   "detail": "End of 3rd Quarter",
    "home_rank": null,
    "home_record": "9-3",
    "neutral": false
