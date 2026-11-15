@@ -13098,7 +13098,11 @@
   },
   "start_utc": "2026-11-15T18:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "DAyN_i0k368",
+   "published": "2026-11-15T20:54:20Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909986": {
@@ -13116,7 +13120,7 @@
    "away_rank": null,
    "away_record": "11-2",
    "conference": false,
-   "detail": "Sun, November 15th at 4:00 PM EST",
+   "detail": "10:50 - 1st Quarter",
    "home_rank": null,
    "home_record": "5-6",
    "neutral": false
@@ -13147,7 +13151,7 @@
    "score": 39.02097902097902
   },
   "start_utc": "2026-11-15T21:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401909987": {
