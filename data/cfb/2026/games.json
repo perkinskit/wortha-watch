@@ -13576,7 +13576,7 @@
   "date_et": "2026-11-21",
   "espn": {
    "away_rank": 23,
-   "away_record": "7-2",
+   "away_record": "7-3",
    "conference": true,
    "detail": "11/21 - TBD",
    "home_rank": 99,
@@ -13950,7 +13950,7 @@
   "date_et": "2026-11-21",
   "espn": {
    "away_rank": 2,
-   "away_record": "9-0",
+   "away_record": "10-0",
    "conference": true,
    "detail": "11/21 - TBD",
    "home_rank": 99,
@@ -41893,11 +41893,11 @@
   "date_et": "2026-11-14",
   "espn": {
    "away_rank": 99,
-   "away_record": "7-2",
+   "away_record": "8-2",
    "conference": true,
-   "detail": "1:06 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "3-6",
+   "home_record": "3-7",
    "neutral": false
   },
   "home": {
@@ -41914,12 +41914,28 @@
    "day": "Sat",
    "time": "11 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.7471910112359551,
+   "drama": 0.40994555303333335,
+   "finish": 0.06984166666666668,
+   "max_swing": 0.2968,
+   "n_plays": 178,
+   "ot": false,
+   "volatility": 5.882786166666667
+  },
   "period": "week-11",
   "period_label": "Week 11",
   "period_sort": 11,
-  "result": null,
+  "result": {
+   "away": 21,
+   "detail": "Final",
+   "home": 13
+  },
+  "scored_at": "2026-11-15T07:39:47.661190+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "7-2",
    "conference": true,
@@ -41929,7 +41945,7 @@
    "score": 48.333333333333336
   },
   "start_utc": "2026-11-15T04:00:00+00:00",
-  "status": "live",
+  "status": "final",
   "video": null
  },
  "401864538": {
@@ -42149,7 +42165,7 @@
   "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
-   "away_record": "3-6",
+   "away_record": "3-7",
    "conference": true,
    "detail": "Sat, November 21st at 10:30 PM EST",
    "home_rank": 99,
@@ -42177,12 +42193,12 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "3-6",
+   "away_rec": "3-7",
    "conference": true,
    "division": true,
    "home_rec": "4-6",
    "ranked": [],
-   "score": 37.0
+   "score": 36.0
   },
   "start_utc": "2026-11-22T03:30:00+00:00",
   "status": "pending",
@@ -42257,7 +42273,7 @@
    "conference": true,
    "detail": "Sat, November 21st at 4:00 PM EST",
    "home_rank": 99,
-   "home_record": "7-2",
+   "home_record": "8-2",
    "neutral": false
   },
   "home": {
@@ -42284,9 +42300,9 @@
    "away_rec": "0-10",
    "conference": true,
    "division": true,
-   "home_rec": "7-2",
+   "home_rec": "8-2",
    "ranked": [],
-   "score": 38.33333333333333
+   "score": 39.0
   },
   "start_utc": "2026-11-21T21:00:00+00:00",
   "status": "pending",
