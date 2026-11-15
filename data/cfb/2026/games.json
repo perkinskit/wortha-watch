@@ -6445,7 +6445,7 @@
    "conference": false,
    "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 19,
-   "home_record": "6-3",
+   "home_record": "6-4",
    "neutral": false
   },
   "home": {
@@ -6472,11 +6472,11 @@
    "away_rec": "0-1",
    "conference": false,
    "division": false,
-   "home_rec": "6-3",
+   "home_rec": "6-4",
    "ranked": [
     19
    ],
-   "score": 26.0
+   "score": 24.0
   },
   "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
@@ -6606,7 +6606,7 @@
    "conference": true,
    "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
-   "home_record": "5-4",
+   "home_record": "6-4",
    "neutral": false
   },
   "home": {
@@ -6633,9 +6633,9 @@
    "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "5-4",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 43.66666666666667
+   "score": 45.0
   },
   "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
@@ -14422,11 +14422,11 @@
   "date_et": "2026-11-15",
   "espn": {
    "away_rank": 19,
-   "away_record": "6-3",
+   "away_record": "6-4",
    "conference": true,
-   "detail": "End of 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "5-4",
+   "home_record": "6-4",
    "neutral": false
   },
   "home": {
@@ -14443,12 +14443,28 @@
    "day": "Sun",
    "time": "1 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.5229885057471264,
+   "drama": 0.16798971836111115,
+   "finish": 0.0313,
+   "max_swing": 0.13869999999999993,
+   "n_plays": 174,
+   "ot": false,
+   "volatility": 3.9497238333333353
+  },
   "period": "week-11",
   "period_label": "Week 11",
   "period_sort": 11,
-  "result": null,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 24
+  },
+  "scored_at": "2026-11-15T21:34:24.841681+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "6-3",
    "conference": true,
@@ -14460,7 +14476,7 @@
    "score": 72.66666666666667
   },
   "start_utc": "2026-11-15T18:00:00+00:00",
-  "status": "live",
+  "status": "final",
   "video": null
  },
  "401856888": {
