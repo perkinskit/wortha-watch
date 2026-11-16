@@ -13168,7 +13168,11 @@
   },
   "start_utc": "2026-11-15T21:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "ITflm59NiYY",
+   "published": "2026-11-16T00:07:49Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909987": {
@@ -13235,7 +13239,7 @@
   "start_utc": "2026-11-15T21:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 2
+  "video_attempts": 3
  },
  "401909988": {
   "away": {
@@ -13252,7 +13256,7 @@
    "away_rank": null,
    "away_record": "11-2",
    "conference": false,
-   "detail": "7:25 - 4th Quarter",
+   "detail": "47.3 - 4th Quarter",
    "home_rank": null,
    "home_record": "1-12",
    "neutral": false
@@ -13301,7 +13305,7 @@
    "away_rank": null,
    "away_record": "7-6",
    "conference": false,
-   "detail": "53.4 - 2nd Quarter",
+   "detail": "9:26 - 3rd Quarter",
    "home_rank": null,
    "home_record": "10-2",
    "neutral": false
@@ -13350,7 +13354,7 @@
    "away_rank": null,
    "away_record": "6-6",
    "conference": false,
-   "detail": "5:20 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "5-7",
    "neutral": false
@@ -13399,7 +13403,7 @@
    "away_rank": null,
    "away_record": "10-3",
    "conference": false,
-   "detail": "Sun, November 15th at 7:00 PM EST",
+   "detail": "6:37 - 1st Quarter",
    "home_rank": null,
    "home_record": "4-9",
    "neutral": false
@@ -13430,7 +13434,7 @@
    "score": 32.307692307692314
   },
   "start_utc": "2026-11-16T00:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401909992": {
