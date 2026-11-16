@@ -13238,7 +13238,11 @@
   },
   "start_utc": "2026-11-15T21:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "1fv6iQMCaiM",
+   "published": "2026-11-16T00:24:15Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  },
  "401909988": {
@@ -13254,11 +13258,11 @@
   "date_et": "2026-11-15",
   "espn": {
    "away_rank": null,
-   "away_record": "11-2",
+   "away_record": "12-2",
    "conference": false,
-   "detail": "47.3 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "1-12",
+   "home_record": "1-13",
    "neutral": false
   },
   "home": {
@@ -13275,20 +13279,40 @@
    "day": "Sun",
    "time": "5 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.4772727272727273,
+   "drama": 1.8811542915625001,
+   "finish": 0.5278148148148147,
+   "max_swing": 0.504,
+   "n_plays": 440,
+   "ot": false,
+   "volatility": 17.303895659722226
+  },
   "period": "2026-11-15",
   "period_label": "Nov 15",
   "period_sort": "2026-11-15",
-  "result": null,
+  "result": {
+   "away": 110,
+   "detail": "Final",
+   "home": 102
+  },
+  "scored_at": "2026-11-16T00:39:53.560013+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "11-2",
    "home_rec": "1-12",
    "score": 27.692307692307693
   },
   "start_utc": "2026-11-15T22:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": {
+   "id": "8npj6HXy63Y",
+   "published": "2026-11-16T00:37:43Z",
+   "source": "youtube"
+  }
  },
  "401909989": {
   "away": {
@@ -13305,7 +13329,7 @@
    "away_rank": null,
    "away_record": "7-6",
    "conference": false,
-   "detail": "9:26 - 3rd Quarter",
+   "detail": "23.9 - 3rd Quarter",
    "home_rank": null,
    "home_record": "10-2",
    "neutral": false
@@ -13354,7 +13378,7 @@
    "away_rank": null,
    "away_record": "6-6",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "6:43 - 3rd Quarter",
    "home_rank": null,
    "home_record": "5-7",
    "neutral": false
@@ -13403,7 +13427,7 @@
    "away_rank": null,
    "away_record": "10-3",
    "conference": false,
-   "detail": "6:37 - 1st Quarter",
+   "detail": "10:52 - 2nd Quarter",
    "home_rank": null,
    "home_record": "4-9",
    "neutral": false
