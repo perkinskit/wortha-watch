@@ -68,9 +68,9 @@
   "stakes": {
    "away_rec": "0-0",
    "division": false,
-   "home_rec": "1-0",
+   "home_rec": "0-0",
    "rivalry": 0,
-   "score": 60.0
+   "score": 45.0
   },
   "start_utc": "2026-09-10T00:20:00+00:00",
   "status": "final",
@@ -222,9 +222,9 @@
   "stakes": {
    "away_rec": "0-0",
    "division": false,
-   "home_rec": "0-1",
+   "home_rec": "0-0",
    "rivalry": 0,
-   "score": 15.0
+   "score": 45.0
   },
   "start_utc": "2026-09-13T17:00:00+00:00",
   "status": "final",
@@ -761,9 +761,9 @@
   "stakes": {
    "away_rec": "0-0",
    "division": false,
-   "home_rec": "1-0",
+   "home_rec": "0-0",
    "rivalry": 0,
-   "score": 60.0
+   "score": 45.0
   },
   "start_utc": "2026-09-13T17:00:00+00:00",
   "status": "final",
@@ -992,9 +992,9 @@
   "stakes": {
    "away_rec": "0-0",
    "division": false,
-   "home_rec": "0-1",
+   "home_rec": "0-0",
    "rivalry": 0,
-   "score": 15.0
+   "score": 45.0
   },
   "start_utc": "2026-09-13T20:25:00+00:00",
   "status": "final",
@@ -1452,7 +1452,7 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "2-0",
+   "away_rec": "1-0",
    "division": false,
    "home_rec": "0-1",
    "rivalry": 0,
@@ -1991,11 +1991,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "1-1",
+   "away_rec": "1-0",
    "division": true,
    "home_rec": "0-1",
    "rivalry": 5,
-   "score": 35.0
+   "score": 50.0
   },
   "start_utc": "2026-09-20T20:05:00+00:00",
   "status": "final",
@@ -2145,7 +2145,7 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "2-0",
+   "away_rec": "1-0",
    "division": true,
    "home_rec": "1-0",
    "rivalry": 5,
@@ -2376,11 +2376,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "1-1",
+   "away_rec": "1-0",
    "division": false,
    "home_rec": "0-1",
    "rivalry": 0,
-   "score": 15.0
+   "score": 30.0
   },
   "start_utc": "2026-09-20T17:00:00+00:00",
   "status": "final",
@@ -2684,11 +2684,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "3-0",
+   "away_rec": "2-0",
    "division": true,
-   "home_rec": "1-2",
+   "home_rec": "1-1",
    "rivalry": 5,
-   "score": 60.0
+   "score": 80.0
   },
   "start_utc": "2026-09-27T17:00:00+00:00",
   "status": "final",
@@ -3069,7 +3069,7 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "3-0",
+   "away_rec": "2-0",
    "division": false,
    "home_rec": "0-2",
    "rivalry": 0,
@@ -3531,11 +3531,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "2-1",
+   "away_rec": "2-0",
    "division": false,
    "home_rec": "1-1",
    "rivalry": 0,
-   "score": 49.99999999999999
+   "score": 60.0
   },
   "start_utc": "2026-09-27T20:25:00+00:00",
   "status": "final",
@@ -3762,11 +3762,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "2-2",
+   "away_rec": "2-1",
    "division": true,
    "home_rec": "2-1",
    "rivalry": 10,
-   "score": 75.0
+   "score": 80.0
   },
   "start_utc": "2026-10-02T00:15:00+00:00",
   "status": "final",
@@ -4153,9 +4153,9 @@
   "stakes": {
    "away_rec": "2-1",
    "division": false,
-   "home_rec": "3-1",
+   "home_rec": "2-1",
    "rivalry": 0,
-   "score": 57.49999999999999
+   "score": 55.0
   },
   "start_utc": "2026-10-04T17:00:00+00:00",
   "status": "final",
@@ -4699,9 +4699,9 @@
   "stakes": {
    "away_rec": "3-0",
    "division": true,
-   "home_rec": "3-1",
+   "home_rec": "3-0",
    "rivalry": 10,
-   "score": 92.5
+   "score": 100.0
   },
   "start_utc": "2026-10-04T20:25:00+00:00",
   "status": "final",
@@ -4777,9 +4777,9 @@
   "stakes": {
    "away_rec": "0-3",
    "division": false,
-   "home_rec": "3-1",
+   "home_rec": "2-1",
    "rivalry": 0,
-   "score": 22.5
+   "score": 20.0
   },
   "start_utc": "2026-10-04T20:25:00+00:00",
   "status": "final",
@@ -5165,11 +5165,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "3-2",
+   "away_rec": "2-2",
    "division": false,
    "home_rec": "0-4",
    "rivalry": 0,
-   "score": 18.0
+   "score": 15.0
   },
   "start_utc": "2026-10-11T17:00:00+00:00",
   "status": "final",
@@ -5401,9 +5401,9 @@
   "stakes": {
    "away_rec": "2-2",
    "division": false,
-   "home_rec": "2-3",
+   "home_rec": "2-2",
    "rivalry": 0,
-   "score": 27.0
+   "score": 45.0
   },
   "start_utc": "2026-10-11T17:00:00+00:00",
   "status": "final",
@@ -5477,11 +5477,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "3-2",
+   "away_rec": "3-1",
    "division": false,
    "home_rec": "2-2",
    "rivalry": 0,
-   "score": 48.0
+   "score": 52.5
   },
   "start_utc": "2026-10-11T17:00:00+00:00",
   "status": "final",
@@ -5947,9 +5947,9 @@
   "stakes": {
    "away_rec": "4-0",
    "division": true,
-   "home_rec": "4-1",
+   "home_rec": "3-1",
    "rivalry": 10,
-   "score": 94.0
+   "score": 92.5
   },
   "start_utc": "2026-10-11T20:25:00+00:00",
   "status": "final",
@@ -6179,11 +6179,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "4-2",
+   "away_rec": "3-2",
    "division": false,
    "home_rec": "3-2",
    "rivalry": 0,
-   "score": 53.0
+   "score": 51.0
   },
   "start_utc": "2026-10-16T00:15:00+00:00",
   "status": "final",
@@ -6746,11 +6746,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "3-3",
+   "away_rec": "3-2",
    "division": false,
    "home_rec": "1-4",
    "rivalry": 0,
-   "score": 21.0
+   "score": 24.0
   },
   "start_utc": "2026-10-18T17:00:00+00:00",
   "status": "final",
@@ -6991,9 +6991,9 @@
   "stakes": {
    "away_rec": "4-1",
    "division": false,
-   "home_rec": "3-3",
+   "home_rec": "3-2",
    "rivalry": 0,
-   "score": 54.0
+   "score": 57.0
   },
   "start_utc": "2026-10-18T20:25:00+00:00",
   "status": "final",
@@ -7476,11 +7476,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "4-3",
+   "away_rec": "4-2",
    "division": false,
    "home_rec": "2-4",
    "rivalry": 0,
-   "score": 27.14285714285714
+   "score": 30.0
   },
   "start_utc": "2026-10-25T13:30:00+00:00",
   "status": "final",
@@ -7558,11 +7558,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "4-2",
+   "away_rec": "3-2",
    "division": true,
    "home_rec": "4-2",
    "rivalry": 10,
-   "score": 80.0
+   "score": 78.0
   },
   "start_utc": "2026-10-25T17:00:00+00:00",
   "status": "final",
@@ -8298,9 +8298,9 @@
   "stakes": {
    "away_rec": "2-4",
    "division": false,
-   "home_rec": "3-4",
+   "home_rec": "3-3",
    "rivalry": 0,
-   "score": 22.857142857142854
+   "score": 24.999999999999996
   },
   "start_utc": "2026-10-25T20:25:00+00:00",
   "status": "final",
@@ -8380,9 +8380,9 @@
   "stakes": {
    "away_rec": "5-0",
    "division": false,
-   "home_rec": "4-3",
+   "home_rec": "3-3",
    "rivalry": 0,
-   "score": 62.14285714285714
+   "score": 60.0
   },
   "start_utc": "2026-10-26T00:20:00+00:00",
   "status": "final",
@@ -8781,9 +8781,9 @@
   "stakes": {
    "away_rec": "5-2",
    "division": true,
-   "home_rec": "5-3",
+   "home_rec": "5-2",
    "rivalry": 10,
-   "score": 80.17857142857143
+   "score": 82.85714285714286
   },
   "start_utc": "2026-11-01T18:00:00+00:00",
   "status": "final",
@@ -8939,11 +8939,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "3-5",
+   "away_rec": "3-4",
    "division": false,
    "home_rec": "2-5",
    "rivalry": 0,
-   "score": 19.82142857142857
+   "score": 21.428571428571427
   },
   "start_utc": "2026-11-01T18:00:00+00:00",
   "status": "final",
@@ -9101,9 +9101,9 @@
   "stakes": {
    "away_rec": "1-6",
    "division": false,
-   "home_rec": "5-2",
+   "home_rec": "4-2",
    "rivalry": 0,
-   "score": 25.714285714285715
+   "score": 24.285714285714285
   },
   "start_utc": "2026-11-01T18:00:00+00:00",
   "status": "final",
@@ -9501,9 +9501,9 @@
   "stakes": {
    "away_rec": "5-2",
    "division": false,
-   "home_rec": "5-3",
+   "home_rec": "4-3",
    "rivalry": 0,
-   "score": 55.17857142857143
+   "score": 53.57142857142857
   },
   "start_utc": "2026-11-03T01:15:00+00:00",
   "status": "final",
@@ -9650,11 +9650,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "6-2",
+   "away_rec": "5-2",
    "division": false,
    "home_rec": "3-5",
    "rivalry": 0,
-   "score": 33.75
+   "score": 32.67857142857143
   },
   "start_utc": "2026-11-08T14:30:00+00:00",
   "status": "final",
@@ -10298,11 +10298,11 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "4-5",
+   "away_rec": "4-4",
    "division": false,
    "home_rec": "6-1",
    "rivalry": 0,
-   "score": 39.047619047619044
+   "score": 55.714285714285715
   },
   "start_utc": "2026-11-08T21:25:00+00:00",
   "status": "final",
@@ -10371,9 +10371,9 @@
   "stakes": {
    "away_rec": "3-5",
    "division": true,
-   "home_rec": "5-4",
+   "home_rec": "4-4",
    "rivalry": 5,
-   "score": 47.91666666666667
+   "score": 46.25
   },
   "start_utc": "2026-11-08T21:25:00+00:00",
   "status": "final",
@@ -11329,7 +11329,7 @@
    "nick": "Seahawks",
    "short": "Seattle"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-15",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
@@ -11351,7 +11351,7 @@
   "id": "401873062",
   "labels": {
    "day": "Sun",
-   "time": "6:30 PM ET"
+   "time": "4:05 PM ET"
   },
   "metrics": {
    "competitive": 0.5892857142857143,
@@ -11376,13 +11376,13 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-4",
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "4-5",
    "rivalry": 0,
-   "score": 45.0
+   "score": 30.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-15T21:05:00+00:00",
   "status": "final",
   "video": {
    "id": "2vwjrJF6RxQ",
@@ -11473,7 +11473,7 @@
    "nick": "Steelers",
    "short": "Pittsburgh"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-15",
   "espn": {
    "away_rank": 99,
    "away_record": "6-3",
@@ -11495,7 +11495,7 @@
   "id": "401873064",
   "labels": {
    "day": "Sun",
-   "time": "6:30 PM ET"
+   "time": "8:20 PM ET"
   },
   "metrics": {
    "competitive": 0.18604651162790697,
@@ -11520,13 +11520,13 @@
    "wp": "espn"
   },
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-2",
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-2",
    "rivalry": 5,
-   "score": 65.0
+   "score": 80.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-16T01:20:00+00:00",
   "status": "final",
   "video": {
    "id": "9hbvNzp5qSI",
