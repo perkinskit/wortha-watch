@@ -19840,7 +19840,11 @@
   },
   "start_utc": "2026-11-17T00:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "vcfSNir6G5Y",
+   "published": "2026-11-17T03:45:32Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892727": {
@@ -19858,7 +19862,7 @@
    "away_rank": 99,
    "away_record": "4-17-1",
    "conference": false,
-   "detail": "16:06 - 2nd Period",
+   "detail": "5:05 - 2nd Period",
    "home_rank": 99,
    "home_record": "10-8-3",
    "neutral": false
