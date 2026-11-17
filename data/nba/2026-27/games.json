@@ -13726,7 +13726,11 @@
   },
   "start_utc": "2026-11-17T00:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "PZbSOMpMelI",
+   "published": "2026-11-17T02:55:17Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909995": {
@@ -13793,7 +13797,7 @@
   "start_utc": "2026-11-17T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909996": {
   "away": {
@@ -13859,7 +13863,7 @@
   "start_utc": "2026-11-17T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909997": {
   "away": {
@@ -13876,7 +13880,7 @@
    "away_rank": null,
    "away_record": "11-3",
    "conference": false,
-   "detail": "11:29 - 4th Quarter",
+   "detail": "3:35 - 4th Quarter",
    "home_rank": null,
    "home_record": "3-9",
    "neutral": false
@@ -13923,11 +13927,11 @@
   "date_et": "2026-11-16",
   "espn": {
    "away_rank": null,
-   "away_record": "11-3",
+   "away_record": "11-4",
    "conference": false,
-   "detail": "6:18 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "7-6",
+   "home_record": "8-6",
    "neutral": false
   },
   "home": {
@@ -13944,20 +13948,37 @@
    "day": "Mon",
    "time": "7:30 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.36122448979591837,
+   "drama": 0.16813182090277787,
+   "finish": 0.00206451612903226,
+   "max_swing": 0.06499999999999995,
+   "n_plays": 490,
+   "ot": false,
+   "volatility": 6.633914652777778
+  },
   "period": "2026-11-16",
   "period_label": "Nov 16",
   "period_sort": "2026-11-16",
-  "result": null,
+  "result": {
+   "away": 110,
+   "detail": "Final",
+   "home": 128
+  },
+  "scored_at": "2026-11-17T02:58:41.748362+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "11-3",
    "home_rec": "7-6",
    "score": 54.72527472527472
   },
   "start_utc": "2026-11-17T00:30:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401909999": {
   "away": {
@@ -13974,7 +13995,7 @@
    "away_rank": null,
    "away_record": "9-3",
    "conference": false,
-   "detail": "7:18 - 3rd Quarter",
+   "detail": "11:38 - 4th Quarter",
    "home_rank": null,
    "home_record": "9-4",
    "neutral": false
@@ -14023,7 +14044,7 @@
    "away_rank": null,
    "away_record": "8-5",
    "conference": false,
-   "detail": "7:09 - 3rd Quarter",
+   "detail": "0.0 - 3rd Quarter",
    "home_rank": null,
    "home_record": "4-10",
    "neutral": false
@@ -14072,7 +14093,7 @@
    "away_rank": null,
    "away_record": "5-7",
    "conference": false,
-   "detail": "11:33 - 2nd Quarter",
+   "detail": "3:27 - 2nd Quarter",
    "home_rank": null,
    "home_record": "7-4",
    "neutral": false
