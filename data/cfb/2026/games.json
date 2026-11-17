@@ -6280,12 +6280,12 @@
    "nick": "Mocs",
    "short": "Chattanooga"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "7-4",
    "conference": false,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:00 PM EST",
    "home_rank": 3,
    "home_record": "8-2",
    "neutral": false
@@ -6301,8 +6301,8 @@
   },
   "id": "401856746",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6314,13 +6314,13 @@
    "away_rec": "0-0",
    "conference": false,
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [
     3
    ],
-   "score": 59.0
+   "score": 68.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6334,12 +6334,12 @@
    "nick": "Bulldogs",
    "short": "Samford"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-7",
    "conference": false,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -6355,8 +6355,8 @@
   },
   "id": "401856747",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6365,14 +6365,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "0-1",
    "conference": false,
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 45.0
+   "score": 18.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6386,12 +6386,12 @@
    "nick": "Commodores",
    "short": "Vanderbilt"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -6407,8 +6407,8 @@
   },
   "id": "401856748",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6417,14 +6417,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 45.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6438,12 +6438,12 @@
    "nick": "Terriers",
    "short": "Wofford"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-6",
    "conference": false,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 19,
    "home_record": "6-4",
    "neutral": false
@@ -6459,8 +6459,8 @@
   },
   "id": "401856749",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6469,16 +6469,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "0-1",
    "conference": false,
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     19
    ],
-   "score": 51.0
+   "score": 24.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6492,12 +6492,12 @@
    "nick": "Golden Eagles",
    "short": "Tennessee Tech"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "9-2",
    "conference": false,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 1:00 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -6513,8 +6513,8 @@
   },
   "id": "401856750",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "1 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6526,11 +6526,11 @@
    "away_rec": "0-0",
    "conference": false,
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [],
-   "score": 45.0
+   "score": 27.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T18:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6544,12 +6544,12 @@
    "nick": "Wildcats",
    "short": "Kentucky"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 11,
    "away_record": "7-3",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:30 PM EST",
    "home_rank": 22,
    "home_record": "6-4",
    "neutral": false
@@ -6565,8 +6565,8 @@
   },
   "id": "401856751",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6575,17 +6575,17 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     22,
     11
    ],
-   "score": 72.0
+   "score": 81.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6599,12 +6599,12 @@
    "nick": "Aggies",
    "short": "Texas A&M"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:45 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -6620,8 +6620,8 @@
   },
   "id": "401856752",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:45 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6630,14 +6630,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 45.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:45:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6651,12 +6651,12 @@
    "nick": "Bulldogs",
    "short": "Georgia"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 1,
    "away_record": "9-1",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:30 PM EST",
    "home_rank": 17,
    "home_record": "6-4",
    "neutral": false
@@ -6672,8 +6672,8 @@
   },
   "id": "401856753",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6682,17 +6682,17 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "9-1",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     17,
     1
    ],
-   "score": 80.0
+   "score": 95.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6706,12 +6706,12 @@
    "nick": "Tigers",
    "short": "LSU"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 21,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 8,
    "home_record": "8-2",
    "neutral": false
@@ -6727,8 +6727,8 @@
   },
   "id": "401856754",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6737,17 +6737,17 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [
     8,
     21
    ],
-   "score": 76.0
+   "score": 88.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -6761,12 +6761,12 @@
    "nick": "Razorbacks",
    "short": "Arkansas"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 6,
    "home_record": "8-2",
    "neutral": false
@@ -6782,8 +6782,8 @@
   },
   "id": "401856755",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -6792,16 +6792,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [
     6
    ],
-   "score": 70.0
+   "score": 61.00000000000001
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13573,12 +13573,12 @@
    "nick": "Wildcats",
    "short": "Arizona"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 23,
    "away_record": "7-3",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:00 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -13594,8 +13594,8 @@
   },
   "id": "401856865",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13604,16 +13604,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [
     23
    ],
-   "score": 66.0
+   "score": 54.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13627,12 +13627,12 @@
    "nick": "Cougars",
    "short": "BYU"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 10,
    "away_record": "8-2",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -13648,8 +13648,8 @@
   },
   "id": "401856866",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13658,16 +13658,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "8-2",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [
     10
    ],
-   "score": 70.0
+   "score": 61.00000000000001
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13681,12 +13681,12 @@
    "nick": "Buffaloes",
    "short": "Colorado"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -13702,8 +13702,8 @@
   },
   "id": "401856867",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13712,14 +13712,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13733,12 +13733,12 @@
    "nick": "Cougars",
    "short": "Houston"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 14,
    "away_record": "7-3",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 1:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -13754,8 +13754,8 @@
   },
   "id": "401856868",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "1 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13764,16 +13764,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [
     14
    ],
-   "score": 66.0
+   "score": 72.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T18:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13787,12 +13787,12 @@
    "nick": "Cyclones",
    "short": "Iowa State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-20",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Fri, November 20th at 6:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -13808,8 +13808,8 @@
   },
   "id": "401856869",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Fri",
+   "time": "6 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13818,14 +13818,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
    "score": 60.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-20T23:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13839,12 +13839,12 @@
    "nick": "Cowboys",
    "short": "Oklahoma State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 25,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 10:15 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -13860,8 +13860,8 @@
   },
   "id": "401856870",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "10:15 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13870,16 +13870,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     25
    ],
-   "score": 66.0
+   "score": 72.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T03:15:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13893,12 +13893,12 @@
    "nick": "Red Raiders",
    "short": "Texas Tech"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 12,
    "away_record": "9-1",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -13914,8 +13914,8 @@
   },
   "id": "401856871",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13924,16 +13924,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "9-1",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     12
    ],
-   "score": 66.0
+   "score": 81.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -13947,12 +13947,12 @@
    "nick": "Utes",
    "short": "Utah"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 2,
    "away_record": "10-0",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 9:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -13968,8 +13968,8 @@
   },
   "id": "401856872",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "9 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -13978,16 +13978,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "10-0",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [
     2
    ],
-   "score": 74.0
+   "score": 89.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T02:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21353,12 +21353,12 @@
    "nick": "Hokies",
    "short": "Virginia Tech"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:00 PM EST",
    "home_rank": 7,
    "home_record": "9-1",
    "neutral": false
@@ -21374,8 +21374,8 @@
   },
   "id": "401858302",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21384,16 +21384,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "9-1",
    "ranked": [
     7
    ],
-   "score": 70.0
+   "score": 85.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21407,12 +21407,12 @@
    "nick": "Tigers",
    "short": "Clemson"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-20",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Fri, November 20th at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -21428,8 +21428,8 @@
   },
   "id": "401858303",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Fri",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21438,14 +21438,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 69.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21459,12 +21459,12 @@
    "nick": "Wolfpack",
    "short": "NC State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -21480,8 +21480,8 @@
   },
   "id": "401858304",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21490,14 +21490,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21511,12 +21511,12 @@
    "nick": "Tar Heels",
    "short": "North Carolina"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:30 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -21532,8 +21532,8 @@
   },
   "id": "401858305",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21542,14 +21542,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
    "score": 60.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21563,12 +21563,12 @@
    "nick": "Panthers",
    "short": "Pittsburgh"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -21584,8 +21584,8 @@
   },
   "id": "401858306",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21594,14 +21594,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 69.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21615,12 +21615,12 @@
    "nick": "Mustangs",
    "short": "SMU"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "7-3",
    "conference": false,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:30 PM EST",
    "home_rank": 5,
    "home_record": "9-1",
    "neutral": false
@@ -21636,8 +21636,8 @@
   },
   "id": "401858307",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21646,16 +21646,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": false,
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "9-1",
    "ranked": [
     5
    ],
-   "score": 59.0
+   "score": 77.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21669,12 +21669,12 @@
    "nick": "Cardinal",
    "short": "Stanford"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -21690,8 +21690,8 @@
   },
   "id": "401858308",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21700,14 +21700,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21721,12 +21721,12 @@
    "nick": "Orange",
    "short": "Syracuse"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -21742,8 +21742,8 @@
   },
   "id": "401858309",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21752,14 +21752,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -21773,12 +21773,12 @@
    "nick": "Demon Deacons",
    "short": "Wake Forest"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 13,
    "away_record": "9-1",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -21794,8 +21794,8 @@
   },
   "id": "401858310",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -21804,16 +21804,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "9-1",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [
     13
    ],
-   "score": 66.0
+   "score": 57.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29086,12 +29086,12 @@
    "nick": "Hawkeyes",
    "short": "Iowa"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 15,
    "away_record": "8-2",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -29107,8 +29107,8 @@
   },
   "id": "401858527",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29117,16 +29117,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "8-2",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     15
    ],
-   "score": 66.0
+   "score": 78.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29140,12 +29140,12 @@
    "nick": "Bruins",
    "short": "UCLA"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 4,
    "away_record": "10-0",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -29161,8 +29161,8 @@
   },
   "id": "401858528",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29171,16 +29171,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "10-0",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [
     4
    ],
-   "score": 74.0
+   "score": 89.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29194,12 +29194,12 @@
    "nick": "Ducks",
    "short": "Oregon"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-20",
   "espn": {
    "away_rank": 16,
    "away_record": "7-3",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Fri, November 20th at 8:00 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -29215,8 +29215,8 @@
   },
   "id": "401858529",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Fri",
+   "time": "8 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29225,16 +29225,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [
     16
    ],
-   "score": 66.0
+   "score": 51.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T01:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29248,12 +29248,12 @@
    "nick": "Wildcats",
    "short": "Northwestern"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -29269,8 +29269,8 @@
   },
   "id": "401858530",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29279,14 +29279,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 63.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29300,12 +29300,12 @@
    "nick": "Buckeyes",
    "short": "Ohio State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 20,
    "away_record": "7-3",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -29321,8 +29321,8 @@
   },
   "id": "401858531",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29331,16 +29331,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     20
    ],
-   "score": 66.0
+   "score": 75.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29354,12 +29354,12 @@
    "nick": "Scarlet Knights",
    "short": "Rutgers"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "2-8",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -29375,8 +29375,8 @@
   },
   "id": "401858532",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29385,14 +29385,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "2-8",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29406,12 +29406,12 @@
    "nick": "Badgers",
    "short": "Wisconsin"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -29427,8 +29427,8 @@
   },
   "id": "401858533",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29437,14 +29437,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29458,12 +29458,12 @@
    "nick": "Terrapins",
    "short": "Maryland"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 6:15 PM EST",
    "home_rank": 18,
    "home_record": "7-3",
    "neutral": false
@@ -29479,8 +29479,8 @@
   },
   "id": "401858534",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "6:15 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29489,16 +29489,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [
     18
    ],
-   "score": 66.0
+   "score": 54.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T23:15:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -29512,12 +29512,12 @@
    "nick": "Hoosiers",
    "short": "Indiana"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 9,
    "away_record": "9-1",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -29533,8 +29533,8 @@
   },
   "id": "401858535",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -29543,16 +29543,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "9-1",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [
     9
    ],
-   "score": 70.0
+   "score": 85.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -32438,12 +32438,12 @@
    "nick": "Rams",
    "short": "Colorado State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "3-7",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -32459,8 +32459,8 @@
   },
   "id": "401860918",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -32469,14 +32469,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "3-7",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -32490,12 +32490,12 @@
    "nick": "Aggies",
    "short": "Utah State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 10:30 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -32511,8 +32511,8 @@
   },
   "id": "401860919",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "10:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -32521,14 +32521,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T03:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -32542,12 +32542,12 @@
    "nick": "Cougars",
    "short": "Washington State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "2-8",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 6:00 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -32563,8 +32563,8 @@
   },
   "id": "401860920",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "6 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -32573,14 +32573,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "2-8",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T23:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -32866,12 +32866,12 @@
    "nick": "Aztecs",
    "short": "San Diego State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 9:30 PM EST",
    "home_rank": 24,
    "home_record": "9-1",
    "neutral": false
@@ -32887,8 +32887,8 @@
   },
   "id": "401860925",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "9:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -32897,16 +32897,16 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "9-1",
    "ranked": [
     24
    ],
-   "score": 66.0
+   "score": 78.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T02:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -33328,12 +33328,12 @@
    "nick": "Monarchs",
    "short": "Old Dominion"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "3-7",
    "conference": false,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:30 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -33349,8 +33349,8 @@
   },
   "id": "401861968",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -33359,14 +33359,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "3-7",
    "conference": false,
    "division": false,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 45.0
+   "score": 24.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38412,12 +38412,12 @@
    "nick": "Owls",
    "short": "Rice"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-19",
   "espn": {
    "away_rank": 99,
    "away_record": "1-9",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Thu, November 19th at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "2-8",
    "neutral": false
@@ -38433,8 +38433,8 @@
   },
   "id": "401862830",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Thu",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38443,14 +38443,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "1-9",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "2-8",
    "ranked": [],
-   "score": 60.0
+   "score": 24.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-20T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38464,12 +38464,12 @@
    "nick": "Pirates",
    "short": "East Carolina"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "5-4",
    "neutral": false
@@ -38485,8 +38485,8 @@
   },
   "id": "401862831",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38495,14 +38495,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-4",
    "ranked": [],
-   "score": 60.0
+   "score": 64.66666666666666
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38516,12 +38516,12 @@
    "nick": "49ers",
    "short": "Charlotte"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "1-9",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:00 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -38537,8 +38537,8 @@
   },
   "id": "401862832",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38547,14 +38547,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "1-9",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 36.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38568,12 +38568,12 @@
    "nick": "Bulls",
    "short": "South Florida"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -38589,8 +38589,8 @@
   },
   "id": "401862833",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38599,14 +38599,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 66.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38620,12 +38620,12 @@
    "nick": "Tigers",
    "short": "Memphis"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "8-2",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "3-6",
    "neutral": false
@@ -38641,8 +38641,8 @@
   },
   "id": "401862834",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38651,14 +38651,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "8-2",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-6",
    "ranked": [],
-   "score": 60.0
+   "score": 49.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38672,12 +38672,12 @@
    "nick": "Mean Green",
    "short": "North Texas"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "7-3",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 12:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -38693,8 +38693,8 @@
   },
   "id": "401862835",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "12 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38703,14 +38703,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "7-3",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 66.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T17:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -38724,12 +38724,12 @@
    "nick": "Roadrunners",
    "short": "UTSA"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "8-2",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 8:00 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -38745,8 +38745,8 @@
   },
   "id": "401862836",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "8 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -38755,14 +38755,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "8-2",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 72.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T01:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -42178,12 +42178,12 @@
    "nick": "Rainbow Warriors",
    "short": "Hawai'i"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "3-7",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 10:30 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -42199,8 +42199,8 @@
   },
   "id": "401864541",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "10:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -42209,14 +42209,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "3-7",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [],
-   "score": 60.0
+   "score": 36.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T03:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -42230,12 +42230,12 @@
    "nick": "Lobos",
    "short": "New Mexico"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-20",
   "espn": {
    "away_rank": 99,
    "away_record": "8-2",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Fri, November 20th at 9:00 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -42251,8 +42251,8 @@
   },
   "id": "401864542",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Fri",
+   "time": "9 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -42261,14 +42261,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "8-2",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 75.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T02:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -42282,12 +42282,12 @@
    "nick": "Huskies",
    "short": "Northern Illinois"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "0-10",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 4:00 PM EST",
    "home_rank": 99,
    "home_record": "8-2",
    "neutral": false
@@ -42303,8 +42303,8 @@
   },
   "id": "401864543",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "4 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -42313,14 +42313,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "0-10",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T21:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -42334,12 +42334,12 @@
    "nick": "Rebels",
    "short": "UNLV"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:00 PM EST",
    "home_rank": 99,
    "home_record": "5-6",
    "neutral": false
@@ -42355,8 +42355,8 @@
   },
   "id": "401864544",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -42365,14 +42365,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-6",
    "ranked": [],
-   "score": 60.0
+   "score": 46.63636363636363
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -42386,12 +42386,12 @@
    "nick": "Miners",
    "short": "UTEP"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-20",
   "espn": {
    "away_rank": 99,
    "away_record": "1-9",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Fri, November 20th at 8:00 PM EST",
    "home_rank": 99,
    "home_record": "8-2",
    "neutral": false
@@ -42407,8 +42407,8 @@
   },
   "id": "401864545",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Fri",
+   "time": "8 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -42417,14 +42417,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "1-9",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T01:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -46926,12 +46926,12 @@
    "nick": "Cardinals",
    "short": "Ball State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-17",
   "espn": {
    "away_rank": 99,
    "away_record": "3-7",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Tue, November 17th at 7:00 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -46947,8 +46947,8 @@
   },
   "id": "401866464",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Tue",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -46957,14 +46957,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "3-7",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 45.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-18T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -46978,12 +46978,12 @@
    "nick": "Eagles",
    "short": "Eastern Michigan"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-17",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Tue, November 17th at 6:00 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -46999,8 +46999,8 @@
   },
   "id": "401866465",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Tue",
+   "time": "6 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -47009,14 +47009,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 48.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-17T23:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -47030,12 +47030,12 @@
    "nick": "RedHawks",
    "short": "Miami (OH)"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-17",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Tue, November 17th at 7:00 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -47051,8 +47051,8 @@
   },
   "id": "401866466",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Tue",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -47061,14 +47061,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [],
-   "score": 60.0
+   "score": 42.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-18T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -47082,12 +47082,12 @@
    "nick": "Zips",
    "short": "Akron"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-18",
   "espn": {
    "away_rank": 99,
    "away_record": "1-9",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Wed, November 18th at 7:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -47103,8 +47103,8 @@
   },
   "id": "401866467",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Wed",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -47113,14 +47113,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "1-9",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
-   "score": 60.0
+   "score": 33.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-19T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -47134,12 +47134,12 @@
    "nick": "Falcons",
    "short": "Bowling Green"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-20",
   "espn": {
    "away_rank": 99,
    "away_record": "3-7",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Fri, November 20th at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "8-2",
    "neutral": false
@@ -47155,8 +47155,8 @@
   },
   "id": "401866468",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Fri",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -47165,14 +47165,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "3-7",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [],
-   "score": 60.0
+   "score": 48.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -47186,12 +47186,12 @@
    "nick": "Chippewas",
    "short": "Central Michigan"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-18",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Wed, November 18th at 7:30 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -47207,8 +47207,8 @@
   },
   "id": "401866469",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Wed",
+   "time": "7:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -47217,14 +47217,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 66.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-19T00:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -49280,12 +49280,12 @@
    "nick": "Warhawks",
    "short": "UL Monroe"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "2-8",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:30 PM EST",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -49301,8 +49301,8 @@
   },
   "id": "401869929",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2:30 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -49311,14 +49311,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "2-8",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "6-4",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:30:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -49808,12 +49808,12 @@
    "nick": "Red Wolves",
    "short": "Arkansas State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 7:00 PM EST",
    "home_rank": 99,
    "home_record": "8-2",
    "neutral": false
@@ -49829,8 +49829,8 @@
   },
   "id": "401869938",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "7 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -49839,14 +49839,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "8-2",
    "ranked": [],
-   "score": 60.0
+   "score": 51.00000000000001
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-22T00:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -50268,12 +50268,12 @@
    "nick": "Chanticleers",
    "short": "Coastal Carolina"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:00 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -50289,8 +50289,8 @@
   },
   "id": "401869946",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -50299,14 +50299,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 48.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -50660,12 +50660,12 @@
    "nick": "Eagles",
    "short": "Georgia Southern"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 4:00 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -50681,8 +50681,8 @@
   },
   "id": "401869953",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "4 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -50691,14 +50691,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "6-4",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [],
-   "score": 60.0
+   "score": 45.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T21:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -50916,12 +50916,12 @@
    "nick": "Panthers",
    "short": "Georgia State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 4:00 PM EST",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -50937,8 +50937,8 @@
   },
   "id": "401869958",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "4 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -50947,14 +50947,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "5-5",
    "ranked": [],
    "score": 60.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T21:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -54164,12 +54164,12 @@
    "nick": "Blue Hens",
    "short": "Delaware"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:00 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -54185,8 +54185,8 @@
   },
   "id": "401871077",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -54195,14 +54195,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -54216,12 +54216,12 @@
    "nick": "Panthers",
    "short": "Florida International"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 3:00 PM EST",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -54237,8 +54237,8 @@
   },
   "id": "401871078",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "3 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -54247,14 +54247,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "4-6",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T20:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -54268,12 +54268,12 @@
    "nick": "Bears",
    "short": "Missouri State"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:00 PM EST",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -54289,8 +54289,8 @@
   },
   "id": "401871079",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -54299,14 +54299,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "7-3",
    "ranked": [],
-   "score": 60.0
+   "score": 48.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -54320,12 +54320,12 @@
    "nick": "Hilltoppers",
    "short": "Western Kentucky"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 1:00 PM EST",
    "home_rank": 99,
    "home_record": "9-1",
    "neutral": false
@@ -54341,8 +54341,8 @@
   },
   "id": "401871080",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "1 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -54351,14 +54351,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "4-6",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "9-1",
    "ranked": [],
-   "score": 60.0
+   "score": 54.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T18:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -54372,12 +54372,12 @@
    "nick": "Blue Raiders",
    "short": "Middle Tennessee"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 2:00 PM EST",
    "home_rank": 99,
    "home_record": "1-9",
    "neutral": false
@@ -54393,8 +54393,8 @@
   },
   "id": "401871081",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "2 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -54403,14 +54403,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "1-9",
    "ranked": [],
-   "score": 60.0
+   "score": 33.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T19:00:00+00:00",
   "status": "pending",
   "video": null
  },
@@ -55240,12 +55240,12 @@
    "nick": "Jaguars",
    "short": "South Alabama"
   },
-  "date_et": "1993-01-31",
+  "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "Sun, January 31st at 6:30 PM EST",
+   "detail": "Sat, November 21st at 4:00 PM EST",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -55261,8 +55261,8 @@
   },
   "id": "401871101",
   "labels": {
-   "day": "Sun",
-   "time": "6:30 PM ET"
+   "day": "Sat",
+   "time": "4 PM ET"
   },
   "metrics": null,
   "period": "week-12",
@@ -55271,14 +55271,14 @@
   "result": null,
   "season": "2026",
   "stakes": {
-   "away_rec": "0-0",
+   "away_rec": "5-5",
    "conference": true,
    "division": true,
-   "home_rec": "0-0",
+   "home_rec": "3-7",
    "ranked": [],
-   "score": 60.0
+   "score": 39.0
   },
-  "start_utc": "1993-01-31T23:30:00+00:00",
+  "start_utc": "2026-11-21T21:00:00+00:00",
   "status": "pending",
   "video": null
  }
