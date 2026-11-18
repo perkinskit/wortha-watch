@@ -20415,7 +20415,11 @@
   },
   "start_utc": "2026-11-18T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "377fj-GpUmQ",
+   "published": "2026-11-18T04:02:02Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892735": {
@@ -20483,7 +20487,11 @@
   },
   "start_utc": "2026-11-18T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "SLdoWI6-2tU",
+   "published": "2026-11-18T03:58:07Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892736": {
@@ -20573,7 +20581,7 @@
    "away_rank": 99,
    "away_record": "12-6-2",
    "conference": false,
-   "detail": "3:28 - 1st Period",
+   "detail": "End of 1st Period",
    "home_rank": 99,
    "home_record": "13-6-3",
    "neutral": false
@@ -20622,7 +20630,7 @@
    "away_rank": 99,
    "away_record": "9-11-1",
    "conference": false,
-   "detail": "End of 1st Period",
+   "detail": "15:22 - 2nd Period",
    "home_rank": 99,
    "home_record": "10-11-2",
    "neutral": false
