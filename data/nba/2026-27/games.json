@@ -14448,7 +14448,7 @@
    "away_rank": null,
    "away_record": "4-9",
    "conference": false,
-   "detail": "3:47 - 3rd Quarter",
+   "detail": "10:29 - 4th Quarter",
    "home_rank": null,
    "home_record": "12-2",
    "neutral": false
@@ -14546,7 +14546,7 @@
   "start_utc": "2026-11-18T03:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401910007": {
   "away": {
