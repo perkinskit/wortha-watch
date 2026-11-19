@@ -15148,7 +15148,7 @@
    "away_rank": null,
    "away_record": "11-3",
    "conference": false,
-   "detail": "9:09 - 4th Quarter",
+   "detail": "2:33 - 4th Quarter",
    "home_rank": null,
    "home_record": "7-5",
    "neutral": false
@@ -15267,7 +15267,7 @@
    "away_rank": null,
    "away_record": "2-13",
    "conference": false,
-   "detail": "5:19 - 3rd Quarter",
+   "detail": "9:36 - 4th Quarter",
    "home_rank": null,
    "home_record": "13-2",
    "neutral": false
@@ -15316,7 +15316,7 @@
    "away_rank": null,
    "away_record": "6-7",
    "conference": false,
-   "detail": "End of 3rd Quarter",
+   "detail": "5:31 - 4th Quarter",
    "home_rank": null,
    "home_record": "1-12",
    "neutral": false
@@ -15348,6 +15348,202 @@
   },
   "start_utc": "2026-11-19T03:00:00+00:00",
   "status": "live",
+  "video": null
+ },
+ "401910019": {
+  "away": {
+   "abbr": "GS",
+   "alt": "#1d428a",
+   "color": "#fdb927",
+   "id": "9",
+   "name": "Golden State Warriors",
+   "nick": "Warriors",
+   "short": "Golden State"
+  },
+  "date_et": "2026-11-19",
+  "espn": {
+   "away_rank": null,
+   "away_record": "8-7",
+   "conference": false,
+   "detail": "Thu, November 19th at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "11-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MEM",
+   "alt": "#12173f",
+   "color": "#5d76a9",
+   "id": "29",
+   "name": "Memphis Grizzlies",
+   "nick": "Grizzlies",
+   "short": "Memphis"
+  },
+  "id": "401910019",
+  "labels": {
+   "day": "Thu",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-19",
+  "period_label": "Nov 19",
+  "period_sort": "2026-11-19",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "8-7",
+   "home_rec": "11-4",
+   "score": 53.0
+  },
+  "start_utc": "2026-11-20T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910020": {
+  "away": {
+   "abbr": "POR",
+   "alt": "#000000",
+   "color": "#e03a3e",
+   "id": "22",
+   "name": "Portland Trail Blazers",
+   "nick": "Trail Blazers",
+   "short": "Portland"
+  },
+  "date_et": "2026-11-19",
+  "espn": {
+   "away_rank": null,
+   "away_record": "9-5",
+   "conference": false,
+   "detail": "Thu, November 19th at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "1-14",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIL",
+   "alt": "#eee1c6",
+   "color": "#00471b",
+   "id": "15",
+   "name": "Milwaukee Bucks",
+   "nick": "Bucks",
+   "short": "Milwaukee"
+  },
+  "id": "401910020",
+  "labels": {
+   "day": "Thu",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-19",
+  "period_label": "Nov 19",
+  "period_sort": "2026-11-19",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "9-5",
+   "home_rec": "1-14",
+   "score": 21.28571428571429
+  },
+  "start_utc": "2026-11-20T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910021": {
+  "away": {
+   "abbr": "NY",
+   "alt": "#f58426",
+   "color": "#1d428a",
+   "id": "18",
+   "name": "New York Knicks",
+   "nick": "Knicks",
+   "short": "New York"
+  },
+  "date_et": "2026-11-19",
+  "espn": {
+   "away_rank": null,
+   "away_record": "8-6",
+   "conference": false,
+   "detail": "Thu, November 19th at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "11-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIN",
+   "alt": "#79bc43",
+   "color": "#266092",
+   "id": "16",
+   "name": "Minnesota Timberwolves",
+   "nick": "Timberwolves",
+   "short": "Minnesota"
+  },
+  "id": "401910021",
+  "labels": {
+   "day": "Thu",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-19",
+  "period_label": "Nov 19",
+  "period_sort": "2026-11-19",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "8-6",
+   "home_rec": "11-4",
+   "score": 54.14285714285714
+  },
+  "start_utc": "2026-11-20T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910022": {
+  "away": {
+   "abbr": "LAC",
+   "alt": "#c8102e",
+   "color": "#12173f",
+   "id": "12",
+   "name": "LA Clippers",
+   "nick": "Clippers",
+   "short": "LA"
+  },
+  "date_et": "2026-11-19",
+  "espn": {
+   "away_rank": null,
+   "away_record": "4-9",
+   "conference": false,
+   "detail": "Thu, November 19th at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "12-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SA",
+   "alt": "#c4ced4",
+   "color": "#000000",
+   "id": "24",
+   "name": "San Antonio Spurs",
+   "nick": "Spurs",
+   "short": "San Antonio"
+  },
+  "id": "401910022",
+  "labels": {
+   "day": "Thu",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-19",
+  "period_label": "Nov 19",
+  "period_sort": "2026-11-19",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "4-9",
+   "home_rec": "12-3",
+   "score": 33.23076923076923
+  },
+  "start_utc": "2026-11-20T01:00:00+00:00",
+  "status": "pending",
   "video": null
  }
 }
