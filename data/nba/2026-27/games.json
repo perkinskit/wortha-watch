@@ -15057,7 +15057,7 @@
   "start_utc": "2026-11-19T01:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401910014": {
   "away": {
@@ -15122,7 +15122,11 @@
   },
   "start_utc": "2026-11-19T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "MYYhHXNgSnM",
+   "published": "2026-11-19T03:48:51Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401910015": {
@@ -15140,7 +15144,7 @@
    "away_rank": null,
    "away_record": "11-3",
    "conference": false,
-   "detail": "2:26 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "7-5",
    "neutral": false
@@ -15238,7 +15242,7 @@
   "start_utc": "2026-11-19T01:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401910017": {
   "away": {
@@ -15255,7 +15259,7 @@
    "away_rank": null,
    "away_record": "2-13",
    "conference": false,
-   "detail": "11:39 - 2nd Quarter",
+   "detail": "3:31 - 2nd Quarter",
    "home_rank": null,
    "home_record": "13-2",
    "neutral": false
@@ -15304,7 +15308,7 @@
    "away_rank": null,
    "away_record": "6-7",
    "conference": false,
-   "detail": "8:31 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "1-12",
    "neutral": false
