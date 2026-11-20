@@ -20991,7 +20991,11 @@
   },
   "start_utc": "2026-11-20T00:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "0mXMgoNZKvQ",
+   "published": "2026-11-20T03:59:18Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  },
  "401892743": {
@@ -21059,7 +21063,11 @@
   },
   "start_utc": "2026-11-20T00:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "Xi_8YW2tez8",
+   "published": "2026-11-20T03:50:38Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  },
  "401892744": {
@@ -21199,7 +21207,11 @@
   },
   "start_utc": "2026-11-20T00:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "n44Uod7iDPQ",
+   "published": "2026-11-20T03:46:11Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  },
  "401892746": {
@@ -21411,7 +21423,11 @@
   },
   "start_utc": "2026-11-20T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "paWPQA70oSo",
+   "published": "2026-11-20T03:58:13Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892749": {
@@ -21551,7 +21567,11 @@
   },
   "start_utc": "2026-11-20T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "cE67QJTwYEU",
+   "published": "2026-11-20T03:57:04Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892751": {
@@ -21569,7 +21589,7 @@
    "away_rank": 99,
    "away_record": "11-10-1",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "17:44 - 3rd Period",
    "home_rank": 99,
    "home_record": "12-7-3",
    "neutral": false
@@ -21618,7 +21638,7 @@
    "away_rank": 99,
    "away_record": "5-17-1",
    "conference": false,
-   "detail": "End of 1st Period",
+   "detail": "12:16 - 2nd Period",
    "home_rank": 99,
    "home_record": "9-8-1",
    "neutral": false
@@ -21667,7 +21687,7 @@
    "away_rank": 99,
    "away_record": "13-6-2",
    "conference": false,
-   "detail": "End of 1st Period",
+   "detail": "16:47 - 2nd Period",
    "home_rank": 99,
    "home_record": "13-6-4",
    "neutral": false
