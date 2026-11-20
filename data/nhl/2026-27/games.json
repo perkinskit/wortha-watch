@@ -21639,7 +21639,11 @@
   },
   "start_utc": "2026-11-20T02:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "zkje-nYvIR8",
+   "published": "2026-11-20T04:59:57Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401892752": {
@@ -21657,7 +21661,7 @@
    "away_rank": 99,
    "away_record": "5-17-1",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "9:59 - 3rd Period",
    "home_rank": 99,
    "home_record": "9-8-1",
    "neutral": false
@@ -21706,7 +21710,7 @@
    "away_rank": 99,
    "away_record": "13-6-2",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "14:26 - 3rd Period",
    "home_rank": 99,
    "home_record": "13-6-4",
    "neutral": false
