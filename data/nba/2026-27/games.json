@@ -3000,7 +3000,7 @@
    "away_rank": null,
    "away_record": "7-7",
    "conference": false,
-   "detail": "7:58 - 4th Quarter",
+   "detail": "17.7 - 4th Quarter",
    "home_rank": null,
    "home_record": "3-13",
    "neutral": false
@@ -3049,7 +3049,7 @@
    "away_rank": null,
    "away_record": "12-4",
    "conference": false,
-   "detail": "6:43 - 3rd Quarter",
+   "detail": "End of 3rd Quarter",
    "home_rank": null,
    "home_record": "8-5",
    "neutral": false
@@ -3098,7 +3098,7 @@
    "away_rank": null,
    "away_record": "1-13",
    "conference": false,
-   "detail": "1:49 - 3rd Quarter",
+   "detail": "5:52 - 4th Quarter",
    "home_rank": null,
    "home_record": "13-3",
    "neutral": false
@@ -16258,5 +16258,299 @@
    "source": "youtube"
   },
   "video_attempts": 1
+ },
+ "401910023": {
+  "away": {
+   "abbr": "MIL",
+   "alt": "#eee1c6",
+   "color": "#00471b",
+   "id": "15",
+   "name": "Milwaukee Bucks",
+   "nick": "Bucks",
+   "short": "Milwaukee"
+  },
+  "date_et": "2026-11-21",
+  "espn": {
+   "away_rank": null,
+   "away_record": "1-15",
+   "conference": false,
+   "detail": "Sat, November 21st at 1:00 PM EST",
+   "home_rank": null,
+   "home_record": "13-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PHI",
+   "alt": "#e01234",
+   "color": "#1d428a",
+   "id": "20",
+   "name": "Philadelphia 76ers",
+   "nick": "76ers",
+   "short": "Philadelphia"
+  },
+  "id": "401910023",
+  "labels": {
+   "day": "Sat",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-21",
+  "period_label": "Nov 21",
+  "period_sort": "2026-11-21",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "1-15",
+   "home_rec": "13-3",
+   "score": 26.25
+  },
+  "start_utc": "2026-11-21T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910024": {
+  "away": {
+   "abbr": "POR",
+   "alt": "#000000",
+   "color": "#e03a3e",
+   "id": "22",
+   "name": "Portland Trail Blazers",
+   "nick": "Trail Blazers",
+   "short": "Portland"
+  },
+  "date_et": "2026-11-21",
+  "espn": {
+   "away_rank": null,
+   "away_record": "10-5",
+   "conference": false,
+   "detail": "Sat, November 21st at 7:30 PM EST",
+   "home_rank": null,
+   "home_record": "9-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "NY",
+   "alt": "#f58426",
+   "color": "#1d428a",
+   "id": "18",
+   "name": "New York Knicks",
+   "nick": "Knicks",
+   "short": "New York"
+  },
+  "id": "401910024",
+  "labels": {
+   "day": "Sat",
+   "time": "7:30 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-21",
+  "period_label": "Nov 21",
+  "period_sort": "2026-11-21",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "10-5",
+   "home_rec": "9-6",
+   "score": 53.0
+  },
+  "start_utc": "2026-11-22T00:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910025": {
+  "away": {
+   "abbr": "LAC",
+   "alt": "#c8102e",
+   "color": "#12173f",
+   "id": "12",
+   "name": "LA Clippers",
+   "nick": "Clippers",
+   "short": "LA"
+  },
+  "date_et": "2026-11-21",
+  "espn": {
+   "away_rank": null,
+   "away_record": "4-10",
+   "conference": false,
+   "detail": "Sat, November 21st at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "8-7",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DAL",
+   "alt": "#bbc4ca",
+   "color": "#0064b1",
+   "id": "6",
+   "name": "Dallas Mavericks",
+   "nick": "Mavericks",
+   "short": "Dallas"
+  },
+  "id": "401910025",
+  "labels": {
+   "day": "Sat",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-21",
+  "period_label": "Nov 21",
+  "period_sort": "2026-11-21",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "4-10",
+   "home_rec": "8-7",
+   "score": 24.57142857142857
+  },
+  "start_utc": "2026-11-22T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910026": {
+  "away": {
+   "abbr": "MEM",
+   "alt": "#12173f",
+   "color": "#5d76a9",
+   "id": "29",
+   "name": "Memphis Grizzlies",
+   "nick": "Grizzlies",
+   "short": "Memphis"
+  },
+  "date_et": "2026-11-21",
+  "espn": {
+   "away_rank": null,
+   "away_record": "12-4",
+   "conference": false,
+   "detail": "Sat, November 21st at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "11-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIN",
+   "alt": "#79bc43",
+   "color": "#266092",
+   "id": "16",
+   "name": "Minnesota Timberwolves",
+   "nick": "Timberwolves",
+   "short": "Minnesota"
+  },
+  "id": "401910026",
+  "labels": {
+   "day": "Sat",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-21",
+  "period_label": "Nov 21",
+  "period_sort": "2026-11-21",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "12-4",
+   "home_rec": "11-5",
+   "score": 58.125
+  },
+  "start_utc": "2026-11-22T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910027": {
+  "away": {
+   "abbr": "NO",
+   "alt": "#b4975a",
+   "color": "#0a2240",
+   "id": "3",
+   "name": "New Orleans Pelicans",
+   "nick": "Pelicans",
+   "short": "New Orleans"
+  },
+  "date_et": "2026-11-21",
+  "espn": {
+   "away_rank": null,
+   "away_record": "5-12",
+   "conference": false,
+   "detail": "Sat, November 21st at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "13-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SA",
+   "alt": "#c4ced4",
+   "color": "#000000",
+   "id": "24",
+   "name": "San Antonio Spurs",
+   "nick": "Spurs",
+   "short": "San Antonio"
+  },
+  "id": "401910027",
+  "labels": {
+   "day": "Sat",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-21",
+  "period_label": "Nov 21",
+  "period_sort": "2026-11-21",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "5-12",
+   "home_rec": "13-3",
+   "score": 33.19852941176471
+  },
+  "start_utc": "2026-11-22T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401910028": {
+  "away": {
+   "abbr": "BOS",
+   "alt": "#ffffff",
+   "color": "#008348",
+   "id": "2",
+   "name": "Boston Celtics",
+   "nick": "Celtics",
+   "short": "Boston"
+  },
+  "date_et": "2026-11-21",
+  "espn": {
+   "away_rank": null,
+   "away_record": "11-4",
+   "conference": false,
+   "detail": "Sat, November 21st at 10:00 PM EST",
+   "home_rank": null,
+   "home_record": "1-13",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SAC",
+   "alt": "#6a7a82",
+   "color": "#5a2d81",
+   "id": "23",
+   "name": "Sacramento Kings",
+   "nick": "Kings",
+   "short": "Sacramento"
+  },
+  "id": "401910028",
+  "labels": {
+   "day": "Sat",
+   "time": "10 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-21",
+  "period_label": "Nov 21",
+  "period_sort": "2026-11-21",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "11-4",
+   "home_rec": "1-13",
+   "score": 24.14285714285714
+  },
+  "start_utc": "2026-11-22T03:00:00+00:00",
+  "status": "pending",
+  "video": null
  }
 }
