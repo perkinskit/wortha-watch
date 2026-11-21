@@ -3118,7 +3118,11 @@
   },
   "start_utc": "2026-11-21T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "FMHdRbySu54",
+   "published": "2026-11-21T05:56:51Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909313": {
@@ -3184,7 +3188,11 @@
   },
   "start_utc": "2026-11-21T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "UpC7NWUo0Mg",
+   "published": "2026-11-21T05:46:38Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909834": {
