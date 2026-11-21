@@ -2698,7 +2698,11 @@
   },
   "start_utc": "2026-11-21T00:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "eyq5jc-fKa8",
+   "published": "2026-11-21T03:44:44Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909307": {
@@ -2764,7 +2768,11 @@
   },
   "start_utc": "2026-11-21T00:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "RenNhH3hB5k",
+   "published": "2026-11-21T03:43:53Z",
+   "source": "youtube"
+  },
   "video_attempts": 3
  },
  "401909308": {
@@ -2830,7 +2838,11 @@
   },
   "start_utc": "2026-11-21T00:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "x76Ajg6DA_4",
+   "published": "2026-11-21T03:51:10Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909309": {
@@ -2896,7 +2908,11 @@
   },
   "start_utc": "2026-11-21T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "NOu53JEXhJs",
+   "published": "2026-11-21T03:56:03Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909310": {
@@ -2962,7 +2978,11 @@
   },
   "start_utc": "2026-11-21T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "NXnXlEQ-FRo",
+   "published": "2026-11-21T03:57:02Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909311": {
@@ -2980,7 +3000,7 @@
    "away_rank": null,
    "away_record": "7-7",
    "conference": false,
-   "detail": "39.6 - 2nd Quarter",
+   "detail": "9:58 - 3rd Quarter",
    "home_rank": null,
    "home_record": "3-13",
    "neutral": false
@@ -3029,7 +3049,7 @@
    "away_rank": null,
    "away_record": "12-4",
    "conference": false,
-   "detail": "End of 1st Quarter",
+   "detail": "5:05 - 2nd Quarter",
    "home_rank": null,
    "home_record": "8-5",
    "neutral": false
@@ -3078,7 +3098,7 @@
    "away_rank": null,
    "away_record": "1-13",
    "conference": false,
-   "detail": "0.6 - 1st Quarter",
+   "detail": "3:00 - 2nd Quarter",
    "home_rank": null,
    "home_record": "13-3",
    "neutral": false

@@ -21428,7 +21428,7 @@
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "7:10 - 4th Quarter",
+   "detail": "1:51 - 4th Quarter",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -29217,7 +29217,7 @@
    "away_rank": 13,
    "away_record": "7-3",
    "conference": true,
-   "detail": "2:50 - 3rd Quarter",
+   "detail": "13:41 - 4th Quarter",
    "home_rank": 99,
    "home_record": "3-7",
    "neutral": false
@@ -42269,7 +42269,7 @@
    "away_rank": 99,
    "away_record": "8-2",
    "conference": true,
-   "detail": "1:31 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": 99,
    "home_record": "7-3",
    "neutral": false
@@ -42425,7 +42425,7 @@
    "away_rank": 99,
    "away_record": "1-9",
    "conference": true,
-   "detail": "13:39 - 4th Quarter",
+   "detail": "5:31 - 4th Quarter",
    "home_rank": 99,
    "home_record": "8-2",
    "neutral": false
@@ -47235,11 +47235,11 @@
   "date_et": "2026-11-20",
   "espn": {
    "away_rank": 99,
-   "away_record": "3-7",
+   "away_record": "3-8",
    "conference": true,
-   "detail": "3:26 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "8-2",
+   "home_record": "9-2",
    "neutral": false
   },
   "home": {
@@ -47256,12 +47256,28 @@
    "day": "Fri",
    "time": "7:30 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.0,
+   "drama": 0.010243421902777786,
+   "finish": 0.0017647058823529428,
+   "max_swing": 0.028800000000000048,
+   "n_plays": 162,
+   "ot": false,
+   "volatility": 0.9156419166666674
+  },
   "period": "week-12",
   "period_label": "Week 12",
   "period_sort": 12,
-  "result": null,
+  "result": {
+   "away": 0,
+   "detail": "Final",
+   "home": 19
+  },
+  "scored_at": "2026-11-21T03:59:53.692039+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "3-7",
    "conference": true,
@@ -47271,7 +47287,7 @@
    "score": 48.0
   },
   "start_utc": "2026-11-21T00:30:00+00:00",
-  "status": "live",
+  "status": "final",
   "video": null
  },
  "401866469": {
