@@ -2629,7 +2629,7 @@
   "start_utc": "2026-11-21T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401909306": {
   "away": {
@@ -2646,7 +2646,7 @@
    "away_rank": null,
    "away_record": "6-8",
    "conference": false,
-   "detail": "5:40 - 3rd Quarter",
+   "detail": "10:37 - 4th Quarter",
    "home_rank": null,
    "home_record": "3-11",
    "neutral": false
@@ -2695,7 +2695,7 @@
    "away_rank": null,
    "away_record": "5-10",
    "conference": false,
-   "detail": "1:28 - 3rd Quarter",
+   "detail": "6:27 - 4th Quarter",
    "home_rank": null,
    "home_record": "8-8",
    "neutral": false
@@ -2744,7 +2744,7 @@
    "away_rank": null,
    "away_record": "5-10",
    "conference": false,
-   "detail": "3:04 - 3rd Quarter",
+   "detail": "7:04 - 4th Quarter",
    "home_rank": null,
    "home_record": "10-4",
    "neutral": false
@@ -2793,7 +2793,7 @@
    "away_rank": null,
    "away_record": "5-11",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "3:59 - 3rd Quarter",
    "home_rank": null,
    "home_record": "4-10",
    "neutral": false
@@ -2842,7 +2842,7 @@
    "away_rank": null,
    "away_record": "5-11",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "4:00 - 3rd Quarter",
    "home_rank": null,
    "home_record": "9-6",
    "neutral": false
