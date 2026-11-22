@@ -22714,7 +22714,7 @@
   "start_utc": "2026-11-22T03:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401892767": {
   "away": {
@@ -22781,7 +22781,11 @@
   },
   "start_utc": "2026-11-22T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "bsYEG5AraBA",
+   "published": "2026-11-22T06:21:27Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892768": {
