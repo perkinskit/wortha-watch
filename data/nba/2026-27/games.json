@@ -16805,7 +16805,11 @@
   },
   "start_utc": "2026-11-22T20:30:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "wQ8QMIYmWeA",
+   "published": "2026-11-22T23:16:23Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401910030": {
@@ -16823,7 +16827,7 @@
    "away_rank": null,
    "away_record": "10-6",
    "conference": false,
-   "detail": "Sun, November 22nd at 6:00 PM EST",
+   "detail": "6:38 - 1st Quarter",
    "home_rank": null,
    "home_record": "9-6",
    "neutral": false
@@ -16854,7 +16858,7 @@
    "score": 51.75
   },
   "start_utc": "2026-11-22T23:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401910031": {
