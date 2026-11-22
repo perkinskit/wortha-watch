@@ -11691,7 +11691,7 @@
    "away_rank": 99,
    "away_record": "3-7",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "9:46 - 1st Quarter",
    "home_rank": 99,
    "home_record": "7-2",
    "neutral": false
@@ -11724,7 +11724,7 @@
    "score": 32.33333333333333
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873068": {
@@ -11742,7 +11742,7 @@
    "away_rank": 99,
    "away_record": "4-6",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "11:35 - 1st Quarter",
    "home_rank": 99,
    "home_record": "4-5",
    "neutral": false
@@ -11775,7 +11775,7 @@
    "score": 25.333333333333332
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873069": {
@@ -11844,7 +11844,7 @@
    "away_rank": 99,
    "away_record": "1-8",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "9:39 - 1st Quarter",
    "home_rank": 99,
    "home_record": "8-1",
    "neutral": false
@@ -11877,7 +11877,7 @@
    "score": 55.0
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873071": {
@@ -11895,7 +11895,7 @@
    "away_rank": 99,
    "away_record": "3-6",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "10:01 - 1st Quarter",
    "home_rank": 99,
    "home_record": "7-2",
    "neutral": false
@@ -11928,7 +11928,7 @@
    "score": 33.333333333333336
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873072": {
@@ -11946,7 +11946,7 @@
    "away_rank": 99,
    "away_record": "3-6",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "11:04 - 1st Quarter",
    "home_rank": 99,
    "home_record": "7-2",
    "neutral": false
@@ -11979,7 +11979,7 @@
    "score": 33.333333333333336
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873073": {
@@ -11997,7 +11997,7 @@
    "away_rank": 99,
    "away_record": "1-8",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "9:01 - 1st Quarter",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
@@ -12030,7 +12030,7 @@
    "score": 15.333333333333332
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873074": {
@@ -12150,7 +12150,7 @@
    "away_rank": 99,
    "away_record": "6-3",
    "conference": false,
-   "detail": "Sun, November 22nd at 1:00 PM EST",
+   "detail": "10:01 - 1st Quarter",
    "home_rank": 99,
    "home_record": "2-7",
    "neutral": false
@@ -12183,7 +12183,7 @@
    "score": 26.666666666666664
   },
   "start_utc": "2026-11-22T18:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401873077": {
