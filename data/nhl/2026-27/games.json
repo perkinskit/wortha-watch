@@ -22879,7 +22879,7 @@
    "away_rank": 99,
    "away_record": "9-10-4",
    "conference": false,
-   "detail": "Sun, November 22nd at 5:00 PM EST",
+   "detail": "14:00 - 1st Period",
    "home_rank": 99,
    "home_record": "15-5-2",
    "neutral": false
@@ -22910,7 +22910,7 @@
    "score": 31.026315789473685
   },
   "start_utc": "2026-11-22T22:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892770": {
