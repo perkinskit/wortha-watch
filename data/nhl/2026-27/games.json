@@ -22066,7 +22066,11 @@
   },
   "start_utc": "2026-11-21T23:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "ScUFxbP_mRk",
+   "published": "2026-11-22T02:15:08Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892758": {
@@ -22084,7 +22088,7 @@
    "away_rank": 99,
    "away_record": "10-10-0",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "15:46 - 3rd Period",
    "home_rank": 99,
    "home_record": "14-7-1",
    "neutral": false
@@ -22133,7 +22137,7 @@
    "away_rank": 99,
    "away_record": "8-12-0",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "13:55 - 3rd Period",
    "home_rank": 99,
    "home_record": "8-13-3",
    "neutral": false
@@ -22182,7 +22186,7 @@
    "away_rank": 99,
    "away_record": "8-11-6",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "10:11 - 3rd Period",
    "home_rank": 99,
    "home_record": "14-5-4",
    "neutral": false
@@ -22231,7 +22235,7 @@
    "away_rank": 99,
    "away_record": "7-11-2",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "12:44 - 3rd Period",
    "home_rank": 99,
    "home_record": "14-6-3",
    "neutral": false
@@ -22280,7 +22284,7 @@
    "away_rank": 99,
    "away_record": "10-6-5",
    "conference": false,
-   "detail": "18:06 - 3rd Period",
+   "detail": "6:41 - 3rd Period",
    "home_rank": 99,
    "home_record": "8-11-3",
    "neutral": false
@@ -22329,7 +22333,7 @@
    "away_rank": 99,
    "away_record": "15-7-0",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "12:55 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-9-2",
    "neutral": false
@@ -22378,7 +22382,7 @@
    "away_rank": 99,
    "away_record": "13-6-5",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "18:03 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-9-3",
    "neutral": false
@@ -22427,7 +22431,7 @@
    "away_rank": 99,
    "away_record": "11-11-1",
    "conference": false,
-   "detail": "Sat, November 21st at 9:00 PM EST",
+   "detail": "15:47 - 1st Period",
    "home_rank": 99,
    "home_record": "11-9-3",
    "neutral": false
@@ -22458,7 +22462,7 @@
    "score": 25.48872180451128
   },
   "start_utc": "2026-11-22T02:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892766": {
