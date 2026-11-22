@@ -22713,7 +22713,11 @@
   },
   "start_utc": "2026-11-22T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "dbz_yuAaZMg",
+   "published": "2026-11-22T06:27:01Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401892767": {
