@@ -21943,11 +21943,11 @@
   "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
-   "away_record": "9-9-4",
+   "away_record": "9-10-4",
    "conference": false,
-   "detail": "1:13 - 3rd Period",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "12-8-3",
+   "home_record": "13-8-3",
    "neutral": false
   },
   "home": {
@@ -21964,20 +21964,42 @@
    "day": "Sat",
    "time": "6 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.828,
+   "drama": 0.7433156534785548,
+   "finish": 0.34716130030807296,
+   "max_swing": 0.3978371095339496,
+   "n_plays": 250,
+   "ot": false,
+   "volatility": 2.896503646364147
+  },
   "period": "2026-11-21",
   "period_label": "Nov 21",
   "period_sort": "2026-11-21",
-  "result": null,
+  "result": {
+   "away": 3,
+   "detail": "Final",
+   "home": 4
+  },
+  "scored_at": "2026-11-22T01:56:59.594098+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.563,
+   "total": 6.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "7-12",
    "home_rec": "10-9",
    "score": 26.84210526315789
   },
   "start_utc": "2026-11-21T23:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": {
+   "id": "PGgSeswxDPw",
+   "published": "2026-11-22T01:48:55Z",
+   "source": "youtube"
+  }
  },
  "401892757": {
   "away": {
@@ -21992,11 +22014,11 @@
   "date_et": "2026-11-21",
   "espn": {
    "away_rank": 99,
-   "away_record": "7-12-2",
+   "away_record": "7-13-2",
    "conference": false,
-   "detail": "1:14 - 3rd Period",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "11-6-5",
+   "home_record": "12-6-5",
    "neutral": false
   },
   "home": {
@@ -22013,20 +22035,39 @@
    "day": "Sat",
    "time": "6 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.7402597402597403,
+   "drama": 0.391818978798685,
+   "finish": 0.07122505041961193,
+   "max_swing": 0.266615058219544,
+   "n_plays": 231,
+   "ot": false,
+   "volatility": 2.378595989906164
+  },
   "period": "2026-11-21",
   "period_label": "Nov 21",
   "period_sort": "2026-11-21",
-  "result": null,
+  "result": {
+   "away": 3,
+   "detail": "Final",
+   "home": 4
+  },
+  "scored_at": "2026-11-22T01:56:59.904909+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.543,
+   "total": 6.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "5-13",
    "home_rec": "10-9",
    "score": 24.12280701754386
   },
   "start_utc": "2026-11-21T23:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401892758": {
   "away": {
@@ -22043,7 +22084,7 @@
    "away_rank": 99,
    "away_record": "10-10-0",
    "conference": false,
-   "detail": "5:17 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "14-7-1",
    "neutral": false
@@ -22092,7 +22133,7 @@
    "away_rank": 99,
    "away_record": "8-12-0",
    "conference": false,
-   "detail": "8:33 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "8-13-3",
    "neutral": false
@@ -22141,7 +22182,7 @@
    "away_rank": 99,
    "away_record": "8-11-6",
    "conference": false,
-   "detail": "5:08 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "14-5-4",
    "neutral": false
@@ -22190,7 +22231,7 @@
    "away_rank": 99,
    "away_record": "7-11-2",
    "conference": false,
-   "detail": "4:57 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "14-6-3",
    "neutral": false
@@ -22239,7 +22280,7 @@
    "away_rank": 99,
    "away_record": "10-6-5",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "18:06 - 3rd Period",
    "home_rank": 99,
    "home_record": "8-11-3",
    "neutral": false
@@ -22288,7 +22329,7 @@
    "away_rank": 99,
    "away_record": "15-7-0",
    "conference": false,
-   "detail": "4:26 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "11-9-2",
    "neutral": false
@@ -22337,7 +22378,7 @@
    "away_rank": 99,
    "away_record": "13-6-5",
    "conference": false,
-   "detail": "9:31 - 2nd Period",
+   "detail": "End of 2nd Period",
    "home_rank": 99,
    "home_record": "11-9-3",
    "neutral": false
