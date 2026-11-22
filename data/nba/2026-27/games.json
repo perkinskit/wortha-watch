@@ -16735,7 +16735,11 @@
   },
   "start_utc": "2026-11-22T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "m04w-QZ48rQ",
+   "published": "2026-11-22T05:47:55Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401910029": {

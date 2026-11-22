@@ -14086,7 +14086,7 @@
    "away_rank": 99,
    "away_record": "6-4",
    "conference": true,
-   "detail": "9:35 - 3rd Quarter",
+   "detail": "3:34 - 3rd Quarter",
    "home_rank": 99,
    "home_record": "6-4",
    "neutral": false
@@ -14206,11 +14206,11 @@
   "date_et": "2026-11-21",
   "espn": {
    "away_rank": 2,
-   "away_record": "10-0",
+   "away_record": "11-0",
    "conference": true,
-   "detail": "2:59 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "5-5",
+   "home_record": "5-6",
    "neutral": false
   },
   "home": {
@@ -14227,12 +14227,28 @@
    "day": "Sat",
    "time": "9 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.3128491620111732,
+   "drama": 0.23444304590833334,
+   "finish": 0.03250000000000001,
+   "max_swing": 0.1514,
+   "n_plays": 179,
+   "ot": false,
+   "volatility": 4.443836416666667
+  },
   "period": "week-12",
   "period_label": "Week 12",
   "period_sort": 12,
-  "result": null,
+  "result": {
+   "away": 38,
+   "detail": "Final",
+   "home": 17
+  },
+  "scored_at": "2026-11-22T06:04:26.065487+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "10-0",
    "conference": true,
@@ -14244,7 +14260,7 @@
    "score": 89.0
   },
   "start_utc": "2026-11-22T02:00:00+00:00",
-  "status": "live",
+  "status": "final",
   "video": null
  },
  "401856881": {
@@ -33057,7 +33073,7 @@
    "away_rank": 99,
    "away_record": "4-6",
    "conference": true,
-   "detail": "12:31 - 3rd Quarter",
+   "detail": "6:21 - 3rd Quarter",
    "home_rank": 99,
    "home_record": "5-5",
    "neutral": false
@@ -33449,7 +33465,7 @@
    "away_rank": 99,
    "away_record": "5-5",
    "conference": true,
-   "detail": "3:53 - 4th Quarter",
+   "detail": "1:25 - 4th Quarter",
    "home_rank": 17,
    "home_record": "9-1",
    "neutral": false
@@ -42889,7 +42905,7 @@
    "away_rank": 99,
    "away_record": "3-7",
    "conference": true,
-   "detail": "10:54 - 3rd Quarter",
+   "detail": "1:28 - 3rd Quarter",
    "home_rank": 99,
    "home_record": "4-6",
    "neutral": false
