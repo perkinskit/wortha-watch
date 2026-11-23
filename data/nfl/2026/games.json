@@ -11886,7 +11886,7 @@
   "start_utc": "2026-11-22T21:25:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401873070": {
   "away": {
@@ -12312,7 +12312,11 @@
   },
   "start_utc": "2026-11-22T21:25:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "i13fzifkiE8",
+   "published": "2026-11-23T01:05:49Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401873076": {

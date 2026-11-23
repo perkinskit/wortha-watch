@@ -16825,11 +16825,11 @@
   "date_et": "2026-11-22",
   "espn": {
    "away_rank": null,
-   "away_record": "10-6",
+   "away_record": "10-7",
    "conference": false,
-   "detail": "7:21 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "9-6",
+   "home_record": "10-6",
    "neutral": false
   },
   "home": {
@@ -16846,20 +16846,37 @@
    "day": "Sun",
    "time": "6 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.3355119825708061,
+   "drama": 0.19945833159722226,
+   "finish": 0.00502564102564103,
+   "max_swing": 0.07699999999999996,
+   "n_plays": 459,
+   "ot": false,
+   "volatility": 7.729359583333332
+  },
   "period": "2026-11-22",
   "period_label": "Nov 22",
   "period_sort": "2026-11-22",
-  "result": null,
+  "result": {
+   "away": 113,
+   "detail": "Final",
+   "home": 123
+  },
+  "scored_at": "2026-11-23T01:24:59.329372+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "10-6",
    "home_rec": "9-6",
    "score": 51.75
   },
   "start_utc": "2026-11-22T23:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401910031": {
   "away": {
@@ -16876,7 +16893,7 @@
    "away_rank": null,
    "away_record": "7-8",
    "conference": false,
-   "detail": "1:03 - 2nd Quarter",
+   "detail": "10:19 - 3rd Quarter",
    "home_rank": null,
    "home_record": "6-11",
    "neutral": false
@@ -16925,7 +16942,7 @@
    "away_rank": null,
    "away_record": "9-5",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "8:29 - 3rd Quarter",
    "home_rank": null,
    "home_record": "4-11",
    "neutral": false
@@ -16974,7 +16991,7 @@
    "away_rank": null,
    "away_record": "9-7",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "8:17 - 3rd Quarter",
    "home_rank": null,
    "home_record": "3-14",
    "neutral": false
@@ -17023,7 +17040,7 @@
    "away_rank": null,
    "away_record": "5-11",
    "conference": false,
-   "detail": "Sun, November 22nd at 8:00 PM EST",
+   "detail": "4:14 - 1st Quarter",
    "home_rank": null,
    "home_record": "10-6",
    "neutral": false
@@ -17054,7 +17071,7 @@
    "score": 28.125
   },
   "start_utc": "2026-11-23T01:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401910035": {
