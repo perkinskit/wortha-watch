@@ -23145,7 +23145,11 @@
   },
   "start_utc": "2026-11-23T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "D8l6TRQ7xVU",
+   "published": "2026-11-23T04:07:39Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  }
 }

@@ -17155,7 +17155,11 @@
   },
   "start_utc": "2026-11-23T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "sUFCZ146zk8",
+   "published": "2026-11-23T03:55:01Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401910035": {
@@ -17171,11 +17175,11 @@
   "date_et": "2026-11-22",
   "espn": {
    "away_rank": null,
-   "away_record": "11-5",
+   "away_record": "11-6",
    "conference": false,
-   "detail": "1:08 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "8-8",
+   "home_record": "9-8",
    "neutral": false
   },
   "home": {
@@ -17192,19 +17196,36 @@
    "day": "Sun",
    "time": "8:30 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.7515657620041754,
+   "drama": 1.3180383755208331,
+   "finish": 0.6405396825396825,
+   "max_swing": 0.33999999999999997,
+   "n_plays": 479,
+   "ot": false,
+   "volatility": 18.971557395833337
+  },
   "period": "2026-11-22",
   "period_label": "Nov 22",
   "period_sort": "2026-11-22",
-  "result": null,
+  "result": {
+   "away": 87,
+   "detail": "Final",
+   "home": 88
+  },
+  "scored_at": "2026-11-23T04:10:17.414943+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "11-5",
    "home_rec": "8-8",
    "score": 50.625
   },
   "start_utc": "2026-11-23T01:30:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  }
 }
