@@ -16945,7 +16945,11 @@
   },
   "start_utc": "2026-11-23T00:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "6LGBQv5bPz8",
+   "published": "2026-11-23T02:43:57Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401910032": {
@@ -16961,11 +16965,11 @@
   "date_et": "2026-11-22",
   "espn": {
    "away_rank": null,
-   "away_record": "9-5",
+   "away_record": "10-5",
    "conference": false,
-   "detail": "4:14 - OT",
+   "detail": "Final/OT",
    "home_rank": null,
-   "home_record": "4-11",
+   "home_record": "4-12",
    "neutral": false
   },
   "home": {
@@ -16982,20 +16986,37 @@
    "day": "Sun",
    "time": "7 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.5920303605313093,
+   "drama": 1.4413348960069443,
+   "finish": 0.46,
+   "max_swing": 0.261,
+   "n_plays": 527,
+   "ot": true,
+   "volatility": 21.719038298611114
+  },
   "period": "2026-11-22",
   "period_label": "Nov 22",
   "period_sort": "2026-11-22",
-  "result": null,
+  "result": {
+   "away": 151,
+   "detail": "Final/OT",
+   "home": 145
+  },
+  "scored_at": "2026-11-23T02:48:02.222066+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "9-5",
    "home_rec": "4-11",
    "score": 27.28571428571429
   },
   "start_utc": "2026-11-23T00:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401910033": {
   "away": {
@@ -17061,7 +17082,7 @@
   "start_utc": "2026-11-23T00:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401910034": {
   "away": {
@@ -17078,7 +17099,7 @@
    "away_rank": null,
    "away_record": "5-11",
    "conference": false,
-   "detail": "9:53 - 3rd Quarter",
+   "detail": "4:35 - 3rd Quarter",
    "home_rank": null,
    "home_record": "10-6",
    "neutral": false
@@ -17127,7 +17148,7 @@
    "away_rank": null,
    "away_record": "11-5",
    "conference": false,
-   "detail": "4:23 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "8-8",
    "neutral": false
