@@ -16895,11 +16895,11 @@
   "date_et": "2026-11-22",
   "espn": {
    "away_rank": null,
-   "away_record": "7-8",
+   "away_record": "7-9",
    "conference": false,
-   "detail": "4:50 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "6-11",
+   "home_record": "7-11",
    "neutral": false
   },
   "home": {
@@ -16916,20 +16916,37 @@
    "day": "Sun",
    "time": "7 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.3767441860465116,
+   "drama": 0.1969896318402778,
+   "finish": 0.0018636363636363653,
+   "max_swing": 0.07599999999999996,
+   "n_plays": 430,
+   "ot": false,
+   "volatility": 6.97018107638889
+  },
   "period": "2026-11-22",
   "period_label": "Nov 22",
   "period_sort": "2026-11-22",
-  "result": null,
+  "result": {
+   "away": 96,
+   "detail": "Final",
+   "home": 116
+  },
+  "scored_at": "2026-11-23T02:27:31.491900+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "7-8",
    "home_rec": "6-11",
    "score": 24.588235294117645
   },
   "start_utc": "2026-11-23T00:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401910032": {
   "away": {
@@ -16946,7 +16963,7 @@
    "away_rank": null,
    "away_record": "9-5",
    "conference": false,
-   "detail": "5:22 - 4th Quarter",
+   "detail": "4:14 - OT",
    "home_rank": null,
    "home_record": "4-11",
    "neutral": false
@@ -16993,11 +17010,11 @@
   "date_et": "2026-11-22",
   "espn": {
    "away_rank": null,
-   "away_record": "9-7",
+   "away_record": "10-7",
    "conference": false,
-   "detail": "4:46 - 4th Quarter",
+   "detail": "Final",
    "home_rank": null,
-   "home_record": "3-14",
+   "home_record": "3-15",
    "neutral": false
   },
   "home": {
@@ -17014,20 +17031,37 @@
    "day": "Sun",
    "time": "7 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.4989384288747346,
+   "drama": 0.7486250662499998,
+   "finish": 0.14546874999999998,
+   "max_swing": 0.375,
+   "n_plays": 471,
+   "ot": false,
+   "volatility": 10.624223194444443
+  },
   "period": "2026-11-22",
   "period_label": "Nov 22",
   "period_sort": "2026-11-22",
-  "result": null,
+  "result": {
+   "away": 116,
+   "detail": "Final",
+   "home": 114
+  },
+  "scored_at": "2026-11-23T02:27:31.793957+00:00",
   "season": "2026-27",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "9-7",
    "home_rec": "3-14",
    "score": 22.169117647058826
   },
   "start_utc": "2026-11-23T00:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401910034": {
   "away": {
@@ -17044,7 +17078,7 @@
    "away_rank": null,
    "away_record": "5-11",
    "conference": false,
-   "detail": "48.2 - 2nd Quarter",
+   "detail": "9:53 - 3rd Quarter",
    "home_rank": null,
    "home_record": "10-6",
    "neutral": false
@@ -17093,7 +17127,7 @@
    "away_rank": null,
    "away_record": "11-5",
    "conference": false,
-   "detail": "End of 1st Quarter",
+   "detail": "4:23 - 2nd Quarter",
    "home_rank": null,
    "home_record": "8-8",
    "neutral": false
