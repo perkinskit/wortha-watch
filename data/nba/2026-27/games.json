@@ -17861,7 +17861,7 @@
   "start_utc": "2026-11-24T01:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 7
+  "video_attempts": 8
  },
  "401910043": {
   "away": {
@@ -17996,7 +17996,11 @@
   },
   "start_utc": "2026-11-24T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "Iqsnel9aWHg",
+   "published": "2026-11-24T05:53:19Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401910045": {
