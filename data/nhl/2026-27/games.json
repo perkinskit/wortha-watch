@@ -23526,7 +23526,7 @@
    "away_rank": 99,
    "away_record": "11-12-1",
    "conference": false,
-   "detail": "17:36 - 3rd Period",
+   "detail": "8:53 - 3rd Period",
    "home_rank": 99,
    "home_record": "10-9-1",
    "neutral": false
@@ -23575,7 +23575,7 @@
    "away_rank": 99,
    "away_record": "17-3-5",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "17:26 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-12-2",
    "neutral": false
@@ -23607,6 +23607,55 @@
   },
   "start_utc": "2026-11-24T03:00:00+00:00",
   "status": "live",
+  "video": null
+ },
+ "401892780": {
+  "away": {
+   "abbr": "VGK",
+   "alt": "#b4975a",
+   "color": "#344043",
+   "id": "37",
+   "name": "Vegas Golden Knights",
+   "nick": "Golden Knights",
+   "short": "Vegas"
+  },
+  "date_et": "2026-11-24",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "14-6-5",
+   "conference": false,
+   "detail": "Tue, November 24th at 8:00 PM EST",
+   "home_rank": 99,
+   "home_record": "17-5-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "EDM",
+   "alt": "#ff4c00",
+   "color": "#00205b",
+   "id": "6",
+   "name": "Edmonton Oilers",
+   "nick": "Oilers",
+   "short": "Edmonton"
+  },
+  "id": "401892780",
+  "labels": {
+   "day": "Tue",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-24",
+  "period_label": "Nov 24",
+  "period_sort": "2026-11-24",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "11-10",
+   "home_rec": "15-8",
+   "score": 50.27950310559007
+  },
+  "start_utc": "2026-11-25T01:00:00+00:00",
+  "status": "pending",
   "video": null
  }
 }

@@ -3195,6 +3195,153 @@
   },
   "video_attempts": 1
  },
+ "401909314": {
+  "away": {
+   "abbr": "DET",
+   "alt": "#c8102e",
+   "color": "#1d428a",
+   "id": "8",
+   "name": "Detroit Pistons",
+   "nick": "Pistons",
+   "short": "Detroit"
+  },
+  "date_et": "2026-11-24",
+  "espn": {
+   "away_rank": null,
+   "away_record": "10-6",
+   "conference": false,
+   "detail": "Tue, November 24th at 7:00 PM EST",
+   "home_rank": null,
+   "home_record": "7-9",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ORL",
+   "alt": "#9ca0a3",
+   "color": "#0150b5",
+   "id": "19",
+   "name": "Orlando Magic",
+   "nick": "Magic",
+   "short": "Orlando"
+  },
+  "id": "401909314",
+  "labels": {
+   "day": "Tue",
+   "time": "7 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-24",
+  "period_label": "Nov 24",
+  "period_sort": "2026-11-24",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "10-6",
+   "home_rec": "7-9",
+   "score": 31.875
+  },
+  "start_utc": "2026-11-25T00:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401909315": {
+  "away": {
+   "abbr": "BOS",
+   "alt": "#ffffff",
+   "color": "#008348",
+   "id": "2",
+   "name": "Boston Celtics",
+   "nick": "Celtics",
+   "short": "Boston"
+  },
+  "date_et": "2026-11-24",
+  "espn": {
+   "away_rank": null,
+   "away_record": "11-6",
+   "conference": false,
+   "detail": "Tue, November 24th at 8:00 PM EST",
+   "home_rank": null,
+   "home_record": "7-11",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "WSH",
+   "alt": "#002b5c",
+   "color": "#e31837",
+   "id": "27",
+   "name": "Washington Wizards",
+   "nick": "Wizards",
+   "short": "Washington"
+  },
+  "id": "401909315",
+  "labels": {
+   "day": "Tue",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-24",
+  "period_label": "Nov 24",
+  "period_sort": "2026-11-24",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "11-6",
+   "home_rec": "7-11",
+   "score": 31.078431372549023
+  },
+  "start_utc": "2026-11-25T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401909316": {
+  "away": {
+   "abbr": "DAL",
+   "alt": "#bbc4ca",
+   "color": "#0064b1",
+   "id": "6",
+   "name": "Dallas Mavericks",
+   "nick": "Mavericks",
+   "short": "Dallas"
+  },
+  "date_et": "2026-11-24",
+  "espn": {
+   "away_rank": null,
+   "away_record": "10-7",
+   "conference": false,
+   "detail": "Tue, November 24th at 10:00 PM EST",
+   "home_rank": null,
+   "home_record": "10-5",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DEN",
+   "alt": "#fec524",
+   "color": "#0e2240",
+   "id": "7",
+   "name": "Denver Nuggets",
+   "nick": "Nuggets",
+   "short": "Denver"
+  },
+  "id": "401909316",
+  "labels": {
+   "day": "Tue",
+   "time": "10 PM ET"
+  },
+  "metrics": null,
+  "period": "2026-11-24",
+  "period_label": "Nov 24",
+  "period_sort": "2026-11-24",
+  "result": null,
+  "season": "2026-27",
+  "stakes": {
+   "away_rec": "10-7",
+   "home_rec": "10-5",
+   "score": 52.64705882352941
+  },
+  "start_utc": "2026-11-25T03:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
  "401909834": {
   "away": {
    "abbr": "ATL",
@@ -17714,7 +17861,7 @@
   "start_utc": "2026-11-24T01:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 4
+  "video_attempts": 5
  },
  "401910043": {
   "away": {
@@ -17801,7 +17948,7 @@
    "away_rank": null,
    "away_record": "3-15",
    "conference": false,
-   "detail": "6:44 - 3rd Quarter",
+   "detail": "11:25 - 4th Quarter",
    "home_rank": null,
    "home_record": "14-3",
    "neutral": false
@@ -17850,7 +17997,7 @@
    "away_rank": null,
    "away_record": "14-3",
    "conference": false,
-   "detail": "3:56 - 3rd Quarter",
+   "detail": "7:59 - 4th Quarter",
    "home_rank": null,
    "home_record": "2-14",
    "neutral": false
