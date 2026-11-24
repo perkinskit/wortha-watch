@@ -12532,7 +12532,11 @@
   },
   "start_utc": "2026-11-24T01:15:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "C3ZJX7on7OE",
+   "published": "2026-11-24T04:37:01Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  }
 }
