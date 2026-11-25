@@ -23670,7 +23670,7 @@
    "away_rank": 99,
    "away_record": "14-6-5",
    "conference": false,
-   "detail": "Tue, November 24th at 8:00 PM EST",
+   "detail": "20:00 - 1st Period",
    "home_rank": 99,
    "home_record": "17-5-4",
    "neutral": false
@@ -23701,7 +23701,7 @@
    "score": 50.27950310559007
   },
   "start_utc": "2026-11-25T01:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  }
 }
