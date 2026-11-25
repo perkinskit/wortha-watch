@@ -12538,5 +12538,821 @@
    "source": "youtube"
   },
   "video_attempts": 1
+ },
+ "401873079": {
+  "away": {
+   "abbr": "GB",
+   "alt": "#ffb612",
+   "color": "#204e32",
+   "id": "9",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "short": "Green Bay"
+  },
+  "date_et": "2026-11-25",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-4",
+   "conference": false,
+   "detail": "Wed, November 25th at 8:00 PM EST",
+   "home_rank": 99,
+   "home_record": "6-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAR",
+   "alt": "#ffd100",
+   "color": "#003594",
+   "id": "14",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "short": "Los Angeles"
+  },
+  "id": "401873079",
+  "labels": {
+   "day": "Wed",
+   "time": "8 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-4",
+   "division": false,
+   "home_rec": "6-4",
+   "rivalry": 0,
+   "score": 51.0
+  },
+  "start_utc": "2026-11-26T01:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873080": {
+  "away": {
+   "abbr": "PHI",
+   "alt": "#000000",
+   "color": "#06424d",
+   "id": "21",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "short": "Philadelphia"
+  },
+  "date_et": "2026-11-26",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-7",
+   "conference": false,
+   "detail": "Thu, November 26th at 4:30 PM EST",
+   "home_rank": 99,
+   "home_record": "5-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DAL",
+   "alt": "#b0b7bc",
+   "color": "#002a5c",
+   "id": "6",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "short": "Dallas"
+  },
+  "id": "401873080",
+  "labels": {
+   "day": "Thu",
+   "time": "4:30 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-7",
+   "division": true,
+   "home_rec": "5-6",
+   "rivalry": 10,
+   "score": 47.63636363636364
+  },
+  "start_utc": "2026-11-26T21:30:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873081": {
+  "away": {
+   "abbr": "CHI",
+   "alt": "#e64100",
+   "color": "#0b1c3a",
+   "id": "3",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "short": "Chicago"
+  },
+  "date_et": "2026-11-26",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "8-2",
+   "conference": false,
+   "detail": "Thu, November 26th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "8-2",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "DET",
+   "alt": "#bbbbbb",
+   "color": "#0076b6",
+   "id": "8",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "short": "Detroit"
+  },
+  "id": "401873081",
+  "labels": {
+   "day": "Thu",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "8-2",
+   "division": true,
+   "home_rec": "8-2",
+   "rivalry": 5,
+   "score": 83.0
+  },
+  "start_utc": "2026-11-26T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873082": {
+  "away": {
+   "abbr": "KC",
+   "alt": "#ffb612",
+   "color": "#e31837",
+   "id": "12",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "short": "Kansas City"
+  },
+  "date_et": "2026-11-26",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "8-2",
+   "conference": false,
+   "detail": "Thu, November 26th at 8:20 PM EST",
+   "home_rank": 99,
+   "home_record": "9-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "BUF",
+   "alt": "#d50a0a",
+   "color": "#00338d",
+   "id": "2",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "short": "Buffalo"
+  },
+  "id": "401873082",
+  "labels": {
+   "day": "Thu",
+   "time": "8:20 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "8-2",
+   "division": false,
+   "home_rec": "9-1",
+   "rivalry": 0,
+   "score": 66.0
+  },
+  "start_utc": "2026-11-27T01:20:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873083": {
+  "away": {
+   "abbr": "DEN",
+   "alt": "#fc4c02",
+   "color": "#0a2343",
+   "id": "7",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "short": "Denver"
+  },
+  "date_et": "2026-11-27",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "8-2",
+   "conference": false,
+   "detail": "Fri, November 27th at 3:00 PM EST",
+   "home_rank": 99,
+   "home_record": "6-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "PIT",
+   "alt": "#ffb612",
+   "color": "#000000",
+   "id": "23",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "short": "Pittsburgh"
+  },
+  "id": "401873083",
+  "labels": {
+   "day": "Fri",
+   "time": "3 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "8-2",
+   "division": false,
+   "home_rec": "6-4",
+   "rivalry": 0,
+   "score": 57.0
+  },
+  "start_utc": "2026-11-27T20:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873084": {
+  "away": {
+   "abbr": "ATL",
+   "alt": "#000000",
+   "color": "#a71930",
+   "id": "1",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "short": "Atlanta"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-7",
+   "conference": false,
+   "detail": "Sun, November 29th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIN",
+   "alt": "#ffc62f",
+   "color": "#4f2683",
+   "id": "16",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "short": "Minnesota"
+  },
+  "id": "401873084",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-7",
+   "division": false,
+   "home_rec": "7-3",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-11-29T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873085": {
+  "away": {
+   "abbr": "BAL",
+   "alt": "#000000",
+   "color": "#29126f",
+   "id": "33",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "short": "Baltimore"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-7",
+   "conference": false,
+   "detail": "Sun, November 29th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "4-6",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "HOU",
+   "alt": "#eb0028",
+   "color": "#021018",
+   "id": "34",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "short": "Houston"
+  },
+  "id": "401873085",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-7",
+   "division": false,
+   "home_rec": "4-6",
+   "rivalry": 0,
+   "score": 22.90909090909091
+  },
+  "start_utc": "2026-11-29T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873086": {
+  "away": {
+   "abbr": "LV",
+   "alt": "#a5acaf",
+   "color": "#000000",
+   "id": "13",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "short": "Las Vegas"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-7",
+   "conference": false,
+   "detail": "Sun, November 29th at 8:20 PM EST",
+   "home_rank": 99,
+   "home_record": "6-4",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CLE",
+   "alt": "#ff3c00",
+   "color": "#472a08",
+   "id": "5",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "short": "Cleveland"
+  },
+  "id": "401873086",
+  "labels": {
+   "day": "Sun",
+   "time": "8:20 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-7",
+   "division": false,
+   "home_rec": "6-4",
+   "rivalry": 0,
+   "score": 28.90909090909091
+  },
+  "start_utc": "2026-11-30T01:20:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873087": {
+  "away": {
+   "abbr": "NO",
+   "alt": "#000000",
+   "color": "#d3bc8d",
+   "id": "18",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "short": "New Orleans"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-7",
+   "conference": false,
+   "detail": "Sun, November 29th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "CIN",
+   "alt": "#000000",
+   "color": "#fb4f14",
+   "id": "4",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "short": "Cincinnati"
+  },
+  "id": "401873087",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-7",
+   "division": false,
+   "home_rec": "7-3",
+   "rivalry": 0,
+   "score": 30.0
+  },
+  "start_utc": "2026-11-29T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873088": {
+  "away": {
+   "abbr": "NYG",
+   "alt": "#c9243f",
+   "color": "#003c7f",
+   "id": "19",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "short": "New York"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-3-1",
+   "conference": false,
+   "detail": "Sun, November 29th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "3-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "IND",
+   "alt": "#ffffff",
+   "color": "#003b75",
+   "id": "11",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "short": "Indianapolis"
+  },
+  "id": "401873088",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-3-1",
+   "division": false,
+   "home_rec": "3-8",
+   "rivalry": 0,
+   "score": 27.681818181818183
+  },
+  "start_utc": "2026-11-29T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873089": {
+  "away": {
+   "abbr": "NYJ",
+   "alt": "#ffffff",
+   "color": "#115740",
+   "id": "20",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "short": "New York"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "3-8",
+   "conference": false,
+   "detail": "Sun, November 29th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "1-9",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "MIA",
+   "alt": "#fc4c02",
+   "color": "#008e97",
+   "id": "15",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "short": "Miami"
+  },
+  "id": "401873089",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "3-8",
+   "division": true,
+   "home_rec": "1-9",
+   "rivalry": 5,
+   "score": 31.18181818181818
+  },
+  "start_utc": "2026-11-29T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873090": {
+  "away": {
+   "abbr": "TEN",
+   "alt": "#001532",
+   "color": "#4495d2",
+   "id": "10",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "short": "Tennessee"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "1-9",
+   "conference": false,
+   "detail": "Sun, November 29th at 1:00 PM EST",
+   "home_rank": 99,
+   "home_record": "7-3",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "JAX",
+   "alt": "#d7a22a",
+   "color": "#007487",
+   "id": "30",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "short": "Jacksonville"
+  },
+  "id": "401873090",
+  "labels": {
+   "day": "Sun",
+   "time": "1 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "1-9",
+   "division": true,
+   "home_rec": "7-3",
+   "rivalry": 5,
+   "score": 44.0
+  },
+  "start_utc": "2026-11-29T18:00:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873091": {
+  "away": {
+   "abbr": "SEA",
+   "alt": "#69be28",
+   "color": "#002a5c",
+   "id": "26",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "short": "Seattle"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "6-4",
+   "conference": false,
+   "detail": "Sun, November 29th at 4:25 PM EST",
+   "home_rank": 99,
+   "home_record": "9-1",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "SF",
+   "alt": "#b3995d",
+   "color": "#aa0000",
+   "id": "25",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "short": "San Francisco"
+  },
+  "id": "401873091",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "6-4",
+   "division": true,
+   "home_rec": "9-1",
+   "rivalry": 10,
+   "score": 85.0
+  },
+  "start_utc": "2026-11-29T21:25:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873092": {
+  "away": {
+   "abbr": "WSH",
+   "alt": "#ffb612",
+   "color": "#5a1414",
+   "id": "28",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "short": "Washington"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "4-5-1",
+   "conference": false,
+   "detail": "Sun, November 29th at 4:25 PM EST",
+   "home_rank": 99,
+   "home_record": "3-8",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "ARI",
+   "alt": "#ffffff",
+   "color": "#a40227",
+   "id": "22",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "short": "Arizona"
+  },
+  "id": "401873092",
+  "labels": {
+   "day": "Sun",
+   "time": "4:25 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "4-5-1",
+   "division": false,
+   "home_rec": "3-8",
+   "rivalry": 0,
+   "score": 21.68181818181818
+  },
+  "start_utc": "2026-11-29T21:25:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873093": {
+  "away": {
+   "abbr": "NE",
+   "alt": "#c60c30",
+   "color": "#002a5c",
+   "id": "17",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "short": "New England"
+  },
+  "date_et": "2026-11-29",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-5",
+   "conference": false,
+   "detail": "Sun, November 29th at 4:05 PM EST",
+   "home_rank": 99,
+   "home_record": "1-9",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "LAC",
+   "alt": "#ffc20e",
+   "color": "#0080c6",
+   "id": "24",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "short": "Los Angeles"
+  },
+  "id": "401873093",
+  "labels": {
+   "day": "Sun",
+   "time": "4:05 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-5",
+   "division": false,
+   "home_rec": "1-9",
+   "rivalry": 0,
+   "score": 18.0
+  },
+  "start_utc": "2026-11-29T21:05:00+00:00",
+  "status": "pending",
+  "video": null
+ },
+ "401873094": {
+  "away": {
+   "abbr": "CAR",
+   "alt": "#000000",
+   "color": "#0085ca",
+   "id": "29",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "short": "Carolina"
+  },
+  "date_et": "2026-11-30",
+  "espn": {
+   "away_rank": 99,
+   "away_record": "5-5",
+   "conference": false,
+   "detail": "Mon, November 30th at 8:15 PM EST",
+   "home_rank": 99,
+   "home_record": "3-7",
+   "neutral": false
+  },
+  "home": {
+   "abbr": "TB",
+   "alt": "#3e3a35",
+   "color": "#bd1c36",
+   "id": "27",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "short": "Tampa Bay"
+  },
+  "id": "401873094",
+  "labels": {
+   "day": "Mon",
+   "time": "8:15 PM ET"
+  },
+  "metrics": null,
+  "period": "week-12",
+  "period_label": "Week 12",
+  "period_sort": 12,
+  "result": null,
+  "season": "2026",
+  "stakes": {
+   "away_rec": "5-5",
+   "division": true,
+   "home_rec": "3-7",
+   "rivalry": 5,
+   "score": 44.0
+  },
+  "start_utc": "2026-12-01T01:15:00+00:00",
+  "status": "pending",
+  "video": null
  }
 }
