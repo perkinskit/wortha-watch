@@ -3328,7 +3328,11 @@
   },
   "start_utc": "2026-11-25T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "KTqVQ0JHdwk",
+   "published": "2026-11-25T03:56:53Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909316": {
@@ -3346,7 +3350,7 @@
    "away_rank": null,
    "away_record": "10-7",
    "conference": false,
-   "detail": "6:22 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "10-5",
    "neutral": false
