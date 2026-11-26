@@ -3958,7 +3958,11 @@
   },
   "start_utc": "2026-11-26T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "0vg4rEM49HY",
+   "published": "2026-11-26T06:02:47Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401909325": {
@@ -4024,7 +4028,11 @@
   },
   "start_utc": "2026-11-26T03:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "pGbbg2LRLlE",
+   "published": "2026-11-26T06:04:08Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401909834": {
