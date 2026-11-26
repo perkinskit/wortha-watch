@@ -3490,7 +3490,7 @@
    "away_rank": null,
    "away_record": "5-12",
    "conference": false,
-   "detail": "End of 3rd Quarter",
+   "detail": "4:24 - 4th Quarter",
    "home_rank": null,
    "home_record": "4-12",
    "neutral": false
@@ -3539,7 +3539,7 @@
    "away_rank": null,
    "away_record": "9-9",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "7:06 - 3rd Quarter",
    "home_rank": null,
    "home_record": "11-6",
    "neutral": false
@@ -3588,7 +3588,7 @@
    "away_rank": null,
    "away_record": "13-5",
    "conference": false,
-   "detail": "Halftime",
+   "detail": "6:54 - 3rd Quarter",
    "home_rank": null,
    "home_record": "10-8",
    "neutral": false
@@ -3637,7 +3637,7 @@
    "away_rank": null,
    "away_record": "4-12",
    "conference": false,
-   "detail": "6:40 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "13-5",
    "neutral": false
@@ -3686,7 +3686,7 @@
    "away_rank": null,
    "away_record": "3-13",
    "conference": false,
-   "detail": "8:41 - 2nd Quarter",
+   "detail": "Halftime",
    "home_rank": null,
    "home_record": "2-16",
    "neutral": false
@@ -3735,7 +3735,7 @@
    "away_rank": null,
    "away_record": "9-7",
    "conference": false,
-   "detail": "9:24 - 1st Quarter",
+   "detail": "2:41 - 1st Quarter",
    "home_rank": null,
    "home_record": "13-5",
    "neutral": false
