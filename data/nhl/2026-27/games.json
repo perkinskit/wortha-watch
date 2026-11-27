@@ -25082,7 +25082,11 @@
   },
   "start_utc": "2026-11-27T20:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "eQm8YETehog",
+   "published": "2026-11-27T23:07:53Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892800": {
@@ -25150,7 +25154,11 @@
   },
   "start_utc": "2026-11-27T20:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "zWb0-p9BdmE",
+   "published": "2026-11-27T23:03:27Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892801": {
@@ -25218,7 +25226,11 @@
   },
   "start_utc": "2026-11-27T20:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "suloysgtMtA",
+   "published": "2026-11-27T23:09:41Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892802": {
@@ -25286,7 +25298,11 @@
   },
   "start_utc": "2026-11-27T20:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "mkHP3so_kzg",
+   "published": "2026-11-27T23:02:03Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401892803": {
@@ -25304,7 +25320,7 @@
    "away_rank": 99,
    "away_record": "14-7-3",
    "conference": false,
-   "detail": "20:00 - 3rd Period",
+   "detail": "7:55 - 3rd Period",
    "home_rank": 99,
    "home_record": "18-4-5",
    "neutral": false
@@ -25353,7 +25369,7 @@
    "away_rank": 99,
    "away_record": "8-12-2",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "10:30 - 3rd Period",
    "home_rank": 99,
    "home_record": "12-13-1",
    "neutral": false
@@ -25402,7 +25418,7 @@
    "away_rank": 99,
    "away_record": "15-6-5",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "10:25 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-14-2",
    "neutral": false
@@ -25451,7 +25467,7 @@
    "away_rank": 99,
    "away_record": "13-10-1",
    "conference": false,
-   "detail": "9:24 - 1st Period",
+   "detail": "End of 1st Period",
    "home_rank": 99,
    "home_record": "9-14-2",
    "neutral": false
