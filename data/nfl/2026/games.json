@@ -12676,7 +12676,7 @@
   "start_utc": "2026-11-26T21:30:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 1
+  "video_attempts": 2
  },
  "401873081": {
   "away": {
@@ -12764,7 +12764,7 @@
    "away_rank": 99,
    "away_record": "8-2",
    "conference": false,
-   "detail": "11:11 - 1st Quarter",
+   "detail": "10:56 - 1st Quarter",
    "home_rank": 99,
    "home_record": "9-1",
    "neutral": false
