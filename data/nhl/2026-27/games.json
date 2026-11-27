@@ -25032,7 +25032,7 @@
    "away_rank": 99,
    "away_record": "16-7-3",
    "conference": false,
-   "detail": "12:05 - 3rd Period",
+   "detail": "1:03 - 3rd Period",
    "home_rank": 99,
    "home_record": "15-7-2",
    "neutral": false
@@ -25081,7 +25081,7 @@
    "away_rank": 99,
    "away_record": "6-20-1",
    "conference": false,
-   "detail": "12:02 - 3rd Period",
+   "detail": "1:56 - 3rd Period",
    "home_rank": 99,
    "home_record": "9-12-6",
    "neutral": false
@@ -25130,7 +25130,7 @@
    "away_rank": 99,
    "away_record": "14-8-3",
    "conference": false,
-   "detail": "11:21 - 3rd Period",
+   "detail": "4:03 - 3rd Period",
    "home_rank": 99,
    "home_record": "11-11-0",
    "neutral": false
@@ -25177,11 +25177,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "9-12-3",
+   "away_record": "10-12-3",
    "conference": false,
-   "detail": "6:51 - 3rd Period",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "9-13-1",
+   "home_record": "9-14-1",
    "neutral": false
   },
   "home": {
@@ -25198,20 +25198,39 @@
    "day": "Fri",
    "time": "3 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.7603305785123967,
+   "drama": 0.09458297767643195,
+   "finish": 0.006972747395689786,
+   "max_swing": 0.18983901346231313,
+   "n_plays": 242,
+   "ot": false,
+   "volatility": 0.8845333634805324
+  },
   "period": "2026-11-27",
   "period_label": "Nov 27",
   "period_sort": "2026-11-27",
-  "result": null,
+  "result": {
+   "away": 2,
+   "detail": "Final",
+   "home": 0
+  },
+  "scored_at": "2026-11-27T22:38:13.796910+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.583,
+   "total": 5.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "8-13",
    "home_rec": "8-13",
    "score": 22.857142857142854
   },
   "start_utc": "2026-11-27T20:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401892803": {
   "away": {
@@ -25228,7 +25247,7 @@
    "away_rank": 99,
    "away_record": "14-7-3",
    "conference": false,
-   "detail": "11:48 - 2nd Period",
+   "detail": "1:38 - 2nd Period",
    "home_rank": 99,
    "home_record": "18-4-5",
    "neutral": false
@@ -25277,7 +25296,7 @@
    "away_rank": 99,
    "away_record": "8-12-2",
    "conference": false,
-   "detail": "12:29 - 2nd Period",
+   "detail": "3:39 - 2nd Period",
    "home_rank": 99,
    "home_record": "12-13-1",
    "neutral": false
@@ -25326,7 +25345,7 @@
    "away_rank": 99,
    "away_record": "15-6-5",
    "conference": false,
-   "detail": "13:50 - 2nd Period",
+   "detail": "3:28 - 2nd Period",
    "home_rank": 99,
    "home_record": "11-14-2",
    "neutral": false
@@ -25375,7 +25394,7 @@
    "away_rank": 99,
    "away_record": "13-10-1",
    "conference": false,
-   "detail": "Fri, November 27th at 5:30 PM EST",
+   "detail": "20:00 - 1st Period",
    "home_rank": 99,
    "home_record": "9-14-2",
    "neutral": false
@@ -25406,7 +25425,7 @@
    "score": 25.6390977443609
   },
   "start_utc": "2026-11-27T22:30:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892807": {
