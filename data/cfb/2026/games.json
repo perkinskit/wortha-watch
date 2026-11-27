@@ -7304,7 +7304,7 @@
    "away_rank": 99,
    "away_record": "5-6",
    "conference": true,
-   "detail": "10:30 - 4th Quarter",
+   "detail": "3:40 - 4th Quarter",
    "home_rank": 22,
    "home_record": "7-4",
    "neutral": false
@@ -31498,7 +31498,7 @@
    "away_rank": 25,
    "away_record": "7-4",
    "conference": true,
-   "detail": "7:50 - 4th Quarter",
+   "detail": "1:16 - 4th Quarter",
    "home_rank": 13,
    "home_record": "9-2",
    "neutral": false
@@ -41797,7 +41797,7 @@
    "away_rank": 99,
    "away_record": "7-4",
    "conference": true,
-   "detail": "13:35 - 4th Quarter",
+   "detail": "4:47 - 4th Quarter",
    "home_rank": 99,
    "home_record": "9-2",
    "neutral": false
@@ -51037,11 +51037,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "8-3",
+   "away_record": "9-3",
    "conference": true,
-   "detail": "3:28 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "2-9",
+   "home_record": "2-10",
    "neutral": false
   },
   "home": {
@@ -51058,12 +51058,28 @@
    "day": "Fri",
    "time": "12 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.6530612244897959,
+   "drama": 0.16578507317500002,
+   "finish": 0.03431250000000001,
+   "max_swing": 0.137,
+   "n_plays": 147,
+   "ot": false,
+   "volatility": 3.857233805555556
+  },
   "period": "week-13",
   "period_label": "Week 13",
   "period_sort": 13,
-  "result": null,
+  "result": {
+   "away": 17,
+   "detail": "Final",
+   "home": 9
+  },
+  "scored_at": "2026-11-27T20:14:41.666890+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "8-3",
    "conference": true,
@@ -51073,7 +51089,7 @@
    "score": 42.27272727272727
   },
   "start_utc": "2026-11-27T17:00:00+00:00",
-  "status": "live",
+  "status": "final",
   "video": null
  },
  "401866473": {
@@ -51091,7 +51107,7 @@
    "away_rank": 99,
    "away_record": "9-2",
    "conference": true,
-   "detail": "14:55 - 4th Quarter",
+   "detail": "4:55 - 4th Quarter",
    "home_rank": 99,
    "home_record": "8-3",
    "neutral": false
@@ -53357,7 +53373,7 @@
    "away_rank": 99,
    "away_record": "7-4",
    "conference": true,
-   "detail": "Fri, November 27th at 3:00 PM EST",
+   "detail": "8:08 - 1st Quarter",
    "home_rank": 99,
    "home_record": "6-5",
    "neutral": false
@@ -53391,7 +53407,7 @@
    "score": 65.45454545454545
   },
   "start_utc": "2026-11-27T20:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401869931": {
