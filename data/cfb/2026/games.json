@@ -7142,7 +7142,7 @@
    "away_rank": 20,
    "away_record": "7-4",
    "conference": false,
-   "detail": "10:50 - 4th Quarter",
+   "detail": "4:39 - 4th Quarter",
    "home_rank": 99,
    "home_record": "5-6",
    "neutral": false
@@ -41725,7 +41725,7 @@
    "away_rank": 99,
    "away_record": "2-9",
    "conference": true,
-   "detail": "10:21 - 4th Quarter",
+   "detail": "2:00 - 4th Quarter",
    "home_rank": 99,
    "home_record": "8-3",
    "neutral": false
@@ -45795,7 +45795,7 @@
    "away_rank": 99,
    "away_record": "9-2",
    "conference": true,
-   "detail": "Halftime",
+   "detail": "11:02 - 3rd Quarter",
    "home_rank": 99,
    "home_record": "9-2",
    "neutral": false
@@ -45951,7 +45951,7 @@
    "away_rank": 99,
    "away_record": "9-2",
    "conference": false,
-   "detail": "End of 3rd Quarter",
+   "detail": "10:04 - 4th Quarter",
    "home_rank": 99,
    "home_record": "5-7",
    "neutral": false
