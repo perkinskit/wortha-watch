@@ -7304,7 +7304,7 @@
    "away_rank": 99,
    "away_record": "5-6",
    "conference": true,
-   "detail": "Fri, November 27th at 12:00 PM EST",
+   "detail": "14:21 - 1st Quarter",
    "home_rank": 22,
    "home_record": "7-4",
    "neutral": false
@@ -7340,7 +7340,7 @@
    "score": 53.72727272727273
   },
   "start_utc": "2026-11-27T17:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401856763": {
@@ -31498,7 +31498,7 @@
    "away_rank": 25,
    "away_record": "7-4",
    "conference": true,
-   "detail": "Fri, November 27th at 12:08 PM EST",
+   "detail": "15:00 - 1st Quarter",
    "home_rank": 13,
    "home_record": "9-2",
    "neutral": false
@@ -31535,7 +31535,7 @@
    "score": 85.63636363636364
   },
   "start_utc": "2026-11-27T17:08:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401858537": {
@@ -41797,7 +41797,7 @@
    "away_rank": 99,
    "away_record": "7-4",
    "conference": true,
-   "detail": "Fri, November 27th at 12:00 PM EST",
+   "detail": "12:10 - 1st Quarter",
    "home_rank": 99,
    "home_record": "9-2",
    "neutral": false
@@ -41831,7 +41831,7 @@
    "score": 73.63636363636364
   },
   "start_utc": "2026-11-27T17:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401862841": {
@@ -51039,7 +51039,7 @@
    "away_rank": 99,
    "away_record": "8-3",
    "conference": true,
-   "detail": "Fri, November 27th at 12:00 PM EST",
+   "detail": "15:00 - 1st Quarter",
    "home_rank": 99,
    "home_record": "2-9",
    "neutral": false
@@ -51073,7 +51073,7 @@
    "score": 42.27272727272727
   },
   "start_utc": "2026-11-27T17:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401866473": {
@@ -51091,7 +51091,7 @@
    "away_rank": 99,
    "away_record": "9-2",
    "conference": true,
-   "detail": "Fri, November 27th at 12:00 PM EST",
+   "detail": "13:26 - 1st Quarter",
    "home_rank": 99,
    "home_record": "8-3",
    "neutral": false
@@ -51125,7 +51125,7 @@
    "score": 76.36363636363636
   },
   "start_utc": "2026-11-27T17:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401866474": {
