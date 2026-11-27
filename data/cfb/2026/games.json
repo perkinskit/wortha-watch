@@ -31515,7 +31515,7 @@
   "id": "401858536",
   "labels": {
    "day": "Fri",
-   "time": "12 PM ET"
+   "time": "12:08 PM ET"
   },
   "metrics": null,
   "period": "week-13",
@@ -31534,7 +31534,7 @@
    ],
    "score": 85.63636363636364
   },
-  "start_utc": "2026-11-27T17:00:00+00:00",
+  "start_utc": "2026-11-27T17:08:00+00:00",
   "status": "pending",
   "video": null
  },
