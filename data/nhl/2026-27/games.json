@@ -25534,11 +25534,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "13-10-1",
+   "away_record": "13-11-1",
    "conference": false,
-   "detail": "3:37 - 3rd Period",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "9-14-2",
+   "home_record": "10-14-2",
    "neutral": false
   },
   "home": {
@@ -25555,20 +25555,39 @@
    "day": "Fri",
    "time": "5:30 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.8951612903225806,
+   "drama": 0.1309491117161179,
+   "finish": 0.1084691410657583,
+   "max_swing": 0.19047476520467982,
+   "n_plays": 248,
+   "ot": false,
+   "volatility": 1.4495057937651827
+  },
   "period": "2026-11-27",
   "period_label": "Nov 27",
   "period_sort": "2026-11-27",
-  "result": null,
+  "result": {
+   "away": 1,
+   "detail": "Final",
+   "home": 2
+  },
+  "scored_at": "2026-11-28T01:23:37.505506+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.384,
+   "total": 6.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "9-10",
    "home_rec": "8-13",
    "score": 25.6390977443609
   },
   "start_utc": "2026-11-27T22:30:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401892807": {
   "away": {
@@ -25585,7 +25604,7 @@
    "away_rank": 99,
    "away_record": "13-9-4",
    "conference": false,
-   "detail": "5:05 - 1st Period",
+   "detail": "End of 1st Period",
    "home_rank": 99,
    "home_record": "12-7-5",
    "neutral": false
@@ -25634,7 +25653,7 @@
    "away_rank": 99,
    "away_record": "7-15-2",
    "conference": false,
-   "detail": "Fri, November 27th at 8:00 PM EST",
+   "detail": "17:05 - 1st Period",
    "home_rank": 99,
    "home_record": "11-10-4",
    "neutral": false
@@ -25665,7 +25684,7 @@
    "score": 19.415584415584416
   },
   "start_utc": "2026-11-28T01:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892809": {
@@ -25683,7 +25702,7 @@
    "away_rank": 99,
    "away_record": "11-10-1",
    "conference": false,
-   "detail": "Fri, November 27th at 8:00 PM EST",
+   "detail": "12:24 - 1st Period",
    "home_rank": 99,
    "home_record": "17-6-4",
    "neutral": false
@@ -25714,7 +25733,7 @@
    "score": 48.75
   },
   "start_utc": "2026-11-28T01:00:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  }
 }
