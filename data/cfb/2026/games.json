@@ -6982,7 +6982,7 @@
    "away_rank": 3,
    "away_record": "9-2",
    "conference": true,
-   "detail": "Fri, November 27th at 7:30 PM EST",
+   "detail": "7:19 - 1st Quarter",
    "home_rank": 99,
    "home_record": "4-7",
    "neutral": false
@@ -7018,7 +7018,7 @@
    "score": 64.45454545454545
   },
   "start_utc": "2026-11-28T00:30:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401856757": {
@@ -31975,7 +31975,7 @@
    "away_rank": 99,
    "away_record": "6-5",
    "conference": true,
-   "detail": "12:55 - 1st Quarter",
+   "detail": "4:34 - 1st Quarter",
    "home_rank": 99,
    "home_record": "7-4",
    "neutral": false
@@ -45825,11 +45825,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "9-2",
+   "away_record": "9-3",
    "conference": true,
-   "detail": "1:58 - 4th Quarter",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "9-2",
+   "home_record": "10-2",
    "neutral": false
   },
   "home": {
@@ -45846,12 +45846,28 @@
    "day": "Fri",
    "time": "4:30 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.33540372670807456,
+   "drama": 0.13685844435833333,
+   "finish": 0.0017894736842105278,
+   "max_swing": 0.1189,
+   "n_plays": 161,
+   "ot": false,
+   "volatility": 3.4594324722222227
+  },
   "period": "week-13",
   "period_label": "Week 13",
   "period_sort": 13,
-  "result": null,
+  "result": {
+   "away": 19,
+   "detail": "Final",
+   "home": 42
+  },
+  "scored_at": "2026-11-28T01:03:03.659244+00:00",
   "season": "2026",
+  "source": {
+   "wp": "espn"
+  },
   "stakes": {
    "away_rec": "9-2",
    "conference": true,
@@ -45861,7 +45877,7 @@
    "score": 79.0909090909091
   },
   "start_utc": "2026-11-27T21:30:00+00:00",
-  "status": "live",
+  "status": "final",
   "video": null
  },
  "401864547": {
