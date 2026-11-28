@@ -25318,11 +25318,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "14-7-3",
+   "away_record": "15-7-3",
    "conference": false,
-   "detail": "End of 3rd Period",
+   "detail": "Final/SO",
    "home_rank": 99,
-   "home_record": "18-4-5",
+   "home_record": "18-4-6",
    "neutral": false
   },
   "home": {
@@ -25339,20 +25339,39 @@
    "day": "Fri",
    "time": "4 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.2446351931330472,
+   "drama": 1.073611409531552,
+   "finish": 0.4310441769984907,
+   "max_swing": 0.510418475429762,
+   "n_plays": 233,
+   "ot": true,
+   "volatility": 2.9863427146573405
+  },
   "period": "2026-11-27",
   "period_label": "Nov 27",
   "period_sort": "2026-11-27",
-  "result": null,
+  "result": {
+   "away": 4,
+   "detail": "Final/SO",
+   "home": 3
+  },
+  "scored_at": "2026-11-28T00:00:19.633649+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.517,
+   "total": 6.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "12-10",
    "home_rec": "16-8",
    "score": 51.36363636363636
   },
   "start_utc": "2026-11-27T21:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401892804": {
   "away": {
@@ -25367,11 +25386,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "8-12-2",
+   "away_record": "9-12-2",
    "conference": false,
-   "detail": "1:21 - 3rd Period",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "12-13-1",
+   "home_record": "12-14-1",
    "neutral": false
   },
   "home": {
@@ -25388,20 +25407,39 @@
    "day": "Fri",
    "time": "4 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.6431718061674009,
+   "drama": 0.4110301477740738,
+   "finish": 0.08806080372271947,
+   "max_swing": 0.26191969645379615,
+   "n_plays": 227,
+   "ot": false,
+   "volatility": 2.4589854987713444
+  },
   "period": "2026-11-27",
   "period_label": "Nov 27",
   "period_sort": "2026-11-27",
-  "result": null,
+  "result": {
+   "away": 5,
+   "detail": "Final",
+   "home": 3
+  },
+  "scored_at": "2026-11-28T00:00:19.939912+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.474,
+   "total": 6.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "8-11",
    "home_rec": "10-14",
    "score": 25.13157894736842
   },
   "start_utc": "2026-11-27T21:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401892805": {
   "away": {
@@ -25416,11 +25454,11 @@
   "date_et": "2026-11-27",
   "espn": {
    "away_rank": 99,
-   "away_record": "15-6-5",
+   "away_record": "15-7-5",
    "conference": false,
-   "detail": "0:10 - 3rd Period",
+   "detail": "Final",
    "home_rank": 99,
-   "home_record": "11-14-2",
+   "home_record": "12-14-2",
    "neutral": false
   },
   "home": {
@@ -25437,20 +25475,39 @@
    "day": "Fri",
    "time": "4 PM ET"
   },
-  "metrics": null,
+  "metrics": {
+   "competitive": 0.810126582278481,
+   "drama": 0.24901109541523356,
+   "finish": 0.0071366938833375415,
+   "max_swing": 0.24660222302706686,
+   "n_plays": 237,
+   "ot": false,
+   "volatility": 1.7139869559861383
+  },
   "period": "2026-11-27",
   "period_label": "Nov 27",
   "period_sort": "2026-11-27",
-  "result": null,
+  "result": {
+   "away": 1,
+   "detail": "Final",
+   "home": 4
+  },
+  "scored_at": "2026-11-28T00:00:20.220971+00:00",
   "season": "2026-27",
+  "source": {
+   "p0": 0.343,
+   "total": 6.5,
+   "wp": "poisson-model"
+  },
   "stakes": {
    "away_rec": "12-10",
    "home_rec": "9-15",
    "score": 27.613636363636363
   },
   "start_utc": "2026-11-27T21:00:00+00:00",
-  "status": "live",
-  "video": null
+  "status": "final",
+  "video": null,
+  "video_attempts": 1
  },
  "401892806": {
   "away": {
@@ -25467,7 +25524,7 @@
    "away_rank": 99,
    "away_record": "13-10-1",
    "conference": false,
-   "detail": "18:53 - 2nd Period",
+   "detail": "6:43 - 2nd Period",
    "home_rank": 99,
    "home_record": "9-14-2",
    "neutral": false
