@@ -25370,7 +25370,11 @@
   },
   "start_utc": "2026-11-27T21:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "PLYXPUHYU_E",
+   "published": "2026-11-28T00:39:37Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  },
  "401892804": {
@@ -25439,7 +25443,7 @@
   "start_utc": "2026-11-27T21:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 2
+  "video_attempts": 3
  },
  "401892805": {
   "away": {
@@ -25507,7 +25511,7 @@
   "start_utc": "2026-11-27T21:00:00+00:00",
   "status": "final",
   "video": null,
-  "video_attempts": 2
+  "video_attempts": 3
  },
  "401892806": {
   "away": {
@@ -25524,7 +25528,7 @@
    "away_rank": 99,
    "away_record": "13-10-1",
    "conference": false,
-   "detail": "End of 2nd Period",
+   "detail": "13:44 - 3rd Period",
    "home_rank": 99,
    "home_record": "9-14-2",
    "neutral": false
@@ -25573,7 +25577,7 @@
    "away_rank": 99,
    "away_record": "13-9-4",
    "conference": false,
-   "detail": "Fri, November 27th at 7:30 PM EST",
+   "detail": "18:09 - 1st Period",
    "home_rank": 99,
    "home_record": "12-7-5",
    "neutral": false
@@ -25604,7 +25608,7 @@
    "score": 30.06211180124224
   },
   "start_utc": "2026-11-28T00:30:00+00:00",
-  "status": "pending",
+  "status": "live",
   "video": null
  },
  "401892808": {
