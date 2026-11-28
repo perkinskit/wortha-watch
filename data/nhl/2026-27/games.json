@@ -25729,7 +25729,11 @@
   },
   "start_utc": "2026-11-28T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "EReiV55lv5s",
+   "published": "2026-11-28T04:11:09Z",
+   "source": "youtube"
+  },
   "video_attempts": 1
  },
  "401892809": {
@@ -25797,7 +25801,11 @@
   },
   "start_utc": "2026-11-28T01:00:00+00:00",
   "status": "final",
-  "video": null,
+  "video": {
+   "id": "7iVZ-9QPgGQ",
+   "published": "2026-11-28T04:16:33Z",
+   "source": "youtube"
+  },
   "video_attempts": 2
  }
 }
